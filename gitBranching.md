@@ -6,10 +6,15 @@
 - `feature/<owner>/<scope>`: short-lived branches from `dev`.
 
 ## Naming
-- feature/bartu/auth-jwt-token
-- fix/kerem/duplicate-course-code
-- chore/ci/add-pytest
-- docs/api/openapi-tuning
+-Feature: feature/<yourname>/<short-scope> (e.g., feature/kerem/courses-crud)
+
+-Fix: fix/<yourname>/<short-scope>
+
+-Chore/Infra: chore/<yourname>/<short-scope>
+
+-Release: release/x.y.z
+
+-Hotfix: hotfix/x.y.z+1
 
 ## Working Agreement
 1. `git checkout dev && git pull && git checkout -b feature/<owner>/<scope>`
@@ -25,10 +30,4 @@ Examples:
 - fix(courses): reject duplicate course code
 - chore(ci): add pytest workflow
 
-## PR Quality Gate
-- 1 approval (dev), 2 approvals (main)
-- Tests pass (`ci` job)
-- Title follows Conventional Commits
 
-## Release Process
-- Stabilize on `dev` → optional `release/x.y.z` → merge to `main` → tag `vX.Y.Z`.

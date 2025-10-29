@@ -1,5 +1,6 @@
 from fastapi import APIRouter, HTTPException
-from app.core.security import create_access_token
+from fastapi_ai_scheduler.app.core.security import create_access_token
+
 
 router = APIRouter()
 

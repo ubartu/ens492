@@ -1,6 +1,6 @@
 from fastapi import FastAPI
-from app.api.v1.routers import students, courses, enrollments, auth
-from app.db.init_db import init_db
+from fastapi_ai_scheduler.app.api.v1.routers import students, courses, enrollments, auth
+from fastapi_ai_scheduler.app.db.init_db import init_db
 
 app = FastAPI(title="AI Scheduler API", version="0.1.0")
 

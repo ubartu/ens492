@@ -1,7 +1,7 @@
 from datetime import datetime, timedelta
 from jose import jwt
 
-from app.core.config import settings
+from fastapi_ai_scheduler.app.core.config import settings
 
 ALGORITHM = "HS256"
 

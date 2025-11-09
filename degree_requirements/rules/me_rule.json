@@ -1,0 +1,30 @@
+{
+  "major": "ME",
+  "required": {
+    "must_all": [
+      "CHEM212",
+      "CS201",
+      "ENS203",
+      "ENS204",
+      "ENS206",
+      "ENS214",
+      "ENS311",
+      "ENS491",
+      "ENS492",
+      "MATH212",
+      "ME301",
+      "ME303",
+      "ME305",
+      "ME395",
+      "PHYS113"
+    ],
+    "one_of": [
+      ["ME403", "ME425"]
+    ],
+    "totals": { "min_courses": 16, "min_su": 45 }
+  },
+  "electives": { "core_su": 21, "area_su": 9, "free_su": 15, "spillover": true },
+  "faculty":   { "min_count": 5, "min_math": 2, "min_fens": 3, "min_fass": 0, "min_sbs": 0 },
+  "buckets":   { "engineering_ects": 90, "basic_science_ects": 60 },
+  "totals":    { "min_su": 131, "min_ects": 240 }
+}

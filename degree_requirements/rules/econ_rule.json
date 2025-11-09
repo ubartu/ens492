@@ -1,0 +1,27 @@
+{
+  "major": "ECON",
+  "required": {
+    "must_all": [
+      "ECON201",
+      "ECON202",
+      "ECON204",
+      "ECON300",
+      "ECON301",
+      "MATH203",
+      "MATH306"
+    ],
+    "totals": { "min_courses": 7, "min_su": 18 }
+  },
+  "electives": { "core_su": 12, "area_su": 18, "free_su": 30, "spillover": true },
+
+  "faculty":   { "min_count": 5, "min_math": 0, "min_fens": 1, "min_fass": 3, "min_sbs": 1 },
+
+  "buckets":   { "engineering_ects": 0, "basic_science_ects": 0 },
+
+  "totals":    { "min_su": 125, "min_ects": 240 },
+
+  "notes": {
+    "math_requirement_su": 3,
+    "math_requirement_pool": ["MATH201", "MATH202", "MATH204"]
+  }
+}

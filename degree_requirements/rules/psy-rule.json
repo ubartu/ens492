@@ -1,0 +1,23 @@
+{
+  "major": "PSY",
+  "required": {
+    "must_all": [
+      "PSY201",
+      "PSY202",
+      "PSY300",
+      "PSY310",
+      "PSY320",
+      "PSY340",
+      "PSY350"
+    ],
+    "totals": { "min_courses": 7, "min_su": 18 }
+  },
+  "electives": { "core_su": 21, "area_su": 18, "free_su": 21, "spillover": true },
+  "faculty": { "min_count": 5, "min_math": 0, "min_fens": 1, "min_fass": 3, "min_sbs": 1},
+  "buckets": { "engineering_ects": 0, "basic_science_ects": 0 },
+  "totals": { "min_su": 125, "min_ects": 240 },
+  "notes": {
+    "philosophy_requirement_su": 3,
+    "philosophy_requirement_pool": ["PHIL300", "PHIL301"]
+  }
+}

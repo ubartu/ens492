@@ -1,0 +1,24 @@
+{
+  "major": "MGMT",
+  "required": {
+    "must_all": [
+      "ECON202",
+      "ECON204",
+      "ENG300",
+      "MGMT201",
+      "MGMT203",
+      "MGMT300"
+    ],
+    "totals": { "min_courses": 6, "min_su": 15 }
+  },
+  "electives": { "core_su": 18, "area_su": 24, "free_su": 26, "spillover": true },
+  "faculty": { "min_count": 5, "min_math": 0, "min_fens": 1, "min_fass": 2, "min_sbs": 2},
+  "buckets": { "engineering_ects": 0, "basic_science_ects": 0 },
+  "totals": { "min_su": 127, "min_ects": 240 },
+  "notes": {
+    "core_per_area": ["ACC", "FIN", "MGMT", "MKTG", "OPIM", "ORG"],
+    "area_per_area": ["ACC", "FIN", "MKTG", "OPIM", "ORG"],
+    "free_su_rule_fens_fass": 9,
+    "faculty_min_som": 2
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "major": "PSIR",
+  "required": {
+    "must_all": [
+      "ECON202",
+      "IR201",
+      "POLS250",
+      "POLS301",
+      "POLS352",
+      "POLS473",
+      "PSIR300",
+      "PSIR311",
+      "PSIR401"
+    ],
+    "totals": { "min_courses": 9, "min_su": 24 }
+  },
+  "electives": { "core_su": 24, "area_su": 15, "free_su": 18, "spillover": true },
+  "faculty": { "min_count": 5, "min_math": 0, "min_fens": 1, "min_fass": 3, "min_sbs": 1},
+  "buckets": { "engineering_ects": 0, "basic_science_ects": 0 },
+  "totals": { "min_su": 125, "min_ects": 240 },
+  "notes": {
+    "core1_ps_su": 12,
+    "core2_ir_su": 12
+  }
+}

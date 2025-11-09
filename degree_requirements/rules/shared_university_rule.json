@@ -1,0 +1,11 @@
+{
+  "major": "UNIVERSITY",
+  "totals": { "min_courses": 16, "min_su": 41 },
+  "freshman_all": [
+    "IF100","MATH101","NS101","SPS101","TLL101",
+    "AL102","MATH102","NS102","SPS102","TLL102",
+    "HIST191","HIST192","CIP101N"
+  ],
+  "must_all": ["SPS303","PROJ201"],
+  "hum_any": ["HUM201","HUM202","HUM207","HUM311","HUM312","HUM317","HUM321","HUM322","HUM371"]
+}

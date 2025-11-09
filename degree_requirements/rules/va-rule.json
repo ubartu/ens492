@@ -1,0 +1,27 @@
+{
+  "major": "VACD",
+  "required": {
+    "must_all": [
+      "VA201",
+      "VA203"
+    ],
+    "one_of": [
+      ["VA300", "PROJ300"],
+      ["VA301", "VA303"],
+      ["VA401", "VA403"]
+    ],
+    "totals": { "min_courses": 5, "min_su": 15 }
+  },
+  "electives": { "core_su": 21, "area_su": 24, "free_su": 21, "spillover": true },
+  "faculty": { "min_count": 5, "min_math": 0, "min_fens": 1, "min_fass": 3, "min_sbs": 1},
+  "buckets": { "engineering_ects": 0, "basic_science_ects": 0 },
+  "totals": { "min_su": 125, "min_ects": 240 },
+  "notes": {
+    "core1_history_su": 9,
+    "core2_skill_su": 12,
+    "exclusive_pairs_core2": [
+      ["VA302", "VA304"],
+      ["VA402", "VA404"]
+    ]
+  }
+}

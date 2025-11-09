@@ -1,0 +1,15 @@
+ {
+  "major": "CS",
+  "required": {
+    "must_all": [
+      "CS201","CS204","CS300","CS301","CS303","CS306","CS308","CS395",
+      "ENS491","ENS492","MATH203","MATH204","MATH212","PHYS113"
+    ],
+    "totals": { "min_courses": 14, "min_su": 40 }
+  },
+  "electives": { "core_su": 27, "area_su": 9, "free_su": 15, "spillover": true },
+  "faculty":   { "min_count": 5, "min_math": 2, "min_fens": 3, "min_fass": 0, "min_sbs": 0 },
+  "buckets":   { "engineering_ects": 90, "basic_science_ects": 60 },
+  "totals":    { "min_su": 132, "min_ects": 240 }
+}
+

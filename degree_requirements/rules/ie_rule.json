@@ -1,0 +1,27 @@
+{
+  "major": "IE",
+  "required": {
+    "must_all": [
+      "CHEM212",
+      "DSA201",
+      "ENS208",
+      "ENS491",
+      "ENS492",
+      "IE303",
+      "IE305",
+      "IE311",
+      "IE312",
+      "IE313",
+      "IE395",
+      "MATH203",
+      "MATH212",
+      "MATH306",
+      "PHYS113"
+    ],
+    "totals": { "min_courses": 15, "min_su": 41 }
+  },
+  "electives": { "core_su": 27, "area_su": 9, "free_su": 15, "spillover": true },
+  "faculty":   { "min_count": 5, "min_math": 2, "min_fens": 3, "min_fass": 0, "min_sbs": 0 },
+  "buckets":   { "engineering_ects": 90, "basic_science_ects": 60 },
+  "totals":    { "min_su": 133, "min_ects": 240 }
+}

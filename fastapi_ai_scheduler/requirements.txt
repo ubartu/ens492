@@ -2,5 +2,6 @@ fastapi
 uvicorn
 sqlmodel
 pydantic
+pydantic-settings
 python-jose
 pytest

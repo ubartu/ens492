@@ -1,14 +1,14 @@
 from fastapi import APIRouter, Depends
 from sqlmodel import Session, select
-from fastapi_ai_scheduler.app.models.student import Student
-from fastapi_ai_scheduler.app.db.session import get_session
-from fastapi_ai_scheduler.app.schemas.student import StudentCreate, StudentRead
+from app.models.student import Student
+from app.db.session import get_session
+from app.schemas.student import StudentCreate, StudentRead
 
 router = APIRouter()
 
 @router.post("/", response_model=StudentRead)
 def create_student(data: StudentCreate, session: Session = Depends(get_session)):
-    student = Student.from_orm(data)
+    student = Student(**data.model_dump())
     session.add(student)
     session.commit()
     session.refresh(student)

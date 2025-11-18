@@ -1,16 +1,32 @@
-# app/db/session.py
+
+# `fastapi_ai_scheduler/app/db/session.py`
 import os
+from typing import Generator
+
 from sqlmodel import create_engine, Session
+
 from fastapi_ai_scheduler.app.core.config import settings
 
-# Absolute safety: derive DB_URL even if settings lacks attribute due to version skew
-DB_URL = getattr(settings, "db_url", None) or os.getenv("DB_URL") or "sqlite:///./scheduler.db"
+# DB_URL\`i settings\`ten al
+DB_URL = settings.DB_URL
 
-# SQLite needs this flag to avoid cross-thread errors in dev
-connect_args = {"check_same_thread": False} if DB_URL.startswith("sqlite") else {}
+# PostgreSQL için connect_args (SQLite değil)
+connect_args = {}
 
-engine = create_engine(DB_URL, echo=False, connect_args=connect_args)
+# Engine oluştur (echo=True debug için açılabilir)
+engine = create_engine(
+    DB_URL,
+    echo=False,
+    connect_args=connect_args,
+    pool_size=10,
+    max_overflow=20,
+)
 
-def get_session():
+
+def get_session() -> Generator[Session, None, None]:
+    """
+    FastAPI için veritabanı oturumu sağlayan dependency.
+    Cloud SQL Proxy üzerinden PostgreSQL\`e bağlanır.
+    """
     with Session(engine) as session:
         yield session

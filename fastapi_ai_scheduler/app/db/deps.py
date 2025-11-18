@@ -1,12 +1,12 @@
-# app/db/deps.py
-import os
-from fastapi_ai_scheduler.app.db.fakeSession_DB import FakeSession
 
-USE_FAKE_DB = os.getenv("USE_FAKE_DB", "0") == "1"
-_fake_session_singleton = FakeSession() if USE_FAKE_DB else None
+# `fastapi_ai_scheduler/app/db/deps.py`
+from typing import Generator
 
-def get_fake_session():
-    """
-    Dependency yielding a FakeSession-like object.
-    """
-    yield _fake_session_singleton or FakeSession()
+from sqlmodel import Session
+
+from fastapi_ai_scheduler.app.db.session import get_session
+
+
+def get_db() -> Generator[Session, None, None]:
+    """FastAPI endpoint\`leri için DB dependency"""
+    yield from get_session()

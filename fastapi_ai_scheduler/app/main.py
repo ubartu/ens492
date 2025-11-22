@@ -1,6 +1,9 @@
 # `fastapi_ai_scheduler/app/main.py`
+import logging
 from contextlib import asynccontextmanager
 
+from sqlalchemy import text
+from sqlalchemy.exc import SQLAlchemyError
 from sqlmodel import SQLModel
 from fastapi import FastAPI
 
@@ -8,11 +11,34 @@ from fastapi_ai_scheduler.app.api.v1.routers import students, courses, enrollmen
 from fastapi_ai_scheduler.app.db.session import engine
 
 
+logger = logging.getLogger(__name__)
+
+
+def _verify_database_connection() -> None:
+    """Ensure the database connection is reachable before proceeding."""
+
+    try:
+        with engine.connect() as connection:
+            connection.execute(text("SELECT 1"))
+    except SQLAlchemyError as exc:
+        logger.exception("Failed to connect to the database at %s", engine.url)
+        raise RuntimeError(
+            "Database connection failed. Ensure the DATABASE_URL is correct and the database is reachable."
+        ) from exc
+
+
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     """Modern FastAPI lifespan handler"""
-    # Initialize real database tables
-    SQLModel.metadata.create_all(bind=engine)
+    _verify_database_connection()
+
+    try:
+        SQLModel.metadata.create_all(bind=engine)
+    except SQLAlchemyError as exc:
+        logger.exception("Connected to database, but failed to initialize tables")
+        raise RuntimeError(
+            "Database is reachable but table initialization failed. Check database permissions and connectivity."
+        ) from exc
     yield
     print("Application shutdown complete.")
 

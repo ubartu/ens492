@@ -1,21 +1,25 @@
+import os
 
 # `fastapi_ai_scheduler/app/db/session.py`
-import os
+
+from dotenv import load_dotenv
 from typing import Generator
 
 from sqlmodel import create_engine, Session
+from torchvision.datasets.inaturalist import DATASET_URLS
 
-from fastapi_ai_scheduler.app.core.config import settings
 
-# DB_URL\`i settings\`ten al
-DB_URL = settings.DB_URL
 
-# PostgreSQL için connect_args (SQLite değil)
+
+
+# .env dosyasını yükle
+load_dotenv()
+DATABASE_URL = os.getenv("DATABASE_URL", "postgresql://postgres:492database@127.0.0.1:5432/492db")# PostgreSQL için connect_args (SQLite değil)
 connect_args = {}
 
 # Engine oluştur (echo=True debug için açılabilir)
 engine = create_engine(
-    DB_URL,
+    DATABASE_URL,
     echo=False,
     connect_args=connect_args,
     pool_size=10,

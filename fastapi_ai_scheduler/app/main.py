@@ -1,24 +1,19 @@
+# `fastapi_ai_scheduler/app/main.py`
 from contextlib import asynccontextmanager
+
 from sqlmodel import SQLModel
 from fastapi import FastAPI
+
 from fastapi_ai_scheduler.app.api.v1.routers import students, courses, enrollments, auth
-from fastapi_ai_scheduler.app.db.deps import get_fake_session, USE_FAKE_DB
-from fastapi_ai_scheduler.app.db.session import engine, get_session
+from fastapi_ai_scheduler.app.db.session import engine
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    """Modern FastAPI lifespan handler (replaces deprecated @app.on_event)."""
-    if not USE_FAKE_DB:
-        # Initialize real database tables
-        SQLModel.metadata.create_all(bind=engine)
-    else:
-        # Switch to in-memory fake DB for development/testing
-        app.dependency_overrides[get_session] = get_fake_session
-
-    yield  # --- Application runs while inside this context ---
-
-    # Teardown logic (if any cleanup needed)
+    """Modern FastAPI lifespan handler"""
+    # Initialize real database tables
+    SQLModel.metadata.create_all(bind=engine)
+    yield
     print("Application shutdown complete.")
 
 
@@ -39,12 +34,9 @@ app.include_router(courses.router, prefix="/api/v1/courses", tags=["courses"])
 app.include_router(enrollments.router, prefix="/api/v1/enrollments", tags=["enrollments"])
 
 
-# ------------------------------------------------------------
-# Local entry point: allows running `python app/main.py`
-# ------------------------------------------------------------
 if __name__ == "__main__":
     import uvicorn
-    print("🚀 Launching AI Scheduler via direct run sequence...")
+    print(" Launching AI Scheduler...")
     uvicorn.run(
         "fastapi_ai_scheduler.app.main:app",
         host="127.0.0.1",

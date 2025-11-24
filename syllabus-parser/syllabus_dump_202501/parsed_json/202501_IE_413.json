@@ -1,0 +1,97 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Information Systems - IE 413",
+    "classroom": "FASS-G022",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:5, Engineering:5",
+    "prerequisites": "-",
+    "corequisites": "Course Type:",
+    "course_type": null
+  },
+  "instructors": [
+    {
+      "name": "Ahmet Onur Durahim",
+      "email": "onurdurahim@sabanciuniv.edu"
+    },
+    {
+      "name": "onur.durahim@principai.com",
+      "email": null
+    }
+  ],
+  "catalog_course_description": "Introduction to information systems implemented and utilized in today’s enterprises both as an operational and a ecision support systems; hardware and software used in information systems; database management systems and data modeling techniques; query languages, data warehousing concepts and architectures; business intelligence, data mining techniques, use of data warehousing and business intelligence in data-driven decision making; current trends in information technology such as cloud computing and big data.",
+  "course_learning_outcomes": [
+    "Analyze how information systems and technology contribute to achieving corporate objectives and competitive advantages.",
+    "Explain transactional and analytical processing in business applications and decision-making processes.",
+    "Describe the fundamentals of data warehousing, big data, and business intelligence, relevant concepts in business scenarios.",
+    "Explain analytical database models and apply data retrieval and analysis techniques using database and data analysis tools."
+  ],
+  "course_objective": [
+    "Understand the key components and functions of information systems in organizations.",
+    "Apply database management concepts, data modeling, and SQL for data handling.",
+    "Explain and use data warehousing, business intelligence, and data mining techniques for decision making.",
+    "Evaluate current IT trends such as cloud computing, big data, and AI-driven solutions.",
+    "Gain hands-on experience with large language models, practicing prompt engineering and leveraging LLM-based tools for coding, problem-solving, and business applications.",
+    "Integrate traditional information system concepts with modern AI tools to support data-driven organizational strategies."
+  ],
+  "course_materials": {
+    "resources": [
+      "R. Sharda, D. Delen, E. Turban, “Business Intelligence, Analytics, and Data Science: A Managerial Perspective”, 5th Edition, 2023",
+      "Laudon K. C. and Laudon J. P., “Management Information Systems: Managing the Digital Firm”, 18th Edition, 2025",
+      "Jale VanderPlas, “A Whirlwind Tour of Python”, (Free Online Version)",
+      "Jale VanderPlas, “Python Data Science Handbook”, (Free Online Version)",
+      "Raghu Ramakrishnan and Johannes Gehkre, “Database Management Systems”, 3rd Ed., Pearson"
+    ],
+    "technology_requirements": "Python programming, Database Management Systems, LLMs"
+  },
+  "assessment_percent": {
+    "final": 30,
+    "quiz": 40,
+    "assignment": 20,
+    "attendance": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "IE",
+  "cn": "413",
+  "section": null,
+  "key": "202501_IE_413"
+}

@@ -1,0 +1,72 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Introduction to Sustainability - MGMT 301",
+    "classroom": "FASS-1102,FMAN-G060",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Nuri Zafer Yenal",
+      "email": "zafer.yenal@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course offers a sociological and historical perspective on sustainability that encompasses environmental, economic, and social dimensions, ranging from inequality and poverty to responsible consumption. It introduces key issues, questions, and approaches in contemporary sustainability debates, including the Anthropocene, climate change, circular economy, green transitions, green financing, degrowth, carbon markets, ESG and environmental justice. The course also explores prominent sectors central to public sustainability discourse, such as plastics, fast fashion industry, forests, water and oceans, mining, and electric vehicles. By the end of this course, students will gain a comprehensive understanding of sustainability's historical, social, and political dimensions and its relevance to current environmental and economic challenges. They will develop the ability to analyze sustainability issues across sectors, interpret key concepts like the Anthropocene and circular economy, and critically evaluate regulatory and political approaches. Equipped with sociological and historical frameworks, students will propose practical solutions to enhance sustainability practices in diverse contexts.",
+  "course_learning_outcomes": [
+    "Number of assessment methods",
+    "1",
+    "4"
+  ],
+  "course_objective": [
+    "This course offers a sociological and historical perspective on sustainability that encompasses environmental, economic, and social dimensions, ranging from inequality and poverty to responsible consumption. It introduces key issues, questions, and approaches in contemporary sustainability debates, including the Anthropocene, climate change, circular economy, green transitions, green financing, degrowth, carbon markets, ESG and environmental justice.",
+    "The course also explores prominent sectors central to public sustainability discourse, such as plastics, fast fashion industry, forests, water and oceans, mining, and electric vehicles. By focusing on these sustainability cases, students will better connect scholarly debates with their everyday lives.",
+    "Throughout the course, we examine the politics of sustainability, highlighting its role as a foundational aspect of contemporary politics in diverse social contexts.",
+    "The titles, concise content descriptions, and readings for each week are presented below.",
+    "LEARNING OUTCOMES:",
+    "By the end of this course, students will be able to:",
+    "Describe the historical evolution of sustainability and explain its relevance to contemporary social, economic, and environmental challenges.",
+    "Interpret foundational sustainability concepts, such as the Anthropocene, circular economy, and degrowth, and evaluate their implications for human-environment interactions.",
+    "Assess the environmental and social impacts of global commodity chains, particularly in sectors like fashion, plastics, and electric vehicles.",
+    "Distinguish between various modes of regulatory approaches to sustainability, including carbon markets, ESG investing, and green finance, and analyze their effectiveness.",
+    "Explain the political dimensions of sustainability, focusing on the roles of governance, inequality, and environmental justice in shaping sustainable development.",
+    "Discuss the intersection of sustainability with globalization, populism, and digital activism, and critically evaluate the challenges of implementing sustainability within diverse political regimes.",
+    "Classify key sectors involved in public sustainability discourse and identify specific mitigation strategies, such as carbon capture, that can be applied to them.",
+    "Use sociological and historical frameworks to propose solutions for enhancing sustainability practices at local, national, and global levels, incorporating case studies and real-world examples."
+  ],
+  "course_materials": {
+    "resources": [
+      "Required Readings are published each week, and are to be read before coming to next week's class."
+    ],
+    "technology_requirements": "TopHat"
+  },
+  "assessment_percent": {
+    "final": 25,
+    "midterm": 20,
+    "assignment": 40,
+    "participation": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Sustainability",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "MGMT",
+  "cn": "301",
+  "section": null,
+  "key": "202501_MGMT_301"
+}

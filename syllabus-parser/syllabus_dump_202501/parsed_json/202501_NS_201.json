@@ -1,0 +1,80 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Discovering Life - NS 201",
+    "classroom": "FENS-L055,FENS-L062",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:5, Engineering:1",
+    "prerequisites": "-",
+    "corequisites": "Course Type:",
+    "course_type": null
+  },
+  "instructors": [
+    {
+      "name": "Selim Çetiner",
+      "email": "cetiner@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "The objective of this course to give students a broad and comprehensive background in biology, and thus to prepare them for entry into biology-oriented programs in the Faculty of Engineering and Natural Sciences. The course includes an introduction to cell biology, genetics, structure and function of microbes, animals and plants. Growth and development of animals and plants will be covered in more detail. Evolution of plant and animal diseases as well as the biotechnological applications will be introduced. The course provides a solid basis for more advanced studies in all areas modern biology.",
+  "course_learning_outcomes": [
+    "Understand the evolutionary principles controlling biological phenomenon,",
+    "Formulate Hypotheses and design experiments to test this hypothesis",
+    "Know the structure of cells",
+    "Understand the significance of the polymerase chain reaction",
+    "Understand how DNA sequencing is performed",
+    "Identify the various parts of a gene and calculate the sequence of protein, given a gene sequence",
+    "Describe the processes of DNA replication, RNA transcription and protein translation and identify the enzymes that catalyze these biological reactions",
+    "Think of all biological phenomenon as chemical reactions",
+    "Understand the principles of the central dogma of molecular biology",
+    "Differentiate between the different fields of bioinformatics, genetics, biochemistry and molecular biology"
+  ],
+  "course_objective": "This is an introductory undergraduate course which surveys most areas of cellular biology, molecular biology, biochemistry, genetics and immunology. This course is highly recommended for students planning to study molecular biology, genetics and bioengineering.",
+  "course_materials": {
+    "resources": [
+      "Life: The Science of Biology 11th Ed. Sadava, Hillis, Heller, Hacker ISBN 9781319010164"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 0,
+    "midterm": 0
+  },
+  "program_requirements": [
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Entrepreneurship",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "NS",
+  "cn": "201",
+  "section": null,
+  "key": "202501_NS_201"
+}

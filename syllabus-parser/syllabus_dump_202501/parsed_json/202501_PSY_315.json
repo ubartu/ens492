@@ -1,0 +1,49 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Memory - PSY 315",
+    "classroom": "FASS-G052",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "PSY 201 and  SPS 102 and  PSY 310",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Çağla Aydın",
+      "email": "caglaaydin@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course will provide the students with an overview to the scientific study of human memory. Topics that are covered include, but not limited to, memory systems and processes; such as encoding, forgetting; memory disorders and developmental approaches. Everyday applications of memory will also be explored.",
+  "course_learning_outcomes": [
+    "At the end of the course the learner is expected to possess basic knowledge of the main characteristics and functions of human memory: short-term memory, long-term memory, learning, etc."
+  ],
+  "course_objective": "To teach our current knowledge of human memory.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 20,
+    "assignment": 10,
+    "attendance": 10,
+    "presentation": 15,
+    "homework": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Psychology",
+      "required": false,
+      "core_elective": true,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "PSY",
+  "cn": "315",
+  "section": null,
+  "key": "202501_PSY_315"
+}

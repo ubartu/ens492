@@ -1,0 +1,105 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Introduction to Energy Systems - ENS 207",
+    "classroom": "FENS-L062",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:2, Engineering:4",
+    "prerequisites": "-",
+    "corequisites": "ENS 207R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Morteza Ghorbani",
+      "email": "mghorbani@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "The scope of this course includes fundamentals of energy systems, which are the subject of political and scientific interest in recent years. Students will learn the fundamental principles that are used in the analysis of energy systems. Specifically selected topics from thermodynamics, fluid mechanics and heat transfer will be subjects of this course. Particular topics include but not limited or exclusive to: conservation of mass, momentum and energy, control volumes and control surfaces, the second law of thermodynamıcs, entropy, heat engines, internal and external flows, conduction, convection and radiation heat transfer.",
+  "course_learning_outcomes": [
+    "Understand and demonstrate key concepts of thermodynamic equilibrium, properties, states, processes and cycles, and use these concepts to derive thermodynamic relationships in p-v-T space for gases;",
+    "Understand and demonstrate key concepts of system, control volume and the control surface, and use these concepts to calculate mass flow rates, energy transfer rates;",
+    "Understand and demonstrate irreversible and reversible processes and macroscopic definition of entropy and calculate work output and efficiency of thermodynamic processes, cycles and heat engines;",
+    "Understand and demonstrate the first law principles and enthalpy to calculate temperatures, energy transfer rates, and efficiencies;",
+    "Learn to simplify realistic thermophysical systems by applying appropriate assumptions",
+    "Apply the first law of thermodynamics to the solution of open and closed analysis of processes and cycles;",
+    "Apply the second law of thermodynamics to obtain efficiency limits of heat engines.",
+    "Apply laws of thermodynamics and use properties of phase changing liquids to obtain power output and thermal efficiency of components in steam power plants and refrigeration systems",
+    "Apply laws of thermodynamics and use properties of gasses to obtain power output and thermal efficiency of components of gas power systems",
+    "Identify reasonable assumptions and provide simple solutions to complex engineering problems.",
+    "Work with others on solution strategies but solve the actual problem on their own thorough homework assignments.",
+    "Convert and use energy and power units for simple calculations to make estimates related to energy security, power generation and everyday use of energy.",
+    "Understand and demonstrate key concepts of heat transfer and heat transfer modes.",
+    "Identify the components of steam power generation systems, gas power systems, refrigeration and heat pump systems and be able to describe their working principles."
+  ],
+  "course_objective": "The main objective of this course is to teach students to use basic laws, rules and principles used in the analysis of energy conversion systems, such as heat engines, wind turbines, solar collectors and nuclear reactors, and to obtain the energy conversion efficiency for various cycles. Students must be able to derive simple mathematical formulas from the conservation laws and use in the analysis of energy conversion systems, obtain pumping power and flow rates in flow systems, determine temperatures and heat transfer rates in thermal systems with conduction and convection processes. From a general point of view, the course aims to teach students to relate fundamental laws and mathematical expressions that correspond to these laws in the analysis of energy conversion systems and components.",
+  "course_materials": {
+    "resources": [
+      "[Moran] Principles of Engineering Thermodynamics, M.J. Moran, H.N. Shapiro, D.D. Boetner, M.B. Bailey, 8th Edition, Wiley, 2014. (Main Reference) [Cengel] Fundamentals of Thermal-Fluid Sciences, Y.A. Cengel, R.H. Turner, J.",
+      "Cimbala, McGraw-Hill. [Incropera] Fundamentals of Heat and Mass Transfer, T.L. Bergman, A.S. Levine, F.P. Incropera, D.P. DeWitt, Wiley, 2011. [MacKay] Sustainable Energy-without the hot air, David JC MacKay, 2009. (Free e-book available on the web)"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 50,
+    "quiz": 10,
+    "assignment": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Entrepreneurship",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Energy",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ENS",
+  "cn": "207",
+  "section": null,
+  "key": "202501_ENS_207"
+}

@@ -1,0 +1,65 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Marketing Research - MKTG 401",
+    "classroom": "FMAN-G098",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "MKTG 301",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Vahid Karimi Motahhar",
+      "email": "vahid.karimimotahhar@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course covers planning, designing, conducting, and interpreting marketing research. All the concepts taught will be put in practice through team projects. The practical applications are intended to create an understanding of how market information can be used in solving marketing problems and designing marketing strategy.",
+  "course_learning_outcomes": [
+    "Upon successful completion of this course, students should be able to: 1. Understand and use basic marketing research terminology and concepts. 2. Learn the basics of the marketing research process. 3. Appreciate and understand the use of secondary data and primary data in marketing research. 4. Learn the basics of survey data collection, including issues regarding question composition, survey construction, and response biases. 5. Learn the basics of experimental designs and how they are used to inform marketing decisions. 6. Understand how descriptive and inferential statistics are used in marketing research, including the ability to perform statistical tests using Excel and SPSS."
+  ],
+  "course_objective": null,
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 20,
+    "quiz": 40,
+    "assignment": 10,
+    "group project": 30
+  },
+  "program_requirements": [
+    {
+      "program": "Business Analytics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Energy",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "MKTG",
+  "cn": "401",
+  "section": null,
+  "key": "202501_MKTG_401"
+}

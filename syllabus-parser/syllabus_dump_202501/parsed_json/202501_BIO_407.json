@@ -1,0 +1,75 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Multicellular Organization - BIO 407",
+    "classroom": "FENS-L029,FENS-L058",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:5, Basic:5",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Özlem Kutlu",
+      "email": "ozlemkutlu@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "The mechanisms that underlie development of multicellular organisms from C. elegans to humans will be examined. Cellular differentiation and its genetic and molecular control; fertilization, cleavage and morphogenesis of plants and animals; cell motility; polarity and positional information; developmental basis of evolution.",
+  "course_learning_outcomes": [
+    "Understand the main principles of gene and genomes in unicellular and multicellular organisms",
+    "A better understanding the main methods to study nucleic acids and proteins in gene regulation",
+    "Evolution of prokaryotic and eukaryotic organisms",
+    "Have knowledge on the basic principles of cell division, apoptosis, cell differentiation",
+    "Master the basic knowledge about the genetic principles involved in the design and maintenance of an organism"
+  ],
+  "course_objective": "Refer to the course content.",
+  "course_materials": {
+    "resources": [
+      "Scott F. Gilbert Developmental Biology, Sinauer Associates, Inc."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "midterm": 60,
+    "term-paper": 40
+  },
+  "program_requirements": [
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "BIO",
+  "cn": "407",
+  "section": null,
+  "key": "202501_BIO_407"
+}

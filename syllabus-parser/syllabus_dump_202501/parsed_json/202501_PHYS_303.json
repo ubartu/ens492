@@ -1,0 +1,95 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Quantum Mechanics I - PHYS 303",
+    "classroom": "FENS-G015,FENS-L047",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:6",
+    "prerequisites": "NS 102 and  MATH 102",
+    "corequisites": "PHYS 303R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "İnanç Adagideli",
+      "email": "adagideli@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "The crucial experiments showing the failure of classical physics in explaining the properties of matter and radiation The postulates of quantum mechanics. Wave particle duality and the uncertainty relation.The time dependent and time independent Schrödinger equation. Symmetry and conservation laws. Basic features of the quantum mechanical world explored through one-dimensional problems: the harmonic oscillator, the square well and barrier, free and bound states. Energy quantization. Tunnelling. One dimensional periodic potentials, energy bands and band gaps.",
+  "course_learning_outcomes": [
+    "Upon completion of this course, students will be able: Describe the concept of superposition,",
+    "Use this concept to predict outcomes of measurements done on simple quantum systems",
+    "Comprehend the concepts of the wave function and of operators",
+    "Solve the Schrödinger equation for a range of one-dimensional problems and demonstrate energy quantisation and quantum tunnelling effects",
+    "Calculate expectation values and probabilities for simple observables",
+    "Solve Schrödinger equation for a range of selected three-dimensional problems such as the hydrogen atom, perform calculations on angular momentum wave functions",
+    "Describe how a general initial state will evolve with time"
+  ],
+  "course_objective": "To learn the development, basic concepts and problem solving approaches of physics",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 30,
+    "participation": 15,
+    "homework": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Physics",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "PHYS",
+  "cn": "303",
+  "section": null,
+  "key": "202501_PHYS_303"
+}

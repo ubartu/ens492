@@ -1,0 +1,151 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "International Relations Theory - POLS 540",
+    "classroom": "FASS-1075",
+    "level_of_course": "Masters",
+    "course_credits": "SU Credit:3.000, ECTS:10",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Meltem Müftüler-Baç",
+      "email": "muftuler@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course aims at providing the political science graduate students with a thorough analysis of international relations theory. The course will do so first, by analyzing the emergence of the modern state system and the evolution of the international relations as a discipline. Second, the course will focus on major approaches and paradigms in international relations theory, namely realism, neorealism,liberalism, neoliberal institutionalism. and contructivisim. By differentiating between rationalist and sociological approaches to international relations, the course will expose the students to the major current debates in IR theory. The course aims to furnish the students with advanced theoretical skills on international relations that would enable them to further their studies on international relations.",
+  "course_learning_outcomes": [
+    "List the main theories of international relations",
+    "Distinguish between different IR theory paradigms",
+    "Grasp the basic assumptions of international relations theories",
+    "Identify the main theories of international relations",
+    "Apply these theories to international events",
+    "Accept the methodological and theoretical variety"
+  ],
+  "course_objective": "This course investigates the international relations theory, focusing on the realist/neorealist, liberal/neoliberal paradigms. The course touches upon the constructivist logic as well. The course is aimed to provide graduate students with a clear comprehension on the IR theory as a field of inquiry. The course aims to furnish the students with advanced theoretical skills on international relations that would enable them to further their studies on international relations. The field of IR is vast- yet there are basic grand debates, main methodologies as well as key assumptions and paradigms set apart with these assumptions. By differentiating between multiple theories and paradigms of international relations, the course provides graduate students with a comprehensive background in major debates in IR theory.",
+  "course_materials": {
+    "resources": [
+      "IR Theory has traditionally been book based, and the following list comprises the main classics in IR theory with which you need to familiarize yourself, especially for further study in IR.",
+      "E.H.Carr.1939, The Twenty years’ crisis (1919-1939), London: Macmillan.",
+      "Hans J. Morgenthau. 1948. Politics Among Nations. New York, NY: Knopf.",
+      "Kenneth Waltz. 1959. Man, the State, and War: A Theoretical Analysis. New York, NY: Columbia University Press. Graham Allison. 1971. The Essence of Decision. New York: Addison.",
+      "Hedley Bull. 1977. The Anarchical Society. New York, NY: Columbia University.",
+      "Joseph Nye and Robert Keohane. 1977. Power and Interdependence, Longham.",
+      "Kenneth Waltz. 1979. Theory of International Politics. Reading, MA: Addison",
+      "Robert Gilpin. 1981. War and Change in World Politics. Cambridge, UK: Cambridge University Press.",
+      "Robert Keohane. 1984. After Hegemony. Princeton: Princeton University Press.",
+      "Paul Kennedy. 1987.The rise and fall of Great powers. New York: Random house.",
+      "Alexander Wendt. 1999. Social Theory of International Politics. Cambridge, UK:Cambridge University Press.",
+      "James E. Dougherty and Robert L., Pfaltzgraff, 2000. Contenting Theories of International Relations, Addison Wesley Longman, Inc.",
+      "John Mearsheimer, 2001. The Tragedy of Great Power Politics. New York: Norton.",
+      "Daron Acemoglu and James Robinson. 2012. Why Nations Fail. Crown publishers."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 20,
+    "term-paper": 30,
+    "participation": 10
+  },
+  "program_requirements": [
+    {
+      "program": "International Relations (non-thesis)",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Political Science (non-thesis)",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Biological Sciences and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Industrial Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "European Studies (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Political Science",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Political Science (with thesis)",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Materials Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Bio. Sci. & Bioeng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "European Studies (non-thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Materials Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Mechatronics LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "POLS",
+  "cn": "540",
+  "section": null,
+  "key": "202501_POLS_540"
+}

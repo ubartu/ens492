@@ -1,0 +1,50 @@
+{
+  "course_info": {
+    "faculty": "School of Languages",
+    "semester": "Fall 2025-2026",
+    "course": "Professional Communication Skills in English - ENG 300 Section A",
+    "classroom": "FASS-1001",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:5",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Birgül Köktürk",
+      "email": "birgulk@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course aims to equip students with professional communication skills in English. The purpose of the course is to develop and enhance the skills students will need to operate effectively in a business context. By building students? confidence in approaching the transition to work and increasing their awareness of the business environment, the course also aims to place them at an advantage in the world of work. This will be done by developing business related language skills and knowledge through context-based input and practical, communicative task-based sessions.",
+  "course_learning_outcomes": [
+    "By the end of this module, a student should be able to: (a) identify their transferable skills; (b) analyse a job advertisement; (c) produce a tailored CV and cover letter; (d) answer interview questions using CAR / Sandwich methods"
+  ],
+  "course_objective": "To develop the professional skills in English which students will need in order to apply for internships and jobs. Students asses their skill sets and experiences and learn to express these in the most effective ways in CVs, cover letters and interviews.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 25,
+    "midterm": 10,
+    "quiz": 5,
+    "participation": 15,
+    "individual project": 15,
+    "group project": 25,
+    "presentation": 5
+  },
+  "program_requirements": [
+    {
+      "program": "Management",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "ENG",
+  "cn": "300",
+  "section": "A",
+  "key": "202501_ENG_300_A"
+}

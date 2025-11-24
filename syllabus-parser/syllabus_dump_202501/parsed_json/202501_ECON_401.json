@@ -1,0 +1,66 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Applied Econometrics - ECON 401",
+    "classroom": "FASS-1097,FASS-1098",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "ECON 301",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Abdurrahman Bekir Aydemir",
+      "email": "aaydemir@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "The purpose of this course is to provide students with state of the art econometric methods for empirical analysis of micro data (individuals, households, firms etc.). Issues related to specification, estimation and identification of different models with cross-section and panel data will be studied. The course has an emphasis both on the econometric techniques and their applications to different topics. Students are expected to read assigned papers and undertake numerous practical assignments using a modern econometric software package.",
+  "course_learning_outcomes": [
+    "On completion of the module, students should be able to a) demonstrate a knowledge of the difference between correlation and causal effects,",
+    "b) comprehend the role of observable and unobservable factors in identification of causal parameters of interest,",
+    "c) identify the applied methods used for identification,",
+    "d) analyze problems associated with identification of causal parameters and suggest solutions."
+  ],
+  "course_objective": [
+    "Introduce the students to the methods of advanced applied research in economics."
+  ],
+  "course_materials": {
+    "resources": [
+      "Course discussions and assigned papers for each topic are the core course material."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "term-paper": 40,
+    "participation": 15,
+    "presentation": 15,
+    "homework": 30
+  },
+  "program_requirements": [
+    {
+      "program": "Economics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Business Analytics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ECON",
+  "cn": "401",
+  "section": null,
+  "key": "202501_ECON_401"
+}

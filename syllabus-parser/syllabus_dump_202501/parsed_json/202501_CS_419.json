@@ -1,0 +1,93 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Digital Image and Video Analysis - CS 419",
+    "classroom": "FASS-G062,FENS-L045",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:1, Engineering:5",
+    "prerequisites": "-",
+    "corequisites": "CS 419L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Erchan Aptoula",
+      "email": "erchan.aptoula@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "1. Introduction and point processing 2. Binary mathematical morphology 3. Linear image analysis-I 4. Linear image analysis-II 5. Grayscale mathematical morphology 6. Hierarchical image representations 7. Attribute filtering and object based image analysis 8. Color image analysis and color morphology 9. Visual content description 10. Video analysis 11. Motion analysis 12. Image and video compression 13. Spatial and temporal segmentation 14. Recognizing visual patterns",
+  "course_learning_outcomes": [
+    "Have a clear understanding of how digital images and videos are acquired and stored.",
+    "Have a good understanding of the mathematical foundations for the manipulation of digital visual data with both linear and non-linear approaches.",
+    "Be able to write programs in Python for preprocessing, processing, analysis, filtering, segmentation, description and compression of digital visual data.",
+    "Analyze a wide range of problems and provide solutions related to the design of image and video analysis systems through suitable algorithms, structures, and other methods."
+  ],
+  "course_objective": "This course provides a comprehensive introduction into digital image & video processing and analysis.",
+  "course_materials": {
+    "resources": [
+      "Textbooks a) Gonzales and Woods, Digital Image Processing, 4th Ed, 2017 b) W. Pratt, Digital Image Processing, 4th Ed. c) P. Soille, Morphological Image Analysis, 2004 d) R. Szeliski, Computer Vision and Applications, 2010"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "midterm": 35,
+    "assignment": 30,
+    "group project": 35
+  },
+  "program_requirements": [
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "419",
+  "section": null,
+  "key": "202501_CS_419"
+}

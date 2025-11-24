@@ -1,0 +1,46 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Law and Economics - ECON 405",
+    "classroom": "FASS-1101,FASS-1103",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "ECON 201 and  ECON 204",
+    "corequisites": "Course Type:",
+    "course_type": null
+  },
+  "instructors": [
+    {
+      "name": "Mehmet Baç",
+      "email": "bac@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "The legal system can be viewed as a set of rules governing social and economic interactions and conduct in a society. This course analyzes whether and how the legal system promotes social welfare and efficiency of economic activity, and offers the student an alternative, economic perspective on law. It applies microeconomic theory to the analysis of several subfields of law, such as property law, contracts, tort law and legal processes. It introduces the student to the economics of law enforcement and to the trade offs the society faces in controlling crime and punishing offenders.",
+  "course_learning_outcomes": [
+    "- describe and use the welfare concepts and principles underlying the economic approach to law; - apply microeconomic theory (game theory, equilibrium analysis) to selected fields of property, family and criminal law; - apply economic theory to make conditional welfare assessments in real-life legal news, discussing and offering predictions for the outcomes of legal policies;"
+  ],
+  "course_objective": "As stated in learning outcomes.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 50,
+    "midterm": 35,
+    "quiz": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Economics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ECON",
+  "cn": "405",
+  "section": null,
+  "key": "202501_ECON_405"
+}

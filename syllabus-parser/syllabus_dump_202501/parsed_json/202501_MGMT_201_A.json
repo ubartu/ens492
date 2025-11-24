@@ -1,0 +1,62 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Introduction to Management - MGMT 201 Section A",
+    "classroom": "FMAN-L018",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "MGMT 201R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Ayşe Kocabıyıkoğlu",
+      "email": "kocabiyikoglua@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "The objectives of this course are to introduce the students to fundamentals that will serve as a basis / background for courses in later stages of the program, introduce them to the functional areas of management, improve their analytical, descriptive statistics, introductory probability models for decision making, computer, presentation and group work skills. To this end, the course requires students to prepare a business plan as a group project, uses case studies to introduce some of the fundamental concepts in management, brings in guest speakers to inform students about different areas of management and career choices.",
+  "course_learning_outcomes": [
+    "Upon successful completion of the course, a student should be able to: (1) Perform advanced data analysis and processing using Microsoft Excel, (2) Perform NPV analysis and other related discounted cash flow calculations, (3) Perform breakeven analysis and interpret the results, (4) Prepare and present a business a plan."
+  ],
+  "course_objective": [
+    "The objectives of this course are to introduce the students to fundamentals that will serve as a basis / background for courses in later stages of the program, introduce them to the functional areas of management, improve their computer, presentation and group work skills.",
+    "Knowledge Content:",
+    "(i) Sunk, fixed and variable costs,",
+    "(ii) Fundamentals of marketing,",
+    "(iii) Discounting cash flows,",
+    "(iv) Technological forecasting,",
+    "(v) Making optimal location decisions.",
+    "Skills Content:",
+    "(i) MS Excel for analysis, decision modeling, graphical presentation",
+    "(ii) Simple database functionality of MS Excel",
+    "(iii) Effective presentation skills",
+    "(iv) Teamwork",
+    "(v) Business plan preparation"
+  ],
+  "course_materials": {
+    "resources": [
+      "There is no textbook for this course. The main material for the course is going to be slides and Excel sheets, which will all be posted on SUCourse."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "midterm": 50,
+    "term-paper": 25,
+    "homework": 25
+  },
+  "program_requirements": [
+    {
+      "program": "Management",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "MGMT",
+  "cn": "201",
+  "section": "A",
+  "key": "202501_MGMT_201_A"
+}

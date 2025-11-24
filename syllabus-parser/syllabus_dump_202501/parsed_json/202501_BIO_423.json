@@ -1,0 +1,93 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Neurobiology - BIO 423",
+    "classroom": "FASS-G048,FENS-G029",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:4, Engineering:2",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Nur Mustafaoğlu Varol",
+      "email": "nur.mustafaoglu@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "The study of the nervous system and its elements, such as neurons and neural pathways, and how these mechanisms mediate behaviour is called neurobiology. It is a broad and rapidly evolving field in biology. This course is designed to provide students with an in-depth understanding of molecular and cellular neurobiology, as well as a basic understanding of general neurobiology. Emphasis is placed on mammalian neurobiology, particularly humans. The first part of the course covers neuroanatomy and essential neurocellular signalling pathways, including chemical and electrical signalling and neurotransmission. The course then looks at how the nervous system develops in childhood, how it evolves as a result of life experiences, how it behaves during everyday activities, and how it is disrupted by injury and disease. The course also covers emerging neuroscience research techniques.",
+  "course_learning_outcomes": [
+    "describe the structure and function of neurons and glia cells",
+    "explain how the nervous system is established and how neurons are connected in neuronal circuits that control bodily functions and behavioral output",
+    "describe the central nervous system, the autonomous nervous system and the peripheral nervous system including the structure and function of the sensory organs and the motor systems. Describe and analyse how the interactions between these neuronal systems via various neurotransmitters influence the functions of the body",
+    "explain molecular and cellular mechanism disfunctions in neurodegenerative diseases",
+    "analyse a given theoretical problem/case, identify gaps in knowledge and retrieve knowledge from relevant scientific literature",
+    "give an account for basic and advanced neurobiological techniques",
+    "identify and apply a suitable method theoretically or practically to address the research question at hand",
+    "compile and present a literature study and develop an ability to critically analyse and discuss science by reviewing texts in public and scientific papers",
+    "identify and discuss ethical issues related to scientific activities."
+  ],
+  "course_objective": "The objective of this course is to provide students with a comprehensive understanding of the structure and function of the nervous system at molecular, cellular, and systems levels. Through an emphasis on mammalian neurobiology, the course aims to equip students with the knowledge and critical skills needed to analyze neural development, signaling, behavior, and disease. Students will also gain familiarity with current experimental techniques and ethical considerations in neuroscience, preparing them for further study and research in the field.",
+  "course_materials": {
+    "resources": [
+      "Main Book:",
+      "Principles of Neurobiology, Second Edition, CRC Press Taylor & Francis Group Liqun Luo ISBN: 9780367514716 Additional Sources:",
+      "From Neuron to Brain, Fifth Edition, Sinauer Associates, Inc. John G. Nicholls, A. Robert Martin, Paul A. Fuchs, David A. Brown, Mathew E. Diamond, David A. Weisblat ISBN: 9780878936090",
+      "Review articles",
+      "Research articles",
+      "Some additional reading materials and videos will be shared on SuCourse"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 25,
+    "midterm": 40,
+    "assignment": 5,
+    "presentation": 15,
+    "homework": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "BIO",
+  "cn": "423",
+  "section": null,
+  "key": "202501_BIO_423"
+}

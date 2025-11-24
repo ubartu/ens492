@@ -1,0 +1,130 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Art Analysis : Theory and Criticsm - VA 530",
+    "classroom": "FASS-1075",
+    "level_of_course": "Masters",
+    "course_credits": "SU Credit:3.000, ECTS:10",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Kerem Ozan Bayraktar",
+      "email": "keremozan.bayraktar@sabanciuniv.edu"
+    },
+    {
+      "name": "Kerem Ozan Bayraktar is an artist and researcher. He examines material transformations, accumulations, and interactions between natural and artificial forms through mixed media installations, digital techniques, and field research. He participated in several art & research programs, including Fellowship for Situated Practice (basis voor actuele kunst, 2022, the Netherlands) and the Berlin Senate Residency Program (Zentrum für Kunst und Urbanistik, 2021, Germany). His work has recently been featured in the Tokyo Biennale (2023, Japan), Non-/Human Assemblages (2021, South Korea), Sentient Matter (2021, D21, Germany), Timeless Curiosities (2024, Istanbul Modern, Turkey). Bayraktar received his MFA and DFA degrees from Marmara University, Faculty of Fine Arts, Painting deparment. He is currently a faculty member at Sabancı University. His recent publications include Marmara (2023), Spirits on the Ground (2021) and Dünyaların Haritaları [Maps of Worlds] (2021). Bayraktar lives in Istanbul and is represented by Sanatorium.",
+      "email": null
+    }
+  ],
+  "catalog_course_description": "The aim of the course is to introduce theories of aesthetics from its early formulations to the present day. The students will be informed about post-1945 art theories and critical movements such as structuralism, post- structuralism and feminist art. The connection and interdependency between art and theory in the same period will be discussed. Students will be encouraged to produce written pieces which critically evaluate artworks.",
+  "course_learning_outcomes": [
+    "Understand different theoretical approaches in the analysis of artworks in the 20th century",
+    "Desribe and compare works of art in terms of form and content",
+    "Differentiate between different methods of art theory and criticism ranging from iconography to semiotics, feminism and postcolonialism",
+    "Analyse works of art using different theoretical approaches"
+  ],
+  "course_objective": "Enabling the student to gain an understanding of the critical tools that can be used in the analysis of works of art with a specific focus on 20th century art and current artistic production",
+  "course_materials": {
+    "resources": [
+      "Anne d’Alleva, “Thinking about theory” in Methods and Theories of Art History (London: Laurence King Publishing, 2005): 5-16.",
+      "Terry Barrett, “About Art Criticism” in Criticizing Art-Understanding the Contemporary (NY: McGraw Hill, 2012): 1-29.",
+      "Terry Barrett, “Theory and Art Criticism” in Criticizing Art-Understanding the Contemporary (NY: McGraw Hill, 2012): 65-162.",
+      "P. Meecham-P. Wood, “Modernism and Modernity-An Introductory Survey”, in Investigating Modern Art, Liz Dawtrey et al. (ed.), (NY: Yale University Press, 1996): 2-33.",
+      "M. Hatt and C. Klonk, “Iconography-Iconology: Erwin Panofsky” in Art History-A Critical Introduction to its Methods (Manchester: Manchester University Press, 2006): 96-118.",
+      "M. Hatt and C. Klonk, “Semiotics” in Art History-A Critical Introduction to its Methods (Manchester: Manchester University Press, 2006): 200-221. Laurie Schneider Adams, “Biography and Autobiography” in The Methodologies of Art (Oxford: Westview Press, 1996): 101-133.",
+      "Laurie Schneider-Adams, “Psychoanalysis: Freud” and “Psychoanalysis: Winnicott and Lacan”, The Methodologies of Art (Oxford: Westview Press, 1996): 179-199.",
+      "L. Schneider-Adams, “Psychoanalysis: Winnicott and Lacan” and “Psychoanalysis: Winnicott and Lacan”, The Methodologies of Art (Oxford: Westview Press, 1996): 199-209.",
+      "M. Hatt and C. Klonk, “Feminism” in Art History-A Critical Introduction to its Methods (Manchester: Manchester University Press, 2006): 145-174. Patricia Mathews, “The Politics of Feminist Art History” in The Subjects of Art History-Historical Objects in Contemporary Perspective, ed. Cheetham-Holly-Moxey (Cambridge: Cambridge University Press, 1998): 115-143. Whitney Davis, “Homosexualism, Gay and Lesbian Studies and Queer Theory in Art History” in The Subjects of Art History-Historical Objects in Contemporary Perspective, ed. Cheetham-Holly-Moxey (Cambridge: Cambridge University Press, 1998): 115-143. James D. Herbert, “Passing Between Art History and Postcolonial Theory”, in The Subjects of Art History-Historical Objects in Contemporary Perspective, ed. Cheetham-Holly-Moxey (Cambridge: Cambridge University Press, 1998): 213-228.",
+      "M. Hatt and C. Klonk, “Postcolonialism” in Art History-A Critical Introduction to its Methods (Manchester: Manchester University Press, 2006): 223-241. Linda Hutcheon, “Postmodernist Representation”, The Politics of Postmodernism (Milton Park: Routledge, 1989): 29-58. Linda Hutcheon, “Postmodernism and Feminisms”, The Politics of Postmodernism (Milton Park: Routledge, 1989): 137-164. Pierre Bourdieu, “Outline of a Sociological Theory of Art Perception”, The Sociology of Art-A Reader, ed. Jeremy Tanner (London&NY: Routledge, 2003): 122-132."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "midterm": 30,
+    "participation": 30,
+    "individual project": 40
+  },
+  "program_requirements": [
+    {
+      "program": "Business Analytics (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Bio. Sci. & Bioeng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Materials Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Mechatronics LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Biological Sciences and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Industrial Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Materials Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Visual Arts and Visual Communications Design (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Visual Arts and Visual Communications Design (non-thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "VA",
+  "cn": "530",
+  "section": null,
+  "key": "202501_VA_530"
+}

@@ -1,0 +1,50 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Classical Mythology in Art - HART 234",
+    "classroom": "FASS-1099,FASS-1101",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Zeynep Nevin Yelçe",
+      "email": "zeynepyelce@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course is intended as an introduction to Greek and Roman mythology. The aim is to acquaint students to the major mythological characters and stories. Greek and Roman gods, goddesses, demigods, heroes and their stories have employed and interpreted in works of art, literature, and music throughout centuries. This course aims to offer a basic yet solid background to students who wish to have a better understanding of such reflections in various fields of cultural production. Without disregarding the religious and ritual aspects of mythology, this course focuses on the characters and the stories themselves rather than theory. Following the trail of Ovid, the course will explore how myths were used in the visual arts.",
+  "course_learning_outcomes": [
+    "Upon completion of the course, students should be able to: a. Comprehend the basic concepts and issues in classical mythology b. Discuss the fundemantal myths and stories c. Recognize and interpret a work of art with mythological subject-matter d. Contextualize a work of art with mythological subject-matter e. Improve essay-writing and oral self expression skills f. Research specific interests contributing to the general theme"
+  ],
+  "course_objective": "To teach the basic concepts and issues in Classical mythology to enable students to understand and analyze works of art created in different periods throughout world history.",
+  "course_materials": {
+    "resources": [
+      "Edith Hamilton, Mythology: Timeless Tales of Gods and Heroes, Boston: Grand Central Publishing, 2011. Robert Graves, Greek Myths: Complete and Definitive Edition, Penguin, 2011. (click for Homer Apollodorus, The Library of Greek Mythology, trans. Robin Hard, Oxford University Press, 2008. Hesiod, Works of Hesiod and the Homeric Hymns, trans. Daryl Hine, University of Chicago Press, 2005. Homer, The Iliad, trans. Richmond Lattimore, Chicago: University of Chicago Press, 2011. Homer, The Odyssey, trans. Richmond Lattimore, New York: Harper Perennial Modern Classics, 2007. Ovid, Metamorphoses, trans. Rolfe Humphries, Bloomington: Indiana University Press, 1983."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 20,
+    "assignment": 20,
+    "participation": 10,
+    "attendance": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Art Theory and Criticism",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "HART",
+  "cn": "234",
+  "section": null,
+  "key": "202501_HART_234"
+}

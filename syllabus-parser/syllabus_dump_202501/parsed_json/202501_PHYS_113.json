@@ -1,0 +1,127 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Basic Concepts of Physics for Scientists and Engineers - PHYS 113",
+    "classroom": "FASS-G018",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:6",
+    "prerequisites": "NS 101 and  MATH 101",
+    "corequisites": "PHYS 113L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Mehmet Ali Alpar",
+      "email": "alpar@sabanciuniv.edu"
+    },
+    {
+      "name": "Yuki Kaneko Göğüş",
+      "email": "yuki@sabanciuniv.edu"
+    },
+    {
+      "name": "yuki@sabanciuniv.edu",
+      "email": null
+    }
+  ],
+  "catalog_course_description": "Observing and understanding the workings of nature and expressing this understanding in models and mathematical language is fundamental to the study of science and technology. This course introduces the basic concepts of physics and the methods of modeling and solving problems in science. The subjects to be covered are (mathematical content is noted in parentheses): 1. Mechanics: Newton's Laws of Motion. Energy Momentum and Angular Momentum. The Kepler problem. The study of systems near stable equilibrium: harmonic oscillators. Periodic motion; (the sinusoidal functions). Exponential damping and growth (the exponential function). 2. Statistical physics: The ideal gas law derived from mechanics. Meaning of temperature and pressure. Boltzmann definition of entropy based on the number of possible states (probability), with one simple example, the partitioning of a gas of N molecules into two half volumes: In a macroscopic system (large N), the most probable situation is much much more probable than anything else- the 2nd Law of Thermodynamics. 3. Electromagnetism. Electric and magnetic fields. The concepts of flux and circulation. Maxwell’s Equations and applications in the simplest geometry of two parallel plates (simple line and surface integrals). Electromagnetic wave propagation (the wave equation). 4. Quantum Physics. The Bohr model of the atom. Wave-particle duality and the Uncertainty Relation are needed to understand the properties of matter: What determines the size and structure of an atom? Relation between wavelength and system size. Why is there a Periodic Table ? The Pauli Principle.",
+  "course_learning_outcomes": [
+    "Formulate and solve the equations of motion (Newton's 2nd Law)",
+    "Explain conservation laws and apply them to evaluate various situations",
+    "Relate macroscopic properties (pressure and temperature) of the ideal gas to microscopic motion properties (force and kinetic energy)",
+    "Describe the physical meaning of entropy in terms of microstates and the 2nd Law of Thermodynamics",
+    "State the meaning of the laws of electromagnetism and apply them in simple situations",
+    "Relate oscillating fields to the propagation of electromagnetic waves",
+    "Relate the basic properties of matter to quantum mechanics in terms of wave-particle duality",
+    "Collect data in the laboratory and analyze them by applying the theories and formulations learned in lectures"
+  ],
+  "course_objective": [
+    "Course Contents",
+    "Observing and understanding the workings of nature and expressing this understanding in models and mathematical language is",
+    "fundamental to the study of science and technology. This course introduces the basic concepts of physics and the methods of modeling",
+    "and solving problems in science. The subjects to be covered are (mathematical content is noted in parentheses):",
+    "Mechanics:",
+    "Newton's Laws of Motion. Energy Momentum and Angular Momentum. The Kepler problem. The study of systems",
+    "near stable equilibrium: harmonic oscillators. Periodic motion; (the sinusoidal functions). Exponential damping and growth (the",
+    "exponential function).",
+    "Statistical physics:",
+    "The ideal gas law derived from mechanics. Meaning of temperature and pressure. Boltzmann defnition of",
+    "entropy based on the number of possible states (probability), with one simple example, the partitioning of a gas of N molecules",
+    "into two half volumes: In a macroscopic system (large N), the most probable situation is much much more probable than anything",
+    "else- the 2nd Law of Thermodynamics.",
+    "Electromagnetism:",
+    "Electric and magnetic felds. The concepts of hux and circulation. Maxwell’s Equations and applications in the",
+    "simplest geometry of two parallel plates (simple line and surface integrals). Electromagnetic wave propagation (the wave",
+    "equation).",
+    "Quantum Physics:",
+    "The Bohr model of the atom. Wave-particle duality and the Uncertainty Relation are needed to understand the",
+    "properties of matter: What determines the size and structure of an atom? Relation between wavelength and system size. Why is there a Periodic Table ? The Pauli Principle."
+  ],
+  "course_materials": {
+    "resources": [
+      "\"Science of Nature\", A. Alpar (will be provided as PDF)"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 30,
+    "participation": 10,
+    "other": 30
+  },
+  "program_requirements": [
+    {
+      "program": "Electronics Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "PHYS",
+  "cn": "113",
+  "section": null,
+  "key": "202501_PHYS_113"
+}

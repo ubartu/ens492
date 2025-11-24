@@ -1,0 +1,80 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Mechanical Properties of Materials - MAT 314",
+    "classroom": "FENS-2019,FENS-L058",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:5, Basic:1, Engineering:4",
+    "prerequisites": "ENS 205",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Burç Mısırlıoğlu",
+      "email": "burc@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course is intended as a bridge between introductory-to-intermediate materials science knowledge and mechanical behavior of various crystalline and amorphous systems (Junior or senior year students could find it beneficial). It covers the influence of microstructure on the mechanical behavior of materials including metallic alloys, polymers and ceramics. The main objective of the course is to describe the ways in which microstructure and defects are exploited to fabricate high-performance materials that are applied to today's technologies ranging from aerospace to toughened ceramics. The content includes and is not limitied to stress-strain relations, elastic and plastic deformation, dislocations, dislocation interactions, work hardening, vacancies, interaction of precipitates with defects, glass transition in polymers, creep in materials, brittle fracture and ductile fracture, case studies that span a wide variety of phenomena including fatigue in alloys.",
+  "course_learning_outcomes": [
+    "By the end of this course, students should be able to: Describe the effect of atomic bonding on the mechanical behavior of materials.",
+    "Define basic crystallographic knowledge in inorganic cubic crystal systems.",
+    "Demonstrate basic knowledge of well-known methods to determine atomic and microstructure.",
+    "Distinguish between elastic and plastic deformation, different stress-strain types and how these are characterized mathematically, understand the fundamental relations in elasticity.",
+    "Describe how plastic deformation and failure occurs.",
+    "Comprehend the concept of point defects, line defects and planar defects in materials.",
+    "Define the concepts in material strengthening and its relevance to microstructure.",
+    "Describe the mechanisms of fatigue and creep in crystalline materials.",
+    "Comment on the failure mechanisms for a variety of material systems under loading.",
+    "Use available material data from literature or scientific databases to decide on the suitability of use of a material for a given application.",
+    "Decide the type of material choice suitable for a particular application by looking at the elastic behavior, plastic properties and the microstructure."
+  ],
+  "course_objective": "The main objective of the course is to describe the ways in which microstructure and defects are exploited to fabricate high-performance materials that are applied to today's technologies ranging from aerospace alloys to toughened ceramics. The content includes and is not limitied to stress-strain relations, elastic and plastic deformation, dislocations, dislocation interactions, work hardening, vacancies, interaction of precipitates with defects, glass transition in polymers, creep in materials, brittle fracture and ductile fracture, case studies that span a wide variety of phenomena including fatigue in alloys.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 60,
+    "case study": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "MAT",
+  "cn": "314",
+  "section": null,
+  "key": "202501_MAT_314"
+}

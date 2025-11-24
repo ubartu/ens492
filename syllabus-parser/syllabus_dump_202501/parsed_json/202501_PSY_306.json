@@ -1,0 +1,52 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Testing and Measurement - PSY 306",
+    "classroom": "FASS-G030",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "PSY 201 and  SPS 102 and  PSY 202",
+    "corequisites": "PSY 306L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Nebi Sümer",
+      "email": "nebisumer@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course provides the students with necessary skills to measure psychological constructs as well as knowledge on test construction, validity and reliability issues. It also covers topics such as factor analysis and administration and scoring procedures of various types of tests, including standardized tests of intelligence.",
+  "course_learning_outcomes": null,
+  "course_objective": "Sustainable Development Goals (SDGs) Related to This Course: Good Health and Well-being Reduced Inequalities",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 25,
+    "midterm": 25,
+    "assignment": 15,
+    "participation": 5,
+    "group project": 30
+  },
+  "program_requirements": [
+    {
+      "program": "Psychology",
+      "required": false,
+      "core_elective": true,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "PSY",
+  "cn": "306",
+  "section": null,
+  "key": "202501_PSY_306"
+}

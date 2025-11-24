@@ -1,0 +1,115 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Machine Learning - CS 412",
+    "classroom": "FENS-G077",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:2, Engineering:4",
+    "prerequisites": "( MATH 201 and  MATH 203)",
+    "corequisites": "CS 412R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Ayşe Berrin Yanıkoğlu",
+      "email": "berrin@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This is an introductory machine learning course that will aim a solid understanding of the fundamental issues in machine learning (overfitting, bias/variance), together with several state-of-art approaches such as decision trees, linear regression, k-nearest neighbor, Bayesian classifiers, support vector machines, neural networks, logistic regression, and classifier combination.",
+  "course_learning_outcomes": [
+    "Have a solid understanding of the basic concepts, issues, assumptions and limitations in machine learning and how they apply to various machine learning techniques.",
+    "Have a working knowledge of the basic mathematics (probability, expectation, entropy, basic linear algebra, ...) and algorithms behind common machine learning techniques; together with their suitability in given situations.",
+    "Given a machine learning problem, select, implement and evaluate one of the appropriate machine learning algorithms (e.g. decision trees, neural networks, SVMs) using a programming environment such as Weka or Matlab."
+  ],
+  "course_objective": [
+    "To teach fundamentals of Machine Learning for students of all backgrounds, so that they will know its capabilities, limitations and be able to design all aspects of a learning system.",
+    "Learning Objectives:",
+    "Understand the basic concepts, issues, assumptions and limitations in machine learning (e.g. base accuracy, overfitting, bias/variance, curse of dimensionality...).",
+    "Have a working knowledge of the basic mathematics (probability, expectation, entropy, basic linear algebra, ...) and algorithms behind common machine learning techniques; together with their suitability in given situations.",
+    "Given a machine learning problem, be able to implement and evaluate one of the standard machine learning algorithms (e.g. decision trees, neural networks, SVMs) using a tool such as Weka/Matlab or a programming language Python/R."
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 30,
+    "quiz": 10,
+    "assignment": 25
+  },
+  "program_requirements": [
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Business Analytics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Decision and Behavior",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "412",
+  "section": null,
+  "key": "202501_CS_412"
+}

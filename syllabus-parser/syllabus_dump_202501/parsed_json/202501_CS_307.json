@@ -1,0 +1,83 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Operating Systems - CS 307",
+    "classroom": "FENS-G077,FMAN-G071",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "CS 204",
+    "corequisites": "CS 307R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Süha Orhun Mutluergil",
+      "email": "suha.mutluergil@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course covers fundamental aspects of operating systems: management and virtualization of resources such as CPU, memory space and peripheral devices. Topics include concurrent processes, mutual exclusion, process communication, cooperation, deadlocks, semaphores, scheduling, protection, memory management, file system abstraction and persistent memory organization. The course will also highlight important aspects of operating systems such as UNIX and Windows.",
+  "course_learning_outcomes": [
+    "To have a high-level understanding of computer systems, how an operating system works, and the general structure of an operating system.",
+    "To have an understanding of how OS handles multpile processes, and multi-threading including synchronization, scheduling, and memory management.",
+    "To be aware of some common problems due to interprocess communication, how these problems are modeled and solved.",
+    "To have an understanding of how how file systems are implemented and how I/O operations are performed.",
+    "To have an understanding of basics of threats to computer security"
+  ],
+  "course_objective": "To supply the students with the theory and practice of operating systems and operating system design principles.",
+  "course_materials": {
+    "resources": [
+      "Primary Textbook: Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau. Operating Systems: Three Easy Pieces, 1.00 Edition, Published by CreateSpace Independent Publishing Platform, 2018, ISBN: 978-1985086593. Free online access: https://pages.cs.wisc.edu/~remzi/OSTEP/"
+    ],
+    "technology_requirements": "CS307 server for programming assignments: cs307.sabanciuniv.edu OR 10.3.0.91 Login with your SU username and password. It will be available after add/drop period."
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 30,
+    "quiz": 5,
+    "assignment": 25
+  },
+  "program_requirements": [
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "307",
+  "section": null,
+  "key": "202501_CS_307"
+}

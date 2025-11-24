@@ -1,0 +1,95 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Analog Integrated Circuits - EE 303",
+    "classroom": "FENS-L047,FENS-L062",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "EL 202 or  EE 202",
+    "corequisites": "EE 303R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Yaşar Gürbüz",
+      "email": "yasar@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "DC, Small-signal and high-frequency design and analysis of CMOS amplifier topologies, including cascode and differential amplifiers; bias circuits; output circuits; active loads; stability and feedback; Noise; multi-stage amplifiers; application examples of CMOS analog integrated circuits: comparators, active filters, signal wave-form generators, etc.; design and verify CMOS analog circuits by using computer aided tools / Cadence.",
+  "course_learning_outcomes": [
+    "To understand the concept of integrated circuits, in general",
+    "To understand the concept of analog integrated circuits and differences and challenges with respect to other applications of electronic circuits",
+    "To analyze basic CMOS basic analog circuit building components (integrated components): transistors, active and passive components",
+    "To design these analog circuit building blocks: current sources/mirrors, constant voltage and current sources.",
+    "Analog Integrated Circuit Applications (Amplifiers): Single and multi-stage amplifiers, differential, cascode amplifiers, inverters and comparators",
+    "Design Methodology and Analysis of Integrated CMOS Amplifiers: Noise, frequency response, feedback, stability, compensation, PSRR, CMRR, Power Consumption, Gain.",
+    "To design, simulate and optimize analog circuits with the aid of Cadence tools",
+    "To practice layout techniques and more complex analog circuits in Cadence design environment"
+  ],
+  "course_objective": [
+    "To understand the concept of analog integrated circuits",
+    "To analyze basic CMOS basic analog circuit building blocks (through lectures, homework and recitations)",
+    "To design these analog circuit building blocks (through lectures, homework and recitations.).",
+    "To design, simulate and optimize analog circuits with the aid of Cadence tools (through recit).",
+    "To practice layout techniques and more complex analog circuits in Cadence design environment (through recit).",
+    "To understand applications of analog integrated circuits."
+  ],
+  "course_materials": {
+    "resources": [
+      "Textbook: Design of Analog CMOS Integrated Circuits Jan 20, 2016 by Behzad Razavi, Publisher: McGraw-Hill Education; 2 edition ISBN-10: 0072524936, ISBN-13: 978-0072524932",
+      "You can obtain the course text book by ordering from https://www.homerbooks.com/urun/design-of-analog-cmos-integrated-circuits website. Reference Books: Microelectronic Circuits (The Oxford Series in Electrical and Computer Engineering) 7th edition, Nov 14, 2014, by Adel S. Sedra and Kenneth C. Smith (Circuit 2 textbook) CMOS Analog Circuit Design. Phillip E. Allen, Douglas R. Holberg by P E Allen (2012-07-01) P. Gray, P. Hurst, S. Lewis, and R.G. Meyer, “Analysis and Design of Analog Integrated Circuits”, 5th Edition, John Wiley and Sons, 2010, ISBN 978-0-470-39877-7. Analog Integrated Circuit Design (Wiley) Tony Chan Carusone, David A. Johns, Kenneth W. Martin, Publication Date: December 13, 2011 | ISBN-10: 0470770104 | ISBN-13: 978-0470770108 | Edition: 2 Hastings, The Art of Analog Layout, Prentice Hall, 2001."
+    ],
+    "technology_requirements": "CADENCE as a CAD tool for IC design and verification software will be used in this course throughout the semester (https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design.html) Sabanci University is a member of Europractice and CADENCE software is licensed through Europractice. A portable computer with networking capability. It is better to have ethernet connection/cable. First Recitation topics to be covered are the following: Installation and configuration of x2go Establishing remote connection to workstations in SUNET with x2go Creation of work folder and IHP13S Basic schematic and symbol editing with Cadence Virtuoso Basic simulation setup and run with Cadence Spectre"
+  },
+  "assessment_percent": {
+    "final": 25,
+    "midterm": 35,
+    "quiz": 7,
+    "assignment": 8,
+    "case study": 25
+  },
+  "program_requirements": [
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "EE",
+  "cn": "303",
+  "section": null,
+  "key": "202501_EE_303"
+}

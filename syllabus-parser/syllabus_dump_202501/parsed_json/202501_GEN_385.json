@@ -1,0 +1,56 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Migrations and the Family - GEN 385",
+    "classroom": "FENS-L061",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Aslı İkizoğlu Erensü",
+      "email": "aikizoglue@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course addresses how human mobility across borders and state policies of immigration control, shape, and change intimate relations and family formations. In other words, it asks how states make and unmake families through their migration policies It accordingly focuses on the institution of marriage and processes of reproduction (including having and caring for children), and questions who 'deserves' to have a ‘right to family’ by examining different country- specific cases of family reunification and family separation. Issues to be discussed include: governance of migrant reproduction, dynamics of mixed-immigration-status families, challenges faced by transnational families and their shifting care regimes, the place of different kinds of children (left- behind, unaccompanied and adoptee) in migration policy-making. In tackling all these issues, the course aims to provide an understanding of how migration and related state responses disrupt, reinforce or rearrange gendered norms of family-making.",
+  "course_learning_outcomes": [
+    "Gender Equality",
+    "Reduced Inequalities",
+    "Responsible Consumption and Production",
+    "Peace, Justice and Strong Institutions"
+  ],
+  "course_objective": "This course is about how human mobility across borders and state policies of immigration control shape and change intimate relations and family formations. In other words, it asks how states make and unmake families through their migration policies. It accordingly focuses on the institution of marriage and processes of reproduction (including having and caring for children). We will question who ‘deserves’ to have a ‘right to family’ by examining different country-specific cases of family reunification and family separation. We will discuss how migrant reproduction is governed and how mixed-immigration-status families work. We will address the challenges faced by transnational families and their shifting care arrangements. We will probe the place of different kinds of children (left-behind, unaccompanied and adoptee) in migration policymaking. In tackling all these issues, we aim to understand how migration and state responses to it disrupt, reinforce or rearrange gendered norms of family-making.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 50,
+    "assignment": 5,
+    "attendance": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Gender and Women's Studies",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Cultural Studies",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "GEN",
+  "cn": "385",
+  "section": null,
+  "key": "202501_GEN_385"
+}

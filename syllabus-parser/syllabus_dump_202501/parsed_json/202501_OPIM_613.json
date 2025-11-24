@@ -1,0 +1,81 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Operations and Decision Analytics - OPIM 613",
+    "classroom": "FMAN-G045",
+    "level_of_course": "Masters",
+    "course_credits": "SU Credit:3.000, ECTS:12",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Ayşe Kocabıyıkoğlu",
+      "email": "kocabiyikoglua@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course focuses on decision problems of developing, producing, and delivering goods and services. The purpose is to provide students an exposure to the spectrum of operations management field, the nature of the related decision problems, and applications of various predictive and prescriptive analytical tools. The topics include, but not limited to, process and product design, logistics and transportation, location analysis, production/inventory management, pricing and revenue management, service operations, sustainability, and behavioral operations.",
+  "course_learning_outcomes": [
+    "Upon successful completion of the course, the student should be able to: 1. Reflect understanding of subject matter and associated literature 2. Demonstrate understanding of theoretical and methodological concepts 3. Demonstrate understanding of the use of theoretical and methodological concepts in practice 4. Build upon and extend previous research 5. Develops research agenda with theoretical or applied significance 6. Demonstrate skills pertaining to scholarly writing and presentation 7. Demonstrate critical thinking skills 8. Able to critique the methods of any peer reviewed article in the field"
+  ],
+  "course_objective": [
+    "This course aims to provide an exposure to the spectrum of operations management topics and the nature of the related decision problems. Students are expected to gain a thorough appreciation of the past developments and the current state of research and practice within the central foci of the course. The gap between the operations management theory and practice will also be addresses by questioning both why researchers do not address more practically relevant problems (in terms of complexity, design and definitions) and why practitioners do not make more use of available tools and results. Students are also expected to develop research agendas to motivate and guide their future work.",
+    "Thus, this course has the following objectives:",
+    "To expose the students to topics in operations management",
+    "To address the gap between the theory and practice of operations management",
+    "To learn to think and conceptualize academic decision problems like a researcher",
+    "To learn to write and present academic papers"
+  ],
+  "course_materials": {
+    "resources": [
+      "There is no textbook for this course; it will be based on analysis and discussion of academic papers. The list of these papers and the corresponding topics are provided under the section “Course Schedule and Readings” of the syllabus. I will post the readings on this list on SUCourse."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "midterm": 25,
+    "term-paper": 35,
+    "participation": 15,
+    "presentation": 10,
+    "homework": 15
+  },
+  "program_requirements": [
+    {
+      "program": "MS-Industrial Eng. LFI-MAN",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Management",
+      "required": true,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Business Analytics (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "OPIM",
+  "cn": "613",
+  "section": null,
+  "key": "202501_OPIM_613"
+}

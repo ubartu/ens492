@@ -1,0 +1,104 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Mind and Behavior - PSY 201",
+    "classroom": "FENS-G077",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Çiğdem Bağcı",
+      "email": "cigdem.bagci@sabanciuniv.edu"
+    },
+    {
+      "name": "Robert Booth",
+      "email": "robertbooth@sabanciuniv.edu"
+    },
+    {
+      "name": "Nebi Sümer",
+      "email": "nebisumer@sabanciuniv.edu"
+    },
+    {
+      "name": "Olesya Blazhenkova",
+      "email": "olesya@sabanciuniv.edu"
+    },
+    {
+      "name": "Çağla Aydın",
+      "email": "caglaaydin@sabanciuniv.edu"
+    },
+    {
+      "name": "Junko Kanero",
+      "email": "jkanero@sabanciuniv.edu"
+    },
+    {
+      "name": "Gül Günaydın",
+      "email": "gul.gunaydin@sabanciuniv.edu"
+    },
+    {
+      "name": "Eren Günseli",
+      "email": "eren.gunseli@sabanciuniv.edu"
+    },
+    {
+      "name": "Feyza Çorapçı",
+      "email": "feyza.corapci@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course is an introductory level course on human mind and behavior, designed to provide an overview of scientific psychology. The major goal of this course is to introduce theoretical perpectives as well as the empirical findings in psychology. In doing so, the course also aims to highlight both the interaction of psychological sciences with other allied disciplines and the impact of psychological findings in applied fields. In this regard, the course will present an oppurtunity for students with different backgrounds to explore links between their own fields of interest and study and psychology.",
+  "course_learning_outcomes": [
+    "To gain an understanding of basic concepts and theories in psychological science, methodologies used to test these theories, and major findings emerging from these tests.",
+    "To gain an introductory understanding of a scientific way of examining and making sense of why people feel, think, and behave the way they do across situations, contexts, and time."
+  ],
+  "course_objective": "Learning of basic psychology courses",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 40,
+    "assignment": 15,
+    "attendance": 5
+  },
+  "program_requirements": [
+    {
+      "program": "Cultural Studies",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Entrepreneurship",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Decision and Behavior",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Psychology",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "PSY",
+  "cn": "201",
+  "section": null,
+  "key": "202501_PSY_201"
+}

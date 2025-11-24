@@ -1,0 +1,83 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Energy Systems Optimization - ENRG 420",
+    "classroom": "FASS-G022,FENS-G032",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Nikolaos Koltsaklis",
+      "email": "nikolaos.koltsaklis@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "The energy system optimization problems are broadly categorized as operation and planning problems. The operation problems are usually related to how to exploit the existing devices/power plants. The planning problems usually refer to those problems which investigate whether to invest or not in some assets. The course Energy Systems Optimization introduces undergraduate and graduate students to applied optimization with a focus on energy systems. It includes the problem statement and mathematical formulation of a series of problems related to energy systems as well as their solution and results interpretation in commercial software packages. In particular, the subjects covered are:  Introduction to optimization in energy systems,  Basic optimization problems for gaining experience with the software package, thermal power units and renewable energy sources (static and dynamic formulation),  Long-term generation expansion planning of power systems,  Energy Storage,  Power flow analysis  Generation investment planning, and  Integrated Energy Systems.",
+  "course_learning_outcomes": [
+    "Affordable and Clean Energy",
+    "Industry, Innovation and Infrastructure",
+    "Sustainable Cities and Communities",
+    "Climate Action"
+  ],
+  "course_objective": "Sustainable Development Goals (SDGs) Related to This Course: Affordable and Clean Energy Industry, Innovation and Infrastructure Sustainable Cities and Communities Climate Action",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "group project": 100
+  },
+  "program_requirements": [
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Energy",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "ENRG",
+  "cn": "420",
+  "section": null,
+  "key": "202501_ENRG_420"
+}

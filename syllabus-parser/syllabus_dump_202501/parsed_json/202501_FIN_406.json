@@ -1,0 +1,54 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Behavioral Finance - FIN 406",
+    "classroom": "FMAN-G060",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "FIN 301 or  IE 303",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Yiğit Atılgan",
+      "email": "yatilgan@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Behavioral finance is a subfield of behavioral economics that studies the effects of psychological, cognitive and cultural factors on the financial decisions of agents. Classical finance theory assumes that agents in financial markets are fully rational, in that they maximize their expected utility with every decision they make. As a result, classical theorists believe that markets are efficient, and prices reflect all information available. However, there have been many studies documenting anomalies in markets that contradict with the efficient markets view and cannot be explained by the existence of fully rational investors. Behavioral finance tries to explain these anomalies and investors biases by combining tools and concepts from psychology and financial economics. This course aims to improve our understanding of the financial decision making by introducing psychologically more realistic frameworks that allow agents to be less than fully rational.",
+  "course_learning_outcomes": [
+    "Industry, Innovation and Infrastructure",
+    "Reduced Inequalities"
+  ],
+  "course_objective": "Behavioral finance is a subfield of behavioral economics that studies the effects of psychological, cognitive and cultural factors on the financial decisions of agents. Traditional finance theory assumes that agents in financial markets are fully rational, in that they maximize their expected utility with every decision they make. As a result, traditional theorists believe that markets are efficient in the sense that managers and investors make optimal decisions. However, there have been many studies documenting anomalies that contradict with the efficient markets view and the existence of fully rational managers and investors. Behavioral finance tries to explain these inefficiencies and investigates the biases of both managers and investors by combining tools and concepts from psychology and financial economics. This course aims to improve students’ understanding of financial decision making by introducing psychologically more realistic frameworks that allow agents to be less than fully rational.",
+  "course_materials": {
+    "resources": [
+      "Course slides, practice questions, mini-cases and additional material will be posted on SUCourse+. The midterm and final exam grades will also be posted on SUCourse+."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 50,
+    "midterm": 50
+  },
+  "program_requirements": [
+    {
+      "program": "Finance",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "FIN",
+  "cn": "406",
+  "section": null,
+  "key": "202501_FIN_406"
+}

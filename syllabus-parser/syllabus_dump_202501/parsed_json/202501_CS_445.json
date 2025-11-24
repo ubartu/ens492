@@ -1,0 +1,103 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Natural Language Processing - CS 445",
+    "classroom": "FASS-G062",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "CS 204 and ( CS 210 or  DSA 210)",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Dilara Keküllüoğlu",
+      "email": "dilara.kekulluoglu@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course studies the theory, design and implementation of natural language processing systems. Topics include text processing, regular expressions, statistical properties of text, edit distance, language modeling, text classification, sequence modeling, topic modeling, computational morphology, neural networks for NLP, chatbots, transfer learning for NLP.",
+  "course_learning_outcomes": [
+    "To describe the statistical properties of text in natural language.",
+    "To implement programs that can process textual data and extract valuable information from it.",
+    "To apply well-known language processing techniques to text.",
+    "To explain the significance and principles of language modeling.",
+    "To develop machine learning models to classify documents, sub-documents or terms.",
+    "To assess the quality of natural language processing models applied to text."
+  ],
+  "course_objective": [
+    "A student who succesfully fulfills the course requirements will be able to demonstrate:",
+    "To describe the statistical properties of text in natural language.",
+    "To implement programs that can process textual data and extract valuable information from it.",
+    "To apply well-known language processing techniques to text.",
+    "To explain the significance and principles of language modeling.",
+    "To develop machine learning models to classify documents, sub-documents or terms.",
+    "To assess the quality of natural language processing models applied to text."
+  ],
+  "course_materials": {
+    "resources": [
+      "Daniel Jurafsky and James H. Martin, {\\textit{Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition}} (3rd edition online)."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "midterm": 40,
+    "assignment": 20,
+    "group project": 40
+  },
+  "program_requirements": [
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "445",
+  "section": null,
+  "key": "202501_CS_445"
+}

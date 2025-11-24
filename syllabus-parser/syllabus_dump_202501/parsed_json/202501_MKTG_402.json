@@ -1,0 +1,53 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Consumer Behavior - MKTG 402",
+    "classroom": "FASS-G049",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "MKTG 301",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "İpek Nur Nibat",
+      "email": "ipek.nibat@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course examines the basic concepts (e.g. attitude, learning, motivation, etc.) explaining how and why consumers make purchasing decisions, and the differences in affective, cognitive, and behavioral characteristics of customers.",
+  "course_learning_outcomes": [
+    "? To understand the concepts, theories, and principles from the social sciences that apply to consumers and their purchasing behavior ? To learn how to make appropriate marketing decisions based on a sound knowledge of consumer behavior concepts ? To become a better consumer by understanding how consumer behavior principles possibly affect your own buying patterns Besides the content-related objectives, the students will be able to: ? Successfully gain experience in working with a group."
+  ],
+  "course_objective": "This course explores the psychological and socio-cultural factors influencing consumer behavior. It aims to provide insights into how consumers perceive the marketing stimuli around them, form attitudes, and make consumption decisions, as well as how the culture shapes consumer behavior. The class discussions, assignments, and a team project help students develop a deep understanding of consumer behavior and its practical relevance for businesses. The course provides not only essential theoretical elements of consumer behavior but also practical knowledge about how to conduct and interpret consumer research. This course will enable students to analyze consumer behavior dynamics critically and adopt a \"consumer-oriented\" vision as future managers.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "participation": 15,
+    "individual project": 15,
+    "group project": 35,
+    "other": 35
+  },
+  "program_requirements": [
+    {
+      "program": "Decision and Behavior",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "MKTG",
+  "cn": "402",
+  "section": null,
+  "key": "202501_MKTG_402"
+}

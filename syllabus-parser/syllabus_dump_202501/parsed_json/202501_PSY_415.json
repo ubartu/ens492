@@ -1,0 +1,46 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Seminar in Memory and Attention - PSY 415",
+    "classroom": "FASS-1079",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "PSY 201",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Eren Günseli",
+      "email": "eren.gunseli@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course explores the most recent advances in interactions between attention and memory. Topics include the role of memories for guiding attention, and the role of attention for encoding, manipulation, storage, retrieval of memories. The goal of the course is to provide an advanced, state-of-art understanding of the interactions between memory and attention, and to deliver the skills for critically evaluating the relevant research.",
+  "course_learning_outcomes": [
+    "The goal of the course is to provide an advanced, state- of-art understanding of memory and attention, and to deliver the skills for critically evaluating the relevant research."
+  ],
+  "course_objective": null,
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "assignment": 30,
+    "participation": 40,
+    "presentation": 30
+  },
+  "program_requirements": [
+    {
+      "program": "Psychology",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "PSY",
+  "cn": "415",
+  "section": null,
+  "key": "202501_PSY_415"
+}

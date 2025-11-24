@@ -1,0 +1,299 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Special Topics in MFG:Advanced Mechanics of Composite Structures - MFG 58002",
+    "classroom": "FENS-L048",
+    "level_of_course": "Masters",
+    "course_credits": "SU Credit:3.000, ECTS:10",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Adnan Kefal",
+      "email": "adnankefal@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course will cover advanced mechanics of composite structures through macroscale modelling of composite materials using high-order laminate theories, and through experimental characterization, and data acquisition and analysis. In order to carry out conceptual design, initial sizing and preliminary modelling of composite structural components, design engineers need a thorough understanding of the experimental mechanics as well as strength, stability, and dynamic mechanical response of thin and thick plates/shells made of composite materials. In this context, students will be given an overview of standards and tests methods for experimental identification of material properties of laminates and sandwich structures. In addition, the constitutive equations and strain-stress transformation equations will be reviewed in the context of modelling composite structures. Beam, plate, and shell kinematics will be introduced based on different lamination theories including layer-wise, zigzag, high-order shear deformation theories. Principles of virtual work and minimum potential energy will be presented for bending, buckling, vibration problems of plate and shell structures. Analytical/numerical solutions of these problems will be included. Computational modelling will include post- processing methods to obtain accurate interlaminar and transverse-shear stresses and quantify damage mechanisms such as delamination, impact, and fracture resistance of composite materials.",
+  "course_learning_outcomes": [
+    "Affordable and Clean Energy",
+    "Industry, Innovation and Infrastructure"
+  ],
+  "course_objective": [
+    "The primary objective of this course is to provide graduate-level students and early-stage researchers with a comprehensive understanding of the advanced mechanics of composite materials and structures, bridging theoretical models with experimental practices. Specifically, the course aims to:",
+    "Develop a deep theoretical foundation in the continuum mechanics of laminated composite structures, including advanced lamination theories (layer-wise, zigzag, and high-order shear deformation models) for beams, plates, and shells.",
+    "Introduce experimental methods and standards for the characterization of lamina, laminate, and sandwich composites, enabling students to connect modeling assumptions with real-world material behavior.",
+    "Equip students with the analytical and computational tools required to analyze strength, stability, vibration, and failure of composite structures under various loading and boundary conditions.",
+    "Cultivate practical design capabilities by guiding students in conceptual design, laminate stacking, initial sizing, and preliminary modeling for engineering applications in aerospace, mechanical, manufacturing, and mechatronics fields.",
+    "Expose students to modern approaches in structural health monitoring (SHM) and nondestructive testing (NDT), including optical, thermal, and sensor-based measurement techniques for the evaluation of damage, delamination, and fracture resistance.",
+    "Bridge theory and practice by integrating analytical derivations, numerical simulations, and experimental observations into a unified framework for reliable and lightweight composite structural design.",
+    "Learning Outcomes:",
+    "At the conclusion of this course, students should be able to:",
+    "Design and set up experiments for identifying effective mechanical properties of composite structures.",
+    "Perform strain measurements using different measurement techniques and process experimental data.",
+    "Perform coordinate transformation of stress, strain, and stiffness properties of isotropic, orthotropic, and anisotropic materials.",
+    "Perform analytical and numerical structural analysis of unidirectional ply, composite layer, laminates, and sandwich structures using layerwise, zigzag, and higher-order shear deformation theories.",
+    "Predict interlaminar displacements/stresses/strains of laminated composites and sandwich structures (beams, plates, shells) under tensile, bending, torsion, and buckling loads.",
+    "Assess strength, damage, and failure mechanisms of laminates based on various failure criterions."
+  ],
+  "course_materials": {
+    "resources": [
+      "1) Buragohain, M.K., 2017. Composite structures: design, mechanics, analysis, manufacturing, and testing. CRC press. 2) Altenbach H., Altenbach J., Kissing, W., 2018. Mechanics of composite structural elements. Springer-Verlag. 3) Oñate, E., 2013. Structural analysis with the finite element method. Linear statics: volume 2: beams, plates and shells. Springer Science & Business Media. 4) Barbero, E.J., 2007. Finite element analysis of composite materials. CRC press. 5) Reddy, J.N., 2003. Mechanics of laminated composite plates and shells: theory and analysis. CRC press."
+    ],
+    "technology_requirements": "1) Personal laptop/workstation. 2) FEA software (e.g., ANSYS Mechanical APDL) and MATLAB/Python for modeling and analysis."
+  },
+  "assessment_percent": {
+    "final": 50,
+    "midterm": 30,
+    "group project": 20
+  },
+  "program_requirements": [
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Physics (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Biological Sciences and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Computer Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Electronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering and Computer Science (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Electronics Engineering and Computer Science (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Physics (non-thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Manufacturing Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Data Science (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Materials Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Manufacturing Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Manufacturing Engineering (non-thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Mathematics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Cyber Security (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Energy Technologies and Management (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Mechatronics LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Physics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Industrial Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering and Computer Science",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Bio. Sci. & Bioeng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Computer Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Elec. Eng&Comp Sc.LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Electronics Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Materials Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mathematics (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Cyber Security",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "MFG",
+  "cn": "58002",
+  "section": null,
+  "key": "202501_MFG_58002"
+}

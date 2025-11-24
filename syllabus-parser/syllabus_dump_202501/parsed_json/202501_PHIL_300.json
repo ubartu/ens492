@@ -1,0 +1,61 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Philosophy of Science - PHIL 300",
+    "classroom": "FASS-1099,FENS-L061",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "SPS 101 and  SPS 102",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Gürol Irzık",
+      "email": "irzik@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course is an introduction to the main issues and approaches in the philosophy of science. Topics to be covered are the origins, the nature and the aims of science; the problem of demarcation; the problem of induction; the nature of scientific explanation; the rationality of science and scientific objectivity; scientific method, theories and their testing; scientific revolutions; realism/anti-realism debate; and science and values.",
+  "course_learning_outcomes": [
+    "Learning the nature of science and how it differs from non-scientific endeavors.",
+    "Developing an ability to analyze scientific texts (identifying the hypothesis or theory under test, identifying initial conditions and auxiliary assumptions required for testing, specifying the prediction, assessing the outcome of the testing.)",
+    "Understanding science not only as an cognitive-epistemic system of thought and practice, but also as a social institution in its relation to the broader social context and values."
+  ],
+  "course_objective": "Introduce the students to the main issues in the philosophy of science. Topics to be covered are scientific theories and their testing; aims of science; the problem of demarcation; the problem of induction; the nature of scientific explanation; scientific revolutions, objectivity and rationality of science; and the relationship between science and values.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 40,
+    "participation": 10,
+    "attendance": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Cultural Studies",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Philosophy",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Entrepreneurship",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "PHIL",
+  "cn": "300",
+  "section": null,
+  "key": "202501_PHIL_300"
+}

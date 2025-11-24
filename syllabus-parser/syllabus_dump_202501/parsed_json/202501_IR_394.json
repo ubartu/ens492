@@ -1,0 +1,66 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "World Politics - IR 394",
+    "classroom": "FASS-1080",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "SPS 101 or  SPS 102",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Ayşe Betül Çelik",
+      "email": "bcelik@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course identifies the external processes that affect states in a multi-disciplinary approach. The students will exposed to the recent developments in international politics through a theoretical lens acquired in IR theory courses. One aspect of the course is to furnish students with the capacity to link internal/domestic developments to external events. The issues where they will be able to develop the linkage will be foreign policy making and the impact of domestic politics on foreign policy making. In that aspect, the course is mostly geared towards the liberal institutionalist school of IR. The course will focus on the impact of the international crisis on domestic structures, the concept of change and turbulence in international politics, the role of culture and identity in world politics.",
+  "course_learning_outcomes": [
+    "Upon completion of this course, students should be able to: 1. Develop a knowledge and understanding of key issues in the international arena. 2. Explore trends in debates about how the 'new international agenda' relates to the interests of key actors, and about perceptions of key issues and problems. 3. Apply knowledge and analysis of international relations in both a verbal and written context. 4. Demonstrate improvement in written communication skills"
+  ],
+  "course_objective": "? to develop a knowledge and understanding of key issues in the international arena. ? to explore trends in debates about how the 'new international agenda' relates to the interests of key actors, and about perceptions of key issues and problems. ? to enhance students? capabilities to apply their knowledge and analysis of international relations in both a verbal and written context",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 25,
+    "quiz": 10,
+    "participation": 10,
+    "presentation": 20
+  },
+  "program_requirements": [
+    {
+      "program": "International Studies",
+      "required": true,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Political Science",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Political Science and International Relations",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Sustainability",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "IR",
+  "cn": "394",
+  "section": null,
+  "key": "202501_IR_394"
+}

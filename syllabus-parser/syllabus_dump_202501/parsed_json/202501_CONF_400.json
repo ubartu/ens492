@@ -1,0 +1,66 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "International Conflict and Peace - CONF 400",
+    "classroom": "FASS-1080",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "SPS 101 and  SPS 102",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Ayşe Betül Çelik",
+      "email": "bcelik@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course provides an overview of the related fields of peace studies and conflict resolution by exploring different definitions, perspectives, actors, and tools available to practitioners and scholars. It is a survey of the theoretical and empirical literature on the causes and conditions of international conflict and peace. It examines the history and development of contending approaches to conflict and peace, their basic assumptions and methodologies, and their application to current conflict situations, with particular emphasis upon the following: peace through coercive power; peace through nonviolence; peace through world order; and peace through personal and community transformation.",
+  "course_learning_outcomes": null,
+  "course_objective": [
+    "Objective: To become more knowledgeable concerning the role of peacekeeping, peacemaking, and peacebuilding during all phases of conflict: pre-conflict, conflict, and post-conflict.",
+    "Objectives: To examine the steps involved in putting a conflict resolution plan to work and methods of dealing with ambiguity and change in such contexts.",
+    "Objectives: To understand theories and concepts of peace and conflict and their application to global, regional and local contexts."
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 45,
+    "midterm": 40,
+    "participation": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Political Science",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Conflict Analysis & Resolution",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "International Studies",
+      "required": false,
+      "core_elective": true,
+      "area_elective": true
+    },
+    {
+      "program": "Political Science and International Relations",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "CONF",
+  "cn": "400",
+  "section": null,
+  "key": "202501_CONF_400"
+}

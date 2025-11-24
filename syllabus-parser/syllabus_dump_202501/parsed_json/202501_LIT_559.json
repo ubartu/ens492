@@ -1,0 +1,110 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Literature, Ideology, Resistance - LIT 559",
+    "classroom": "FASS-1097",
+    "level_of_course": "Masters",
+    "course_credits": "SU Credit:3.000, ECTS:10",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Sibel Irzık",
+      "email": "sibeli@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course focuses on some of the major literary figures responsible for innovating literature's political role in society and redefining the responsibility of artists and critics in the twentieth century. The euphoria created by the struggles against colonization and racial and class oppression in various parts of the world led artists to reevaluate the political possibilities of literature. The study of a group of writers at the nexus of these struggles incorporates a critical dialogue on cultural studies. Accordingly, the course puts the emphasis on the theoretical debates on how culture, ideology, 'race', ethnicity and class have been defined and/or represented. An important learning outcome is to equip the student with the conceptual tools to analyze a variety of literary texts with respect to politics, ideology and resistance.",
+  "course_learning_outcomes": [
+    "ability to explore the manner in which political themes emerge in literary works and the intersections of political discourses with literary texts",
+    "ability to analyze the relationships between different forms of writing and politics",
+    "awareness of the ways in which literary discourses contribute to, critique, and subvert political ones",
+    "ability to analyze cultural representations in their historical and political contexts as well as in their relations with political theories"
+  ],
+  "course_objective": "Sustainable Development Goals (SDGs) Related to This Course: Quality Education",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 50,
+    "midterm": 40,
+    "participation": 5,
+    "attendance": 5
+  },
+  "program_requirements": [
+    {
+      "program": "MS-Industrial Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Materials Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Mechatronics LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Bio. Sci. & Bioeng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Cultural Studies (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Biological Sciences and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Materials Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Cultural Studies (non-thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "LIT",
+  "cn": "559",
+  "section": null,
+  "key": "202501_LIT_559"
+}

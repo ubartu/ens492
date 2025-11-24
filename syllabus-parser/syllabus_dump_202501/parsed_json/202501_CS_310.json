@@ -1,0 +1,103 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Mobile Application Development - CS 310",
+    "classroom": "FENS-G077,FMAN-G071",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "CS 204",
+    "corequisites": "Course Type:",
+    "course_type": null
+  },
+  "instructors": [
+    {
+      "name": "Saima Gül",
+      "email": "saima.gul@sabanciuniv.edu"
+    },
+    {
+      "name": "Lectures",
+      "email": null
+    }
+  ],
+  "catalog_course_description": "The objective of this course is to provide students with the skills needed to build mobile applications. The course starts with an introduction to the required programming environments and moves forward with creating stateful web services and developing mobile applications consuming web services. Upon successful completion of this course, students are expected to design, code and implement applications on mobile and hand-held devices with limited resources; understand web services; manage messaging with HTTP; and deploy/consume web services.",
+  "course_learning_outcomes": [
+    "Gain knowledge on Object-Oriented Programming techniques for Mobile and Web Applications.",
+    "Gain knowledge on developing multi-tier applications.",
+    "Get Experienced on developing web APIs.",
+    "Create user interfaces and navigation for mobile applications.",
+    "Send and receive mobile application data via networking.",
+    "Gain general knowledge and experience on Mobile Applications, tools and techniques."
+  ],
+  "course_objective": "The main objective of this course is to provide students with the tools and skills needed to build applications for mobile platforms. The course starts with a brief introduction to Object Oriented Programming and moves forward with creating stateful web services and developing mobile applications consuming web services via the the mobile platform of concern.",
+  "course_materials": {
+    "resources": [
+      "All course materials will be available on SUCourse, including:",
+      "Lecture Notes",
+      "Example Codes",
+      "Project Steps"
+    ],
+    "technology_requirements": "Flutter: https://docs.flutter.dev/get-started/install Dartpad - https://dartpad.dev/ Dart docs - https://dart.dev/guides"
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 30,
+    "quiz": 10,
+    "group project": 25
+  },
+  "program_requirements": [
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "310",
+  "section": null,
+  "key": "202501_CS_310"
+}

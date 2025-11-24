@@ -1,0 +1,126 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Human Computer Interaction - CS 449",
+    "classroom": "FENS-L045",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "IF 100",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Polat Göktaş",
+      "email": "polat.goktas@sabanciuniv.edu"
+    },
+    {
+      "name": "My office is located in Room G052, FENS.",
+      "email": null
+    }
+  ],
+  "catalog_course_description": "This course provides students with a sound introduction to the discipline of HCI and examines the issues of human factors, user experience (UX), the design and test of computer application interfaces. It focuses on the context of designing and using of computer interfaces and covers methodologies for obtaining and interpreting human behaviour as it applies to the design of user interfaces. Students will develop skills in observing and working with users in interdisciplinary groups, identifying constraints and trade-offs on designs within the context of use, and using models of work and other activity as guides to interface design.",
+  "course_learning_outcomes": [
+    "Develop valid and reliable usability evaluation plans for any information technology.",
+    "Design and test user interface software elements using the suitable tools.",
+    "Select and apply the suitable HCI research methods."
+  ],
+  "course_objective": [
+    "The primary objective of this course is to provide students with a comprehensive foundation in the interdisciplinary field of HCI, integrating theoretical frameworks with applied, research-oriented methodologies. By the conclusion of the course, students will have developed the knowledge and skills required to analyze, design, implement, and evaluate interactive systems that align with human needs, cognitive capabilities, and contextual constraints. Specifically, students will be able to:",
+    "Demonstrate a systematic understanding of HCI principles and theoretical foundations, including core concepts such as usability, affordances, feedback, mental models, and accessibility, as they relate to the design and evaluation of user interfaces.",
+    "Apply UCD approaches to the iterative development of interactive systems, incorporating techniques such as task analysis, persona development, scenario creation, and wireframing to inform evidence-based design decisions.",
+    "Design and prototype digital interfaces using contemporary tools, such as Figma, Adobe XD, and MediaPipe, with a focus on developing both low- and high-fidelity prototypes that support usability, efficiency, and user satisfaction.",
+    "Design and conduct empirical usability studies, employing both formative and summative evaluation techniques. Students will learn to plan user testing sessions, collect and analyze performance data, and apply heuristic evaluation and cognitive modelling (e.g., via CogTool) to assess interaction quality.",
+    "Engage with data-driven decision-making through big data analytics, including the acquisition, preprocessing, and interpretation of interaction data. Students will utilize tools such as Python (pandas, matplotlib, seaborn), Tableau, and Power BI to extract meaningful insights from user behaviour datasets.",
+    "Communicate research findings effectively through scientific writing and data visualization. Students will be expected to structure and present their work in accordance with APA or ACM formatting guidelines, demonstrating academic integrity and clarity in reporting research processes and outcomes.",
+    "Address ethical, social, and inclusive design considerations in the development of digital systems. This includes evaluating the implications of design decisions on diverse user populations and ensuring compliance with ethical standards related to data collection, privacy, accessibility, and bias mitigation.",
+    "Through the integration of practical tools and academic inquiry, this course aims to cultivate students’ ability to contribute meaningfully to both industry-focused user experience roles and academically rigorous research in HCI."
+  ],
+  "course_materials": {
+    "resources": [
+      "A reading package will be used. Required and optional readings will be available on SUCOURSE. Key Readings:",
+      "Interaction Design: Beyond Human-Computer Interaction - Rogers, Sharp & Preece.",
+      "The Design of Everyday Things - Don Norman.",
+      "Research Methods in HCI - Lazar, Feng, Hochheiser. Online Tools & Platforms:",
+      "Design: Figma, Adobe XD, Miro",
+      "Development: Python (pandas, matplotlib, seaborn), OpenCV, MediaPipe",
+      "Cognitive Modeling: CogTool",
+      "Usability & Testing: Google Forms, OBS Studio, Hotjar",
+      "Visualization: Tableau, Power BI, Plotly",
+      "Scientific Writing: Overleaf (LaTeX), Zotero, Mendeley Websites:",
+      "Bad Designs (Examples) www.baddesigns.com/examples.html This is a great site for examples of the sorts of bad designs that exist all around us. The entries here are fine but lack any theoretical analysis.",
+      "Graphical User Interface Wikipedia",
+      "A non-profit enterprise focused on educating, informing and stimulating the global design community Interaction-Design.org",
+      "HCIBIB - HCI Bibliography : Human-Computer Interaction Resources http://www.hcibib.org/",
+      "Turkish HCI Open Courseware https://kullanilabilirlik.info/",
+      "TÜBİTAK Usability Guidelines Website https://bilgem.tubitak.gov.tr/en/yte/kamis/ (English) https://bilgem.tubitak.gov.tr/yte/kamis/(Turkish) Other Resources",
+      "Ronald M. Baecker, Jonathan Grudin, William A. S. Buxton and Saul Greenberg, Readings in Human-Computer Interaction: Toward the Year 2000, 2nd Ed, Morgan Kaufmann, (1995) (1-55860-246-1)",
+      "Frederic P. Brooks, Jr., The Design of Design: Essays from a Computer Scientist, Addison-Wesley (2010) (0-201-36298-8)",
+      "Alan Cooper & Robert M. Reimann, About Face 2.0: The Essentials of Interaction Design, John Wiley, 2nd Ed (2003) (0-764-52641-3)",
+      "Alan Dix, Janet Finlay, Gregory Abowd, Russell Beale, Human-Computer Interaction, 2nd Ed, Addison-Wesley (1995) (0-13-239864-8)",
+      "JoAnn T. Hackos Janice C. Redish, User and Task Analysis for Interface Design, 3rd Ed, John Wiley (1998). (0-471-17831-4)",
+      "Jeff Johnson, GUI Bloopers - Don'ts and Do's for Software Developers and Web Designers, Academic Press (2000) (1-55860-582-7)",
+      "William M. Newman and Michael G. Lamming, Interactive System Design, Addison-Wesley (1995) (0-201-63162-8)",
+      "Jakob Nielsen, Designing Web Usability: The Practice of Simplicity, New Riders, 1st Ed (Dec 1999) (1-562-05810-X)",
+      "Jenny Preece - Yvoone Rogers, Helen Sharp, David Benyon, Simon Holland and Tom Carey, Human-Computer Interaction, Addison-Wesley (1994) (0-201-62769-8)"
+    ],
+    "technology_requirements": "To successfully complete this course, students must: • Participate actively in lectures, hands-on experiences, and discussion sessions. • Complete all individual and group assignments on time. • Use selected digital tools for design, data analysis, and visualization. • Submit a project proposal and a full research report based on an HCI problem. • Present their research results using visuals and scientific formats. • Maintain academic integrity and adhere to the academic English language’ writing conventions."
+  },
+  "assessment_percent": {
+    "final": 25,
+    "assignment": 20,
+    "case study": 5,
+    "participation": 5,
+    "group project": 45
+  },
+  "program_requirements": [
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "449",
+  "section": null,
+  "key": "202501_CS_449"
+}

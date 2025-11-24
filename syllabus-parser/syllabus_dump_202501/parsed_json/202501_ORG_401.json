@@ -1,0 +1,52 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Human Resources Management - ORG 401",
+    "classroom": "FENS-L063",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "ORG 302",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Alex Cayrol",
+      "email": "alex.cayrol@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course discusses the role of the human resources function in organizations. Topics covered include methods and uses of job analysis, recruitment and selection of employees, employee training and development, appraising employee performance, management of rewards and benefits, industrial and labor relations in Türkiye and in the world.",
+  "course_learning_outcomes": [
+    "By the end of the course, students will be able to: 1. Discuss the importance of human resource management as a field of study and as a central management function; 2. Identify the implications for human resource management of the behavioral sciences, government regulations, and court decisions; 3. Define the elements of the personnel function (e.g. - recruitment, selection, training, etc.) and describe each element's key concepts and terminology 4. Apply the principles and techniques of human resource management gained through this course to the discussion of major personnel issues and the solution of typical case problems"
+  ],
+  "course_objective": "Sustainable Development Goals (SDGs) Related to This Course: Decent Work and Economic Growth",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "quiz": 30,
+    "attendance": 20,
+    "group project": 50
+  },
+  "program_requirements": [
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Entrepreneurship",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ORG",
+  "cn": "401",
+  "section": null,
+  "key": "202501_ORG_401"
+}

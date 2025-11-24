@@ -1,0 +1,85 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Social Psychology - PSY 340",
+    "classroom": "FASS-1089",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:7",
+    "prerequisites": "PSY 201 and  SPS 102",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Gül Günaydın",
+      "email": "gul.gunaydin@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course is an introduction to social psychology, the study of human interaction. Social psychology is concerned with the reciprocal influence between the social environment and people's attitudes and behaviors about themselves and others. This will be a survey course, offering an overview of the important topics that comprise the field of social psychology including: social influences, prosocial behavior, group processes, gender, authority, conformity, attitude formation, aggression, persuasion and propaganda, attraction, stereotypes, and self-esteem. Emphasis will be placed on learning basic theories about human behavior in social contexts, and applying such frameworks and research to real-life settings in politics, education, law, health care, etc.",
+  "course_learning_outcomes": [
+    "Understand basic concepts in social psychology",
+    "Understand well-known theories in social psychology",
+    "Understand the basics of social psychological research",
+    "Critically evaluate social psychology studies",
+    "Identify real-life applications of social psychological research"
+  ],
+  "course_objective": [
+    "To advance the learner's scientific knowledge of social psychology.",
+    "To help the learner to develop their skills in understanding how one thinks, feels, and behaves in social situations."
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "midterm": 60,
+    "assignment": 18,
+    "participation": 3,
+    "group project": 18,
+    "homework": 1
+  },
+  "program_requirements": [
+    {
+      "program": "Psychology",
+      "required": true,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Decision and Behavior",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Cultural Studies",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Society, Culture and Politics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "PSY",
+  "cn": "340",
+  "section": null,
+  "key": "202501_PSY_340"
+}

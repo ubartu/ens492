@@ -1,0 +1,114 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Artificial Intelligence - CS 404",
+    "classroom": "FMAN-G071",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:2, Engineering:4",
+    "prerequisites": "CS 201 or  DSA 201",
+    "corequisites": "Course Type:",
+    "course_type": null
+  },
+  "instructors": [
+    {
+      "name": "Ayşe Berrin Yanıkoğlu",
+      "email": "berrin@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course is a broad technical introduction to fundamental concepts and techniques in artificial intelligence. Topics include problem solving, search, knowledge representation and reasoning, reasoning and decision making under uncertainty. Other important topics and current application areas of artificial intelligence, such as automated planning, machine learning, computer vision, robotics, natural language understanding, and intelligent agents, will be discussed.",
+  "course_learning_outcomes": [
+    "To have an elementary understanding of various fundamental concepts and methods in AI for an intelligent agent.",
+    "To have an elementary and solid understanding of problem solving using search algorithms, and to be able to demonstrate it on various problems.",
+    "To have an elementary and solid understanding of representing knowledge in classical logic, and to apply reasoning/inference methods over logical formulae.",
+    "To have an elementary and solid understanding of reasoning and decision making under uncertainty.",
+    "To have an elementary understanding of an advanced topic in AI.",
+    "To have an understanding of the state-of-the-art AI applications/tools."
+  ],
+  "course_objective": null,
+  "course_materials": {
+    "resources": [
+      "Artificial Intelligence: A Modern Approach, Russell & Norvig, 4th ed."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 30,
+    "quiz": 10,
+    "assignment": 25
+  },
+  "program_requirements": [
+    {
+      "program": "Decision and Behavior",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Business Analytics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "404",
+  "section": null,
+  "key": "202501_CS_404"
+}

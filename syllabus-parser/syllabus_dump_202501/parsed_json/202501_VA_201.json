@@ -1,0 +1,51 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Visual Language I - VA 201",
+    "classroom": "SUSAM-1012",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:4.000, ECTS:7",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Studio"
+  },
+  "instructors": [
+    {
+      "name": "Christopher Çolak",
+      "email": "christopher.colak@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course approaches drawing as both a technical skill and a method of inquiry. Through observation, structured experiments, and collaborative tasks, students will examine how drawing can be used to analyze and alter our understanding of objects, spaces, and concepts. The course focuses on drawing’s ability to construct, dismantle, and reconfigure visual forms. Students will use a range of materials, scales, and methods to explore ideas such as fragmentation, reconstruction, and conceptual development. By the end of the semester, each student will produce a set of works demonstrating a clear and reflective use of drawing as a flexible research tool.",
+  "course_learning_outcomes": [
+    "Establish a foundation for competence in basic drawing techniques including line control, basic perspective and composition.",
+    "Experiment with a variety of drawing media to explore their characteristics and expressive qualities.",
+    "Understand the basic concepts of spatial representation and translate three-dimensional forms into two dimensions.",
+    "Begin to analyze and discuss works of art, developing visual literacy and critical thinking skills.",
+    "Engage in self-reflection to analyze personal creative choices and motivations."
+  ],
+  "course_objective": [
+    "This course will start with some information and exercises about seeing and creating images. It will move on to the basic visual elements and their various characteristics. It will move onto how we see, and the principles of Gestalt in terms of visual perception in design. There will be numerous basic design exercises to teach students how to consciously assemble various visual elements to achieve particular effects and to efficiently communicate in visual language. Students will be learning to use visual principals and strategies such as gestalt, emphasis, balance, grouping, continuity, rhythm, contrast and harmony."
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "assignment": 80,
+    "homework": 20
+  },
+  "program_requirements": [
+    {
+      "program": "Visual Arts and Visual Communications Design",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "VA",
+  "cn": "201",
+  "section": null,
+  "key": "202501_VA_201"
+}

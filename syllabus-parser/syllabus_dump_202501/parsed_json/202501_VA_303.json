@@ -1,0 +1,46 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Design Studio I - VA 303",
+    "classroom": "FASS-1015",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:7",
+    "prerequisites": "VA 201 and  VA 203",
+    "corequisites": "-",
+    "course_type": "Studio"
+  },
+  "instructors": [
+    {
+      "name": "Onur Fatih Yazıcıgil",
+      "email": "oyazicigil@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Coverage of the basic concepts of Graphic Design, such as Typography, Page Layout and Image creation and processing and their basic interactions.",
+  "course_learning_outcomes": [
+    "To learn how to build design systems that revolve around a logotype and consists of many diverse objects which make up a branding."
+  ],
+  "course_objective": [
+    "This studio class is designed to introduce complex design principles and applications. Students will engage in projects that require a deep understanding of visual communication strategies, typography, branding, digital media, and develop a body of work that demonstrates their ability to solve design problems creatively. Students will be given a semester-long project: “designing a comprehensive branding system for an exsisting company”. The project consists of three phases (A, B, and C)."
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": "Adobe Illustrator, Photoshop and InDesign"
+  },
+  "assessment_percent": {
+    "final": 100
+  },
+  "program_requirements": [
+    {
+      "program": "Visual Arts and Visual Communications Design",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "VA",
+  "cn": "303",
+  "section": null,
+  "key": "202501_VA_303"
+}

@@ -1,0 +1,93 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Electrochemistry - CHEM 405",
+    "classroom": "FENS-L029,FENS-L056",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:4, Engineering:2",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Selmiye Alkan Gürsel",
+      "email": "selmiye@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Fundamentals of electrochemistry including electrode potentials, electrochemical cell, Faradays law, electrical conductivity, mass transfer. Basic techniques in electrochemistry including potentiostatic and galvanostatic methods, cyclic voltammetry, electrochemical impedance spectroscopy. Applications of electrochemistry: electrochemical polymerization, conducting polymers, batteries, fuel cells.",
+  "course_learning_outcomes": [
+    "Describe (draw) an electrochemical cell, and to calculate potential of an electrochemical cell",
+    "Describe thermodynamics of electrochemistry",
+    "Explain and use Faraday laws",
+    "Discuss about electrode kinetics",
+    "Describe conductivity and solve problems about conductivity",
+    "Describe electrochemical techniques, including voltammetry and impedance spectroscopy",
+    "Discuss about conducting polymers, batteries and fuel cells"
+  ],
+  "course_objective": [
+    "To provide a foundation in theoretical electrochemistry which is sufficient for the understanding of many basic phenomena.",
+    "To teach the theory behind a number of advanced electrochemical methods.",
+    "To familiarize the student with those electrochemical methods that are exploited in many electroanalytical and technologically important applications such as fuel cells, electrolysis and batteries."
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "individual project": 30,
+    "homework": 15,
+    "other": 20
+  },
+  "program_requirements": [
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Battery Science and Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Chemistry",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Energy",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "CHEM",
+  "cn": "405",
+  "section": null,
+  "key": "202501_CHEM_405"
+}

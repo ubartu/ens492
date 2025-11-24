@@ -1,0 +1,56 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Literature, Ideology and  Resistance - LIT 359",
+    "classroom": "FASS-1097",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Sibel Irzık",
+      "email": "sibeli@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course focuses on some of the major literary figures responsible for innovating literature's political role in society and redefining the responsibility of artists and critics in the twentieth century. The euphoria created by the struggles against colonization and racial and class oppression in various parts of the world led artists to reevaluate the political possibilities of literature. The study of a group of writers at the nexus of these struggles will incorporate a critical dialogue on cultural studies. Accordingly, the course puts the emphasis on the theoretical debates on how culture, ideology, 'race', ethnicity and class have been defined and/or represented. An important learning outcome is to equip the student with the conceptual tools to analyze a variety of literary texts with respect to politics, ideology and resistance",
+  "course_learning_outcomes": [
+    "ability to explore the ways in which political themes emerge in literary texts",
+    "awareness of the relationships between forms of writing and politics",
+    "ability to interpret and analyze literary texts in their social and political contexts",
+    "awareness of how literature contributes to and critiques political discourses"
+  ],
+  "course_objective": "To give an overview of representations of politics in modern literature and to discuss the problems associated with politics and art.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 50,
+    "participation": 5,
+    "attendance": 5
+  },
+  "program_requirements": [
+    {
+      "program": "Cultural Studies",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Society, Culture and Politics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "LIT",
+  "cn": "359",
+  "section": null,
+  "key": "202501_LIT_359"
+}

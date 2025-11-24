@@ -1,0 +1,70 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Production and Service Systems Planning and Design - IE 304",
+    "classroom": "FASS-1050,FASS-G018",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "MS 301 or  IE 301 or  IE 311",
+    "corequisites": "Course Type:",
+    "course_type": null
+  },
+  "instructors": [
+    {
+      "name": "Bülent Çatay",
+      "email": "catay@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Product/process modeling and analysis; facility site selection and layout; material and information flow; shop floor control systems; assembly lines; manufacturing lines; shop scheduling; flexible manufacturing systems; group technology.",
+  "course_learning_outcomes": [
+    "Studying different production systems and assembly line balancing via modeling and heuristics",
+    "Designing manufacturing cells by applying group technology",
+    "Modeling and solving machine scheduling problems",
+    "Modeling and solving facility layout and location problems"
+  ],
+  "course_objective": "This course is intended to introduce the students to the design and operation of manufacturing and service facilities. We will present a conceptual description and classification of modern production environments and address major issues faced during the planning and control of their operation. We will focus on the decomposition of the overall production planning and control problem to a number of subproblems, and the development of quantitative techniques and analytical tools for addressing the arising subproblems. The topics include (but are not limited to) assembly lines, sequencing and scheduling, flexible manufacturing systems, group technology and cellular manufacturing, and facilities planning and design. Although the focus is on manufacturing systems, emphasis will be given to introduce the application of methodologies covered for manufacturing systems to service systems as well. The students are expected to have a solid background in formulating linear programming models. GUROBI solver will be used with Python to model and solve the production planning problems. Although it is not a prerequisite, it is strongly recommended that you had taken and passed IE 312.",
+  "course_materials": {
+    "resources": [
+      "Modeling and Analysis of Manufacturing Systems. R.G. Askin and C.R. Standridge, John Wiley, 1993. [TS155.6 .A75 1993]",
+      "Production and Operations Analysis. S. Nahmias, Irwin/McGraw-Hill, 2013. [TS155 .N34 2013] Facilities Design, 5th edition. S. Heragu. CRC Press, 2022. [TS177 .H47 2022] (eBook available online at the Information Center)"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 60,
+    "quiz": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "IE",
+  "cn": "304",
+  "section": null,
+  "key": "202501_IE_304"
+}

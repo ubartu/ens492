@@ -1,0 +1,131 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "European Union: Politics, Policies and Governance - POLS 592",
+    "classroom": "FASS-1099",
+    "level_of_course": "Masters",
+    "course_credits": "SU Credit:3.000, ECTS:10",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Senem Aydın Düzgit",
+      "email": "saduzgit@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course aims to provide the students with a basic understanding of the European Union. The course will give an evolution of the idea of European unity through a neo-functionalist framework. The main focus of the course is on the emergence of the European Union and its institutions in a historical framework. The ultimate objective is to furnish students with the comprehension that the state is going through a major transformation in Europe due to the process of European integration.",
+  "course_learning_outcomes": [
+    "At the end of the course, the learner is expected to be able to explain the process of European integration, effectively discuss the EU and its institutions and from these skills, the learner is expected to make complex inferences on European Union and its policies. * Identify the process of European integration * List the main theories of integration * Distinguish between different theories of European integration * Grasp the European Union's institutional mechanism * Apply theories of integration to specific EU policies and treaties * Accept the usefulness of the integration theories to understand the EU"
+  ],
+  "course_objective": "The ultimate objective is to furnish students with the comprehension that the European Union is an important experiment in pooling of sovereignty. The aim is to provide the graduate students with a basic understanding of the process of European integration and the European Union",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 30,
+    "term-paper": 30,
+    "participation": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Political Science (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "European Studies (with thesis)",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "European Studies (non-thesis)",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "International Relations (non-thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Biological Sciences and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Materials Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Materials Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Bio. Sci. & Bioeng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Mechatronics LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Political Science (non-thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "MS-Industrial Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Political Science",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "POLS",
+  "cn": "592",
+  "section": null,
+  "key": "202501_POLS_592"
+}

@@ -1,0 +1,74 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Entrepreneurial Technology Commercialization - MGMT 415",
+    "classroom": "FENS-L055,FENS-L056",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Berna Beyhan",
+      "email": "bernabeyhan@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course will provide you the skills that are necessary to assess ideas and technologies for their technical merit and commercial potential. You will understand real life high impact success stories such as Google’s creation and Genentech’s spin out story from MIT. You will have the opportunity study and learn about Intellectual Property, Venture Capital, Technology Entrepreneurship and Technology Transfer industries.",
+  "course_learning_outcomes": [
+    "Explain and use some main concepts such as innovation, types of innovation, technology life cycle, dominant design, technology commercialization, technology transfer, technology-based ventures etc.",
+    "Explain the process of creating technological innovations and their link to entrepreneurship process",
+    "Understand the technology commercialization concept and process, challenges and problems in the commercialization process",
+    "Understand the main issues of intellectual property management, the process of technology licensing and technology transfer to / from start-ups .",
+    "Develop a business model for a new technology-based product/service"
+  ],
+  "course_objective": "This course introduces students to the concept of technological innovation and technology entrepreneurship. It focuses on the subject of technological innovations, the process of bringing innovation from laboratories to markets, how new ventures discover and seize technological opportunities and the process of new technology-based venture formation process. The aim of this course is to provide students with some necessary skills to assess new technologies for their technological and commercial potentials, to recognize the link between new technologies and entrepreneurial opportunities, to understand the legal procedure for the protection of new technologies, products, services, etc., to understand the product development and design stages and the launch of new products to customers and the marketing of new high-tech based products and services. In this course, the aim is not only to understand the theories of technological innovations and entrepreneurship but also to discuss the practice of technology commercialization and technology venture creation. Therefore, case studies and course final project are important; most of the theoretical parts are followed by the case studies. In this course, technology transfer from universities to industry, intellectual property protection, licensing, new product development, lean entrepreneurship and creation of technology-based ventures will be discussed in details.",
+  "course_materials": {
+    "resources": [
+      "Textbook: From Research to Market: A Comprehensive Guide (2024) By Alvaro Ossa. Springer: Cham., Switzerland. Additional Readings: The reading materials will be provided by the instructor in an online Coursepack",
+      "1- Feder, T. (2021). Guiding inventions from lab to market. Physics Today 74 (2), 24–27. https://doi.org/10.1063/PT.3.4676",
+      "2- Moore, R.C.; Ajilore, O.; Leow, A. (2022). Building a fitness tracker for the brain: A journey from lab to consumers. Journal of Commercial Biotechnology, 27(1), 27–6. https://doi.org/10.5912/jcb1017",
+      "3- Lavin, A.; Gilligan-Lee, C.; Visnjic, A.; Ganju, S.; et al. (2022). Technology readiness levels for machine learning systems. Nature Communications, 13: 6039. https://doi.org/10.1038/s41467-022-33128-9",
+      "4- Types of innovation: Several types on many fronts. In “Harvard Business Essentials: Innovator's Toolkit” by Harvard Business School Press. Product ID: 7195BC-PDF-ENG",
+      "5- Intellectual Property in Tough Tech Ventures. Harvard Business School Publications. Product ID: 9-825-045-PDF-ENG",
+      "6- Prototyping: A quick introduction. Harvard Business School Publications. Product ID: E414-PDF-ENG",
+      "7- Turn your science into business. Harvard Business School Publications. Product ID: R1411F-PDF-ENG",
+      "8- The innovator’s DNA. Harvard Business School Publications. Product ID: R0912E-PDF-ENG"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 20,
+    "assignment": 15,
+    "participation": 10,
+    "group project": 20
+  },
+  "program_requirements": [
+    {
+      "program": "Entrepreneurship",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Energy",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "MGMT",
+  "cn": "415",
+  "section": null,
+  "key": "202501_MGMT_415"
+}

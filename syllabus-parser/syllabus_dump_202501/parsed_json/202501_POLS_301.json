@@ -1,0 +1,61 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Political Theory I - POLS 301",
+    "classroom": "FASS-1011",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "SPS 101 and  SPS 102",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Banu Turnaoğlu",
+      "email": "banu.turnaoglu@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "All societies reflect on how to structure and govern common life, the values that ought to guide it, and the forces that shape it. This course surveys the varying answers given to these questions by different political philosophers such as Aristotle, Nizamülmülk, Machiavelli, Hobbes, Marx, Namık Kemal ve Mill.",
+  "course_learning_outcomes": [
+    "Identify and discuss the major concepts deployed in a theory and their argumentative articulation.",
+    "Comprehend and critique such theories.",
+    "Evaluate ideas, arguments and texts."
+  ],
+  "course_objective": "This course introduces students to some of the fundamental concepts, issues and perspectives in political philosophy. The themes that the course will cover are wide ranging: Political obligation and its limits, rationality, the individual, Enlightenment, morality, modernity and power, among many others. Different perspectives will be carefully studied and questioned, especially with regard to what they can teach us about our contemporary situation.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 30,
+    "term-paper": 25,
+    "attendance": 5
+  },
+  "program_requirements": [
+    {
+      "program": "Political Science",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Philosophy",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Political Science and International Relations",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "POLS",
+  "cn": "301",
+  "section": null,
+  "key": "202501_POLS_301"
+}

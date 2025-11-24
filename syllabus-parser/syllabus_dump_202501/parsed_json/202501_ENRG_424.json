@@ -1,0 +1,111 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Cell Design, Modelling and Battery Pack Development - ENRG 424",
+    "classroom": "FENS-L048,FENS-L058",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:3, Engineering:3",
+    "prerequisites": "-",
+    "corequisites": "ENRG 424L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Alp Yürüm",
+      "email": "alp.yurum@sabanciuniv.edu"
+    },
+    {
+      "name": "Selmiye Alkan Gürsel",
+      "email": "selmiye@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course provides a comprehensive understanding of the principles, design,and modelling of battery cells and modelingof battery packs by combining theoretical knowledge with practical skills and industry applications. Students will learn not only theoretical foundations of electrochemistry, various battery technologies, practical design considerations, and advance modeling techniques but also focusing on applications in electric vehicles and energy storage systems. The course additionally covers module and pack design, including structural modeling and simulations,electrical architecture thermal management configurations, as well as safety mechanisms. Practical skills will be developed through laboratory and hands-on sessions for software development, simulation and modeling exercises.",
+  "course_learning_outcomes": [
+    "Number of assessment methods",
+    "1"
+  ],
+  "course_objective": [
+    "To understand the fundamental concepts of electrochemistry and cell operation.",
+    "To gain knowledge of cell, including cell components, configurations, topology and electrical architectures.",
+    "To learn the impact of design on cell performance and cycle life.",
+    "To learn battery modelling techniques, including empirical, equivalent circuit, and electrochemical models including structural aspects.",
+    "To understand the fundamental concepts of battery operation.",
+    "To explore thermal management and safety considerations in battery design.",
+    "To analyze the application of battery design and modeling in electric vehicles and renewable energy storage.",
+    "To develop practical skills through hands-on laboratory sessions.",
+    "Learning Outcomes:",
+    "Understand Battery Basics: Become familiar with battery terminology and explain principles of electrochemistry, cell components, and configurations.",
+    "Design Battery Cells, Modules and Packs: Develop and fabricate different types of electrodes and select appropriate electrolytes. Learn cell manufacturing techniques. Realize the parameters affecting cell performance. Develop CAD models for module and packs based on different cell topologies and electrical architectures, and conduct basic structural analyses",
+    "Practical Skills: Have hands-on experience in cells starting from analyzing active materials to assembly of coin and pouch cell.",
+    "Implement Thermal Management: Conduct thermal modeling and develop thermal management strategies.",
+    "Ensure Battery Management and Safety: Understand various battery management techniques and apply safety standards and design protection mechanisms in battery packs",
+    "Test and Validate Batteries: Create testing procedures, validate designs against standards, and generate test reports."
+  ],
+  "course_materials": {
+    "resources": [
+      "\"Lithium-Ion Batteries: Science and Technologies\" edited by Masaki Yoshio, Ralph J. Brodd, and Akiya Kozawa (2009), \"Advanced Batteries: Materials Science Aspects\" by Robert Huggins (2009), \"Battery Systems Engineering: Modeling and Control\" by Christopher D. Rahn and Chao-Yang Wang (2013), \"Lithium-Ion Battery Materials and Engineering: Current Topics and Problems from the Manufacturing Perspective\" edited by Malgorzata K. Gulbinska (2014), “Handbook of Batteries” edited by David Linden and Thomas B. Reddy, McGraw-Hill (2011), \"Modeling and Simulation of Batteries for Electric Vehicles: From Cell to System\" by Rui Xiong (2019), \"Battery Management Systems: Design by Modeling\" by Gregory L. Plett (2015), \"Thermal Management of Electric Vehicle Battery Systems (Automotive Series) 1st Edition\" by Ibrahim Dinçer, Halil S. Hamut, and Nader Javani (2017)"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 30,
+    "other": 30
+  },
+  "program_requirements": [
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Energy",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ENRG",
+  "cn": "424",
+  "section": null,
+  "key": "202501_ENRG_424"
+}

@@ -1,0 +1,50 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Philosophy of Artificial Intelligence - PHIL 370",
+    "classroom": "FASS-1079,FASS-2031",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Hüseyin Sungur Kuyumcuoğlu",
+      "email": "huseyin.kuyumcuoglu@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course is an introduction to philosophy of current and possible future artificial intelligence technologies. Some topics that we will cover include the existential threat that AI is thought to pose on humanity, intelligence explosion and the singularity, autonomy of AI systems, algorithmic bias, autonomous weapons, self-driving cars, robot rights, and moral agency of AI systems.",
+  "course_learning_outcomes": [
+    "Demonstrate familiarity with contemporary discussions in the philosophy of artificial intelligence.",
+    "Differentiate and assess philosophical positions on key problems discussed in the course.",
+    "Express arguments clearly and concisely in both written and oral formats.",
+    "Take individual responsibility for assignments and work collaboratively with peers to complete group projects."
+  ],
+  "course_objective": null,
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "quiz": 10,
+    "participation": 10,
+    "group project": 40,
+    "presentation": 40
+  },
+  "program_requirements": [
+    {
+      "program": "Philosophy",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "PHIL",
+  "cn": "370",
+  "section": null,
+  "key": "202501_PHIL_370"
+}

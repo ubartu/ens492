@@ -1,0 +1,94 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Cryptography - CS 411",
+    "classroom": "FMAN-G071",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "MATH 204",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Erkay Savaş",
+      "email": "erkays@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This is an introductory course on cryptography. Topics include: Classical cryptosystems, basics of number theory, symmetric key cryptography (stream and block ciphers), hash functions, public key cryptosystems (RSA, discrete logarithm based algorithms, and elliptic curve cryptography (ECC)), digital signatures, implementation issues, secure key establishment techniques, secret sharing, and zero-knowledge proof.",
+  "course_learning_outcomes": [
+    "Show a good understanding of security issues in a classical communications scenario.",
+    "Explain why classical ciphers such as those using mono-or poly alphabetic substitution techniques are weak.",
+    "Demonstrate a good understanding of introductory number theory pertaining to prime numbers, divisibility, rings, groups, finite fields.",
+    "Use software libraries for number theory and cryptographic operations and build applications using these libraries.",
+    "Outline the classic taxonomy of cryptographic algorithms, and give contemporary examples for different classes in the taxonomy",
+    "Explain the difference between stream ciphers and block ciphers and the difference between symmetric ciphers and asymmetric ciphers, and areas of their usage.",
+    "Demonstrate a good understanding of block cipher design principles",
+    "Demonstrate a good understanding of public key cryptosystems",
+    "Give at least one example for hard problems, on which contemporary cryptographic algorithms are based.",
+    "Demonstrate a good understanding of security levels provided by different classes of cryptographic algorithms",
+    "Demonstrate a good understanding of public key certificates and their usage in securing communication channels.",
+    "Design and implement a simple communication protocol that provides basic security functionality including confidentiality, integrity, authentication, non-repudiation for communicating parties."
+  ],
+  "course_objective": null,
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 30,
+    "group project": 15,
+    "homework": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "411",
+  "section": null,
+  "key": "202501_CS_411"
+}

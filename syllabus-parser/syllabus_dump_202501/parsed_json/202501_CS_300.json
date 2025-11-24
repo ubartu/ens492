@@ -1,0 +1,99 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Data Structures - CS 300",
+    "classroom": "FMAN-G071,UC-G030",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:1, Engineering:5",
+    "prerequisites": "CS 204",
+    "corequisites": "CS 300R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Cemal Yılmaz",
+      "email": "cyilmaz@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course covers some of the fundamental data structures as well as the algorithms operating on them. Topics included are: Introduction to theoretical aspects of computing: modeling algorithms and their run times, computational complexity. Linear data structures (lists, stacks, queues), trees (binary search trees, AVL trees, tree traversals), hash tables, priority queues, disjoint sets, sorting algorithms, graphs and their representations, graph algorithms (depth first and breadth first search, single source shortest path algorithms), sorting algorithms, algorithmic paradigms (divide and conquer, greedy, dynamic programming).",
+  "course_learning_outcomes": [
+    "describe common data structures and associated algorithms",
+    "contrast the advantages and disadvantages of these data structures",
+    "apply these data structures to develop algorithmic solutions to practical problems",
+    "design new data structures and associated algorithms",
+    "analyze the computational complexity of simple algorithms and programs"
+  ],
+  "course_objective": [
+    "To introduce fundamental techniques of algorithm analysis",
+    "To introduce common data structures, their properties and implementation",
+    "To apply C++ programming skills to implement solutions using common data structures to practical problems"
+  ],
+  "course_materials": {
+    "resources": [
+      "Data Structures & Algorithm Analysis in C++, (2nd, 3rd, or 4th edition), Mark Allen Weiss, Pearson, 2014, ISBN 0-273-76938-3 (4th edition)."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 45,
+    "quiz": 5,
+    "homework": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "300",
+  "section": null,
+  "key": "202501_CS_300"
+}

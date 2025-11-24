@@ -1,0 +1,51 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Emotion - PSY 311",
+    "classroom": "FASS-G052",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "PSY 201 and  SPS 102",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Robert Booth",
+      "email": "robertbooth@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course will introduce students to the rapidly developing field of emotion science. Students will learn about the biological function, neurology, and physiology of emotions in humans and other animals, and about strategies for measuring and classifying emotions. The course will also examine interactions between emotion and cognitive functions, and how these can be used to understand and treat mental illnesses.",
+  "course_learning_outcomes": [
+    "To gain knowledge of major theoretical approaches to understanding emotions",
+    "To understand how emotions interact with cognitive processes",
+    "To gain experience discussing and criticising research articles in an informal environment",
+    "To gain experience preparing an extended essay based on the student's own, unguided reading of primary research literature"
+  ],
+  "course_objective": "The goal of this course is to introduce students to key theoretical debates and empirical phenomena from modern emotion science. The course will focus on the links between emotions, cognition, and psychopathology, including anxiety and depression.",
+  "course_materials": {
+    "resources": [
+      "My lectures and discussion articles ... beyond that, you must find your own resources! But you can use my 'Background' folders to get you started."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "assignment": 50,
+    "attendance": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Psychology",
+      "required": false,
+      "core_elective": true,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "PSY",
+  "cn": "311",
+  "section": null,
+  "key": "202501_PSY_311"
+}

@@ -1,0 +1,121 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Artificial Intelligence & Creativity - VA 565",
+    "classroom": "FASS-1014",
+    "level_of_course": "Masters",
+    "course_credits": "SU Credit:3.000, ECTS:10",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Selçuk Hüseyin Artut",
+      "email": "sartut@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course explores the intersection of artificial intelligence and human creativity, equipping students with the skills to navigate and utilize AI tools for creative tasks. Students will engage in hands-on projects, critically examine the ethical and intellectual property implications of AI, and reflect on speculative futures in creative industries. Tasks will be approached both with and without AI to understand its influence on the creative process.",
+  "course_learning_outcomes": [
+    "Understand the role of AI in creative industries.",
+    "Analyze ethical and legal aspects of AI, including intellectual property rights",
+    "Use AI tools for storywriting, storyboarding, animating, and creating visuals",
+    "Develop projects that explore speculative futures in AI-driven creativity",
+    "Reflect on the differences between AI-assisted and traditional creative processes"
+  ],
+  "course_objective": [
+    "Explore the creative potential of AI as both a collaborator and a tool in the production of art, design, and storytelling. 2. Foster a critical understanding of the ethical, social, and intellectual property implications of using AI in creative practices. 3. Develop hybrid creative skills by blending traditional artistic methods with contemporary AI-assisted approaches. 4. Encourage reflective practice that examines the role of the human creator in a technologically augmented creative environment. 5. Engage in speculative thinking about future trajectories of creativity, authorship, and innovation in an AI-driven world."
+  ],
+  "course_materials": {
+    "resources": [
+      "AI writing assistants (e.g., ChatGPT, Gemini). Generative art platforms (e.g., Wan, Qwen, Flux)."
+    ],
+    "technology_requirements": "Students may use their own computers provided they meet the following hardware requirements: Minimum RTX 3000 series NVIDIA graphics card (PC). If this setup is not available, students are expected to use the computers provided in the lab."
+  },
+  "assessment_percent": {
+    "assignment": 40,
+    "participation": 5,
+    "attendance": 5,
+    "individual project": 50
+  },
+  "program_requirements": [
+    {
+      "program": "MS-Bio. Sci. & Bioeng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Materials Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Materials Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Visual Arts and Visual Communications Design (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Industrial Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Mechatronics LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Business Analytics (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Biological Sciences and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Visual Arts and Visual Communications Design (non-thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "VA",
+  "cn": "565",
+  "section": null,
+  "key": "202501_VA_565"
+}

@@ -1,0 +1,152 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Trends in Psychological Science - PSY 501",
+    "classroom": "FASS-2031",
+    "level_of_course": "Masters",
+    "course_credits": "SU Credit:3.000, ECTS:10",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Çiğdem Bağcı",
+      "email": "cigdem.bagci@sabanciuniv.edu"
+    },
+    {
+      "name": "Robert Booth",
+      "email": "robertbooth@sabanciuniv.edu"
+    },
+    {
+      "name": "Nihan Alp",
+      "email": "nihanalp@sabanciuniv.edu"
+    },
+    {
+      "name": "Nebi Sümer",
+      "email": "nebisumer@sabanciuniv.edu"
+    },
+    {
+      "name": "Gül Günaydın",
+      "email": "gul.gunaydin@sabanciuniv.edu"
+    },
+    {
+      "name": "Eren Günseli",
+      "email": "eren.gunseli@sabanciuniv.edu"
+    },
+    {
+      "name": "Feyza Çorapçı",
+      "email": "feyza.corapci@sabanciuniv.edu"
+    },
+    {
+      "name": "Çağla Aydın",
+      "email": "caglaaydin@sabanciuniv.edu"
+    },
+    {
+      "name": "Olesya Blazhenkova",
+      "email": "olesya@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course aims to survey cutting-edge research in psychological sciences. Faculty members take turns in discussing with students research articles in their area of expertise that reflect current trends, novel research directions, and hot debates in psychological sciences —including social,developmental, and cognitive psychology as well as neuroscience",
+  "course_learning_outcomes": [
+    "to build academic breadth outside of students' immediate research area",
+    "to familiarize students with the ongoing research programs in faculty labs"
+  ],
+  "course_objective": "Learn recent psychological research trends",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "assignment": 45,
+    "participation": 27,
+    "attendance": 10,
+    "presentation": 18
+  },
+  "program_requirements": [
+    {
+      "program": "Leaders for Industry Biological Sciences and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Psychology (non-thesis)",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Materials Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Materials Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Industrial Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Social Psychology",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "MS-Bio. Sci. & Bioeng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Experimental Psychology",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Mechatronics LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Psychology (with thesis)",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "PSY",
+  "cn": "501",
+  "section": null,
+  "key": "202501_PSY_501"
+}

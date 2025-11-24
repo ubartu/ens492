@@ -1,0 +1,100 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Software Engineering - CS 308",
+    "classroom": "UC-G030",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:4.000, ECTS:7, Engineering:7",
+    "prerequisites": "CS 204",
+    "corequisites": "CS 308L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Mohammad Yusaf Azimi",
+      "email": "yusaf.azimi@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course covers the following fundamental topics in software engineering: software and software engineering, software development processes, agile development, requirements engineering, object-oriented software modeling, object-oriented software design, software design patterns, software architecture, and software quality assurance. The application of the theoretical knowledge gained in the lectures, is achieved by carrying out large-scale software engineering projects in teams.",
+  "course_learning_outcomes": [
+    "Describe the basics of the software engineering process life cycle.",
+    "Identify, formulate, and solve basic software engineering problems, including the requirements gathering, specification, design, architecture, and testing of software systems.",
+    "Analyze software engineering artifacts, including the requirements, design, and architecture of software systems.",
+    "Design basic object-oriented software systems that meet requirements by applying OO software development principles and design/architectural patterns.",
+    "Evaluate the impact of potential solutions to basic software engineering problems."
+  ],
+  "course_objective": "To introduce the basics of the software engineering process life cycle, including requirements gathering, specification, and testing. To introduce the principles of object-oriented (OO) analysis and design, as well as software architecture, through OO principles and design/architectural patterns. To introduce the basics of UML (Unified Modeling Language) ? a way of expressing requirements and design in software engineering. To practice the application of object-oriented software development principles through a team project. To develop teamwork and communication skills through a team project.",
+  "course_materials": {
+    "resources": [
+      "Object-Oriented Software Engineering: Practical Software Development using UML and Java, Timothy C. Lethbridge and Robert Laganiere, McGraw Hill, ISBN 0-07-710908-2",
+      "Software Engineering, Ian Sommerville, Pearson, ISBN 0-13-394303-8",
+      "The Mythical Man-Month, Frederick P. Brooks, ISBN 0-201-83585-9",
+      "Design Patterns, Eric Gamma et. al., Pearson, ISBN 0-201-63361-2",
+      "Scrum: A Breathtakingly Brief and Agile Introduction, C. Sims & H. L. Johnson, Dymaxion Press, ISBN 978-1937965-04-4",
+      "Code Complete, Steve McConnell, Microsoft Press, ISBN 9780735619678"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 20,
+    "midterm": 20,
+    "quiz": 10,
+    "group project": 50
+  },
+  "program_requirements": [
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "308",
+  "section": null,
+  "key": "202501_CS_308"
+}

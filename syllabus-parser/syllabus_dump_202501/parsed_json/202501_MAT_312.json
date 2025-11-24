@@ -1,0 +1,97 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Materials Characterization - MAT 312",
+    "classroom": "FENS-L055,FENS-L062",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:4.000, ECTS:7, Engineering:7",
+    "prerequisites": "ENS 202 and  MAT 204 and  ENS 205",
+    "corequisites": "MAT 312L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Fevzi Çakmak Cebeci",
+      "email": "fccebeci@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Material types classified according to atomic composition; material types classified according to application; physical and chemical properties of materials; aspects of materials which might interest a chemist, physicist, and engineer; surface properties of materials compared to bulk properties; molecular and morphological basis of material physico- chemical properties; DSC analysis of materials; TGA analysis; static contact angle analysis; rheometric analysis FT-IR analyses; X-ray diffractometric analysis; solid state NMR analysis.",
+  "course_learning_outcomes": [
+    "Use of heat, light, electrons, and x-rays to probe material structure",
+    "Explain the basic operating principles, capabilities and limitations of structural, morphological, and thermal characterization instruments",
+    "Describe and model structural features of the material are being investigated",
+    "Identify the appropriate experimental method for a specific materials analysis problem",
+    "Analyze and interpret data obtained from materials analysis experiments to deduce information about the structure-property relationship in the material",
+    "Communicate the structure-property relationship for a materials design challenge",
+    "Discuss the relationship between hard material structure, properties, processing, and performance",
+    "Discuss the relationship between soft material structure, properties, processing, and performance"
+  ],
+  "course_objective": [
+    "The focus of this course will be the analysis and characterization of engineered materials, to develop an intuitive understanding of their structure?properties?processing?performance relationships. To this end, a broad selection of commonly used characterization tools will be the subject of discussions and demonstration. We will use heat, light, electrons, and x?rays to probe the material structure. For each technique, we will address the structural features of the material being investigated, and interpret the results of analyses to deduce information about the structure?property relationship in the material.",
+    "Stories that we pursue in this class will enable us to,",
+    "relate material properties to their structure and processing history",
+    "develop new materials based on our understanding of structure?properties relationships",
+    "understand how to extract material information by choosing the best analysis method"
+  ],
+  "course_materials": {
+    "resources": [
+      "Atkin's Physical Chemistry / by Atkins and de Paula; any edition",
+      "Microstructural characterization of materials / by D. Brandon, W.D. Kaplan, Wiley, 1999",
+      "Materials science and engineering: an introduction / by William D. Callister, Wiley, 2003",
+      "Electronic Properties of Engineering Materials / by James D. Livingston, Wiley, 1999",
+      "Introduction to Solid State Physics / by Charles Kittel"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 20,
+    "midterm": 20,
+    "participation": 10,
+    "group project": 10,
+    "other": 40
+  },
+  "program_requirements": [
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Energy",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "MAT",
+  "cn": "312",
+  "section": null,
+  "key": "202501_MAT_312"
+}

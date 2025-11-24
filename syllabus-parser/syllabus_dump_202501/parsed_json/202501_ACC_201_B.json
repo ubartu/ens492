@@ -1,0 +1,59 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Introduction to Financial Accounting and Reporting - ACC 201 Section B",
+    "classroom": "FENS-L035",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "Course Type:",
+    "course_type": null
+  },
+  "instructors": [
+    {
+      "name": "Turgay Sakin",
+      "email": "turgay.sakin@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Introduction to Financial Accounting and Reporting Accounting is the information system organizations use to identify, record and communicate relevant economic events and as such all management students should have a strong background in accounting. The purpose of this course is to familiarize the students with basic accounting concepts, principles, and methods as well as to teach them the basic business terminology they will encounter in future management courses and in the business world. The course will help the students appreciate the role of accounting information in financial decision making and is intended to serve as a foundation for subsequent Accounting and Finance courses. The topics covered include demand for accounting information by internal and external users in making investment and credit decisions; supply of accounting information and the institutional background for generally accepted accounting principles; the format and the content of the four basic financial statements; analysis and recording of business transactions through the recording cycle; accounting for current assets including trade receivables and inventories; plant- property- equipment and depreciation; financing through short and long-term debt versus equity; and basic financial ratio analysis. The course is based on International Financial Reporting Standards (IFRS).",
+  "course_learning_outcomes": [
+    "Upon successful completion of the course, the student should be able to: 1. Explain how accounting information is used in resource allocation decisions by users internal and external to the firm, 2. Describe the basic assumptions, concepts and principles of financial accounting, 3. Analyze business transactions in terms of their effect on financial statements and be able to record them formally in company books, 4. Distinguish cash flows (cash basis) from income measurement (accrual basis) , 5. Prepare a set of simple financial statements and classify their components for a more meaningful interpretation of the statements, 6. Broadly assess the financial position, profitability and cash flows of a firm through simple ratio analysis. 7. Understand and use basic accounting/financial terminology."
+  ],
+  "course_objective": "The objectives of the course are to introduce students to the main types of financial information shown in the financial statements (F/S) of large companies, to help students understand the main types of business transactions and how they affect the financial statements and to introduce students to important business terminology encountered in today's business world.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 25,
+    "quiz": 20,
+    "homework": 20
+  },
+  "program_requirements": [
+    {
+      "program": "Economics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ACC",
+  "cn": "201",
+  "section": "B",
+  "key": "202501_ACC_201_B"
+}

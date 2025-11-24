@@ -1,0 +1,62 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Introduction to Neuroscience - PSY 350",
+    "classroom": "FASS-1075,FASS-1101",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:7",
+    "prerequisites": "SPS 102 or  NS 102",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Nihan Alp",
+      "email": "nihanalp@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course will focus on the biological basis of human brain, covering topics such as neural functioning (membrane potentials, ion channels, neurotransmitters, synapses, etc.), the basis of brain organization (cortices, nuclei, axonal paths, etc.), and main neural circuitries (sensory pathways, motor system, limbic system, autonomous nervous system etc.). There will be a particular emphasis to link these electrical, chemical, and anatomical notions to the behavioral output. Topics include (but are not limited to) brain basic anatomy and function, a relationship between neural and chemical systems working together in the brain, and how we perceive the world around us.",
+  "course_learning_outcomes": [
+    "Students are expected to have a broad knowledge of the field of neuroscience.",
+    "Students are expected to communicate scientific findings clearly.",
+    "Students are expected to be critical and independent thinkers."
+  ],
+  "course_objective": "Sustainable Development Goals (SDGs) Related to This Course: Good Health and Well-being",
+  "course_materials": {
+    "resources": [
+      "Neuroscience Exploaring the Brain 4th Edition"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "midterm": 85,
+    "participation": 6,
+    "group project": 9
+  },
+  "program_requirements": [
+    {
+      "program": "Decision and Behavior",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Psychology",
+      "required": true,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "PSY",
+  "cn": "350",
+  "section": null,
+  "key": "202501_PSY_350"
+}

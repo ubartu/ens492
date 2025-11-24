@@ -1,0 +1,86 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Microbiology - BIO 306",
+    "classroom": "FENS-L035,FENS-L065",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:4.000, ECTS:7, Basic:7",
+    "prerequisites": "BIO 321 and  BIO 332",
+    "corequisites": "BIO 306L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Alex Lyakhovich",
+      "email": "alex.lyakhovich@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course will serve as an introduction to the new understanding of microbial activities and bacterial diversity; the major groups of microorganisms structure, cultivation and pathogenecity of bacteria and viruses; genetic and metabolic capabilities of microorganisms in their natural habitats and microbial ecology. Laboratory experiments will deal with isolation, cultivation and enrichment of diverse microorganisms.",
+  "course_learning_outcomes": [
+    "Have general idea about microbial taxonomy, bacterial diversity and evolution.",
+    "Clearly differentiate between prokaryotic cells and eukaryotic cells.",
+    "Define stages of microbial growth.",
+    "Define characteristics of viruses,differentiate between prokarytic and eukaryotic viruses.",
+    "Define general characteristics of archea domain.",
+    "Identify the phylogenetic relations between prokaryotes.",
+    "Have clear knowledge about different phylum of bacteria in the phylogenetic classification",
+    "Have a general idea about protists and fungi characteristics."
+  ],
+  "course_objective": "Objective of the course is to give a notion in basic microbiological systems and techniques",
+  "course_materials": {
+    "resources": [
+      "Prescott’s Microbiology / Joanne M. Willey, Kathleen M. Sandman, Dorothy H. Wood/",
+      "Eleventh edition. | New York, NY : McGraw-Hill Education, [2020] | LCCN 2018026319 | ISBN 9781260211887 (student edition) e-Book will be provided."
+    ],
+    "technology_requirements": "for the lab session, a student need to pass aformal training to work in the lab (bio- and chemical safety) Lecturre materials (text and slides in PDF) will be available after each lecture Additional book Microbiology An Introduction /Tortora-Funke-Case/ 3d edition or up"
+  },
+  "assessment_percent": {
+    "final": 20,
+    "midterm": 60,
+    "quiz": 20
+  },
+  "program_requirements": [
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "BIO",
+  "cn": "306",
+  "section": null,
+  "key": "202501_BIO_306"
+}

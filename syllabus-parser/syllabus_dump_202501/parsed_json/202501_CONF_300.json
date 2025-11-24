@@ -1,0 +1,56 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Conflict Analysis and Resolution - CONF 300",
+    "classroom": "FASS-1081,FASS-G043",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Çiğdem Bağcı",
+      "email": "cigdem.bagci@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course is an introduction to the field of conflict analysis and resolution. It introduces students concepts, and theories on why and how conflicts at various levels emerge, how they escalate, the consequences of conflicts, how they can be prevented, and possible constructive ways to address them. Throughout the course students will have an opportunity to discuss past and contemporary examples of inter-personal, inter- group, intra- and inter-state conflicts.",
+  "course_learning_outcomes": [
+    "Understand the basic concepts in CR",
+    "Know main social psychological and conflict theories",
+    "Understand underlying social psychological mechanisms in CR",
+    "Apply basic theories to different conflict contexts",
+    "Discuss the success of CR strategies"
+  ],
+  "course_objective": "This course provides students with an introduction to various processes of conflict across various intergroup contexts, looking at the different constructs such as prejudice, collective victimization, discrimination, hate crimes and communal violence and exploring both the causes of such intergroup conflict as well as potential avenues for intergroup reconciliation and conflict resolution. It focuses primarily on social psychological processes, as well as more macro-level mechanisms to understand intergroup conflict, including various strategies to reduce intergroup tension and conflict.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 35,
+    "group project": 25
+  },
+  "program_requirements": [
+    {
+      "program": "Decision and Behavior",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Conflict Analysis & Resolution",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "CONF",
+  "cn": "300",
+  "section": null,
+  "key": "202501_CONF_300"
+}

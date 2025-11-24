@@ -1,0 +1,63 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Spatial Data Science - ECON 494",
+    "classroom": "FASS-G052",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "Corequisites:",
+    "corequisites": null,
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Ivan Lopez Cruz",
+      "email": "ilopezcr@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course's central goal is to introduce the student to the analysis and employment of spatial datasets in the social sciences realm. It begins with a thorough description of R's tools and methods to manipulate and visualize geographic data. After becoming acquainted with the construction of spatial variables, the student learns how economists exploit the latter to uncover the causal mechanisms determining the link between historical developments (e.g., the colonization of America) and today's regional development levels. The course also deepens into various statistical models that incorporate parameters governing a given phenomenon's spatial diffusion, thereby tackling questions such as: how intense is the dissemination of violence across space following the outbreak of civil conflict? Will one municipalities' improvements in educational levels spill to adjacent localities? A discussion on estimation techniques, hypothesis testing, and an introduction to Machine Learning methods for spatial data marks the course's end.",
+  "course_learning_outcomes": null,
+  "course_objective": "In this course, students will learn how to analyze and use spatial datasets in social sciences. The discussion begins by providing a comprehensive overview of R's tools and techniques for manipulating and visualizing geographic data. Students will learn how economists use spatial variables to uncover the causal mechanisms behind the relationship between historical events like the colonization of America and today's regional development levels. In addition, the course delves into various statistical models that incorporate parameters governing the spatial diffusion of a phenomenon, answering questions like how violence spreads across space following the outbreak of civil conflict or whether an improvement in educational levels in one municipality will affect adjacent localities. The course concludes with a discussion on estimation techniques, hypothesis testing, and an introduction to machine learning methods for spatial data.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": "Bring your laptop to every class"
+  },
+  "assessment_percent": {
+    "midterm": 20,
+    "quiz": 50,
+    "group project": 15,
+    "presentation": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Economics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ECON",
+  "cn": "494",
+  "section": null,
+  "key": "202501_ECON_494"
+}

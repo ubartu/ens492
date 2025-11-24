@@ -1,0 +1,61 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Managerial Accounting - ACC 301",
+    "classroom": "FASS-G048",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "ACC 201 or  MGMT 202",
+    "corequisites": "Course Type:",
+    "course_type": null
+  },
+  "instructors": [
+    {
+      "name": "Turgay Sakin",
+      "email": "turgay.sakin@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Managerial accounting systems generate information that will assist managers in making day-to-day and and long-term strategic decisions. The course introduces the students to the design of accounting procedures and systems that support managerial planning and control of operations. It covers topics such as cost classifications, definitions, and behavior; design and analysis of product cost systems and product mix decisions; cost-volume-profit relationships; overhead cost allocations; developing cost standards and responsibility accounting systems; variance analysis; and introduction to activity-based costing.",
+  "course_learning_outcomes": [
+    "1. Explain how cost information is used in decisions by managers. 2. Describe the basic contents of management accounting. 3. Analyze business transactions in terms of their effect on the costs and operational items. 4. Understand and use basic management accounting terminology. 5. Analyze and interpret management accounting reports that provide both objective measures of past operations and subjective estimates about future decisions. 6. Analyze and interpret cost behavior. 7. Understand various cost systems 8. Analyze the types of standards, how they are used in budgeting and how they are established for businesses. 9. Prepare a differential analysis report for decision making. 10. Apply and analyze product costing allocation methods."
+  ],
+  "course_objective": [
+    "The objective of the course is that the student after the course has a basic understanding of the three main functions of managerial accounting; decision making, control and inventory valuation."
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 25,
+    "quiz": 20,
+    "homework": 20
+  },
+  "program_requirements": [
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Finance",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ACC",
+  "cn": "301",
+  "section": null,
+  "key": "202501_ACC_301"
+}

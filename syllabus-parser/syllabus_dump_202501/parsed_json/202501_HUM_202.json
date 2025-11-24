@@ -1,0 +1,47 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Major Works of Western Art - HUM 202",
+    "classroom": "FASS-G062",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:5",
+    "prerequisites": "Corequisites:",
+    "corequisites": null,
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Sinem Erdoğan İşkorkutan",
+      "email": "sinem.iskorkutan@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course deals with groundbreaking achievements in art and architecture. It is designed to be more comprehensive than the typical \"art appreciation\" courses offered elsewhere. Each lecture focuses on one work that is paradigmatic of an epoch, but will include comparisons with related works and a treatment of the historical, intellectual, and aesthetic background of the major work. Through lectures and discussions, students are given the opportunity to consider the intricacies of human creativity and the complex factors that come into play in a work of art. The course aims to assist students in developing criteria for their appraisal of the arts, as well as to stimulate them to reconsider their systems of values and to pursue their interests in the arts and humanities. In addition to the existing pre-requisite \" to have completed 23 credits\" for this course , a new condition will be added as \"to complete SPS 101 and SPS 102 courses at least with D grade\" as of the Fall semester of 2015-2016 Academic Year. Students who failed from SPS 101 and SPS 102 courses, do not have right to take this course.",
+  "course_learning_outcomes": [
+    "The ultimate goal is to impart to students a critical understanding of western art and its historiography.",
+    "Upon completion of this course students will be able to develop a contextual assessment of certain works of art and architecture from the western culture"
+  ],
+  "course_objective": "This course presents a general overview of art history, roughly spanning from the Bronze Age (ca. 3000–1500 B.C.E.) to the turn of the twentieth century. Following the western art historiographical canon, the course aims to criticize this Euro-centric methodological framework by drawing cross-cultural parallels for each week's theme that demonstrate contact and/or artistic transfer. Each week, the course will focus on certain works of art that are regarded to be representative of a particular period in art history or artistic style. While focusing on the iconographical aspects of these masterpieces, they will also be assessed within their historical context to explain the cultural aspects of representation as well as the social aspects of the production and commissioning of the chosen work(s). Moreover, each week, by drawing cross-cultural comparisons with some contemporary works of art from the east, the course aims to challenge and question the dominant position of these major art works within the western European art historiographical canon.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 25,
+    "assignment": 10
+  },
+  "program_requirements": [
+    {
+      "program": "2.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "HUM",
+  "cn": "202",
+  "section": null,
+  "key": "202501_HUM_202"
+}

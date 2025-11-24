@@ -1,0 +1,84 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Games and Strategies - ECON 201 Section A",
+    "classroom": "FASS-1001",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "Corequisites:",
+    "corequisites": null,
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Eren İnci",
+      "email": "ereninci@sabanciuniv.edu"
+    },
+    {
+      "name": "Available by appointment",
+      "email": null
+    }
+  ],
+  "catalog_course_description": "Examples and formulation of games, solution concepts: games with sequential moves, backward induction, games with simultaneous moves in normal form, Nash equilibrium, mixed strategies, subgame perfect equilibrium; prisoners' dilemma games, games with strategic moves, games with asymmetric games, games with strategic moves, games with asymmetric information, collective-action games, evolutionary games, voting, bargaining, bidding concepts of game theory. Applications to law, government, politics, diplomacy, business, management and economic behaviour. information, collective-action games, evolutionary games, voting, bargaining, bidding.",
+  "course_learning_outcomes": [
+    "Use game theory concepts correctly.",
+    "Construct simple models involving strategic interaction.",
+    "Relate real-life situations to the formal games seen in class.",
+    "Propose simple modifications in the rules of a game to achieve desirable social outcomes."
+  ],
+  "course_objective": "i) Show a systematic way of analyzing strategic situations in which the well being of individuals depends not only on what they do but also on what other individuals do, ii) Introduce students with the basic concepts and results of noncooperative game theory.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 35,
+    "quiz": 15,
+    "homework": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Decision and Behavior",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Economics",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "International Studies",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Conflict Analysis & Resolution",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ECON",
+  "cn": "201",
+  "section": "A",
+  "key": "202501_ECON_201_A"
+}

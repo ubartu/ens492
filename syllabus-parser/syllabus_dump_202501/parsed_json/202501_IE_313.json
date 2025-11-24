@@ -1,0 +1,84 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Operations Research III - IE 313",
+    "classroom": "FENS-L045",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:2, Engineering:4",
+    "prerequisites": "IE 305",
+    "corequisites": "IE 313R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Sinan Yıldırım",
+      "email": "sinanyildirim@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Introduction to stochastic processes with examples based on the appropriate manufacturing and service systems; decision making under uncertainty; Markov chains; production/inventory models; queuing systems.",
+  "course_learning_outcomes": [
+    "Have a basic knowledge of discrete time Markov chains (DTMCs), formulate suitable applications as DTMCs and analyze their transient and steady-state behaviors.",
+    "Have a basic knowledge of continuous time Markov chains (CTMCs), formulate suitable applications as CTMCs and analyze their transient and steady-state behaviors.",
+    "Develop a deeper understanding of certain CTMC classes including Poisson processes, birth-and-death processes, and queueing models.",
+    "Perform computation analysis of the stochastic processes of interest using a programming language."
+  ],
+  "course_objective": "The mission of this course is to continue studying the modeling and solution of decision problems using operations research techniques, with a particular emphasis on stochastic aspects.",
+  "course_materials": {
+    "resources": [
+      "The following material will be shared on SUCourse.",
+      "Textbook: Introduction to Stochastic Processes with R., Robert P. Dobrow, 1st Ed., Wiley. (Available at IC) https://risc01.sabanciuniv.edu/record=b2733539 The textbook is the main resource for the course.",
+      "Recitations",
+      "Python examples",
+      "Everything covered in the lectures (take your own notes)."
+    ],
+    "technology_requirements": "Course-relevant Python skills are required and part of the evaluation."
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 60
+  },
+  "program_requirements": [
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "IE",
+  "cn": "313",
+  "section": null,
+  "key": "202501_IE_313"
+}

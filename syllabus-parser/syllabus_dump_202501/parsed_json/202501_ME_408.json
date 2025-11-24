@@ -1,0 +1,67 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Mechatronics System Design - ME 408",
+    "classroom": "FASS-G049,FMAN-G045",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "( CS 201 and  ENS 203 and  ME 301 and  ME 303)",
+    "corequisites": "Course Type:",
+    "course_type": null
+  },
+  "instructors": [
+    {
+      "name": "Mehmet Mert Gülhan",
+      "email": "mert.gulhan@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course introduces mechatronics approach to smart product design. Specific topics inludes: the nature of mechatronics design; overview of mechatronic devices; overview of the integrated systems design; mechatronics product development strategy; design methods; case studies; reverse engineering (disassembly and analysis of commercially available mechatronic devices). The course imparts knowledge that will enable students to design a 'smart product' that meets market needs.",
+  "course_learning_outcomes": [
+    "Students should apply a systematic step-by-step engineering design approach applied to a realistic mechatronics design problem.",
+    "learn how the systematic engineering design process can support development process of complex, multidisciplinary mechatronic systems.",
+    "synthesize the knowledge and skills gained in their undergraduate classes within the design of a realistic design project.",
+    "develop the ability to address a broad range of requirements, including most of the following: performance, economic, marketing, environmental, sustainability, manufacturing, ethics, safety, social, and regulatory.",
+    "design a controlled electromechanical systems by the integration of functional elements from a multitude of disciplines."
+  ],
+  "course_objective": "To acquaint the students with system level design process on an example mechatronic system design project. Mechatronics system design deals with the design of controlled electromechanical systems by the integration of functional elements from a multitude of disciplines. It covers the fundamentals of design and applies it to each discipline by modelling various subsystems. It aims to apply this knowledge to a realistic mechatronics design problem.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "assignment": 20,
+    "individual project": 80
+  },
+  "program_requirements": [
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ME",
+  "cn": "408",
+  "section": null,
+  "key": "202501_ME_408"
+}

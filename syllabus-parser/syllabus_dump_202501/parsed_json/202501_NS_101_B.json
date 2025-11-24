@@ -1,0 +1,155 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Science of Nature I - NS 101 Section B",
+    "classroom": "FMAN-L014",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:4.000, ECTS:6, Basic:6",
+    "prerequisites": "-",
+    "corequisites": "NS 101R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Emine Süphan Bakkal",
+      "email": "suphanbakkal@sabanciuniv.edu"
+    },
+    {
+      "name": "Alhun Aydın",
+      "email": "alhun.aydin@sabanciuniv.edu"
+    },
+    {
+      "name": "Çiğdem Altıntaş",
+      "email": "cigdem.altintas@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Science of Nature courses aim to initiate a curiosity and desire for learning “scientific thinking” in students and at the same time to introduce some of the basic concepts of physical, chemical and biological sciences in connection with questions concerning the universe, nature and our daily life. The NS 101 course consists of two modules “(1) Are we alone in the universe?” and “(2) Is antibiotics resistance a big threat to the existence of humankind?” Scientific methodology and fundamental concepts in the physical, chemical, and biological sciences are introduced through an integrated approach in the framework of these questions. Upon completing NS 101, students will be able to: 1. Demonstrate skills for critical thinking, reasoning and problem solving through integration of different concepts and information. 2. Distinguish among scientific laws, hypothesis and theory and use them to differentiate facts from fiction. 3. Apply mathematical concepts to solve quantitative problems. 4. Demonstrate fundamental knowledge of the terminology, major concepts and theories of one or more fields in physical, chemical, and biological sciences. 5. Describe the role of science and technology, and develop skills for communicating scientific concepts and facts to society in general. 6. Demonstrate professionalism and ethics when using scientific approach to make informed decision in daily life situations.",
+  "course_learning_outcomes": [
+    "Relate the wide range of scales involved in Nature to familiar objects, and explain in his/her own words how we can investigate the module questions using the Scientific method.",
+    "Recognize Earth as a biosphere, and describe its position and motion in a larger structure such as the Solar system, an environment that hosts a habitable planet.",
+    "Apply the concept of force and momentum to explain what causes the motions of the planets and what holds the Solar system together, showing all the force vectors correctly.",
+    "Explain how the solar system may have formed and evaluate whether our solar system is unique or not.",
+    "By providing supporting evidence, describe how molecules of life can be synthesized under conditions similar to those on early Earth.",
+    "Relate various types of electromagnetic (EM) waves by giving daily-life examples and discuss how we can use the EM waves to search for extraterrestrial life.",
+    "Discuss the possibility of life beyond Earth considering habitability, the Drake equation, and the scales involved in the Solar system and our galaxy.",
+    "Discuss the seriousness of the antibiotic resistance problem, interpret parameters of population growth models and calculate bacterial growth rates.",
+    "Relate the targets of antibiotics in the bacterial cell and the antibiotic resistance mechanisms to replication, transcription and translation of information encoded in the DNA.",
+    "Relate the processes of passive (diffusive) and active transport to how drugs move in and out of the bacterial cell.",
+    "Relate the effect of temperature on the microscopic scale diffusion of antibiotic molecules in bacteria and model molecular configurations.",
+    "Examine the three-dimensional structures of molecules relevant to the antibiotic resistance problem, distinguish their bond types and their interactions.",
+    "Analyze at atomic scale structures of a given target site and a drug to determine if interactions would be stable, and argue if changes on the binding interface, e.g. due to point mutations, would alter the outcome on the organism scale.",
+    "Describe the role of evolutionary processes in the generation of antibiotic resistance"
+  ],
+  "course_objective": [
+    "To introduce the basic sciences as a unified concept for understanding nature. All 1st year students are obliged to take this course.",
+    "Science of Nature courses aim to initiate a curiosity and desire for learning, scientific thinking in students and at the same time to introduce some of the basic concepts of physical, chemical and biological sciences in connection with questions concerning the nature and our daily life.",
+    "The NS 101 course consists of two modules (1) “Are we alone in the universe” and (2) Is antibiotic resistance a big threat to the existence of humankind?” . Scientific methodology and fundamental concepts in the physical, chemical, and biological sciences are introduced through an integrated approach in the framework of these questions.",
+    "Upon completing NS 101, students will be able to:",
+    "-Demonstrate skills for critical thinking, reasoning, and problem solving through the integration of different concepts and information.",
+    "-Distinguish among scientific laws, hypotheses and theory and use them to differentiate facts from fiction.",
+    "-Apply mathematical concepts to solve quantitative problems.",
+    "-Demonstrate fundamental knowledge of the terminology, major concepts and theories of one or more fields in physical, chemical, and biological sciences.",
+    "-Describe the role of science and technology, and develop skills for communicating scientific concepts and facts to society in general.",
+    "-Demonstrate professionalism and ethics when using scientific approach to make informed decision in daily life situations."
+  ],
+  "course_materials": {
+    "resources": [
+      "There is no course book; however, there will be weekly resources provided on SUCourse under the module page (Universe Module or Antibiotic Resistance Module). Recommended Books \"Conceptual Integrated Science\", P. G. Hewitt (an e-copy available at the Information Center, click this link- you can check it out for 24 hours) \"Science of Nature I\", M. A. Alpar (PDF version available on SUCourse. Turkish version, \"Doğayı Öğrenmek - Fizik\" will also be available at the Information Center, on student reserve)"
+    ],
+    "technology_requirements": "Top Hat (Online Response System) In lectures, we will be using an online response system called Top Hat accessible from tophat.com on your web browser, or through free Top Hat app if using tablet. If you have not used the system before, please review this \"Getting Started\" guide before the first lecture. You must log in Top Hat with your SU email account name or it will not be counted."
+  },
+  "assessment_percent": {
+    "final": 5,
+    "midterm": 5,
+    "quiz": 10,
+    "assignment": 10,
+    "participation": 10,
+    "homework": 5
+  },
+  "program_requirements": [
+    {
+      "program": "2.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "3.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "4.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "5.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "6.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "7.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "8.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "9.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "10.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "11.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "12.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "13.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "14.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "NS",
+  "cn": "101",
+  "section": "B",
+  "key": "202501_NS_101_B"
+}

@@ -1,0 +1,69 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Introduction to Business Analytics - OPIM 390",
+    "classroom": "FMAN-G013,FMAN-G060",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "MGMT 203 or  MATH 306",
+    "corequisites": "OPIM 390R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Altuğ Tanaltay",
+      "email": "atanaltay@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "As an introductory course to this Minor Honors Program, the course will cover topics on the conceptual framework of business analytics, various sectoral application areas and a general introduction to analytical methods used. The course will also cover success stories from different sectors where business analytics is applied, and big data analytics in general, including its application areas, as a new and emerging area of interest.",
+  "course_learning_outcomes": [
+    "Number of assessment methods",
+    "1",
+    "10",
+    "1"
+  ],
+  "course_objective": null,
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 30,
+    "assignment": 15,
+    "attendance": 10,
+    "group project": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Data Science and Analytics",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Business Analytics",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "OPIM",
+  "cn": "390",
+  "section": null,
+  "key": "202501_OPIM_390"
+}

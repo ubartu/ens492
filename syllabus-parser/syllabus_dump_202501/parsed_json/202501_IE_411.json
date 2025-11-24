@@ -1,0 +1,72 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Modeling and Analysis of Large Systems - IE 411",
+    "classroom": "FASS-G052,FENS-L027",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "IE 312",
+    "corequisites": "Course Type:",
+    "course_type": null
+  },
+  "instructors": [
+    {
+      "name": "Esra Koca",
+      "email": "ekoca@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Modeling and analysis of large systems by bringing together a multitude of operations research techniques. Students will be exposed to unstructured problems particular in the areas of telecommunications and energy systems and will operate in teams to understand the problem, to transform it into a model, to bring a solution to the model using appropriate solution techniques, translate the model solution to problem solution.",
+  "course_learning_outcomes": [
+    "Develop strong mathematical models for different systems.",
+    "Develop efficient solution methods to solve the optimization problems that arise in large systems.",
+    "Implement the solution methods using optimization software and tools."
+  ],
+  "course_objective": [
+    "This course aims to equip students with a deep understanding of advanced modeling and solution techniques in Operations Research. The objectives are to:",
+    "Provide students with a conceptual framework for formulating and analyzing complex decision problems.",
+    "Cultivate an appreciation of the role of optimization in designing and managing large-scale systems.",
+    "Bridge the gap between theory and practice by highlighting how mathematical models and algorithms are applied in real-world contexts.",
+    "Encourage critical thinking about the strengths, limitations, and applicability of different modeling and solution approaches."
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 30,
+    "assignment": 30
+  },
+  "program_requirements": [
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "IE",
+  "cn": "411",
+  "section": null,
+  "key": "202501_IE_411"
+}

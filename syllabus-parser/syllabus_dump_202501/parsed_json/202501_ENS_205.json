@@ -1,0 +1,108 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Introduction to Materials Science - ENS 205",
+    "classroom": "FMAN-G071",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:2, Engineering:4",
+    "prerequisites": "NS 102 and  MATH 102",
+    "corequisites": "ENS 205R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Özge Akbulut",
+      "email": "ozgeakbulut@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Classifications of materials; atomic structure and interatomic bonding; the structure of crystalline solids; imperfections in solids; diffusion; mechanical properties of metals; dislocations in metals; failure; phase daigrams; phase transformations and alteration of mechanical properties; alloys; structures and properties of ceramics; polymer structures, their applications and processing; composites; corrosion; electrical, thermal, magnetic and optical properties; case studies in materials selection.",
+  "course_learning_outcomes": [
+    "Relate atomic scale interactions, type(s) of bonding, crystallinity, impurities, processing history in a material to structure and properties of the material that are observed at the macroscopic scale",
+    "Describe long-range order and short-range order; and use fundamental concepts such as primitive vectors, translational symmetry, Miller indices, and characterization tools (i.e., x-ray spectroscopy) to calculate parameters that are used to define long-range order in materials",
+    "Relate quantitatively and qualitatively flux, diffusion constant, time and temperature to each other and predict the outcomes of possible scenarios in materials science based on diffusion behavior in materials",
+    "Verbally define Young?s Modulus, yield stress, toughness, ductility, ultimate tensile stress, resilience, fracture toughness and show how to relate and calculate these terms for different cases",
+    "Draw the band structure of metals, polymers and semi-conductors, state quantitatively and qualitatively how the charge carriers, their mobility, and temperature affect conductivity in these materials",
+    "Interrelate the mechanical, thermal, and electrical properties of materials",
+    "Explain phase behavior and how thermodynamics and kinetics may be used to manipulate the observed phases",
+    "Relate phase transformations in metals and alloys occurring via phase separation after thermal processing"
+  ],
+  "course_objective": [
+    "To provide the fundamentals of how interactions and structure at the atomic scale lead to material properties observed at the macroscopic scale and to introduce the fundamental thermodynamic/kinetic concepts operating on the structure for the design and implementation of materials with novel functions."
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 60
+  },
+  "program_requirements": [
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Physics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Chemistry",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Entrepreneurship",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "ENS",
+  "cn": "205",
+  "section": null,
+  "key": "202501_ENS_205"
+}

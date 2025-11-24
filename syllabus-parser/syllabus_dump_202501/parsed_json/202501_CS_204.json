@@ -1,0 +1,92 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Advanced Programming - CS 204",
+    "classroom": "UC-G030",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "CS 201",
+    "corequisites": "CS 204L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Kamer Kaya",
+      "email": "kaya@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course is intended to give advanced programming techniques, as well as further experience in programming. Topics covered will be: advanced object-oriented programming techniques and programming with classes (function overloading, templated classes, inheritance), pointers, linked lists, stacks, queues, debugging and profiling, reusable software (using/creating libraries), visual/GUI programming, exception handling, multi- threaded programming and synchronization.",
+  "course_learning_outcomes": [
+    "Reinforce the basics of computer systems and programming: describe how the data is stored in the memory, the internal representation of numeric and non-numeric data, and how they can be manipulated at the bit level; demonstrate the use of preprocessor, compiler and linker in the context of source code processing and explain their roles.",
+    "Understand, implement and use auto, static, extern and dynamically managed data types and structures: describe how various data types and structures (e.g., pointers, user-defined plain-old and other data types and classes) are allocated and used; implement basic data structures, such as arrays, various types of linked lists, stacks and queues, using dynamic memory allocation techniques in C++.",
+    "Understand, implement, and use object-oriented programming: design/develop rich classes with constructor(s), destructor, deep/shallow copy constructor, move constructor, assignment operator and operator overloading sharing objects through reference parameters/pointers; use/develop classes with inheritance, including the concepts of overriding and polymorphism; use/develop templated functions and classes as well as function overloading when necessary.",
+    "Understand, implement, and use advanced concepts: demonstrate the use of exception handling, concurrent applications, and graphical user interfaces."
+  ],
+  "course_objective": "The objective of this course is to give advanced object oriented design and programming techniques and basic data structures in order to provide further experience and practical knowledge in computer programming.",
+  "course_materials": {
+    "resources": [
+      "We do not have an official book. The materials will be provided during the course."
+    ],
+    "technology_requirements": "A compiler for C++ language"
+  },
+  "assessment_percent": {
+    "final": 45,
+    "midterm": 55
+  },
+  "program_requirements": [
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "204",
+  "section": null,
+  "key": "202501_CS_204"
+}

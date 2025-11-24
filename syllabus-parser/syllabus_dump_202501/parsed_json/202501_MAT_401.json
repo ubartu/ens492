@@ -1,0 +1,79 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Surface Chemistry - MAT 401",
+    "classroom": "FENS-L029,FENS-L065",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:4, Engineering:2",
+    "prerequisites": "NS 218",
+    "corequisites": "Course Type:",
+    "course_type": null
+  },
+  "instructors": [
+    {
+      "name": "Gözde İnce",
+      "email": "gozdeince@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "External surfaces, clean surfaces, interfaces, the technique of surface science, surface diffraction, structure of clean surfaces, structure of adsorbed monolayers, surface thermodynamic functions, surface tension, surface heat capacity, surface energy, thermodynamics of adsorbed monolyers, surface atom vibrations, elementary processes of gas-surface interactions, electrical properties of surfaces, surface chemical bond, catalysis by surfaces.",
+  "course_learning_outcomes": [
+    "* describe the difference between a surface and an interface, list the conditions for a clean surface and calculate the amount of molecules/atoms on the surface for a given vacuum condition.",
+    "* write surface thermodynamic functions, define surface tension in terms of thermodynamic functions and relate the surface curvature to surface tension.",
+    "* describe different types of surface atom interactions, distinguish between physisorption and chemisorption and list the conditions for physisorption.",
+    "* describe the differences between dissociative, nondissociative and competitive chemisorptions and define sticking coefficient in terms of chemisorbed species.",
+    "* describe different surface reaction mechanisms which involve more than one species.",
+    "* define adsorption isotherms, describe and compare Langmuir and BET isotherms.",
+    "* write down the rate equation for first order and second order desorption mechanisms and compare the two cases.",
+    "* describe the effects of surface forces on bond formation and bond breaking between the surface atoms and adsorbates.",
+    "* describe the band structure and electronic states for surfaces and explain adsorption induced charge transfer.",
+    "* explain probes used for surface characterization techniques, list several of these techniques and describe the differences between bulk characterization vs surface characterization techniques.",
+    "* compare heterogeneous and homogeneous catalysis reactions on the surface, effects of surface active sites on the catalytic action and write the reaction kinetics for a simple catalytic reaction on the surface."
+  ],
+  "course_objective": "To introduce different types of surfaces and chemical and physical mechanisms active on these surfaces relevant to current research problems.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 60,
+    "midterm": 40
+  },
+  "program_requirements": [
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Chemistry",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "MAT",
+  "cn": "401",
+  "section": null,
+  "key": "202501_MAT_401"
+}

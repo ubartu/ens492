@@ -1,0 +1,81 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Macroeconomics - ECON 202 Section A",
+    "classroom": "FASS-G006,FASS-G052",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "Corequisites:",
+    "corequisites": null,
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Riccardo Franceschin",
+      "email": "riccardo.franceschin@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Basic concepts of accounting and determination of national income. Classical theory of output and employment, determination of national savings, investment and consumption. Theories of economic growth. The balance of payments, exchange rate systems, trade and financial flows; monetary and fiscal policy; labour market adjustment at the macroeconomic level; inflation and anti-inflationary policies.",
+  "course_learning_outcomes": [
+    "IDENTIFY STYLIZED ELEMENTARY/FUNDAMENTAL CAUSE-EFFECT RELATIONS SHAPING REAL-LIFE MACROECONOMIC EVENTS/POLICIES.",
+    "DESCRIBE MACROECONOMIC CONCEPTS AND VARIABLES (some international aspects included).",
+    "DESCRIBE THE BASIC TRADEOFFS INVOLVED IN MONETARY AND FISCAL POLICY FORMULATION (in the short term and the long term).",
+    "DESCRIBE THE MECHANICS OF THE BASIC GROWTH MODELS PRESENTED IN CLASS, AND VERIFY WHETHER THESE MODELS CONFORM WITH SPECIFIC GROWTH OUTCOMES OR TRENDS."
+  ],
+  "course_objective": "In macroeconomics we study the aggregate performance of the economy. We are concerned about explaining the behavior of economic variables such as national output and income, investment and saving, consumption, unemployment, inflation and interest rates, etc. The approach taken in this course is to analyze macroeconomic problems using models where the economy is populated by rational individuals whose behavior is directed by the utility maximization motive. We will also compare the outcomes of these model economies with the empirical observations.",
+  "course_materials": {
+    "resources": [
+      "Andrew B. Abel, Ben S. Bernanke and Dean Croushore, Macroeconomics, Pearson Addison Wesley"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 44,
+    "midterm": 44,
+    "homework": 12
+  },
+  "program_requirements": [
+    {
+      "program": "Economics",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Management",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "International Studies",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Political Science",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Political Science and International Relations",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ECON",
+  "cn": "202",
+  "section": "A",
+  "key": "202501_ECON_202_A"
+}

@@ -1,0 +1,86 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Biomedical Instrumentation - EE 473",
+    "classroom": "FENS-L035,FENS-L047",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:2, Engineering:4",
+    "prerequisites": "ENS 203",
+    "corequisites": "EE 473L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Ayhan Bozkurt",
+      "email": "abozkurt@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Principles of biomedical transducers; amplifiers and signal processing; the origin, sensing and amplification of biopotentials; blood flow and pressure measurement; medical imaging, medical ultrasound and array signal processing; patient safety in medical instrumentation.",
+  "course_learning_outcomes": [
+    "Define electro-chemical generation mechanisms of biopotentials",
+    "Analyze action potential generation and propagation problems in electrically excitable tissue",
+    "Describe the importance of the use of well designed biopotential electrodes",
+    "Relate biopotential measurements to biological phenomena",
+    "Design biopotential amplifiers and signal conditioning circuits using operational amplifiers",
+    "Comprehend the operational principles of sensors used in biological measurements",
+    "Judge potential life hazards posed by electrically powered medical equipment"
+  ],
+  "course_objective": "To teach the origins of biological signals and the construction of instruments for the measurement of such signals.",
+  "course_materials": {
+    "resources": [
+      "J. G. Webster, Medical Instrumentation, 4e, Wiley, 2009.",
+      "A. Terry Bahill, Bioengineering: Biomedical, Medical and Clinical Engineering, Prentice Hall, 1981."
+    ],
+    "technology_requirements": "MATLAB"
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 30,
+    "assignment": 24,
+    "group project": 16
+  },
+  "program_requirements": [
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "EE",
+  "cn": "473",
+  "section": null,
+  "key": "202501_EE_473"
+}

@@ -1,0 +1,122 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Thermodynamics - ENS 202",
+    "classroom": "FENS-G032,FENS-G035",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:3, Engineering:3",
+    "prerequisites": "NS 102",
+    "corequisites": "ENS 202R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Canan Atılgan",
+      "email": "canan@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Fundamental concepts and mathematical tools ; thermal equilibrium; Zeroth Law and definition of temperature; equations of state; First and Second Laws; thermodynamic potentials (enthalpy, Helmholtz, Gibbs) and the Maxwell relations; first order phase transitions; critical phenomena; Third Law, negative temperatures; introduction to statistical mechanics.",
+  "course_learning_outcomes": [
+    "State and explain general concepts used in thermodynamics including the system and its surroundings, mechanisms of energy transfer; state versus path function.",
+    "Interpret the basic assumptions of the ideal gas law and illustrate how the van der Waals equation of state rectifies these assumptions to lead to a gas <-> liquid phase transition behavior and the critical point.",
+    "Using published data, such as heat capacity, calculate the internal energy, enthalpy changes of a system with respect to a reference state.",
+    "Apply the first law of thermodynamics by performing a detailed balance of energy transfer for a variety of real systems involving thermal energy, calculate efficiency in energy conversion",
+    "Define second law of thermodynamics and using published data calculate the entropy change of a system and surroundings",
+    "Write the entropy rate balance for control values and calculate the entropy production",
+    "Define and calculate the Gibbs and Helmholtz free energy changes in various systems using Maxwell's relations, write the differential forms of state functions",
+    "Define chemical potential and relate it to change in Gibbs energy and identify reversibility and spontaneity in changes towards equilibrium.",
+    "Describe the physical, structural, and thermodynamic properties of equilibrium phases and phase transformations in single and two-component systems",
+    "Determine the changes in thermodynamic properties in ideal, non-ideal, dilute, and in regular solutions",
+    "Draw P-V and T-V diagram of pure substances, determine the phase of a substance at different conditions",
+    "Calculate the activities and activity coefficients for real solutions",
+    "Apply the Lever Rule to determine the phase composition in a multi-phase field;",
+    "Define the ideal thermodynamic cycles for gas and gas-vapor systems and calculate the thermal efficiency"
+  ],
+  "course_objective": "To equip the students with a basic understanding of equilibrium, both from a macroscopic and a microscopic viewpoint, so that they can (i) perform the energy balance for a system and analyze the energy transfer processes in the system; (ii) interrelate various thermodynamic functions so that hard-to-measure properties may be determined through the measurable ones; (iii) develop a basic understanding of phase behavior.",
+  "course_materials": {
+    "resources": [
+      "Thermodynamics, Statistical Thermodynamics & Kinetics, by Thomas Engel, Philip Reid Any edition (latest is 4th; I have 3rd)"
+    ],
+    "technology_requirements": "Supplementary material: Thermodynamics of Materials, Vol. I by D.V. Ragone Physical Chemistry by Atkins & de Paula Thermodynamics by Çengel & Boles Molecular Driving Forces by Dill & Bromberg"
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 50,
+    "quiz": 10,
+    "participation": 5
+  },
+  "program_requirements": [
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Energy",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Physics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Battery Science and Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Chemistry",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "ENS",
+  "cn": "202",
+  "section": null,
+  "key": "202501_ENS_202"
+}

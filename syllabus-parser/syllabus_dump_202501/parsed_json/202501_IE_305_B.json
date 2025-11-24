@@ -1,0 +1,86 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Simulation - IE 305 Section B",
+    "classroom": "FASS-1050,FASS-G018",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:1, Engineering:5",
+    "prerequisites": "MATH 306",
+    "corequisites": "IE 305R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Murat Fadıloğlu",
+      "email": "murat.fadiloglu@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Simulation Modeling and analysis of manufacturing and service systems; simulation modeling perspectives; discrete event simulation; simulation languages/ software; statistical aspects of simulation.",
+  "course_learning_outcomes": [
+    "Describe the principles of simulation modeling and analysis for discrete event systems",
+    "Identify probability distributions and perform statistical analysis of both input and output data",
+    "Construct the computer-based simulation model for a given discrete event system"
+  ],
+  "course_objective": "By the end of this course, successful students should have learnt the principles of simulation, modelling, and statistical analysis for discrete event systems as well as the techniques and tools to apply those principles on a computer, in particular using the simulation software package ARENA.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 30,
+    "quiz": 10,
+    "participation": 10,
+    "group project": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "IE",
+  "cn": "305",
+  "section": "B",
+  "key": "202501_IE_305_B"
+}

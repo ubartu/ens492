@@ -1,0 +1,84 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Linear Algebra - MATH 201 Section A",
+    "classroom": "UC-G030",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:6",
+    "prerequisites": "-",
+    "corequisites": "MATH 201R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Kağan Kurşungöz",
+      "email": "kursungoz@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Systems of linear equations; Gaussian elimination. Vector spaces, subspaces, linear, independence, dimension, change of basic. Linear transformations. Inner product, orthogonality. Eigenvalues. Diagonalization and canonical forms. Cayley-Hamilton theorem.",
+  "course_learning_outcomes": [
+    "Understand the notion of mathematical thinking, mathematical proofs, and able to apply them in problem solving.",
+    "Present simple proofs in a precise and formally correct way.",
+    "Solve a system of linear equations using matrix reduction",
+    "Do basic arithmetical operations with matrices.",
+    "Understand the notions of linear independence, basis and dimension of a vector space.",
+    "Find a basis and dimension of Euclidean or abstract vector spaces.",
+    "Geometrically interpret the above concepts.",
+    "Represent linear transformations as matrices and, conversely, interpret matrices as linear maps.",
+    "Compute determinant of square matrices and understand the properties of determinant.",
+    "Compute eigenvalues and eigenspaces of matrices.",
+    "Identify whether a matrix is diagonalizable or not."
+  ],
+  "course_objective": [
+    "This course aims to introduce basic concepts of linear algebra such as vector spaces, bases, linear transformations, eigenvalues and eigenspaces. The course gives students training to develop their mathematical skills, analytical and critical thinking abilities, their ability to apply these capabilities to practical problems, and to communicate their knowledge of these areas."
+  ],
+  "course_materials": {
+    "resources": [
+      "Course Support Materials:",
+      "Strang, G., Introduction to Linear Algebra, 5th edition, Wellesley-Cambridge Press and SIAM, 2016.",
+      "Anton H., Rorres C., Elementary Linear Algebra with supplemental applications, Wiley International Student Version, 11th edition, 2015.",
+      "Leon, S. J., Linear Algebra with Applications, Prentice Hall.",
+      "Bretscher O., Linear Algebra with Applications, 2nd Edition, Prentice-Hall, 2001.",
+      "Poole, D., Linear Algebra: A Modern Introduction, 3rd Edition, Brooks Cole, 2011.",
+      "Kolman B., Hill D., Elementary Linear Algebra with Applications, 9th edition, Prentice-Hall, 2008.",
+      "Friedberg, S., Insel, A., Spence, L., Linear Algebra, 4th edition, Pearson, 2013."
+    ],
+    "technology_requirements": "None."
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 60
+  },
+  "program_requirements": [
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Mathematics",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "MATH",
+  "cn": "201",
+  "section": "A",
+  "key": "202501_MATH_201_A"
+}

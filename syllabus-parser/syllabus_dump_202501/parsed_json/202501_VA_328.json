@@ -1,0 +1,46 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Digital and Photographic Imaging - VA 328",
+    "classroom": "FASS-1014",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "Corequisites:",
+    "corequisites": null,
+    "course_type": "Studio"
+  },
+  "instructors": [
+    {
+      "name": "Murat Durusoy",
+      "email": "durusoym@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course will introduce the student to digital and photographic imaging technologies and techniques in a studio setting. Each student will be guided so as to both grasp those technologies and techniques, including 'post-production' software applications as well as more traditional developing and printing, and to develop their own artistic and design work using those techniques.",
+  "course_learning_outcomes": [
+    "Upon completion fo this course, students will be able to: 1. Question images, symbols created for the purposes of propagation. 2. Distinguish between a single photo and a narrative series of photos 3. Compare old and contemporary photography practices 4. Propose photo series that offer, share their own ways of thinking 5. Identify the importance of form / aesthetics in artistic expression while concentrating on content / idea by examining various contemporary art and photography practices 6. Demonstrate their artworks professionally 7. Comprehend that animated image (video, film) has close relations with still image (photography) and find the middle ground through assignments dealing with chronophotography."
+  ],
+  "course_objective": "The initial objective is to introduce a basic knowledge of photography briefly, covering primary skills required for the production of photographic representation. Following this, the course aims to discuss what photography can and cannot do, in terms of representative documentation, story narration and ?unreal? fiction. There will be various assignments that deal with the notions of time, space, subject, object and their various combinations in different contexts. The aim is to encourage students to think about why and how images are created, in addition how they are (ab)used in daily life, media and so on. Though this is an introductory class, it gets quite advanced towards the end of the semester.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": "No extra technology is required for this class other than your mobile phone. Having a photography camera is a plus, but you will be able to get different cameras and lenses from Aydın Yörük. All required software are installed in computers. But you can use your own computers also."
+  },
+  "assessment_percent": {
+    "assignment": 50,
+    "participation": 10,
+    "individual project": 40
+  },
+  "program_requirements": [
+    {
+      "program": "Visual Arts and Visual Communications Design",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "VA",
+  "cn": "328",
+  "section": null,
+  "key": "202501_VA_328"
+}

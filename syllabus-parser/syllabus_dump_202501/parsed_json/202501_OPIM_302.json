@@ -1,0 +1,67 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Management Information Systems - OPIM 302",
+    "classroom": "FMAN-G013",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "OPIM 302R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Nihat Kasap",
+      "email": "nihatk@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course provides a broad introduction to management of information systems. The course discusses tools and techniques for analyzing, designing, building and implementing information systems, taking into account both technological and business factors. Interaction between information systems, competitiveness and organizational design are also covered.",
+  "course_learning_outcomes": [
+    "Learning Objectives: The overall course objective is to provide the concepts and skills you need to analyze and design information systems. Upon successful completion of the course, you are expected to be able to: * Analyze a business need for information and to develop an appropriate strategy to solve the problem and provide the required information service. * Describe the major alternative methodologies used in developing information systems and the considerations involved in choosing which methodology to use. * Construct and interpret a variety of system description documents, including physical and logical data flow diagrams, entity-relationship diagrams, some UML diagrams such as state-transition, activity and use case diagrams. * Apply database management technologies for developing information system for business including E-business models and enterprise systems."
+  ],
+  "course_objective": "Information is a critical ingredient for the operation and management of any organization, and Information Systems play a vital and increasingly strategic role in the production, management, creative marketing, and delivery of products and services. Advances in technology have resulted in the development of systems that are radically transforming the nature of managerial work, the structure of organizations, and the way firms operate, relate to other firms, and compete in the marketplace. Thus, understanding the implications of modern information technologies on the management process and how it can be used to achieve competitive advantage, efficient operations, and effective decision making, is an important aspect of any modern manager's job. This course covers introduction to information systems concepts including an overview of the strategic importance of an information system, the types of information systems used by businesses; systems analysis and design methodologies, techniques and technologies including database management systems used during the development of information systems for business including electronic business models and enterprise systems.",
+  "course_materials": {
+    "resources": [
+      "There are two primary print sources that I rely on during our lectures and having access to a copy of these books (especially the 1st one) is highly recommended. 1. Modern Database Management, 14th Edition, by J. A. Hoffer, H. Topi, V. Ramesh and H. Bala, 2025, Pearson. 2. Modern Systems Analysis and Design, 10th Edition, by J. S. Valacich, J. F. George and J. A. Hoffer, 2023, Pearson. Note: You may check free online earlier version First book is required as the textbook and the second one is a recommended book. Copies of both books are also available at the Information Center in reserve section."
+    ],
+    "technology_requirements": "Microsoft Access 2021 and Visio Professional 2021 will be used in this course. You may download and install them from https://mysu.sabanciuniv.edu/it/en/microsoft-software/azure-dev"
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 30,
+    "group project": 20,
+    "other": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Business Analytics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "OPIM",
+  "cn": "302",
+  "section": null,
+  "key": "202501_OPIM_302"
+}

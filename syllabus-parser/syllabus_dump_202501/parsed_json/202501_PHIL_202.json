@@ -1,0 +1,58 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Problems of Philosophy - PHIL 202",
+    "classroom": "FASS-1079,FASS-1089",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Gürol Irzık",
+      "email": "irzik@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course introduces students to contemporary research on the central problems of philosophy such as the foundations of knowledge, the basis of morality, the existence of God, the relationship between mind and body, and the problem of free will.",
+  "course_learning_outcomes": [
+    "Background in major contemporary problems of philosophy in metaphysics, epistemology and ethics.",
+    "Thinking and expressing ideas clearly, analytically and critically.",
+    "Close reading of texts and raising good questions.",
+    "Making and appreciating relevant distinctions."
+  ],
+  "course_objective": [
+    "To introduce students to contemporary research on the central problems of philosophy in metaphysics, epistemology and ethics."
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 40,
+    "participation": 10,
+    "attendance": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Philosophy",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Cultural Studies",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "PHIL",
+  "cn": "202",
+  "section": null,
+  "key": "202501_PHIL_202"
+}

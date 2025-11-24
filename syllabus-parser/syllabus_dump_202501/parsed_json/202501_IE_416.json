@@ -1,0 +1,82 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Additive Manufacturing - IE 416",
+    "classroom": "FASS-G025,FMAN-G050",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:7, Engineering:7",
+    "prerequisites": "ENS 209",
+    "corequisites": "IE 416L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Bahattin Koç",
+      "email": "bahattinkoc@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "-Various additive manufacturing processes and their principles, -Computer-aided design and path planning for additive manufacturing processes, -Materials used in additive manufacturing processes and their properties, -Determining and optimizing process parameters and conditions, -Process-related limitations and constraints and applications of Additive Manufacturing, -Several related hands-on projects related to additive manufacturing.",
+  "course_learning_outcomes": [
+    "Learn various Additive Manufacturing (AM) processes",
+    "Understand the fundamentals of AM processes",
+    "Analyze and optimize Computer-Aided Design (CAD) for AM",
+    "Develop and implement algorithms to generate path plans for AM",
+    "Decide on materials for AM",
+    "Identify capabilities, constrains and limitations of AM processes to decide on best process for a given application"
+  ],
+  "course_objective": "Learn the fundamentals of Additive Manufacturing processes, their materials, design, path planning and applications of various Additive Manufacturing processes.",
+  "course_materials": {
+    "resources": [
+      "References:",
+      "Additive Manufacturing Technologies: Rapid Prototyping to Direct Digital Manufacturing by Ian Gibson, David W. Rosen, Brent Stucker",
+      "Fabricated: The New World of 3D Printing by Hod Lipson, Melba Kurman",
+      "Computer Aided Manufacturing, by T.C. Chang, R.A. Wysk, and H.P. Wang 3rd Edition, Prentice Hall, 2006.",
+      "Product Design: Techniques in Reverse Engineering and New Product Development by K. Otto and K. Wood, Prentice Hall, 2001.",
+      "Principles of CAD/CAM/CAE, by K. Lee, Addison-Wesley, 1999."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "assignment": 20,
+    "group project": 40
+  },
+  "program_requirements": [
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "IE",
+  "cn": "416",
+  "section": null,
+  "key": "202501_IE_416"
+}

@@ -1,0 +1,108 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Computer Graphics - CS 405",
+    "classroom": "FASS-G062",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:2, Engineering:4",
+    "prerequisites": "CS 300",
+    "corequisites": "CS 405L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Selim Saffet Balcısoy",
+      "email": "balcisoy@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course is an introduction to computer graphics, modeling, animation, and rendering. Topics covered include basic image processing, geometric transformations, geometric modeling of curves and surfaces, animation, 3-D viewing, visibility algorithms, radiosity, ray tracing, shading and volume rendering. Students gain experience by developing their own graphics programs producing simple animations.",
+  "course_learning_outcomes": [
+    "(a) master introductory computer graphics techniques;",
+    "(b) implement a working 3D game/simulation in OpenGL;",
+    "(c) prepare a 3D game/simulation proposal;",
+    "(d) present to progress of the game development in three demo sessions;",
+    "(e) implement four basic and four advanced graphics techniques into the game project;",
+    "(f) implement a simple graphics engine;",
+    "(g) use technical manuals, online resources and books to interpret graphics techniques and effects;",
+    "(h) be an effective member of a team;",
+    "(i) present technical matter to a large audience of game company executives;",
+    "(j) complete a working to a deadline."
+  ],
+  "course_objective": [
+    "By the end of the course, students will be able to:",
+    "Implement image-based geometry extraction (lines, splines, perspective).",
+    "Develop shaders for non-photorealistic rendering inspired by artworks.",
+    "Apply physically based rendering techniques in WebGL/WebGPU.",
+    "Use asset pipelines (glTF) to import and render 3D models.",
+    "Implement simple animations to bring static models to life.",
+    "Build end-to-end interactive graphics applications demonstrating rendering algorithms."
+  ],
+  "course_materials": {
+    "resources": [
+      "Peter Shirley, \"Ray Tracing in One Weekend\" (online book) Peter Shirley and Steve Marschner, \"Fundamentals of Computer Graphics\" (4th Edition).",
+      "Tomas Akenine-Möller, Eric Haines, Naty Hoffman, \"Real-Time Rendering\" (4th Edition)."
+    ],
+    "technology_requirements": "The following tools and libraries will be used in the course: WebGL & WebGPU: Low-level browser graphics APIs for real-time rendering. Three.js: A JavaScript library for high-level 3D graphics development. GLSL/WGSL: Shader programming languages for GPU rendering. Blender: Open-source 3D modeling and animation software for asset creation. glTF 2.0: Open standard format for efficient 3D model transmission. GitHub: For version control and project submissions. Representative Links to Resources: WebGL Fundamentals: https://webglfundamentals.org/ WebGPU Specification: https://gpuweb.github.io/gpuweb/ Three.js Documentation: https://threejs.org/docs/ Blender Official Website: https://www.blender.org/ glTF 2.0 Overview: https://www.khronos.org/gltf/ GitHub Student Pack: https://education.github.com/pack"
+  },
+  "assessment_percent": {
+    "final": 25,
+    "midterm": 15,
+    "individual project": 60
+  },
+  "program_requirements": [
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "405",
+  "section": null,
+  "key": "202501_CS_405"
+}

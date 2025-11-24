@@ -1,0 +1,84 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Digital Transformation - IE 404",
+    "classroom": "FENS-G035",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:1, Engineering:5",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Kemal Kılıç",
+      "email": "kkilic@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course will explore both the digitalization and transformation dimensions of Digital Transformation. It will introduce key technologies that drive digital transformation, including IoT, Cloud/Edge Computing, Blockchain, AI and GenAI, Smart and Collaborative Robots, A/V/M Reality, the Metaverse, and Additive Manufacturing. The course will cover the history, current state, and future trends of these technologies, along with real-world use cases, best practices in business and society, and their potential to create new business models. On the transformation side, the course will focus on strategies and methods for decision-making in an increasingly volatile, uncertain, complex, and ambiguous digital landscape. It will also examine frameworks such as Design Thinking and The Lean Startup, which help entrepreneurs and innovation teams navigate uncertainty as they explore new opportunities.",
+  "course_learning_outcomes": [
+    "? Explore and compare the historical evolution, current applications, and emerging trends of digital transformation technologies to evaluate their impact on engineering, business, and society.",
+    "? Critically assess case studies and use cases of digital transformation technologies in various industries, identifying best practices and potential pitfalls in implementing transformative digital solutions.",
+    "? Demonstrate proficiency in developing strategies for decision-making in volatile, uncertain, complex, and ambiguous environments, integrating technology, data, and human-centric approaches.",
+    "? Apply knowledge of digital transformation technologies to design innovative solutions and business models, leveraging frameworks such as Design Thinking and The Lean Startup to address real-world challenges.",
+    "? Synthesize insights from historical developments, current trends, and emerging innovations to forecast future opportunities and challenges in digital transformation."
+  ],
+  "course_objective": [
+    "By the end of this course, participants will be able to understand and apply key digital transformation technologies, including IoT, Cloud/Edge Computing, Blockchain, AI, GenAI, Smart and Collaborative Robots, A/V/M Reality, and Additive Manufacturing, while developing strategic decision-making skills using frameworks like Design Thinking and The Lean Startup to navigate uncertainty, innovate business models, and implement effective digital transformation strategies in a volatile, uncertain, complex, and ambiguous digital landscape."
+  ],
+  "course_materials": {
+    "resources": [
+      "Class overheads, supplementary readings will be available on SuCourse."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 50,
+    "midterm": 30,
+    "attendance": 20
+  },
+  "program_requirements": [
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "IE",
+  "cn": "404",
+  "section": null,
+  "key": "202501_IE_404"
+}

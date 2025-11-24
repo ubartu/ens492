@@ -1,0 +1,84 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Special Topics in CS: Internet of Things Sensing System - CS 48007",
+    "classroom": "-",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "CS 204",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Utku Günay Acer",
+      "email": "utku.acer@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Introduction to the Internet of Things, Examples of mobile and embedded systems, and sensors, Sensing Pipelines, Signal Processing for sensor data, Machine Learning for sensing, System Considerations, Networking for IoT, Energy preservation, Privacy in Sensing, Embedded Sensing Architectures, On-device sensing on smartphones, Sensing with purpose-built devices on the edge, Wearable devices, Edge/Cloud Computing in Sensing, Remote inference, Offloading computations, Prominent Applications",
+  "course_learning_outcomes": [
+    "Students will gain an understanding of the tools used in the Internet of Things (IoT) sensing applications",
+    "Students will have the ability to explain critical trade-offs involving energy and communication on mobile and embedded systems",
+    "Students will demonstrate hands-on experience with sensing applications in the edge IoT settings"
+  ],
+  "course_objective": "Sustainable Development Goals (SDGs) Related to This Course: Affordable and Clean Energy Industry, Innovation and Infrastructure Reduced Inequalities",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "assignment": 40,
+    "case study": 20,
+    "group project": 40
+  },
+  "program_requirements": [
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "48007",
+  "section": null,
+  "key": "202501_CS_48007"
+}

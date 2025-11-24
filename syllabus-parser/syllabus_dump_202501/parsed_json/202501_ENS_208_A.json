@@ -1,0 +1,100 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Introduction to Industrial Engineering - ENS 208 Section A",
+    "classroom": "FASS-2128",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "IF 100 and  MATH 102",
+    "corequisites": "ENS 208R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Duygu Taş Küten",
+      "email": "duygu.tas@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Introduction to a set of decision problems that modern industrial engineers face in real-life and the tools and techniques employed to solve them. Linear programming formulations and solvers, heuristic methods, and randomness and variation in observations are covered through various problems and case studies in transportation and logistics, production planning, inventory control, and forecasting.",
+  "course_learning_outcomes": [
+    "- implement algorithms for business problems that can be depicted as an analytical/mathematical problem",
+    "- develop mathematical models in the form of linear programming problem formulations and solve these problems with (commercial) solvers",
+    "- comprehend how variation and randomness in life/observations can be depicted with functions",
+    "- establish the link between industrial engineering and required professional skills",
+    "- identify IE problems that you can attack, formulate and solve",
+    "- familiarize with industrial engineering profession"
+  ],
+  "course_objective": "The objective of the course is to introduce the students the industrial engineering profession through fundamental problems that are of interest to modern industrial engineering professionals and familiarize the students with major analytical modeling tools and problem solution methods used by industrial engineers.",
+  "course_materials": {
+    "resources": [
+      "There is no specific textbook for ENS 208. We will have lecture notes, reading materials, book chapters, case (“real life”) documents, and coding tutorials. All course materials will be available on SUCourse."
+    ],
+    "technology_requirements": "- We use Python (https://www.python.org/), the programming language in the freshman year course IF 100 Computational Approaches to Problem-Solving. - We utilize “anaconda,” which is known as the “most popular” and easy-to-use Python data science platform. It may be downloaded from the following URL: https://www.anaconda.com/download. NOTE: There should be no Turkish alphabet-specific characters in the directory path name where you are trying to install Anaconda. - It is highly recommended that each student recollect their fundamentals about Python before the first lecture."
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 60
+  },
+  "program_requirements": [
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Entrepreneurship",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ENS",
+  "cn": "208",
+  "section": "A",
+  "key": "202501_ENS_208_A"
+}

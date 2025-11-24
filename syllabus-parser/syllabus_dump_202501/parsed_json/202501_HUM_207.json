@@ -1,0 +1,61 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Major Works of Western Philosophy - HUM 207",
+    "classroom": "FASS-1010",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:5",
+    "prerequisites": "-",
+    "corequisites": "HUM 207D",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Elif Yavnık",
+      "email": "eyavnik@sabanciuniv.edu"
+    },
+    {
+      "name": "Faik Kurtulmuş",
+      "email": "afaikkurtulmus@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course examines some of the major texts in the main areas of philosophy from philosophers of the Western tradition such as Plato, Aristotle, Descartes, Locke, Hume, Kant and Nietzsche.",
+  "course_learning_outcomes": [
+    "Gaining familiarity with the history of Western philosophy.",
+    "Learning how to critically assess philosophical texts from various periods.",
+    "Developing the ability to analyze historical texts for contemporary relevance.",
+    "Acquiring skills to form and express one's opinion in a clear and organized fashion."
+  ],
+  "course_objective": null,
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 25,
+    "quiz": 20,
+    "participation": 10,
+    "attendance": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Society, Culture and Politics",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Philosophy",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "HUM",
+  "cn": "207",
+  "section": null,
+  "key": "202501_HUM_207"
+}

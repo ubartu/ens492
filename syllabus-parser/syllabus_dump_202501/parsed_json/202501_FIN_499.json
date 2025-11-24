@@ -1,0 +1,66 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Wealth Management - FIN 499",
+    "classroom": "FMAN-G013",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "FIN 301 or  IE 303",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Eralp Denktaş",
+      "email": "eralp.denktas@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "The course offers a hands-on experience about the practical aspects of financial portfolio management. Along with the concepts covered in the class, students are expected to build a portfolio management notion by thinking on real world problems. The main themes are investment decision making process and investment policy statement, management of individual and institutional portfolios, integrating capital market expectations and asset allocation, technical and practical aspects of portfolio management in traditional asset classes and alternative investments.",
+  "course_learning_outcomes": [
+    "Decent Work and Economic Growth",
+    "Industry, Innovation and Infrastructure",
+    "Peace, Justice and Strong Institutions"
+  ],
+  "course_objective": [
+    "Upon successful completion of this course, the student should be able to:",
+    "understand economics & finance, asset classes and markets, individual and/or institutional investors from the perspective of a practicing portfolio manager,",
+    "explain the purpose and function of a market, key ideas about market efficiency",
+    "understand the relationship between risk and expected return and how it is linked to optimal portfiolio structures and security market valuation",
+    "identify and interpret the components of an investment policy statement,",
+    "discuss the role, and a framework for, capital market expectations in the portfolio management process,",
+    "distinguish between asset classes such as equities, fixed income, and alternative investments with regards to portfolio management, and",
+    "understand portfolios are monitored and rebalanced."
+  ],
+  "course_materials": {
+    "resources": [
+      "Required Textbook: “Managing Investment Portfolios: A Dynamic Process” 3rd edition, by John L. Maginn, CFA ; Donald L. Tuttle, CFA ; Dennis W. McLeavey, CFA ; Gerald E. Pinto,CFA – John Wiley & Sons – ISBN-13: 978-0470080146 Recommended Textbooks: “Investments Analysis and Portfolio Management” 10th edition by Frank K. Reilly, Keith C. Brown – South-Western Cengage Learning – ISBN-13: 978-0538482387 “Investments” 10th edition by Zvi Bodie, Alex Kane, Alan J. Marcus – McGraw Hill – ISBN-13: 978-0077861674 Recommended Additional Reading: Financial Times, Wall Street Journal, The Economist."
+    ],
+    "technology_requirements": "I will use SUCourse+ as the means of communication for the course. All the course material that you will need, including the presentations, problem questions and solutions, additional reading materials will be uploaded to SUCourse+. I will also send you emails to communicate with you via SUCourse+."
+  },
+  "assessment_percent": {
+    "final": 50,
+    "assignment": 15,
+    "case study": 25,
+    "attendance": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Finance",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "FIN",
+  "cn": "499",
+  "section": null,
+  "key": "202501_FIN_499"
+}

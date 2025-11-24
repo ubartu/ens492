@@ -1,0 +1,61 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Organizations and Organizing - ORG 301",
+    "classroom": "FASS-1050",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Celile Itır Göğüş",
+      "email": "itir.gogus@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course on theories of organizations and organizing introduces students to core concepts that are used in studying organizations, such as those of external environments; goals, strategies, and effectiveness; technology; and organizational structures. It explores historical themes and current directions in research on issues that are key to organizational functioning, such as decision-making; conflict; control; power and politics.",
+  "course_learning_outcomes": [
+    "Upon successful completion of the course, the student will be able to: 1. describe what a theory is; 2. identify basic organizational theories; 3. identify the main contingency elements; 4. identify important actors and institutions in a focal organization?s environment; 5. identify the relevance of management sciences in present day management practice; 6. develop analytical and critical thinking skills. 7. improve their oral and written communication skills."
+  ],
+  "course_objective": "Organizations are everywhere—they shape how we work, live, and interact. This course will help you understand how organizations function, why they succeed or fail, and how you can engage with them more effectively. We will explore key factors that drive organizational effectiveness, including structure, design, and the external environment. You will also gain tools for analyzing how organizing happens at both the individual and institutional level. By the end of the course, you will be able to use the concepts of organization theory to better understand how organizations influence our lives and how we, in turn, can shape them.",
+  "course_materials": {
+    "resources": [
+      "\"Organization theory & design: An international perspective\" by Richard L. Daft, Jonathan Murphy & Hugh Wilmott. Cengage Learning, 2020 (4th edition) This is the required textbook for this course that you will need access to a copy throughout the semester. Please note that older editions, electronic versions, or copies available at the Information Center can also be used without any problems."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "midterm": 30,
+    "case study": 20,
+    "individual project": 25,
+    "other": 25
+  },
+  "program_requirements": [
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Society, Culture and Politics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Sustainability",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ORG",
+  "cn": "301",
+  "section": null,
+  "key": "202501_ORG_301"
+}

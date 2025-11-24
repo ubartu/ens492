@@ -1,0 +1,82 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Ecology - BIO 363",
+    "classroom": "FENS-L029,FENS-L065",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:6",
+    "prerequisites": "-",
+    "corequisites": "Course Type:",
+    "course_type": null
+  },
+  "instructors": [
+    {
+      "name": "Levent Öztürk",
+      "email": "lozturk@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Aims to develop a basic understanding of relationships of organisms to their environment at the individual, population and community level, principles of population genetics and evolutionary theory. Topics include physiological response to physical and biological environment, adaptations to the physical environment, competition, concept of niche, population dynamics, ecosystem structure and stability and resource management.",
+  "course_learning_outcomes": [
+    "Developing a basic understanding of the relationships of organisms to their environment at the individual, population and community level. Describing “intraspecies” and “interspecies” interactions as affected by the physical environment, natural selection, and population dynamics.",
+    "Defining “ecological communities” and the factors affecting distribution and abundance of species across temporal and spatial environmental gradients including climate change due to human activities.",
+    "Linking the concept of “adaptation through natural selection” to diverse patterns and processes in terrestrial and aquatic systems across hierarchical levels (i.e., individual, population, community, ecosystem).",
+    "Explaining the principles of population genetics and evolutionary theory and explaining properties and dynamics of populations as a function of evolution, natural selection, and life history.",
+    "Explaining the physiological response to physical and biological environment, adaptations to the physical environment, competition, concept of niche, population dynamics, ecosystem structure and stability and resource management."
+  ],
+  "course_objective": "Sustainable Development Goals (SDGs) Related to This Course: Climate Action Life Below Water Life On Land",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 25,
+    "midterm": 20,
+    "quiz": 20,
+    "assignment": 15,
+    "presentation": 20
+  },
+  "program_requirements": [
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Sustainability",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "BIO",
+  "cn": "363",
+  "section": null,
+  "key": "202501_BIO_363"
+}

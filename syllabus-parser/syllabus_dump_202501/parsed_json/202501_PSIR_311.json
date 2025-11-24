@@ -1,0 +1,64 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Research Methods for Political Science and International Relations I - PSIR 311",
+    "classroom": "FASS-1001,FASS-1102",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:7",
+    "prerequisites": "SPS 101 and  SPS 102",
+    "corequisites": "PSIR 311D",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Fatih Serkant Adıgüzel",
+      "email": "serkant.adiguzel@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Statistical reasoning and techniques used by social researchers to summarize data and test hypotheses. Topics include describing data collection, sampling measurement, distributions, cross-tabulations, scaling, probability,correlation/regression and non-parametric tests.",
+  "course_learning_outcomes": [
+    "Collect and use data for a specific research project.",
+    "Identify various research methods and develop a critical approach in evaluating methodology.",
+    "Develop quantitative methods and data analysis skills.",
+    "Formulate research questions and hypotheses."
+  ],
+  "course_objective": [
+    "This course is designed as an initiation into social science research. As an introduction, we focus on questions like, why bother with scientific thinking? What differentiates scientific thinking from its competitors? Where do concepts and theories come from? What is a variable, and how do we ensure that it accomplishes the tasks we hope it will accomplish? How does one find a research topic, design an inquiry, conduct the research, and present its findings? The course introduces various methods social scientists employ for their research and mainly focuses on quantitative data analysis methods. It gives the basic data science skills to analyze quantitative data."
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 20,
+    "midterm": 20,
+    "quiz": 40,
+    "assignment": 20
+  },
+  "program_requirements": [
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Political Science and International Relations",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Conflict Analysis & Resolution",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "PSIR",
+  "cn": "311",
+  "section": null,
+  "key": "202501_PSIR_311"
+}

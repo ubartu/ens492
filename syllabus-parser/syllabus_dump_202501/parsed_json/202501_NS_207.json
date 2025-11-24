@@ -1,0 +1,92 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Organic Chemistry - NS 207",
+    "classroom": "FASS-1103",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:4.000, ECTS:7, Basic:5, Engineering:2",
+    "prerequisites": "Corequisites:",
+    "corequisites": null,
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Serkan Ünal",
+      "email": "serkanunal@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "The physical and chemical properties and reactions of organic compounds such as saturated and unsaturated hydrocarbons, alcohols, phenols and carboxylic acids.",
+  "course_learning_outcomes": [
+    "Draw Lewis structures and resonance structures.",
+    "Write and interpret structural formulas.",
+    "Predict 3D structure of molecules using the VSEPR model and molecular orbital theory",
+    "Recognize major functional groups",
+    "Understand the correlation between properties of functional groups and intermolecular forces",
+    "Classify molecules as acids and bases",
+    "Show the mechanisms of basic organic reactions using curved arrow notation.",
+    "Name simple organic molecules according to the IUPAC law",
+    "Compare the relative energies of organic molecules using conformational analysis",
+    "Understand basics of stereochemistry",
+    "Understand basics of organic reaction mechanisms such as SN1/SN2, E1/E2",
+    "Describe the interplay of the conditions that can promote SN1/SN2, E1/E2 reactions",
+    "Plan the synthesis of basic organic molecules using starting materials"
+  ],
+  "course_objective": [
+    "Refer to the course content.",
+    "Laboratory Sections:",
+    "NS 207L- A: Wed 2:40 PM - 5:30 PM",
+    "NS207L - B: Tue 8:40 AM - 11:30 AM",
+    "NS 207L- C: Tue 2:40 PM - 5:30 PM",
+    "NS 207L- D: Tue 11:40 AM - 2:30 PM"
+  ],
+  "course_materials": {
+    "resources": [
+      "Organic Chemistry, Solomons, T. W. Graham, and Craig B. Fryhle. 12th edition, John Wiley."
+    ],
+    "technology_requirements": "Online response system TopHat will be used in lectures for quizzes and attendance. Please pay attention to TopHat invitations from your instructor."
+  },
+  "assessment_percent": {
+    "final": 25,
+    "midterm": 30,
+    "quiz": 10,
+    "written report": 35
+  },
+  "program_requirements": [
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Chemistry",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "NS",
+  "cn": "207",
+  "section": null,
+  "key": "202501_NS_207"
+}

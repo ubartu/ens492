@@ -1,0 +1,63 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Labor Economics - ECON 430",
+    "classroom": "FASS-1096,FASS-1098",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "ECON 204",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Abdurrahman Bekir Aydemir",
+      "email": "aaydemir@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Analysis of labor markets in relation to determination of wages, conditions of work, the distribution of employment; the market demand for labor and the supply of labor; discrimination wage, salary differentials, compensation schemes; job mobility and migration; power in trade unions; the collective bargaining system; government intervention in the labor market.",
+  "course_learning_outcomes": [
+    "On completion of the module, students should be able to a) demonstrate a broad knowledge of core topics in labor economics,",
+    "b) set up and solve sound models of labor markets analyzing specific problems and ideas,",
+    "c) identify the applied methods for testing the theoretical predictions of labor theory,",
+    "d) analyze and solve complex problems accurately."
+  ],
+  "course_objective": "This course will examine a variety of topics in labor markets. First, we will develop theoretical models of labor supply, labor demand and the interaction of the two. These models will then be applied to understand issues such as wage determination, wage differentials, human capital investment, migration and discrimination, unemployment and labor policies, and unions. Familiarity with topics covered at the intermediate microeconomics level is required. During the course students will learn about the data and the empirical methods that labor economists employ to quantify the relationships developed in theoretical models of the labor market. The course also aims to illustrate how economic reasoning can be used to address policy relevant questions.",
+  "course_materials": {
+    "resources": [
+      "Borjas, G. , Labor Economics , McGraw Hill"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 45,
+    "midterm": 45,
+    "participation": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Economics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ECON",
+  "cn": "430",
+  "section": null,
+  "key": "202501_ECON_430"
+}

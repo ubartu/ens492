@@ -1,0 +1,93 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Logic and Digital System Design - CS 303 Section B",
+    "classroom": "UC-G030",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:4.000, ECTS:7, Basic:1, Engineering:6",
+    "prerequisites": "Corequisites:",
+    "corequisites": null,
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Özcan Öztürk",
+      "email": "ozcan.ozturk@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Number systems and conversion, Boolean algebra, Boolean function minimization techniques, combinational logic circuit design, state elements (flip- flops), sequential circuits, design and implementation of state machines, Mealy and Moore circuits, higher level digital system design using logic building blocks such multiplexers/decoders, adders, memory and programmable gate arrays, hardware description languages.",
+  "course_learning_outcomes": [
+    "Explain the reasons for using different formats to represent numerical data and how negative integers are stored in sign-magnitude and two?s-complement representation.",
+    "Convert numerical data from one format or base to another.",
+    "Describe the internal representation of nonnumeric data.",
+    "Demonstrate an understanding of the basic building blocks such as logic gates, flip-flops, counters, registers, and programmable logic devices",
+    "Demonstrate the ability to minimize logic expressions, and express Boolean functions in different forms and an understanding of the physical considerations of logic elements such as gate delays.",
+    "Use mathematical expressions to describe the functions of simple combinational and sequential circuits.",
+    "Design combinational and sequential circuits using the fundamental building blocks given the verbal description of the circuits.",
+    "Construct a finite state diagram to capture state transition in a sequential circuit.",
+    "Demonstrate an understanding of digital systems expressed in register transfer level."
+  ],
+  "course_objective": [
+    "To develop the engineering skills for designing digital systems."
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 36,
+    "assignment": 14,
+    "group project": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "303",
+  "section": "B",
+  "key": "202501_CS_303_B"
+}

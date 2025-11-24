@@ -1,0 +1,118 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Advanced Macroeconomics - ECON 603",
+    "classroom": "FASS-1079",
+    "level_of_course": "Masters",
+    "course_credits": "SU Credit:3.000, ECTS:10",
+    "prerequisites": "( ECON 506 or  ECON 506) and ( MATH 571 or  MATH 571)",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "İnci Gümüş",
+      "email": "incigumus@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Selected topics in open economy macroeconomics labor and unemployment, search models, matching models.",
+  "course_learning_outcomes": [
+    "On completion of the course, students should be able to a) demonstrate a broad knowledge of incomplete markets models and dynamic public finance, b) set up and solve sound dynamic macroeconomic models to pursue questions regarding macroeconomics and public finance."
+  ],
+  "course_objective": "This course is an introduction to advanced topics in macroeconomics. It builds on the material covered in Econ 503 and 504. Therefore, you should be comfortable with the material covered in these two courses. In the first part of the course, we will cover the topics listed below in the course outline, after which you will have a midterm exam. In the last couple of weeks, each student will present a paper (or two related papers) that will be assigned later. For the lecture material, you have to take notes in class as we will not be following a specific book. Supplementary readings for each topic are listed in the course outline. You are expected to attend all classes and participate in the discussions.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "midterm": 50,
+    "assignment": 20,
+    "presentation": 30
+  },
+  "program_requirements": [
+    {
+      "program": "MS-Bio. Sci. & Bioeng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Materials Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Economics (non-thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Business Analytics (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Industrial Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Economics (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Biological Sciences and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Materials Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Mechatronics LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Economics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "ECON",
+  "cn": "603",
+  "section": null,
+  "key": "202501_ECON_603"
+}

@@ -1,0 +1,89 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Electronic Circuits I - ENS 203",
+    "classroom": "FENS-L045",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "MATH 102",
+    "corequisites": "ENS 203R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Ayhan Bozkurt",
+      "email": "abozkurt@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Passive components, basic circuit analysis, first order circuits, transient and steady state analysis, second order RLC circuits, resonance, amplifier fundamentals, operational amplifiers, introduction to diodes and transistors. Prerequisite for EL 202",
+  "course_learning_outcomes": [
+    "To apply basic principles of circuit design.",
+    "To be familiar with first order differential equations and solving first order circuits such as RC and RL circuits.",
+    "To apply KVL and KCL circuit laws to any circuits problem using node voltage and/or mesh current methods.",
+    "Understand sinusoidal steady state analysis, phasors, apply the concepts to solve resonant circuits.",
+    "Learn the concept of amplification, be able to design operational amplifier based circuits.",
+    "Start learning active components such as diodes and transistors, and be able to design basic circuits involving diodes."
+  ],
+  "course_objective": "To understand fundamental circuit analysis concepts/theories, develop ability to design and analyze circuits by hand and software tools, and reinforce these concepts by describing the working principles of real life electronic devices.",
+  "course_materials": {
+    "resources": [
+      "Allan R. Hambley, Electrical Engineering: Principles & Applications, 7th Edition, Pearson, 2018."
+    ],
+    "technology_requirements": "Circuit simulation using LTspice ® ."
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 60,
+    "assignment": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Electronics Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "ENS",
+  "cn": "203",
+  "section": null,
+  "key": "202501_ENS_203"
+}

@@ -1,0 +1,28 @@
+{
+  "course_info": {
+    "faculty": null,
+    "semester": null,
+    "course": null,
+    "classroom": null,
+    "level_of_course": null,
+    "course_credits": null,
+    "prerequisites": null,
+    "corequisites": null,
+    "course_type": null
+  },
+  "instructors": [],
+  "catalog_course_description": null,
+  "course_learning_outcomes": null,
+  "course_objective": null,
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {},
+  "program_requirements": [],
+  "term": "202501",
+  "sc": "AL",
+  "cn": "102",
+  "section": "D3",
+  "key": "202501_AL_102_D3"
+}

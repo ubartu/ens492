@@ -1,0 +1,48 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Stress and Well-Being - PSY 203",
+    "classroom": "FASS-G018",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Emre Selçuk",
+      "email": "emre.selcuk@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course examines associations of stress with psychological and physical well-being in adulthood. Topics include conceptualization and measurement of stress and well-being; daily life factors influencing stress reactions; psychological, social, and biological mechanisms underlying stress regulation; pathways through which daily life events and stress are linked to psychological and physical well-being; age-related changes in stress and well-being.",
+  "course_learning_outcomes": [
+    "to understand antecedents and consequences of stress and happiness in daily life",
+    "to be able to critically evaluate daily life interactions and experiences in terms of their implications for well-being"
+  ],
+  "course_objective": "Seeking happiness and understanding what it is have been a thousand-year-old quest for humans. Lessons on how to lead a serene and happy life can be found even in the oldest texts. Modern day is no different with literally thousands of books on how to cope with stress and find happiness filling the shelves of bookstores. Likewise, one can find numerous online columns, blogs, and podcasts tackling these topics. The long-standing interest in stress and well-being is also reflected in research on human behavior. The central goal of PSY 203 is to provide an overview of this research. We will apply a psychological science perspective to stress and well-being. What is stress and what is well-being? What is the relationship between the two? Can stress be sometimes good? Who are more vulnerable to negative effects of stress? Can we reliably measure something like happiness? Can you find happiness by searching for it? Who are more likely to be happy? What makes us happy? We will discuss what psychological science has to say in response to these and other similarly interesting questions.",
+  "course_materials": {
+    "resources": [
+      "A reading list has been assembled mainly from major scientific journals in the field. Together the readings provide a sampling of the main topics, issues, theories, and methods on the study of stress and well-being. It is totally fine if you are not able to follow all the technical (especially statistical) details in a paper; but do try your best to understand the main ideas. You can see the readings for each week below."
+    ],
+    "technology_requirements": "September 30th: Introductions, course overview, Q&A on the course, syllabus, expectations, etc. October 7th: The Good, the Bad, and the Toxic: What’s stress? How can you measure it? Cohen, S., Gianaros, P. J., & Manuck, S. B. (2016). A stage model of stress and disease. Perspectives on Psychological Science, 11, 456-463. Armstrong, K. (2023). Friend and foe: How inflammation fights disease and fuels depression. Association for Psychological Science Observer. October 14th: How bad is chronic stress? Cohen, S. (2021). Psychosocial vulnerabilities to upper respiratory infectious illness: Implications for susceptibility to coronavirus disease 2019 (COVID-19). Perspectives on Psychological Science, 16, 161-174 Gordon, A. M., & Mendes, W. B. (2021). A large-scale study of stress, emotions, and blood pressure in daily life using a digital platform. Proceedings of the National Academy of Sciences, 118(31), e2105573118. October 21st: Not everyone is affected equally from stressful life events. What protects you? What makes you vulnerable? Theobald, M., Breitwieser, J., & Brod, G. (2022). Test anxiety does not predict exam performance when knowledge is controlled for: Strong evidence against the interference hypothesis of test anxiety. Psychological Science, 33(12), 2073-2083. Kiecolt-Glaser, J. K., Renna, M. E., Shrout, M. R., & Maddison, A. A. (2020). Stress reactivity: What pushes us higher, faster, and longer—and why it matters. Current Directions in Psychological Science, 29, 492-498. October 28th: Catch up, review, Q & As (9:40-12:00) November 4th: Discussion I November 11th: What’s happiness? How can you measure it? Roshanaei, M., Vaid, S. S., Courtney, A. L., Soh, S. J., Zaki, J., & Harari, G. M. (2024). Meaningful peer social interactions and momentary well-being in context. Social Psychological and Personality Science, 15(8), 921-932. Killingsworth, M. A., & Gilbert, D. T. (2010). A wandering mind is an unhappy mind. Science, 330, 932. November 18th: Exam I November 25th: Who is happy? What makes you happy? Stern, J., Krämer, M. D., Schumacher, A., MacDonald, G., & Richter, D. (2024). Differences between lifelong singles and ever-partnered individuals in Big Five personality traits and life satisfaction. Psychological Science, 35(12), 1364-1381. Sánchez-Rodríguez, Á., Górski, M. R., Joshanloo, M., Krys, K., Tønnessen, M., Li, L. M. W., Akaliyski, P., Haas, B. W., Hussain, M. A., Guemaz, F., Boussena, M., Iter, N., Vlasenko, O., Lun, V. M.-C., Vignoles, V. L., Aminnuddin, N. A., Işık, İ., Ngom-Dieng, L., Fülöp, M., … Bond, M. H. (2025). Mind the gap: Perceived economic inequality and the well-being gap around the globe. Social Psychological and Personality Science. December 2nd: How does reflecting on “past you” (and via AI conversing with “future you”) affect well-being? Iyengar, S. S., Wells, R. E., & Schwartz, B. (2006). Doing better but feeling worse: Looking for the “best” job undermines satisfaction. Psychological Science, 17, 143-150. Pataranutaporn, P., Winson, K., Yin, P., Lapapirojn, A., Ouppaphan, P., Lertsutthiwong, M., ... & Hershfield, H. E. (2024, October). Future you: a conversation with an AI-generated future self reduces anxiety, negative emotions, and increases future self-continuity. In 2024 IEEE Frontiers in Education Conference (FIE) (pp. 1-10). December 9th: Does valuing happiness make you happy? (and is getting straight As a path to happiness?) Huang, K.-J. (2024). Does valuing happiness lead to well-being? Psychological Science. Rohrer, J. M., Richter, D., Brümmer, M., Wagner, G. G., & Schmukle, S. C. (2018). Successfully striving for happiness: Socially engaged pursuits predict increases in life satisfaction. Psychological Science, 29, 1291-1298. Kohn, A. (1993). The straight-A student: A cautionary tale. In Punished by rewards: The Trouble with gold stars, incentive plans, A's, praise, and other bribes (pp. 203-205). Houghton Miffin. December 16th: “Happiness is everything… Or is it?” Oishi, S., & Westgate, E. C. (2025). Psychological richness offers a third path to a good life. Trends in Cognitive Sciences. Ryff, C. D. (2024). The privilege of well-being in an increasingly unequal society. Current Directions in Psychological Science. December 23rd: Exam II December 30th: Discussion II"
+  },
+  "assessment_percent": {
+    "midterm": 80,
+    "assignment": 20
+  },
+  "program_requirements": [
+    {
+      "program": "2.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "PSY",
+  "cn": "203",
+  "section": null,
+  "key": "202501_PSY_203"
+}

@@ -1,0 +1,117 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Advanced Programming for Data Science - DSA 201",
+    "classroom": "FENS-G077,FMAN-G071",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:3, Engineering:3",
+    "prerequisites": "IF 100",
+    "corequisites": "DSA 201R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "İnanç Arın",
+      "email": "inancarin@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course blends the introduction of basic basicdata science and analytics concepts with advanced programming topics. Students gain experience in programming as they learn to use modern programming libraries for data analysis and visualization. Additionally, object-oriented concepts, algorithmic efficiency, and basic data structures are introduced.",
+  "course_learning_outcomes": [
+    "Perform algorithmic problem-solving.",
+    "Perform data manipulation and preprocessing.",
+    "Create and interpret data visualizations.",
+    "Develop object-oriented programming solutions using classes and inheritance.",
+    "Analyze programs and design efficient algorithms using appropriate data structures."
+  ],
+  "course_objective": [
+    "This course is designed to provide a comprehensive introduction to data science, while focusing on enhancing students' programming skills in Python. With this goal, the course aims to equip students with essential tools and techniques for data manipulation and visualization, and to introduce them to basic descriptive statistical analysis. Through a combination of theoretical concepts and practical applications, students will gain the skills needed to tackle real-world data science challenges.",
+    "Students will begin by practicing algorithmic problems to solidify their Python programming skills. They will then delve into data manipulation and preprocessing using powerful libraries such as NumPy and Pandas. The course also covers basic data visualization techniques using Matplotlib and Seaborn, as well as essential concepts in descriptive statistics. In the second part of the course, students will learn about object-oriented programming, basic data structures, and development of efficient algorithms.",
+    "Learning Objectives:",
+    "Enhance programming skills through algorithmic problem-solving.",
+    "Master data manipulation and preprocessing.",
+    "Develop proficiency in data visualization.",
+    "Understand and apply key concepts in descriptive statistics.",
+    "Gain a solid foundation in object-oriented programming with classes and inheritance.",
+    "Learn basic data structures such as linked lists, stacks, and queues.",
+    "Understand program efficiency and develop efficient searching/sorting algorithms."
+  ],
+  "course_materials": {
+    "resources": [
+      "Course Drive link will be shared on SUCourse. Here is additional materials for students: \"Python for Data Analysis\" by Wes McKinney: This book is written by the creator of the Pandas library and provides a comprehensive introduction to data analysis with Python. It covers data manipulation, cleaning, and visualization, using libraries like Pandas, NumPy, and Matplotlib.",
+      "https://wesmckinney.com/book/ \"Python Data Science Handbook\" by Jake VanderPlas (Chapter 2, 3, and 4 of the book): This is an excellent resource that covers essential data science tools and techniques in Python. It delves into libraries such as NumPy, Pandas, Matplotlib, and more, providing practical examples and explanations.",
+      "https://learning.oreilly.com/library/view/python-data-science/9781491912126/ \"Data Science from Scratch: First Principles with Python\" by Joel Grus (Chapter 3 and chapter 5 of the book): This book teaches data science fundamentals using Python. It is a good starting point for beginners as it builds from basic programming concepts to more complex data science topics.",
+      "https://learning.oreilly.com/library/view/data-science-from/9781492041122/ \"Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python\" by Peter Bruce and Andrew Bruce (Chapter 1 of the book): This book provides a practical introduction to statistical concepts used in data science, with examples in both R and Python. It is a good resource for understanding the statistical foundations of data science.",
+      "https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/ \"Effective Python: 90 Specific Ways to Write Better Python\" by Brett Slatkin (Only chapter 5 of the book): This book offers practical advice and tips for writing more efficient and effective Python code, which is valuable for any data scientist looking to improve their coding skills.",
+      "https://learning.oreilly.com/library/view/effective-python-90/9780134854717/ Introduction to Python Programming and Data Structures by Y. Daniel Liang (Various chapters of the book)"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 50,
+    "midterm": 40,
+    "attendance": 5,
+    "homework": 5
+  },
+  "program_requirements": [
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Political Science and International Relations",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "DSA",
+  "cn": "201",
+  "section": null,
+  "key": "202501_DSA_201"
+}

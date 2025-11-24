@@ -1,0 +1,93 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Comparative Party Systems and Electoral Behavior - POLS 404",
+    "classroom": "FASS-G048",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "SPS 101 or  SPS 102",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Mert Moral",
+      "email": "mmoral@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course is designed to introduce undergraduate students to theories and facts about political parties, comparative political party systems, interest or pressure groups, and interest group systems. The objective of the course is to teach students how organized political action takes shape, and how such action influence the structure of party and interest group systems.",
+  "course_learning_outcomes": [
+    "Upon completion of this course, the students will have a thorough understanding of the roles institutional and political contexts, and socio-demographic factors play in shaping party competition and individual behavior; historical, institutional, and ideological origins of political parties; and the roles of elections and representative democracy in translating public choice into public policy.",
+    "Over the course of the semester, we will first examine several important roles political parties play in representative democracies, and the institutional and sociological explanations of their origins in Western European democracies.",
+    "We will then delve into distinct types of cleavages that newer parties represent in both advanced and developing democracies.",
+    "In the last part of the semester, we will focus on the other party of the reciprocal relationship between public opinion and policy --the electorate.",
+    "Lastly, we will touch upon behavioral, rational, and mixed explanations of electoral behavior to make sense of the increasing prominence of niche parties, political polarization, and populism in the last couple of decades as well as the future of the representative democracy."
+  ],
+  "course_objective": "This seminar aims to introduce advanced undergraduate and graduate students to the classical and contemporary literature on party and electoral politics in established democracies seeking answers to the following questions: What and whose policy and ideological positions do political parties represent? Are party systems plastic, or do they allow for ``new'' parties to be represented in legislatures? Who are the new political actors in today's representative democracies, and what policy alternatives do they present to their constituents? How and to what extent do legislative elections serve as a means of popular control over public policy? How do individuals make their decisions to turn out and vote for incumbent and opposition parties or candidates, and what are the behavioral, instrumental, expressive, and strategic determinants of voting behavior? Over the course of the semester, we will first examine several important roles political parties play in representative democracies and the institutional and sociological explanations of their origins. We will then delve into distinct types of cleavages that older and newer party families represent in both advanced and developing democracies. In the final part of the semester, we will focus on the other part of the reciprocal relationship between public opinion and policy --the electorate. We will examine behavioral, rational, and mixed explanations of electoral behavior to understand the increasing prominence of niche parties, polarization, and populism over the last few decades. We will conclude the semester by discussing the future of representative democracy. Upon completion of this course, the students will have a thorough understanding of the roles institutional and political contexts and various socio-demographic factors play in shaping party and electoral politics; the historical, institutional, and ideological origins of the parties; and the roles of elections and representative democracy in translating public choice into public policy. Assigned readings encompass a diverse range of approaches to the scientific study of party and electoral politics, spanning from institutional to behavioral theories and from formal to experimental and observational studies. This course, however, assumes no background in formal theory or econometrics. The traditional lectures will cover the assigned readings, while the in-class discussions will focus on how the assigned readings contribute to our understanding of party systems, elections, and electoral behavior from a comparative perspective. The course requirements for undergraduate students consist of midterm and final examinations, four sets of weekly discussion questions, two short summary papers, and participation in class discussions. Depending on their methodological competence, graduate students will write either a full research paper or a research design paper on a topic of their choice, three reaction papers, and have more strict participation and attendance requirements.",
+  "course_materials": {
+    "resources": [
+      "There are no required textbooks for POLS404/513.",
+      "The required readings for each week are provided in the attached PDF. You can click on the hyperlinks indicated in blue for the journal articles, whereas the assigned chapters from the following books are uploaded to the ``Resources'' section of the course page:",
+      "Aldrich, John H. 1995. Why Parties? The Origin and Transformation of Political Parties in America. Chicago: University of Chicago Press.",
+      "Cox, W. Gary. 1997. Making Votes Count. Cambridge: Cambridge University Press.",
+      "Çarkoğlu, Ali, and Ersin Kalaycıoğlu, eds. 2021. Fragile but Resilient: Turkish Electoral Dynamics, 2002-2015. Ann Arbor: University of Michigan Press.",
+      "Çarkoğlu, Ali, and Ersin Kalaycıoğlu, eds. 2021. Elections and Public Opinion in Turkey: Through the Prism of the 2018 Elections. New York: Routledge.",
+      "Dalton, Russell J., and Christopher J. Anderson, eds. 2011. Citizens, Context, and Choice: How Context Shapes Citizens' Electoral Choices. New York: Oxford University Press.",
+      "Dalton, Russell J., and Hans-Dieter Klingemann, eds. 2009. The Oxford Handbook of Political Behavior. New York: Oxford University Press.",
+      "Downs, Anthony. 1957. An Economic Theory of Democracy. New York: Addison-Wesley Publishing.",
+      "Inglehart, Ronald F. 2018. Cultural Evolution: People’s Motivations Are Changing, and Reshaping the World. New York: Cambridge University Press.",
+      "Leighley, Jan E., ed. 2010. The Oxford Handbook of American Elections and Political Behavior. New York: Oxford University Press.",
+      "Mair, Peter, ed. 1990. The West European Party System, Oxford Readings in Politics and Government. New York: Oxford University Press.",
+      "Norris, Pippa, and Ronald Inglehart. 2019. Cultural Backlash: Trump, Brexit, and Authoritarian Populism. New York: Cambridge University Press.",
+      "Powell, G. Bingham. 2000. Elections as Instruments of Democracy: Majoritarian and Proportional Visions. New Haven: Yale University Press.",
+      "Verba, Sidney, Kay Lehman Schlozman, and Henry E. Brady. 1995. Voice and Equality: Civic Voluntarism in American Politics. Cambridge: Harvard University Press."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 25,
+    "participation": 10,
+    "attendance": 10,
+    "written report": 10,
+    "other": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Political Science and International Relations",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Decision and Behavior",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Political Science",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "International Studies",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "POLS",
+  "cn": "404",
+  "section": null,
+  "key": "202501_POLS_404"
+}

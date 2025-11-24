@@ -1,0 +1,47 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Brand Management - MKTG 406",
+    "classroom": "FMAN-G060",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "MKTG 301",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Zeynep Karagür",
+      "email": "zeynep.karagur@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course is designed to provide the students with a fundamental understanding of how to build and manage brands. Within this context, key issues in building effective brand strategies will be covered, providing students with a sound theoretical basis to make better branding decisions. The applications of theory (via cases, class discussions, etc.) will be stressed.",
+  "course_learning_outcomes": [
+    "Upon completion of this course, students should be able to: 1. Describe key concepts in branding. 2. Evaluate the role and function of Keller's brand building blocks in building brands. 3. Apply branding theory for decision-making in the context of a branding project. 4. Prepare a brand management report using the theories learned in the class. 5. Cooperate in team work. 6. Perform oral presentations in the class."
+  ],
+  "course_objective": "Brands are among the most important intangible assets a company can have. A strong brand is a powerful means to differentiate products or services and it can have a great impact on consumer buying decision. This course is designed to provide the students with a fundamental understanding of how to build and manage brands.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 30,
+    "attendance": 10,
+    "group project": 25
+  },
+  "program_requirements": [
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "MKTG",
+  "cn": "406",
+  "section": null,
+  "key": "202501_MKTG_406"
+}

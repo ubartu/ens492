@@ -1,0 +1,54 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Middle Eastern Politics and Government - POLS 495",
+    "classroom": "FASS-G056",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "SPS 101 or  SPS 102",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Muhammet Tahir Kılavuz",
+      "email": "tahir.kilavuz@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "A junior - senior level undergraduate course of comparative government and politics of the Middle East. It aims to analyze the emergence of the post World War I state system,major factors influencing political stability and change in the new states of the Middle East, with special reference to the role of religion, and oil.",
+  "course_learning_outcomes": [
+    "Upon successful completion of the course, students should be able to a) describe the historical trends in Middle East politics b) analyze the political systems of Middle Eastern states c) discuss the role of oil in the region's political economy d) identify the causes and consequences of intra-state conflicts"
+  ],
+  "course_objective": "Refer to the course content",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 25,
+    "assignment": 15,
+    "participation": 15,
+    "group project": 10
+  },
+  "program_requirements": [
+    {
+      "program": "International Studies",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Political Science",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "POLS",
+  "cn": "495",
+  "section": null,
+  "key": "202501_POLS_495"
+}

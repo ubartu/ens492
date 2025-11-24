@@ -1,0 +1,56 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Illustration as Communication - VA 331",
+    "classroom": "SUSAM-1008",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "VA 201 and  VA 203",
+    "corequisites": "-",
+    "course_type": "Studio"
+  },
+  "instructors": [
+    {
+      "name": "Onur Fatih Yazıcıgil",
+      "email": "oyazicigil@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course concentrates on the fundamentals of illustration as a communication design tool. Diverse illustration techniques and their applications from layout level to final output will be the main focus of the course. Processes in digital media as well as conventional illustration methods will be interchangeably utilized.",
+  "course_learning_outcomes": [
+    "Upon completion of this course, students should be able to: - design spot illustration based on observation using various techniques - create a series of narrative illustrations using a medium they prefer to work with - visualize a given concept - use computer imaging and digital technologies to solve design problems through illustration - develop personal skills both technically and conceptually"
+  ],
+  "course_objective": [
+    "To provide an understanding of illustration and its function in the design process",
+    "To encourage creative growth and improve craftsmanship",
+    "To develop conceptual skills as they relate to image making",
+    "To acquire visual research skills - from realistic to expressive imagery"
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 65,
+    "assignment": 35
+  },
+  "program_requirements": [
+    {
+      "program": "Entrepreneurship",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Visual Arts and Visual Communications Design",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "VA",
+  "cn": "331",
+  "section": null,
+  "key": "202501_VA_331"
+}

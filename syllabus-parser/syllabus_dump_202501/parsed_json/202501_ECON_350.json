@@ -1,0 +1,70 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Financial Institutions and Markets - ECON 350",
+    "classroom": "FASS-1089,FASS-1098",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "ECON 201 and  ECON 204",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Emrehan Aktuğ",
+      "email": "emrehan.aktug@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Money and interest rates; portfolio choice, behavior of interest rates and risk; foreign exchange market; financial institutions, banking industry; central bank and monetary policy; money supply process; determinants of money supply and tools of monetary policy; international financial system; monetary policy in open economies; demand for money; money and inflation.",
+  "course_learning_outcomes": [
+    "On completion of the course, students are expected to: -Understand the working of the Financial System -Explain why Indirect Finance is more widely-used compared to Direct Finance -Classify Financial Markets in terms of various aspects -Be able to state a rational Discount Rate expectation -Make basic mathematical computations regarding Interest Rates and Financial Instruments -Classify Financial Institutions -Explain why Banks are unique among all financial institutions -Analyze a Bank Balance Sheet on multi-dimensional basis -Explain the content of Basel I-II-III -Analyze Balance of Payments Statistics -Have an idea about the contemporary magnitudes of the Turkish Financial System"
+  ],
+  "course_objective": "The course discusses financial institutions and markets and the services they provide to non-financialsectors. Financial institutions and markets not only provide liquidity, i.e. money, but also provide other services like facilitating risk management, screening and monitoring. To a large extent these services are not provided by markets but by institutions, namely banks.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 50,
+    "midterm": 40,
+    "participation": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Economics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Entrepreneurship",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "International Studies",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Finance",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ECON",
+  "cn": "350",
+  "section": null,
+  "key": "202501_ECON_350"
+}

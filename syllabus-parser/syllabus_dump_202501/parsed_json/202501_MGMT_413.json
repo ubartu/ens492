@@ -1,0 +1,62 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Strategic Innovation - MGMT 413",
+    "classroom": "FASS-1097,FENS-L035",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Kerem Kılıç",
+      "email": "kerem.kilic@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "The purpose of this course is to help students develop an understanding of the dynamics of innovation, and to focus on successful strategies to manage the challenges posed by these dynamics. We will review the unique characteristics of industries characterized by frequent innovation, and explore how strategies in these industries are (or are not) different from other contexts. We will also focus on the process of managing innovation, both internally and externally. This course is suited for students aspiring to become entrepreneurs, general managers or consultants to general managers who are faced with situations in which innovation in new products, services and technologies is important, or those who would like to build basic background on the topic of strategy and innovation.",
+  "course_learning_outcomes": [
+    "1. Understand the process and dynamics of innovation 2. Gain familiarity with unique characteristics of innovation-based industries 3. Understand the process of managing innovation"
+  ],
+  "course_objective": [
+    "Understand the process and dynamics of innovation",
+    "Gain familiarity with unique characteristics of innovation-based industries",
+    "Understand the process of managing innovation"
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "participation": 30,
+    "group project": 40
+  },
+  "program_requirements": [
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "International Studies",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Entrepreneurship",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "MGMT",
+  "cn": "413",
+  "section": null,
+  "key": "202501_MGMT_413"
+}

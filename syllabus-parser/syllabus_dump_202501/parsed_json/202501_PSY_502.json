@@ -1,0 +1,128 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Data Analysis for Psychological Science I - PSY 502",
+    "classroom": "FASS-G043",
+    "level_of_course": "Masters",
+    "course_credits": "SU Credit:3.000, ECTS:10",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Gül Günaydın",
+      "email": "gul.gunaydin@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "In this course, students master the analysis of OLS general and generalised linear models using SPSS. Starting with a comparison of ANOVA and regression approaches, and how their respective SPSS dialogues can be used flexibly to produce similar results. Students are familiarised with analyses of between groups, repeated measures, and mixed datasets; higher-order interactions and moderation; crossing fixed factors with covariates; traditional and bootstrapping approaches to mediation; handling non-normal outcomes; and the basics of Bayesian inference. Along the way, students discuss and consider the details of experimental design, measurement, power,and ethics.",
+  "course_learning_outcomes": null,
+  "course_objective": [
+    "learning common data analytic approaches in psychology research",
+    "learning best practices to improve the quality of analytic approaches and decisions"
+  ],
+  "course_materials": {
+    "resources": [
+      "Please see the attached syllabus below."
+    ],
+    "technology_requirements": "JASP, Jamovi, GPower"
+  },
+  "assessment_percent": {
+    "midterm": 38,
+    "assignment": 40,
+    "participation": 6,
+    "written report": 16
+  },
+  "program_requirements": [
+    {
+      "program": "Psychology (with thesis)",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Biological Sciences and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Psychology (non-thesis)",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Experimental Psychology",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "MS-Bio. Sci. & Bioeng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Social Psychology",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Materials Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Mechatronics LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "MS-Industrial Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Materials Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "PSY",
+  "cn": "502",
+  "section": null,
+  "key": "202501_PSY_502"
+}

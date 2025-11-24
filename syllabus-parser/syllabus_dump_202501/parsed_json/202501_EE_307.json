@@ -1,0 +1,90 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Semiconductor Physics and Devices - EE 307",
+    "classroom": "FENS-L056,FENS-L063",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:2, Engineering:4",
+    "prerequisites": "ENS 203",
+    "corequisites": "EE 307R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Murat Kaya Yapıcı",
+      "email": "mkyapici@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course begins with a substantive treatment of the fundamental behavior of semiconductor materials and moves on to the semiconductor diode, the bipolar transistor, and field-effect transistor devices. Building upon these concepts, their operations, biasing, small- and large-signal models are analyzed. Laboratory exercises are provided to reinforce the theory of operation of these devices.",
+  "course_learning_outcomes": [
+    "To understand the fundamental physical properties of semiconductors.",
+    "To learn the behavior of carriers in a semiconductor crystal in equilibrium, continuity equations, concept of minority-majority carriers, doping.",
+    "To learn the fundamental theory and the relationships for the analysis of semiconductor devices and be able to explain the operation of fundamental semiconductor devices including pn junctions, bipolar junction transistors and field effect transistors.",
+    "To learn energy band models and be able to draw energy band diagrams for semiconductor structures subject to various conditions.",
+    "Comprehensive understanding of the derivation of I-V relationships used in electronic circuit analysis of fundamental building blocks of semiconductor ICs."
+  ],
+  "course_objective": "The primary objective of this course is to provide students with the fundamental physical and electronic properties of semiconductor materials and the operation principles of most common semiconductor devices used in electronic circuits.Starting from the solid structure of semiconductors, the course aims to examine the basic physical processes taking place in semiconductor devices and their relation to the performance parameters of device operation.",
+  "course_materials": {
+    "resources": [
+      "Textbook: Semiconductor Device Fundamentals, R.F.Pierret (Addison Wesley, 1996) Reference: Modern Semiconductor Devices for Integrated Circuits, C. Hu (Prentice Hall, 2009)"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 30,
+    "quiz": 16,
+    "attendance": 10,
+    "homework": 4
+  },
+  "program_requirements": [
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Physics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "EE",
+  "cn": "307",
+  "section": null,
+  "key": "202501_EE_307"
+}

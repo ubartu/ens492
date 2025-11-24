@@ -1,0 +1,114 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Statistical Modelling - MATH 306 Section B",
+    "classroom": "FASS-G062,UC-G030",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:6",
+    "prerequisites": "MATH 203",
+    "corequisites": "MATH 306R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Erdal Aydın",
+      "email": "erdalaydin@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Statistical inference; estimation, confidence intervals, hypothesis testing; analysis of variance; goodness of fit tests; regression and correlation analysis; Bayesian methods; introduction to design of experiments; use of statistical software.",
+  "course_learning_outcomes": [
+    "Identify special sampling distributions",
+    "Apply the techniques of point estimation for parameters of interest and assess the quality of these estimators",
+    "Construct confidence intervals of parameters of interest",
+    "Apply the classical approach to hypothesis testing",
+    "Apply and implement special statistical tests",
+    "Fit and interpret linear regression models."
+  ],
+  "course_objective": [
+    "To introduce the basic techniques of point and interval estimation",
+    "To teach how to design and test hypotheses",
+    "To teach the principles of regression analysis"
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 55,
+    "midterm": 45
+  },
+  "program_requirements": [
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Business Analytics",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Economics",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "MATH",
+  "cn": "306",
+  "section": "B",
+  "key": "202501_MATH_306_B"
+}

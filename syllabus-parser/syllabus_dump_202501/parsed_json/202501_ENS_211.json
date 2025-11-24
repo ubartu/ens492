@@ -1,0 +1,103 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Signals - ENS 211",
+    "classroom": "FASS-G022,FENS-G035",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:3, Engineering:3",
+    "prerequisites": "MATH 101",
+    "corequisites": "ENS 211R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Mohaned Chariti",
+      "email": "mohaned.chraiti@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Continuous and discrete, periodic and aperiodic signals, impulse, unit step signals. Spectrum representation of a signal. Fourier series representation of periodic signals. System concept. Continuous and Discrete Finite Impulse Response (FIR) Systems. Linear Time Invariant (LTI) Systems. Impulse response and Frequency response of LTI systems. Fourier transform of aperiodic and periodic signals. Filtering in time and frequency domain. Sampling of continuous signals. Aliasing. Bandlimited reconstruction, interpolation. Basic Amplitude Modulation.",
+  "course_learning_outcomes": [
+    "Describe a periodic signal in time domain by defining its properties such as the fundamental period and fundamental frequency.",
+    "Define a periodic signal as a sum of sinusoids or complex exponentials, i.e., create the Fourier series representation of a periodic signal and reconstruct the signal back from such representation through Fourier analysis and synthesis equations.",
+    "Construct the spectrum representation of a periodic signal.",
+    "Identify Finite Impulse Response (FIR) systems, Linear Time Invariant (LTI) Systems, and their properties.",
+    "Define the impulse response of an LTI system both in continuous-time and discrete-time, and system properties such as stability and causality.",
+    "Define the frequency response of an LTI system and its properties.",
+    "Construct forward and inverse Fourier Transforms of both periodic and aperiodic continuous-time signals.",
+    "Describe ideal frequency selective filters (low-pass, high-pass, band-pass) in the frequency domain.",
+    "Perform frequency filtering over the spectrum of a signal.",
+    "Describe the Sampling Theorem and conversion between continuous time and discrete-time domains.",
+    "Describe basic principles of an Amplitude Modulation and Demodulation System."
+  ],
+  "course_objective": [
+    "Major objectives of this course are:",
+    "To utilize mathematics as a tool for describing and understanding signals and systems.",
+    "To provide a broad introduction to signals.",
+    "To comprehend linear time invariant (LTI) system fundamentals both in time and frequency domains."
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 30,
+    "assignment": 40
+  },
+  "program_requirements": [
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "ENS",
+  "cn": "211",
+  "section": null,
+  "key": "202501_ENS_211"
+}

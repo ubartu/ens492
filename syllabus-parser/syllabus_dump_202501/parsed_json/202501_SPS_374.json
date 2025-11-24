@@ -1,0 +1,79 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Global Environmental Challenges - SPS 374",
+    "classroom": "FASS-1102",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Ümit Şahin",
+      "email": "umitsahin@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course aims to provide an introduction to the global environmental challenges with their scientific, economic and political aspects from an interdisciplinary natural and social science perspective. This course equips students with skills to comprehend and analyses the historical background, as well as the future outlook of current environmental problems caused by the immense impact of human civilizations, particularly by economic growth and changing production-consumption patterns. Topics to be discussed include environmental pollution and ecological footprint, global issues such as ozone depletion, deforestation, climate change, and biodiversity loss, air pollution and other environmental health issues, urban environmental problems, food and water politics, plastic pollution and the oceans. Course include discussions of case studies for the solutions and movements for a sustainable future, such as eco-innovation, green economy, and environmentalist campaigns.",
+  "course_learning_outcomes": null,
+  "course_objective": [
+    "Learning Outcomes",
+    "Upon successful completion of this course, students will be expected to be able to",
+    "Comprehend the components and functions of the Earth as a system",
+    "Understand how human impact developed on the Earths system and historical background of environmental challenges",
+    "Explain the causes and effects of global environmental change, pollution and resource depletion",
+    "Discuss environmental health problems and air pollution in the context of their scientific and political background",
+    "Discuss food politics, water crisis, climate crisis, biodiversity loss (sixth extinction), plastic pollution, and other increasingly important environmental challenges and the current world of multiple crises",
+    "Discuss the need for energy transition, circular economy and solutions for sustainability."
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 30,
+    "quiz": 10,
+    "participation": 10,
+    "attendance": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Political Science",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Energy",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "International Studies",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Sustainability",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Political Science and International Relations",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "SPS",
+  "cn": "374",
+  "section": null,
+  "key": "202501_SPS_374"
+}

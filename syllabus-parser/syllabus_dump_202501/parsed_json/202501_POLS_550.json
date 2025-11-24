@@ -1,0 +1,136 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Turkish Politics - POLS 550",
+    "classroom": "FASS-G056",
+    "level_of_course": "Masters",
+    "course_credits": "SU Credit:3.000, ECTS:10",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Ersin Mahmut Kalaycıoğlu",
+      "email": "kalaycie@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course aims to provide a systematic historical review of classic and contemporary literature on the Turkish political institutions and processes from the Ottoman period to the present. Special attention will be paid to public policy making processes, forms of political participation, organisation and structure of diffrent levels of government institutions and mass movements.",
+  "course_learning_outcomes": [
+    "Comprehend the approaches, theories, and concepts used to explain developments in Turkish politics.",
+    "Identify main pitfalls, fallacies and challenges in conducting research in Turkish politics.",
+    "Analyze the relevant political science literature by reference to empirical evidence on Turkish politics.",
+    "Develop research questions and pertinent designs to analyze phenomena, events, and issues in Turkish politics.",
+    "Compare the political science literature on Turkish Politics with other similar and dissimilar cases in Comparative Politics.",
+    "Apply abstract logical and research tools, ideas and concepts to actual events and outcomes",
+    "Formulating research questions, corresponding hypothesis, and empirical testing of hypothesis using relevant techniques, such as mathematical statistics."
+  ],
+  "course_objective": "The primary objective of the course is to enable the students to understand and analyze the complexities and developments of political life, institutions and processes, as well as the socio-economic factors that influence the political system in Turkey. An equally significant aim of the course is to provide the students with the theoretical background and analytical tools to render their own political analyses of the Turkish political system, in the context of the field of comparative politics and of the political science discipline.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 50,
+    "quiz": 20
+  },
+  "program_requirements": [
+    {
+      "program": "Political Science (non-thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Materials Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Turkish Studies (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Turkish Studies (non-thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "MS-Industrial Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Political Science (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Biological Sciences and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Bio. Sci. & Bioeng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Materials Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "International Relations (non-thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Mechatronics LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Political Science",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "POLS",
+  "cn": "550",
+  "section": null,
+  "key": "202501_POLS_550"
+}

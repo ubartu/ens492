@@ -1,0 +1,90 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Energy - ENRG 315",
+    "classroom": "FENS-G035,FENS-L035",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:5, Basic:3, Engineering:2",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "İsmet İnönü Kaya",
+      "email": "iikaya@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "A one-semester introduction, focusing on a central concept: energy, energy sources, and the environment. Gives students the necessary physics background to form opinions on energy questions. The physical laws of thermodynamics, electricity, and magnetism, and nuclear physics in connection with energy related topics such as: thermal pollution, fossil power, fission and fusion, nuclear power, and solar power. Economic and environmental impacts.",
+  "course_learning_outcomes": [
+    "Affordable and Clean Energy",
+    "Climate Action"
+  ],
+  "course_objective": "Sustainable Development Goals (SDGs) Related to This Course: Affordable and Clean Energy Climate Action",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 25,
+    "midterm": 50,
+    "quiz": 15,
+    "homework": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Sustainability",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Energy",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "ENRG",
+  "cn": "315",
+  "section": null,
+  "key": "202501_ENRG_315"
+}

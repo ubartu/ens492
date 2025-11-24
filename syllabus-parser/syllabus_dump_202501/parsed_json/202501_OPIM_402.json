@@ -1,0 +1,68 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Optimization Modeling in Business Analytics - OPIM 402",
+    "classroom": "FASS-G049,FMAN-L018",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "MGMT 203 or ( MATH 306)",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Can Akkan",
+      "email": "canakkan@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course provides a detailed introduction to solving managerial problems using various optimization techniques. The aim is to show why and how certain types of deterministic optimization models can be used to assist decision makers make better decisions. Hence, the focus is on teaching a wide variety of applications. Problems from different domains of management, such as operations management, marketing and finance are modeled and solved. The optimization techniques covered are linear programming, linear integer programming, nonlinear programming, and evolutionary algorithms.",
+  "course_learning_outcomes": [
+    "Upon successful completion of this course, students should be able to: ? Define the basic concepts, methods, and several applications of Management Science, ? Develop modeling skills through spreadsheet approach ? Identify the importance of management science as a part of their future career advancement. ? Comprehend the most important and frequently employed concepts and methods of Management Science. ? Identify the seven-step modeling apparoach of Management Science. ? Define the linear and deterministic models of Management Science. ? Use the spreadsheet modeling approach to explain the concepts and methods of Management Science. ? Integrate the modeling process of Management Science with several functional areas such as economics, finance, accounting, manufacturing, planning, scheduling, supply chain, marketing, human resources, and operations management ? Develop an appreciation for Management Science and return to its benefits during their professional lives."
+  ],
+  "course_objective": "Primary objectives of this course are (1) to familiarize the students with the basic concepts, methods, and several applications of Management Science, (2) to help them develop modeling skills through spreadsheet approach, and (3) to motivate the participants to develop an appreciation for management science as a part of their future career advancement.",
+  "course_materials": {
+    "resources": [
+      "Wayne L. Winston, S. Christian Albright. Practical Management Science, 6th edition, CENGAGE Publishing, 2019."
+    ],
+    "technology_requirements": "Students are expected to come to class with their laptops that has the most recent MS Office 365 installed."
+  },
+  "assessment_percent": {
+    "final": 25,
+    "midterm": 25,
+    "case study": 20,
+    "participation": 20,
+    "homework": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Business Analytics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "OPIM",
+  "cn": "402",
+  "section": null,
+  "key": "202501_OPIM_402"
+}

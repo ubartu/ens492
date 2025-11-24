@@ -1,0 +1,159 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Methods and Scope of Political Analysis - POLS 529",
+    "classroom": "FASS-G043,FASS-G050",
+    "level_of_course": "Masters",
+    "course_credits": "SU Credit:3.000, ECTS:10",
+    "prerequisites": "-",
+    "corequisites": "POLS 529D",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Fatih Serkant Adıgüzel",
+      "email": "serkant.adiguzel@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course provides an introduction to philosophy of social sciences, various methodological approaches in political science and research methods and analysis. Components of research design, measurement, validity, data collection strategies and logic of inference are discussed. Various research design examples are provided from the recent political science literature and students are exposed to research process, article evaluation and thesis proposal writing. It also aims to expose students to ethical considerations in research and publishing.",
+  "course_learning_outcomes": [
+    "By the end of this semester, students will be introduced to research design, measurement, and causal inference as the three major topics in political methodology",
+    "By the end of this semester, students will be able to evaluate scholarly research and design their own independent research."
+  ],
+  "course_objective": [
+    "There is a myriad of ways to obtain scientific knowledge about social and political phenomena that political scientists are interested in better understanding and explaining. The main goal of this course is not to provide you with all such tools at our disposal, but with a survey of those, and necessary knowledge and basic skills to understand, evaluate, and conduct scientific research. Having been introduced to qualitative and quantitative reasoning, and political science methodology will help you develop the required skillset to \\critically and \\constructively evaluate other scholarly research as well as a sense of how your future research agenda, including but not limited to your M.A. thesis/Ph.D. dissertation, should look like.",
+    "Since research design constitutes the ``nuts and bolts'' of scientific research and, as political scientists, we should all be able to communicate ``what we think we know'' to our audience, this course will focus extensively on research design and communicating ``how we came to know what we think we know.'' Following a general introduction to the epistemology of science in the first part, you will therefore spend the second part of the semester thinking about how to approach puzzling social and political phenomena, conceptualize and operationalize various factors (that may or may not be) influencing them, design appropriate theoretical and empirical models, and communicate those to your audience (and write) effectively."
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 20,
+    "quiz": 30,
+    "assignment": 20,
+    "term-paper": 30
+  },
+  "program_requirements": [
+    {
+      "program": "Turkish Studies (non-thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Biological Sciences and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Political Science",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Conflict Analysis and Resolution (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Turkish Studies (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Conflict Analysis and Resolution (non-thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "MS-Bio. Sci. & Bioeng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "European Studies (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Political Science (with thesis)",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Materials Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Mechatronics LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "European Studies (non-thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Political Science (non-thesis)",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Industrial Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Materials Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "POLS",
+  "cn": "529",
+  "section": null,
+  "key": "202501_POLS_529"
+}

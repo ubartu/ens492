@@ -1,0 +1,80 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Microelectronic Fabrication - EE 407",
+    "classroom": "FENS-L062",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "EL 204 or  EE 307",
+    "corequisites": "EE 407L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Murat Kaya Yapıcı",
+      "email": "mkyapici@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Semiconductor growth; material characterization; lithography tools; photo-resist models; thin film deposition; chemical etching and plasma etching; electrical contact formation; microstructure processing; and process modeling.",
+  "course_learning_outcomes": [
+    "In depth understanding of the unit processes involved in IC fabrication, including diffusion, oxidation, ion implantation, lithography, dry/wet etching, physical and chemical vapor deposition techniques.",
+    "To learn the fundamental theory and operation of equipments used in different microelectronic processes.",
+    "Identify the performance metrics for each unit process, learn the governing equations to model each process, and how deviations from an ideal process affect device characteristics.",
+    "To learn about mask layout, and understand the reasons for layout rules in VLSI design.",
+    "Getting hands-on experience in the cleanroom and practicing the unit processes learned in class.",
+    "Learn about process modeling tools, device characterization and inspection techniques.",
+    "Develop an understanding of modern CMOS fabrication technology, learn about process integration, and be able to develop and understand fabrication flow diagrams."
+  ],
+  "course_objective": "A detailed analysis of semiconductor processing technologies that form the basis for the physical realization of all semiconductor based device applications; from the realization of very large and ultra scale integrated circuits (VLSICs, ULSICs) and complex system-on-chip (SoC) application specific integrated circuits (ASICs) to individual device research and development in photonics, photonic integrated circuits (PICs), micro-electro-mechanical-systems (MEMS), etc. The primary objective of this course is to provide students with the fundamental understanding of standard unit processes involved in microfabrication, and providing familiarity with basic microfabrication tools. Although considerable focus will be given to Si-based microfabrication technologies, primarily because of its dominance in microelectronic industry today, the course material will be enriched with the cutting-edge compound semiconductor technologies (specifically GaAs/AlGaAs and InP/InGaAsP technologies) to provide a sound foundation for general semiconductor based fabrication, research and development.",
+  "course_materials": {
+    "resources": [
+      "Textbook:",
+      "Fabrication Engineering at the Micro- and Nanoscale (4th edition), Campbell, Oxford University Press The Science and Engineering of Microelectronic Fabrication; Campbell; Oxford University Press Suggested references: 1. Introduction to Microelectronic Fabrication; Jaeger; Prentice Hall 2. Silicon VLSI Technology; Plummer, Deal, Griffin; Prentice Hall 3. Silicon Processing for the VLSI Era; Wolf and Tauber; Lattice Press 4. Microelectronics Processing and Device Design; Colclaser; Wiley",
+      "5. VLSI Technology; Sze; McGraw-Hill"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 30,
+    "other": 40
+  },
+  "program_requirements": [
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "EE",
+  "cn": "407",
+  "section": null,
+  "key": "202501_EE_407"
+}

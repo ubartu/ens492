@@ -1,0 +1,103 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Elementary Number Theory - MATH 317",
+    "classroom": "FENS-L035,FENS-L062",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:6",
+    "prerequisites": "MATH 102 and  MATH 201",
+    "corequisites": "Course Type:",
+    "course_type": null
+  },
+  "instructors": [
+    {
+      "name": "Kağan Kurşungöz",
+      "email": "kursungoz@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Divisibility, prime numbers, congruences, quadratic residues, arithmetic functions, the Riemann Zeta function.",
+  "course_learning_outcomes": [
+    "Prove simple facts about divisibility, greatest common divisors, least common multiples,",
+    "Understand the Euclidean Algorithm",
+    "Understand the Fundamental Theorem of Arithmetic",
+    "Solve linear Diophantine equations and linear congruences",
+    "Understand and apply Fermat's Little Theorem",
+    "Determine Euler Phi Function and prove simple facts about Euler Phi Function",
+    "Prove simple facts about primitive roots",
+    "Apply the Law of Quadratic Reciprocity",
+    "Show simple facts about quadratic residues",
+    "Decide if an integer can be written as a Sum of Squares",
+    "Apply standard proof methods like mathematical induction, direct and indirect proofs",
+    "Present simple proofs in a precise and formally correct way."
+  ],
+  "course_objective": [
+    "Refer to the course content"
+  ],
+  "course_materials": {
+    "resources": [
+      "Andrews, George E.. Number Theory. United Kingdom, Dover Publications, 1994."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 30,
+    "assignment": 40
+  },
+  "program_requirements": [
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mathematics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "MATH",
+  "cn": "317",
+  "section": null,
+  "key": "202501_MATH_317"
+}

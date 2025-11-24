@@ -1,0 +1,56 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Growth and Development - ECON 420",
+    "classroom": "FASS-1096,FASS-G048",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "ECON 202 and  ECON 204",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Cavit Baran",
+      "email": "cavit.baran@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Basic features of modern economic growth; theories of economic growth: neoclassical growth model, endogenous growth models, convergence of income levels political economy of development and economic growth; growth and inequality; poverty and undernutrition; population growth and development; rural-urban interaction and growth; role of factor markets in economic development; international trade and growth.",
+  "course_learning_outcomes": [
+    "On completion of the module, students should be able to a) set up and solve some dynamic problems related to economic growth, b) develop intuitive economic reasoning to the growth issues that nations face, c) understand and illustrate the implications of certain government policies on economic growth."
+  ],
+  "course_objective": "Main objective of this course is to study the current income differences across countries and the underlying economic causes that can explain these disparities. By the end of this course, students should have a basic understanding of economic growth and gain the ability to evaluate the role of elements that determine growth. To that end, first part of the course will lay out theoretical foundations of economic growth. Second part will focus on empirical applications of economic theory to explore various important factors that help explain the current status of world economies such as political and cultural institutions, health and nutrition, education, labor markets and financial institutions.",
+  "course_materials": {
+    "resources": [
+      "David N. Weil, Economic Growth, 4th edition. Routledge. Alain De Janvry and Elisabeth Sadoulet, Development Economics: Theory and Practice, 2nd edition. Routledge."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 30,
+    "attendance": 5,
+    "presentation": 10,
+    "homework": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Sustainability",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Economics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ECON",
+  "cn": "420",
+  "section": null,
+  "key": "202501_ECON_420"
+}

@@ -1,0 +1,63 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Corporate Governance and Social Responsibility - MGMT 410",
+    "classroom": "FASS-1089",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "ORG 301 or  ORG 302",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Ozan Duygulu",
+      "email": "oduygulu@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "The course is planned to equip the students with a general understanding of how modern business organizations and society continuously interact to form various relationships. Specifically, the course aims to provide an insight regarding the theories of corporation and its stakeholders, corporate governance, business ethics, sustainability, and corporate social responsibility. The course aims to achieve a theoretical understanding through making sure the students attain a practical understanding of the issues covered in the class",
+  "course_learning_outcomes": [
+    "At the end of the course the students should be able to: 1. Comprehend how and why some firms achieve and sustain superior market performance as measured by shareholder value but under the guidance of the normative subjects of ethics and social responsibility. 2. Demonstrate the relationship between the disciplines of economics, political science, law and ethics 3. Apply course frameworks to real world phenomena."
+  ],
+  "course_objective": [
+    "Upon successful completion of the course, the student will be able to:",
+    "Understand corporations from a stakeholder perspective",
+    "Comprehend the nature of relations that a corporation must manage",
+    "Analyze the corporation as part of a societal setting",
+    "Contextualize their knowledge in management",
+    "Assess the ethical and societal aspects of corporate decisions",
+    "Critically approach to the corporations",
+    "Evaluate governance/sustainability/policy aspects of corporations"
+  ],
+  "course_materials": {
+    "resources": [
+      "Required Textbook: Business and Society: Stakeholders, Ethics, Public Policy by Anne T. Lawrence and James Weber, McGraw-Hill Education, 2020 (16th Edition). The links for you to order the book (either in ebook or physical form) will be provided via SuCourse. In addition, the information center of our university has previous versions of this book which are quite similar to our edition, so do not hesitate to borrow those as well. Besides the book, the material posted on SuCourse matters the most."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 20,
+    "assignment": 40
+  },
+  "program_requirements": [
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Sustainability",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "MGMT",
+  "cn": "410",
+  "section": null,
+  "key": "202501_MGMT_410"
+}

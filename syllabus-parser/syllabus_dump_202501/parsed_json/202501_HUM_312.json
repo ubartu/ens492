@@ -1,0 +1,72 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Major Works of Modern Art - HUM 312",
+    "classroom": "FASS-2023",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:5",
+    "prerequisites": "SPS 101 and  SPS 102 and ( HUM 201 or  HUM 202 or  HUM 207)",
+    "corequisites": "Course Type:",
+    "course_type": null
+  },
+  "instructors": [
+    {
+      "name": "Melisa King",
+      "email": "kingmelisa@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Major Works of Modern Art aims to introduce students to one of the crucial periods of Western art which is the birth, development and \"triumph\" of Modern Art from the 1860's to the 1960's. The primary purpose of this course however is not to stress the chronological development of modern art but rather to focus on and pursue specific art-related and cultural issues that pertain to those chosen works. Even though the masterpieces are presented chronologically, the lectures themselves are kept fairly independent and presented like a series of visits to an 'imaginary museum'. The chosen works are discussed along with comparative material to explore specific issues that are selected for each work and to illustrate earlier and later thematic developments.",
+  "course_learning_outcomes": [
+    "Achieve a chronological insight into the art of the Western world in the 20th century.",
+    "Develop understanding of how cultural modernity reflects on the production of works of art.",
+    "Describe cultural concepts such as modernity, modernism, formalism, anti-formalism and the avantgarde.",
+    "Gain critical insight into how artists and artworks become \"major\" examples of their \"cultural\" time, and how a painting or sculpture becomes a cultural icon.",
+    "Compare the historical and cultural contexts that influence the diversity of artistic mediums such as painting, sculpture, performance, installation."
+  ],
+  "course_objective": "This is a chronological survey that traces developments in Western modern art from the late 19th century to the mid-20th, with a focus on artists and artworks that have contributed to the definition of various styles, movements and artistic transformations.",
+  "course_materials": {
+    "resources": [
+      "Arnason, H.H., and Elizabeth C. Mansfield. 2013. History of Modern Art. Pearson. Berger, John. 1993. The Success and Failure of Picasso. Knopf Doubleday Publishing. Berger, John. 1972. Ways of Seeing. British Broadcasting Corporation. Berger, John. 2009. About Looking. Bloomsbury Publishing. Davies, Penelope J. E., et al. 2016. Janson's History of Art: The Western Tradition. Pearson.",
+      "Foster, Hal, Rosalind Krauss, Yve-Alain Bois, and Benjamin H. D. Buchloh. 2004. Art Since 1900: Modernism, Antimodernism, Postmodernism. Thames & Hudson. Harrison, Charles, and Paul Wood, eds. 2003. Art in Theory, 1900–2000: An Anthology of Changing Ideas. Blackwell. Kalba, Laura Anne. 2003. Color in the Age of Impressionism: Commerce, Technology, and Art. Blackwell Publishing. Sever Hande. 2022. “In Dialogue with Nails: Kuzgun Acar’s Elegy to a Modern Man,” World Art 12, no. 3: 269–286. Somerville, Kristine. 2025. “Suzanne Valadon of Montmartre.” The Missouri Review 48 (2): 45–59."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 25,
+    "assignment": 20,
+    "attendance": 15
+  },
+  "program_requirements": [
+    {
+      "program": "2.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "3.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "4.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "5.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "HUM",
+  "cn": "312",
+  "section": null,
+  "key": "202501_HUM_312"
+}

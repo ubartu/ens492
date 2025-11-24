@@ -1,0 +1,76 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Social Innovation and Entrepreneurship - MGMT 412",
+    "classroom": "FMAN-G013",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Türkan Yosun",
+      "email": "turkan.yosun@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Social Entrepreneurship represents an innovative approach to the creation and delivery of social value locally, regionally, nationally and internationally. Social entrepreneurs are using the principles of entrepreneurship to improve the lives of those around them by creating innovative responses to critical social needs (e.g., hunger,poverty, global warming, etc). In other terms, they are change agents. The course aims to enable students to develop an understanding and awareness of the concepts, opportunities and challenges of social entrepreneurship. Students will appreciate the distinctions between private sector, philanthropy and social entrepreneurship. Social innovations will be at the core of the discussion. This is a course for those whose long-term goals extend beyond creating personal economic gain and involve creating broad-scale value for multiple stakeholders.",
+  "course_learning_outcomes": [
+    "The objectives of the course are: (1) To explain and appreciate the nature of social entrepreneurship. (2) To provide students with a working knowledge of the concepts, opportunities and challenges of social entrepreneurship. (3) To demonstrate the role of social entrepreneurship in creating innovative responses to critical social needs. (4) To help prepare you personally and professionally for meaningful employment by reflecting on the issues of social entrepreneurship. (5) To learn the primary tasks and decisions that are required to turn an idea into a sound opportunity. (6) To highlight the problems faced in implementing a plan for a new business opportunity. (7) To talk about the impact of social entrepreneurship. (8) To show ethical issues surrounding entrepreneurial decisions and obligations of entrepreneurs."
+  ],
+  "course_objective": "Social innovation and entrepreneurship provide new opportunities to overcome complex social and environmental problems. Social entrepreneurs use the principles of entrepreneurship to create and deliver social value that helps solve local, national or global challenges. The study of social entrepreneurship integrates knowledge from multiple disciplines such as entrepreneurship, innovation, and sociology. This course introduces students to the fields of social innovation and entrepreneurship and aims to empower them to create positive social and environmental change by providing necessary knowledge, skills, and abilities.",
+  "course_materials": {
+    "resources": [
+      "See below the resources for each week. I expect you to at skim through the articles before the class and fully read the case studies for their assigned weeks. Articles and book chapters: 1) Fucci, V. (2022). Social Innovation and Sustainable Development, Giappichelli. Chp1 2) Bandinelli, C. (2020). Social Entrepreneurship and Neoliberalism: Making Money While Doing Good. London, England; Rowman & Littlefield International, Chp 1. 3) Guo, C., & Bielefeld, W. (2014). Social Entrepreneurship: An Evidence-based Approach to Creating Social Value. John Wiley & Sons, Incorporated, Chp 1. 4) Guclu, A., Dees, J. G., & Anderson, B. B. (2002). The process of social entrepreneurship: Creating opportunities worthy of serious pursuit. CASE Center for the Advancement of Social Entrepreneurship, 1-15. 5) Brown, T., & Wyatt, J. (2009). Design Thinking for Social Innovation. Stanford Social Innovation Review, 8(1), 31–35.",
+      "6) Murray, R & Caulier-Grice, J & Mulgan, G. (2010). The Open Book of Social Innovation: Ways to Design, Develop and Grow Social Innovations. The Young Foundation & NESTA. Chp 1, pp:14-29 7) Accelerate Impact (2025). Guide to Human Centered Design for Social Innovation, Chp3 (Emphatise) 8) Guo, C., & Bielefeld, W. (2014). Social Entrepreneurship: An Evidence-based Approach to Creating Social Value. John Wiley & Sons, Incorporated, Chp 3. 9) Accelerate Impact (2025). Guide to Human Centered Design for Social Innovation, Chp5 (Ideate) 10) Guo, C., & Bielefeld, W. (2014). Social Entrepreneurship: An Evidence-based Approach to Creating Social Value. John Wiley & Sons, Incorporated, Chp 4.",
+      "11) Alter, K. Four Lenses Strategic Framework, Fundamental Models http://www.4lenses.org/book/export/html/102 12) Accelerate Impact (2025). Guide to Human Centered Design for Social Innovation, Chp6 (Prototype) 13) OECD (2021). Social Impact Measurement for the Social and Solidarity Economy, OECD Local Economic and Employment Development (LEED) Papers, Chp 3. 14) Clark, C., Rosenzweig, W., Long, D. & Olsen, S. (2004). Double bottom line project report: assessing social impact in double bottom line ventures, Rockefeller Foundation 15) Achleitner, A. K., Heinecke, A., Noble, A., Schöning, M., & Spiess-Knafl, W. (2011) Social Investment Manual: An Introduction for Social Entrepreneurs. Schwab Foundation 16) Miesing, P., Aggestam, M. (2017). Educating Social Entrepreneurs, Volume II: From Business Plan Formulation to Implementation. New York: Business Expert Press, Chp24",
+      "17) Dushin, M., Cornell, S.D. (2019). Developing Your Social Enterprise Pitch Deck https://tinyurl.com/2rt76j3n",
+      "18) https://blog.acumenacademy.org/9-inspiring-examples-social-entrepreneurs-pitching-their-social-ventures 19) Kalafatas, J. (2006). Approaches to Scaling Social Impact. The Center for the Advancement of Social Entrepreneurship, Duke University. 20) Wolk, A. & Kreits, K. (2008). Business Planning for Enduring Social Impact. Root Cause, Cambridge, MA.",
+      "21) Ehmke, C., Akridge, J. (2005). The Elements of a Business Plan: First Steps for New Entrepreneurs. https://www.extension.purdue.edu/extmedia/ec/ec-735.pdf 22) Fruchterman, J. (2011). For love or lucre, Stanford Social Innovation Review, Spring",
+      "23) Papi-Thornton, D. (2016). Tackling Heropreneurship, Stanford Social Innovation Review, Feb 23, 2006. List of Case Studies: Case 1: Avani, Yale College case directory",
+      "https://cases.som.yale.edu/avani/access?cases-access-redirect=1",
+      "Case 2: Zenios, S, Denend, L, Sheen, E. (2012). Kickstart I-II- III-IV: Stanford Graduate School of Business, Global Health Innovation Insights. Case 3: Tracey, P. & Owen, J. (2006). An Enterprising Failure: Why a promising social franchise collapsed, Stanford Social Innovation Review, Spring 2006"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "midterm": 40,
+    "participation": 15,
+    "attendance": 5,
+    "group project": 35,
+    "other": 5
+  },
+  "program_requirements": [
+    {
+      "program": "Sustainability",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Entrepreneurship",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Society, Culture and Politics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "MGMT",
+  "cn": "412",
+  "section": null,
+  "key": "202501_MGMT_412"
+}

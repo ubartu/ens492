@@ -1,0 +1,89 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Computer Networks - CS 408",
+    "classroom": "FASS-G062",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "CS 204",
+    "corequisites": "CS 408L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Albert Levi",
+      "email": "levi@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course is an introductory course on computer networks. Topics include network architectures, circuit and packet switching, local and wide-area networks, network technologies and topologies; data link, network, and transport layer protocols; routing, addressing; congestion/flow/error control. Application layer protocols are covered as well. Physical layer issues are overviewed. Followed reference models are TCP/IP for network and upper layers, OSI for data link layer and IEEE 802 for MAC protocols.",
+  "course_learning_outcomes": [
+    "Define the basic terminology and characteristics of computer networks, networking equipment and standard reference models and wireless and wired communication media; design and analyze basic models of packet and/or circuit switched networks",
+    "Demonstrate detailed understanding of selected TCP/IP application layer protocols including design and implementation of an application layer protocol using TCP/IP sockets or other inter-device communication primitives",
+    "List the primary function, activities, and application areas of local area networks and analyze various performance metrics of medium access control protocols; Apply and analyze various flow and error detection/control algorithms on direct communication links",
+    "Demonstrate understanding of IP (Internetworking Protocol) and TCP (Transmission Control Protocol) and all related mechanisms at TCP and IP layers including routing, addressing, traffic control and congestion control algorithms and mechanisms."
+  ],
+  "course_objective": "This course aims to equip the students with theoretical and practical aspects of computer networking, especially the TCP/IP protocol suite. Homework assignments, labs, and class projects will help students better understand the Internet's operational issues and design principles. The class project will allow the students to design an application-layer protocol to work over TCP/IP.",
+  "course_materials": {
+    "resources": [
+      "Main Text: Computer Networking with Internet Protocols and Technologies, William Stallings, (out of print)",
+      "Alternative Text: Computer Networking: A top-down approach featuring the Internet, Kurose and Ross, 6h / newer ed. Reference: Computer Networks, 4th or newer edition, Andrew Tanenbaum, Reference: Computer Networks and Internets, Douglas Comer, 5th or newer ed. Reference: Data and Computer Communications, Stallings, 6th or newer edition."
+    ],
+    "technology_requirements": "A computer of any operating system"
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 30,
+    "assignment": 20,
+    "group project": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "408",
+  "section": null,
+  "key": "202501_CS_408"
+}

@@ -1,0 +1,106 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Introduction to Mathematical Analysis - MATH 301",
+    "classroom": "FENS-G032,FENS-L045",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:6",
+    "prerequisites": "-",
+    "corequisites": "MATH 301R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Nihat Gökhan Göğüş",
+      "email": "nggogus@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "The least upper bound property in R, equivalents and consequences. Metric spaces. Completeness, compactness, connectedness. Functions,continuity. Sequences and series of functions. Contraction mapping theorem and applications to calculus: Inverse and implicit function theorems.",
+  "course_learning_outcomes": [
+    "Comprehend the language of analysis",
+    "Read and understand definitions, theorems, proofs.",
+    "Produce their \"own\" proofs in some cases.",
+    "Comprehend the structure of real numbers and the Euclidean space. Comprehend the basic theorems of Calculus.",
+    "Comprehend the topology of the Euclidean space.",
+    "Comprehend the notion and use the facts of continuity.",
+    "Comprehend the notion and use the facts of differentiability.",
+    "Comprehend the notion and use the inverse and implicit function theorems.",
+    "Comprehend the notion and use the facts of Riemann integrals."
+  ],
+  "course_objective": [
+    "Learning the basics of mathematical analysis; i.e. basic theorems and basic techniques in analysis.",
+    "We learn already in high school that integration plays a central role in mathematics and physics. One encounters usual Riemann integrals in the notions of area or volume, when solving a differential equation, in the fundamental theorem of calculus, in Stokes' theorem, or in classical and quantum mechanics. One purpose of this course is to introduce more advanced tools and notions of Mathematics such as metric spaces, uniform convergence of sequence of functions and their relation with differentiation and integration."
+  ],
+  "course_materials": {
+    "resources": [
+      "Michael C. Reed, Fundamental Ideas of Analysis, John Wiley & Sons, Inc., 1998. We will cover the first 6 chapters, we will skip some sections. Detailed weekly schedule is at the end of the syllabus."
+    ],
+    "technology_requirements": "None."
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 60
+  },
+  "program_requirements": [
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mathematics",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "MATH",
+  "cn": "301",
+  "section": null,
+  "key": "202501_MATH_301"
+}

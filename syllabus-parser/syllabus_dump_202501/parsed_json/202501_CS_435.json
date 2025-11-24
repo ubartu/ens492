@@ -1,0 +1,94 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Quantum Programming I - CS 435",
+    "classroom": "FASS-G052",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:3, Engineering:3",
+    "prerequisites": "IF 100 and  MATH 201",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Özlem Salehi Köken",
+      "email": "ozlem.salehi@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course offers a hands-on introduction to quantum programming, focusing on both the theoretical foundations of quantum computing and the practical implementation of the covered concepts. Topics include the distinction between classical and quantum bits, superposition, entanglement, and quantum gates. It covers basic quantum communication protocols and illustrates the power of quantum computing through representative algorithms for search, decision, and factorization problems.",
+  "course_learning_outcomes": [
+    "Demonstrate a basic but solid understanding of the theory of quantum computation.",
+    "Create quantum circuits and simulate them in classical simulators.",
+    "Implement basic quantum communication protocols.",
+    "Write codes for elementary quantum algorithms and execute them in simulators.",
+    "Acquire the necessary knowledge to program a gate-based quantum computer.",
+    "Analyze and compare classical and quantum algorithmic complexity for specific problems."
+  ],
+  "course_objective": null,
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 45,
+    "midterm": 30,
+    "quiz": 15,
+    "assignment": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Physics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "435",
+  "section": null,
+  "key": "202501_CS_435"
+}

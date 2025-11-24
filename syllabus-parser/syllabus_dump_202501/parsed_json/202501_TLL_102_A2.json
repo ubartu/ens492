@@ -1,0 +1,99 @@
+{
+  "course_info": {
+    "faculty": "School of Languages",
+    "semester": "Fall 2025-2026",
+    "course": "Turkish Language and Literature II - TLL 102 Section A2",
+    "classroom": "FASS-2031",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:2.000, ECTS:3",
+    "prerequisites": "TLL 101",
+    "corequisites": "Course Type:",
+    "course_type": null
+  },
+  "instructors": [
+    {
+      "name": "Tamer Kütükçü",
+      "email": "tamer@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This literature course is a continuation of TLL 101 and aims to analyze novels, short stories, plays, and poems of Turkish literature written in the period beginning from the early 20th century until today, focusing on issues related to the modernization history of Türkiye. The aim of the course, which is constructed in coordination and correlation with HIST 192, is twofold: On the one hand, it aims to analyze and discuss how the Republican Turkish history is reflected in literature and how in turn literature affects this history, and on the other hand, it aims to develop students' theoretical and practical skills in reading discussing and interpreting literary texts. This is achieved by using primary literary texts produced by prominent authors in this period as well as numerous critical texts on these authors. Students are expected to participate in the discussions on these works and the related secondary sources, prepare oral presentations and write papers.",
+  "course_learning_outcomes": [
+    "Students are expected to be able to comprehend and examine the selected texts (novels, short stories, poems and plays) of 20th century RepublicanTurkish Literature as well as related academic readings",
+    "Students are expected to be able to take part in class discussions by responding to input, listening to others and expressing their own opinions appropriately",
+    "Students are expected to be able to select and analyze sources, plan and organize information, and formulate their own perspective in order to prepare a discussion-based presentation",
+    "Students are expected to be able to recognize and identify the differences in authors? approaches to particular issues/themes",
+    "Students are expected to be able to gain an understanding of the relation between a literary text and its political, social and cultural context",
+    "Students are expected to be able to identify the similarities and differences between the historical account of a period in modern Turkish history (as in HIST 192) and its reflection in the literary works discussed",
+    "Students are expected to be able to understand writing prompts and plan their response to exam-based essays",
+    "Students are expected to be able to analyze, synthesize and utilize academic texts in order to formulate an appropriate response to writing prompts",
+    "Students are expected to be able to demonstrate their understanding of academic integrity by integrating sources effectively into their course work by using the APA referencing system"
+  ],
+  "course_objective": [
+    "To develop students' theoretical and practical skills in reading, discussing and interpreting literary texts and to develop their understanding of how the Republican Turkish modernization process is reflected in literature and how in turn literature affects this process."
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 20,
+    "quiz": 25,
+    "participation": 25
+  },
+  "program_requirements": [
+    {
+      "program": "2.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "3.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "4.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "5.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "6.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "7.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "8.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "9.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "TLL",
+  "cn": "102",
+  "section": "A2",
+  "key": "202501_TLL_102_A2"
+}

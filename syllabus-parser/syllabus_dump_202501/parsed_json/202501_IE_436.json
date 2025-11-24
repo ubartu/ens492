@@ -1,0 +1,80 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Monte Carlo Methods in Finance - IE 436",
+    "classroom": "FASS-1097",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:2, Engineering:4",
+    "prerequisites": "MATH 306",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Semih Onur Sezer",
+      "email": "sezer@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "The course aims to introduce the Monte Carlo methods and techniques used in mathematical finance. In this field, many problems involve computing expectations. Pricing various derivatives, computing default/ruin probabilities, finding optimal/well-performing portfolios are some well-known examples of such problems. In the course, after discussing the basics of probability and simulation, we learn how Monte Carlo methods apply to these problems.",
+  "course_learning_outcomes": [
+    "Apply algorithms for random variable generation,",
+    "Generate sample paths of certain stochastic processes,",
+    "Use variance reduction techniques,",
+    "Apply Monte Carlo methods for the computations of expectation expressions arising in mathematical finance (for pricing derivative instruments, computing ruin probabilities, etc.)"
+  ],
+  "course_objective": [
+    "Introduce the Monte Carlo approach and teach its applications in the problems of mathematical finance"
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 55,
+    "midterm": 45
+  },
+  "program_requirements": [
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "IE",
+  "cn": "436",
+  "section": null,
+  "key": "202501_IE_436"
+}

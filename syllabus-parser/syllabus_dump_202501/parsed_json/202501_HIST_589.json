@@ -1,0 +1,137 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "From Empire to Republic : Turkish Nationalism and the Nation-State - HIST 589",
+    "classroom": "FASS-G049",
+    "level_of_course": "Masters",
+    "course_credits": "SU Credit:3.000, ECTS:10",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Ayşe Ozil",
+      "email": "ayseozil@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "A dense survey course on the making of Modern Türkiye with a special focus on the ideological dimension of nation-building. Moves from multiple backgrounds (in : the broad outlines of Ottoman history; the ?long? 19th century; the New Imperialism; Eurocentrism and Orientalism; racism and Social Darwinism), through Ottoman-Turkish elites? evolving love-and-hate relationship with the West, to the fashioning and grounding of a specifically Turkish (as against an Ottoman or a Muslim) identity in the throes of the protracted crisis of 1908-22. Makes considerable use of literature, too, to explore the myths of originism and authocthonism, as well as the ''golden age'' narratives, connected with both early and Kemalist varieties of Turkish nationalism. Also see HIST 489 for the possibility of being taken at the undergraduate level.",
+  "course_learning_outcomes": [
+    "Students will be able to develop an understanding of the key moments in late Ottoman history and the transition to the Republican period.",
+    "Students will familiarize themselves with the \"long 19th century\" roots of Turkish nationalism through a series of political and social developments in the Ottoman Empire through Republican Turkey.",
+    "Students will be able to situate various political and social developments (such as Orientalism) within a wider historical frame and contextualize them in broader Eurasian history.",
+    "Students will develop a multi-faceted understanding of the transition to the Republican period and will be able to interpret this transition based on the principles of historical thinking, avoiding hindsight and teleological views.",
+    "Students will be introduced to the latest historical writing on the subject and will familiarize themselves with the recent discussions in the field for the period under discussion."
+  ],
+  "course_objective": "This course offers a survey of the history of the late Ottoman empire and the transition to republican Turkey. The focus will be on the main aspects of the political and social sphere from the 19th through the early 20th centuries. At the end of the course, students are expected to have a grasp of the central features of the late Ottoman and early republican state and society, including aspects of reform, mobility, war and urbanization. Students are also expected to familiarize themselves with discussions in scholarship on the period.",
+  "course_materials": {
+    "resources": [
+      "Please see the attached detailed syllabus."
+    ],
+    "technology_requirements": "Please see the attached detailed syllabus."
+  },
+  "assessment_percent": {
+    "final": 40,
+    "term-paper": 30,
+    "presentation": 20,
+    "homework": 10
+  },
+  "program_requirements": [
+    {
+      "program": "MS-Bio. Sci. & Bioeng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Materials Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Turkish Studies (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "History (non-thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Turkish Studies (non-thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "MS-Materials Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Mechatronics LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Industrial Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "History (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Biological Sciences and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "History",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Cultural Studies (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "HIST",
+  "cn": "589",
+  "section": null,
+  "key": "202501_HIST_589"
+}

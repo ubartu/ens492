@@ -1,0 +1,59 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Corporate Mergers & Acquisitions - FIN 405",
+    "classroom": "FMAN-G013",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "FIN 301 or  IE 303",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Erkut Baloğlu",
+      "email": "erkut.baloglu@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course introduces students with the basic Mergers&Acquisitions concepts and terminology and presents them the financial methods and tools that are commonly employed in the M&A process. The first part of the course covers firm valuation models in detail. The topics in the second part include deal structuring, negotiation, the risk management tools used in the takeover process, and the recent trends in the international and local corporate takeover markets. The roles of private equity and strategic acquirers during the merger process, competition among bidders to acquire target firms, bidding wars and the economic and legal aspects of the takeover process will also be discussed during the course of the semester.",
+  "course_learning_outcomes": [
+    "Describe the key players, steps and timeline of a typical corporate takeover process.",
+    "Perform firm and equity valuation for stand-alone firms using the discounted cash flow and the relative valuation methods.",
+    "Identify the sources of synergy in a merger, and perform firm and equity valuation in the light of these additional sources of value.",
+    "Discuss the important finance-related negotiation topics between the merging firms.",
+    "Explain how Leveraged Buyout deals differ from the more conventional deal structures, and describe its implications on firm valuation and deal structuring."
+  ],
+  "course_objective": "This course introduces students with the basic M&A concepts and terminology, and presents them the commonly used financial methods and tools in the M&A process. The first part of the course covers firm valuation, which is typically the key negotiation item in merger negotiations. The second part of the course includes topics such as deal structuring, LBOs and bidding strategies and tactics. Interested audience for this class would be students targeting a career in the M&A division of investment banks, private equity firms, merger arbitrage desks of hedge funds, and the finance divisions of manufacturing/service firms that may face takeovers. Lectures are designed to combine theory and applications through case studies, and there will be a balanced emphasis on both. Students should have taken a basic finance course at the undergraduate level (equivalent of FIN 301) before enrolling this course.",
+  "course_materials": {
+    "resources": [
+      "1. Investment Valuation: Tools and Techniques for Determining the Value of any Asset, by Aswath Damodaran, Wiley, 3rd Edition (2012) 2. Mergers, Acquisitions, and Other Restructuring Activities, by Donald DePamphilis, Academic Press, 9th Edition (2017)"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 20,
+    "attendance": 10,
+    "group project": 30
+  },
+  "program_requirements": [
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Finance",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "FIN",
+  "cn": "405",
+  "section": null,
+  "key": "202501_FIN_405"
+}

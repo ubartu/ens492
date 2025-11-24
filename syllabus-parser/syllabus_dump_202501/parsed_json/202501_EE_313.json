@@ -1,0 +1,74 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Introduction to Communication Systems - EE 313",
+    "classroom": "FENS-L030,FENS-L067",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:1, Engineering:5",
+    "prerequisites": "ENS 211",
+    "corequisites": "EE 313R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Mohaned Chariti",
+      "email": "mohaned.chraiti@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Analog and digital modulation and demodulation theory. Review of probability theory and stochastic processes. Statistical characterization of noise and communication channels. Performance of communication systems in the presence of noise.",
+  "course_learning_outcomes": [
+    "Analyze and design basic communications systems, particularly with application to noise-free analog communications.",
+    "Apply concepts and techniques from Fourier analysis to communication systems.",
+    "Compare and contrast the strengths and weaknesses of various communication systems.",
+    "Characterize random processes and apply probability/random process theory to formulate and solve communication problems.",
+    "Analyze the performance of analog communication systems under noise."
+  ],
+  "course_objective": "The aim of this course is to introduce the students with the fundamentals of analog communications, specifically with the essential tools for the design and analysis of analog communication systems. Topics include Fourier techniques in communication systems design and analysis, amplitude modulation (AM), frequency modulation (FM), phase modulation (PM), random signals and noise, behavior of analog communication systems under noise.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 35,
+    "assignment": 30
+  },
+  "program_requirements": [
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "EE",
+  "cn": "313",
+  "section": null,
+  "key": "202501_EE_313"
+}

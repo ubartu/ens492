@@ -1,0 +1,110 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Decision Analysis - IE 405",
+    "classroom": "FASS-G018,FASS-G062",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "MATH 306",
+    "corequisites": "Course Type:",
+    "course_type": null
+  },
+  "instructors": [
+    {
+      "name": "Ahmet Barış Balcıoğlu",
+      "email": "balcioglu@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Introduction to the theory and practice of decision processes under risk; use of decision trees and influence diagrams in solving decision-making problems; assessing subjective probabilities in modeling uncertainty; Bayes' theorem; value of information; attitudes towards risk; utility theory; multi criteria decision making; analytic hierarchy process; auctions.",
+  "course_learning_outcomes": [
+    "Determine the objectives, alternatives and uncertainties to model a decision problem and solve it using various techniques such as decision trees and influence diagrams.",
+    "Calculate the values of perfect and imperfect information.",
+    "Apply single and multi-attribute utility models.",
+    "Implement Analytic Hierarchy Process (AHP).",
+    "Describe the fundamental decision heuristics and related biases.",
+    "Develop computational decision making skills by using programming languages"
+  ],
+  "course_objective": null,
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 55,
+    "midterm": 45
+  },
+  "program_requirements": [
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Business Analytics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Decision and Behavior",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Energy",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "IE",
+  "cn": "405",
+  "section": null,
+  "key": "202501_IE_405"
+}

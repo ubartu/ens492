@@ -1,0 +1,81 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Parallel Computing - CS 406",
+    "classroom": "FASS-1010",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "CS 301",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Kamer Kaya",
+      "email": "kaya@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course is an introduction to various aspects of parallel computing. Topics include: taxonomy of parallel architectures and interconnection networks, parallel algorithms and programming, speed-up, efficiency and performance issues; control parallel, data parallel and data flow models; parallel algorithms for sorting, matrix operations, graph problems.",
+  "course_learning_outcomes": [
+    "At the end of the course the student will understand the evolution of high performance and parallel computing with respect to laws and modern hardware.",
+    "At the end of the course the student will be able to design, apply, and analyze parallel algorithms in problem solving.",
+    "At the end of the course the student will be competent to measure the performance of parallel and distributed programs. S/he will be able to evaluate whether a parallel and distributed application is efficient or not and propose techniques to increase the performance.",
+    "At the end of the course the student will gain hands-on experience with GPU programming with CUDA and multicore programming with OpenMP."
+  ],
+  "course_objective": "To teach fundamentals of traditional and modern concepts in parallel computing with a sufficient hands-on experience on parallel programming",
+  "course_materials": {
+    "resources": [
+      "There is no official book. Slides will be provided."
+    ],
+    "technology_requirements": "Server accounts will be provided to the students."
+  },
+  "assessment_percent": {
+    "midterm": 55,
+    "assignment": 15,
+    "group project": 30
+  },
+  "program_requirements": [
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "406",
+  "section": null,
+  "key": "202501_CS_406"
+}

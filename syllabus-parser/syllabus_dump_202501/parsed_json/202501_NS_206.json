@@ -1,0 +1,85 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "What is There in the Universe: Inside the Milky Way? - NS 206",
+    "classroom": "FENS-G035",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:5, Basic:5",
+    "prerequisites": "NS 101",
+    "corequisites": "Course Type:",
+    "course_type": null
+  },
+  "instructors": [
+    {
+      "name": "Ünal Ertan",
+      "email": "unal@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "The structures of the Milky Way starting from the solar system: the sun and the planets. Stars and star clusters. How does a star shine - stellar structure and evolution. End points of stellar evolution - black holes, white dwarfs and neutron stars. Methods of observation across the electromagnetic spectrum. Satellite observatories and space research.",
+  "course_learning_outcomes": [
+    "Describe the physical principles that govern the motions of the planets and the stellar systems.",
+    "Define the basic properties of electromagnetic radiation and spectrum.",
+    "Explain the basic radiation mechanism of stars.",
+    "Describe the methods of distance, velocity, mass and radius measurements of stars.",
+    "Explain the formation and evolution of stars.",
+    "Describe the formation of the elements inside the stars.",
+    "Discuss formation and properties of the end products of stellar evolution: White dwarfs, neutron stars and black holes."
+  ],
+  "course_objective": "Refer to the course description",
+  "course_materials": {
+    "resources": [
+      "Textbook (e-book):",
+      "E. Chaisson & S. McMillan, ASTRONOMY TODAY, 9th Edition (e-book) The link provided by the Çağlayan Bookstore:",
+      "https://www.caglayan.com/urundetay/759935/SAB0136858492#sthash.di1YH3Gn.dpbs"
+    ],
+    "technology_requirements": "The links and suggested reading will be given in the presentation files to be uploaded to the \"Lecture Notes\" on SUCourse after the current lecture."
+  },
+  "assessment_percent": {
+    "final": 50,
+    "midterm": 50
+  },
+  "program_requirements": [
+    {
+      "program": "Entrepreneurship",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Physics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "NS",
+  "cn": "206",
+  "section": null,
+  "key": "202501_NS_206"
+}

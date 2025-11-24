@@ -1,0 +1,63 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Major Works of Literature: The Modern World - HUM 321",
+    "classroom": "FASS-1075,FASS-1080",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:5",
+    "prerequisites": "SPS 101 and  SPS 102 and ( HUM 201 or  HUM 202 or  HUM 207)",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Kenan Sharpe",
+      "email": "kenan.sharpe@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "The course introduces students to a few major works of literature that have influenced their own times and continue to have an impact on our understanding of the modern world and its cultures. The works selected for the course have significantly shaped methodologies used by literary scholars to approach, evaluate and understand other works of literature. Although written in different geographies, depicting diverse situations, the following works are all variants of literary genres associated with the modern world. This course aims to afford students an opportunity to learn broader critical reading strategies and ways to approach texts.",
+  "course_learning_outcomes": [
+    "Have broad range of knowledge of various modes of realist fiction and the writers associated with the movements",
+    "Understand the interdependent relationship between literature, politics and ideology",
+    "Have an understanding of how humanity and the ?human condition??both good and bad?are interconnected on a global scale",
+    "Demonstrate comprehension of the materials through a series of short papers."
+  ],
+  "course_objective": [
+    "The course introduces students to a few major works of literature that have influenced their own times and continue to have an impact on our understanding of the modern world and its cultures. The works selected for the course have significantly shaped methodologies used by literary scholars to approach, evaluate and understand other works of literature. Although written in different geographies, depicting diverse situations, the following works are all variants of literary genres associated with the modern world. This course aims to afford students an opportunity to learn broader critical reading strategies and ways to approach texts."
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 50,
+    "participation": 20
+  },
+  "program_requirements": [
+    {
+      "program": "2.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "3.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "4.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "HUM",
+  "cn": "321",
+  "section": null,
+  "key": "202501_HUM_321"
+}

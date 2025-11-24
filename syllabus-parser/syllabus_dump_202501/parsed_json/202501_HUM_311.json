@@ -1,0 +1,63 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Major Works of Literature: The World Before Modernity - HUM 311",
+    "classroom": "FASS-1080,FMAN-G045",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:5",
+    "prerequisites": "SPS 101 and  SPS 102 and ( HUM 201 or  HUM 202 or  HUM 207)",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Neriman Kuyucu",
+      "email": "neriman.kuyucu@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course aims to explore one or more works of literature that have influenced their own times and continue to have an impact on our understanding of the world and its cultures. The course is designed to include critical reading and comparative analyses of selected works. The concepts of myth and archetypes in their various appearances are at the center of the discussions of this course. The emphasis is on imagination, feeling and expression in literature, with attention to cultural, social and political issues. Course work involves not only reading but also writing analytically and critically.",
+  "course_learning_outcomes": [
+    "Understand the world, their country, their society, as well as themselves and have awareness of ethical problems, social rights, values and responsibility to the self and to others through selected literary works.",
+    "Develop knowledge of theories, concepts, and research methods in humanities and social sciences through selected literary works.",
+    "Assess how global, national and regional developments affect society through selected literary works.",
+    "Know how to access and evaluate data from various sources of information through selected literary works."
+  ],
+  "course_objective": "The period between 1450 and 1800 in Europe was a time of massive transformation, marked by the advent of the printing press and a cascade of social, cultural, and intellectual developments. This course offers an introduction to the literary works produced during this era, as well as the sociocultural, religious, and political contexts that shaped the early modern literary landscape. Throughout this course, we will set out on a literary journey, exploring various genres—poetry, prose, and drama—and study both major canonical writers like Machiavelli, Shakespeare and Christopher Marlowe, as well as women writers often relegated to the periphery, including Katherine Philips, Louise Labé and Mary Astell. As we trace the evolution of literary aesthetics and forms over time, we will also engage with broader thematic concerns, with a specific focus on gender, that were pivotal in the development of early modern literature. Throughout the course, we will investigate key questions such as: How did writers in Europe respond to the economic, social, and political shifts in the early modern period? How did these changes influence aesthetic preferences and the creation of literary art? What does it mean for literary texts to serve as historical artifacts that offer insights into the past worlds? What insights can we glean from the literary texts regarding attitudes toward gender, love, and societal norms during the early modern period?",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 25,
+    "assignment": 10,
+    "participation": 20,
+    "presentation": 15
+  },
+  "program_requirements": [
+    {
+      "program": "2.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "3.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "4.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "HUM",
+  "cn": "311",
+  "section": null,
+  "key": "202501_HUM_311"
+}

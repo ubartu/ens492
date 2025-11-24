@@ -1,0 +1,71 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Econometrics - ECON 301",
+    "classroom": "FASS-G052",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:7",
+    "prerequisites": "MATH 306",
+    "corequisites": "ECON 301R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Cavit Baran",
+      "email": "cavit.baran@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Simple linear regression, least squares, generalized least squares; goodness of fit; prediction; inference, confidence intervals and hypothesis testing; empirical modeling of economic theory; introduction to econometric packages.",
+  "course_learning_outcomes": [
+    "Apply various econometric techniques on data.",
+    "Identify possible data problems, realize consequences of such problems on estimation results and choose appropriate and relevant techniques.",
+    "Interpret estimation results, assess the importance of certain factors on the variable interest.",
+    "Identify causal relationship between variables.",
+    "Develop independent study skills, i.e., to pose a problem, identify main causes, use data to provide quantitative answers."
+  ],
+  "course_objective": "This course provides an introduction to econometric methods, with a strong emphasis on their application in applied economic research. Students who successfully complete the course will gain a solid understanding of the fundamental techniques of empirical economics, including linear regression, instrumental variable estimation, and limited dependent variable regressions. In the first half of the course, students will develop a basic understanding of the nature of empirical research and the possibilities and limitations of econometric methods. They will study the foundations of linear regression analysis with cross-sectional data, while learning to implement these techniques in the statistical software package STATA. Empirical examples will be used throughout to illustrate key concepts. In the second half of the course, students will be introduced to more advanced econometric topics, including regression analysis with instrumental variables and limited dependent variables estimation. By the end of the course, students will not only be able to understand these methods conceptually but also apply them independently to real-world economic data.",
+  "course_materials": {
+    "resources": [
+      "Jeffrey Wooldridge, Introductory Econometrics: A Modern Approach, 7th edition. Cengage Learning."
+    ],
+    "technology_requirements": "Students are expected to install and use Stata software or R Studio to complete basic data application exercises for the assignments. For a refresher on Stata, tutorials can be found at https://www.stata.com/links/video-tutorials/."
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 35,
+    "assignment": 20,
+    "attendance": 5
+  },
+  "program_requirements": [
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Business Analytics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Economics",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "ECON",
+  "cn": "301",
+  "section": null,
+  "key": "202501_ECON_301"
+}

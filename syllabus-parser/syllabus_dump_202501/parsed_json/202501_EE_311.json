@@ -1,0 +1,91 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Introduction to Signal Processing and Information Systems - EE 311",
+    "classroom": "FENS-L030,FENS-L055",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:1, Engineering:5",
+    "prerequisites": "ENS 211",
+    "corequisites": "EE 311R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Çağlar Tunç",
+      "email": "caglar.tunc@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Discrete-time Fourier transform. Discrete-time processing of continuous-time signals. Basic communication concepts, modulation, AM, FM, pulse amplitude modulation. Laplace transform, system response. Z-transform. Systems characterized by differential and difference equations. Control systems and feedback. Uncertainty and randomness in signals and systems.",
+  "course_learning_outcomes": [
+    "- discuss the fundamental concepts in signal processing and information systems,",
+    "- exhibit and express a unified view of problems in communication, control, and signal processing,",
+    "- describe the process of input-output characterization of linear time invariant systems,",
+    "- correctly perform calculations involving transforms including continuous and discrete-time Fourier transforms, as well as Laplace and z-transforms,",
+    "- perform computer simulations demonstrating main concepts in signal processing including sampling, transforms, and modulation."
+  ],
+  "course_objective": [
+    "To provide a broad introduction to signal processing and information systems, following upon basic signals and systems knowledge. To provide exposure to basics and selected topics in communication, control, and random signals, with links to practical applications."
+  ],
+  "course_materials": {
+    "resources": [
+      "Signals, Systems and Inference by Alan V. Oppenheim and George C. Verghese (any version should do)"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "quiz": 30,
+    "participation": 15,
+    "group project": 25
+  },
+  "program_requirements": [
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "EE",
+  "cn": "311",
+  "section": null,
+  "key": "202501_EE_311"
+}

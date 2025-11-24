@@ -1,0 +1,86 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Microeconomics - ECON 204 Section A",
+    "classroom": "FASS-1101,FASS-1103",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "Corequisites:",
+    "corequisites": null,
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Mehmet Baç",
+      "email": "bac@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Consumer theory and demand; production, costs and supply; analysis of market structure; welfare, market failures, imperfect information and the role of the government in a market economy.",
+  "course_learning_outcomes": [
+    "Apply demand-supply analysis to study potential impacts of microeconomic policies (Price, regulations, quotas etc).",
+    "Analyze the decision process of firm behavior under competitive conditions.",
+    "Analyze the basic assumptions about preferences and variables affecting derived consumer demand.",
+    "Identify why and when markets fail to produce socially desirable outcomes.",
+    "Use the welfare theorems, their assumptions and their informal proofs/intuition."
+  ],
+  "course_objective": "Microeconomic analysis is the study of how societies control and organize the production and distribution of goods and services. In this course, we will attempt to explain how consumers, firms, and workers interact, why they behave in particular ways, and what the outcome of that behavior might be. Economists try to understand how and why the economy works. There is much that we already know, but there is also a great deal that we still don't understand. This makes economics an exciting subject, both to teach and to study.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 50,
+    "midterm": 40,
+    "quiz": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Economics",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Energy",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Management",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Political Science",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "International Studies",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ECON",
+  "cn": "204",
+  "section": "A",
+  "key": "202501_ECON_204_A"
+}

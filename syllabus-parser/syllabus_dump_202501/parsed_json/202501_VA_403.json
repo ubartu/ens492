@@ -1,0 +1,50 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Design Studio III - VA 403",
+    "classroom": "SUSAM-1008",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:4.000, ECTS:7",
+    "prerequisites": "VA 201 and  VA 203",
+    "corequisites": "-",
+    "course_type": "Studio"
+  },
+  "instructors": [
+    {
+      "name": "Christopher Çolak",
+      "email": "christopher.colak@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Introducing multimedia design elements; i.e. sound, interactivity, animation and the combination thereof within a graphic presentation.",
+  "course_learning_outcomes": [
+    "Better understanding of personal creative strengths and weaknesses.",
+    "Ability to use visual language for communication purposes.",
+    "Improvement of design methodology and presentation skills."
+  ],
+  "course_objective": [
+    "Strengthening of core design skills from research and ideation to implementation and presentation within the context of today's visual communication materials."
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 60,
+    "midterm": 20,
+    "presentation": 20
+  },
+  "program_requirements": [
+    {
+      "program": "Visual Arts and Visual Communications Design",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "VA",
+  "cn": "403",
+  "section": null,
+  "key": "202501_VA_403"
+}

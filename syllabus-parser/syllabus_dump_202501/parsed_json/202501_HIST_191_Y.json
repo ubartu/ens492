@@ -1,0 +1,90 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Principles of Atatürk and the History of the Turkish Revolution I - HIST 191 Section Y",
+    "classroom": "FASS-G062",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:2.000, ECTS:3",
+    "prerequisites": "Corequisites:",
+    "corequisites": null,
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Banu Turnaoğlu",
+      "email": "banu.turnaoglu@sabanciuniv.edu"
+    },
+    {
+      "name": "Burhan İzgin",
+      "email": "burhan.izgin@sabanciuniv.edu"
+    },
+    {
+      "name": "Atacan Atakan",
+      "email": "atacan.atakan@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "HIST 191 provides a comprehensive academic perspective on the history of the late Ottoman Empire and the societies that lived there in the past and present. HIST 191 is designed as complementary to HIST 192 that follows-up the content and timeline introduced in HIST 191 course, in a thematic order, by reflecting on major milestones in the history of the Ottoman Empire from the early 19th century up to the end of World War I. Taking the history of the late Ottoman Empire at its center, HIST 191 offers an interdisciplinary approach by relying on other disciplines including human history, political science, economy, and sociology. Besides, the content of HIST 191 is strongly related to the content of TLL 101. The thematic structure and the chronological framework of these separate courses follow parallel trajectories. To that end, the course provides a chance to relate the historical content of HIST 191 to the literary works that are studied in TLL 101. Finally, this course aims to teach basics of academic literacy, source criticism and fact-checking as integrated skills whilst dealing with the content material.",
+  "course_learning_outcomes": [
+    "Upon completion of this course, students will be able to compare and contrast the disciplines of history, social sciences, and natural sciences.",
+    "Upon completion of this course, students will be able to examine different trajectories toward modernization.",
+    "Upon completion of this course, students will be able to identify the main themes of the Ottoman modernization process.",
+    "Upon completion of this course, students will be able to comprehend the history of those innovations which constituted the bases for the reforms of the 20th century.",
+    "Upon completion of this course, students will be able to identify the key developments of Ottoman political, social and economic history and relate them to an overall conception of the subject matter.",
+    "Upon completion of this course, students will be able to describe large themes over a relatively long span of history.",
+    "Upon completion of this course, students will be able to develop independent study capability."
+  ],
+  "course_objective": "The aim is to provide a comprehensive perspective and multi-layered knowledge on Atatürkist reforms and on the history of modern Turkey.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 40,
+    "quiz": 20
+  },
+  "program_requirements": [
+    {
+      "program": "2.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "3.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "4.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "5.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "6.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "7.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "HIST",
+  "cn": "191",
+  "section": "Y",
+  "key": "202501_HIST_191_Y"
+}

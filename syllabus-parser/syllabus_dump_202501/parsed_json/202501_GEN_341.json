@@ -1,0 +1,65 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Gender and Society - GEN 341",
+    "classroom": "FASS-1096,FASS-1098",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "GEN 341D",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Ayşecan Terzioğlu",
+      "email": "aysecan@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "How have we developed our ideas of what it means to be a woman and what it means to be a man? How do these ideas change historically and from one society to another? Asking these questions and others, this course aims to develop a critical awareness of how gender and sexuality have shaped and have been shaped by political, religious, economic, scientific, and cultural practices and discourses in different parts of the world, including Türkiye.",
+  "course_learning_outcomes": [
+    "Discuss the main issues of gender in particular social contexts",
+    "Acquire an understanding of the fundamental issues, concepts and debates in the study of gender",
+    "Explore various myths of gender and critically assess their sources and implications on social life",
+    "Learn about the social construction of gender and sexuality",
+    "Explore how gender shaped and is shaped by the society, economy, media, science and politics",
+    "Learn how to utilize an intersectionality perspective in the analysis of social issues, structures and systems of power",
+    "Explore how the existing norms and roles are challenged in everyday life and gender-based activisms"
+  ],
+  "course_objective": "Sustainable Development Goals (SDGs) Related to This Course: Gender Equality Reduced Inequalities",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 30,
+    "participation": 20,
+    "group project": 20
+  },
+  "program_requirements": [
+    {
+      "program": "Cultural Studies",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Gender and Women's Studies",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Society, Culture and Politics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "GEN",
+  "cn": "341",
+  "section": null,
+  "key": "202501_GEN_341"
+}

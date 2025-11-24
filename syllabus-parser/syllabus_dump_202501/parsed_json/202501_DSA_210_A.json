@@ -1,0 +1,106 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Introduction to Data Science - DSA 210 Section A",
+    "classroom": "FASS-G062",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:2, Engineering:4",
+    "prerequisites": "IF 100 and  MATH 203",
+    "corequisites": "DSA 210R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Onur Varol",
+      "email": "onur.varol@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Data science spans a large variety of disciplines and requires a collection of skills. This course is intended to tour the basic techniques of data science from manipulation and summarizing the important characteristics of a data set, exploratory data analysis, basic statistical modeling and visualization.",
+  "course_learning_outcomes": [
+    "Learning the fundamentals of data science pipeline",
+    "Learning how to explore and experiment with data",
+    "Learn basic statistics (sampling techniques, mean, variance, outliers, Central Limit theorem, distributions) and machine learning techniques (clustering) that are necessary to analyze data: big and small",
+    "Perform a statistical analysis on sample socio-economic data",
+    "Building an understanding of data analytics techniques (data collection, cleaning, exploratory techniques, modeling and presentation)",
+    "Develop competency in the Python programming language within the course project",
+    "Design and run experimental tests to evaluate hypotheses about data"
+  ],
+  "course_objective": "Fundamentals of data analytics pipelines: i) data collection and ethics, ii) basic statistics and hypothesis testing, iii) exploratory data analysis, iv) information extraction from basic data types, and v) building machine learning models.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 35,
+    "individual project": 30
+  },
+  "program_requirements": [
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Battery Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "DSA",
+  "cn": "210",
+  "section": "A",
+  "key": "202501_DSA_210_A"
+}

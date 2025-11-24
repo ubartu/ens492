@@ -1,0 +1,95 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Computational Biology - ENS 210",
+    "classroom": "FENS-G032,FENS-L030",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:3, Engineering:3",
+    "prerequisites": "MATH 101 and  IF 100",
+    "corequisites": "ENS 210L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Ogün Adebali",
+      "email": "oadebali@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "1. Basic Concepts of Molecular Biology; Life, Proteins, Nucleic acids. 2. The Mechanisms of Molecular Genetics; Genes and the Genetic Code, Transcription, Translation and Protein Synthesis, junk DNA and Reading frames,Chromosomes 3. How the Genome is Studied; Maps and Sequences, Specific Techniques 4. The Human Genome Project 5. Molecular Biology Databases on the Web 6. Strings, Graphs and Algorithms 7. Sequence Alignment Algorithms; Global, Semiglobal, and Local Alignment 8. Multiple Sequence Alignment; Star alignment, Tree alignment 9. Database Search; PAM, BLOSSUM matrices, BLAST, FASTA 10. Quantitative and Probabilistic Pattern Matching 11. Protein Ligand Docking 12. Bio-ethics",
+  "course_learning_outcomes": [
+    "To have basic knowledge of molecular biology genetics and biochemistry",
+    "To learn PYTHON and at to be able write PYTHON programs for basic computational biology problems.",
+    "To gain basic knowledge of the sequence alignment, database search , clustering, and profile algorithms in computational biology.",
+    "To learn ways to model biological problems and analyticla methodsfor solving problems in biology and medicine.",
+    "To learn to design an implement an algorithm and analyze the results of their algorithm that they developed as a team."
+  ],
+  "course_objective": "To supply the students with the foundations in Computational Biology.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": "Individual computer"
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 25,
+    "quiz": 10,
+    "assignment": 10,
+    "participation": 5,
+    "individual project": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ENS",
+  "cn": "210",
+  "section": null,
+  "key": "202501_ENS_210"
+}

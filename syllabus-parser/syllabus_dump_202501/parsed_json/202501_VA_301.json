@@ -1,0 +1,68 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Art Studio I - VA 301",
+    "classroom": "SUSAM-1001",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:7",
+    "prerequisites": "VA 201 and  VA 203",
+    "corequisites": "-",
+    "course_type": "Studio"
+  },
+  "instructors": [
+    {
+      "name": "Selim Birsel",
+      "email": "selim@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Introduction to painting, sculpture and to basic notions of art making. Studio research into the numerous possibilities of various styles and approaches to visual art.",
+  "course_learning_outcomes": [
+    "Learning basic concepts of perspective and drawing techniques.",
+    "Measuring and scaling real and virtual space.",
+    "From 2D to 3D understanding the space."
+  ],
+  "course_objective": [
+    "Sharpen observational skills to depict spatial and tonal relationships.",
+    "Master basic painting techniques, including the use of line, value, and color.",
+    "Understand perspective construction.",
+    "Develop craftsmanship in preparing surfaces.",
+    "Translate two-dimensional drawings into three-dimensional sculptural forms.",
+    "Document sculptural work through photography for presentation purposes."
+  ],
+  "course_materials": {
+    "resources": [
+      "Drawing paper/sketchbook",
+      "Pencils (various hardness)",
+      "Charcoal sticks",
+      "Acrylic paints",
+      "Variety of brushes",
+      "Primed canvas or self-made canvas",
+      "Cardboard sheets",
+      "Utility knife and safe cutting tools",
+      "Adhesives (e.g., glue)",
+      "Materials for texturing (sand, fabric, etc.)",
+      "Digital camera or smartphone for documentation"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 15,
+    "assignment": 50,
+    "participation": 20,
+    "attendance": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Visual Arts and Visual Communications Design",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "VA",
+  "cn": "301",
+  "section": null,
+  "key": "202501_VA_301"
+}

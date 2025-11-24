@@ -1,0 +1,94 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Computer Architectures - CS 401",
+    "classroom": "FASS-G018",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:4.000, ECTS:6, Engineering:6",
+    "prerequisites": "CS 303",
+    "corequisites": "CS 401L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Özcan Öztürk",
+      "email": "ozcan.ozturk@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This is an introductory course on computer architectures which is about the basic concepts and techniques that are fundamental for modern computers such as datapath design, pipelining, memory hierarchy, cache, and virtual memory. Topics include: Instruction set design, computer arithmetic, controller and datapath design, cache and memory systems, input-output systems, interrupts and exceptions, pipelining, performance.",
+  "course_learning_outcomes": [
+    "Explain how an instruction is executed in a computer hardware with a classical architecture (e.g., von Neumann machine).",
+    "Summarize how instructions and data are represented at the machine level and how basic arithmetic is performed.",
+    "Write simple programs in assembly language for at least one computer architecture.",
+    "Explain how subroutine calls are handled in one programming language (e.g., the assembly language level).",
+    "Explain the factors that affect a computer system performance and provide performance metrics to evaluate a computer system.",
+    "Explain basic instruction level parallelism using pipelining and the major hazards that may occur and the concept of branch prediction and its utility.",
+    "Explain the effect of memory latency on the performance of a computer platform and the use of memory hierarchy to reduce the effective memory latency.",
+    "Describe the principles of memory management and the role of memory organization (cache and virtual memory etc.) in overall computer performance.",
+    "Explain at least one I/O mechanism for the processor to communicate with I/O devices."
+  ],
+  "course_objective": "To explore the interaction between the hardware organization of modern computers and software, and to reveal the impact of the hardware organization on the performance of the software.",
+  "course_materials": {
+    "resources": [
+      "David Money Harris, Sarah L. Harris, Digital Design and Computer Architecture, 2nd ed. Morgan Kaufmann, 2013. (Textbook)",
+      "David Patterson, John L. Hennessy, Computer Organization and Design: The Hardware/Software Interface, 4th ed. Morgan Kaufmann, 2012. (Recommended)"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 30,
+    "quiz": 10,
+    "other": 20
+  },
+  "program_requirements": [
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "401",
+  "section": null,
+  "key": "202501_CS_401"
+}

@@ -1,0 +1,129 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Introduction to Probability - MATH 203 Section A",
+    "classroom": "FMAN-G071",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:6",
+    "prerequisites": "MATH 102",
+    "corequisites": "MATH 203R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Turgay Bayraktar",
+      "email": "tbayraktar@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Counting techniques, combinatorial methods, random experiments, sample spaces, events, probability axioms, some rules of probability, conditional probability, independence, Bayes' theorem, random variables (r.v.'s), probability distributions, discrete and continuous r.v.'s, probability density functions, multivariate distributions, marginal and conditional distributions, expected values, moments, conditional expectation, Chebyshev's theorem, product moments, moments of linear combinations of r.v.'s, special discrete distributions, uniform, Bernoulli, binomial, negative binomial, geometric, hypergeometric and Poisson distributions, special probability densities, uniform, gamma, exponential and normal densities, normal approximation to binomial, distribution of functions of r.v.'s, distribution function and moment-generating law of large numbers, the central limit theorem, function techniques, distribution of the mean, basic methods for statistical estimation and hypothesis testing.",
+  "course_learning_outcomes": [
+    "Use the basic principles of counting, permutations, combinations, and multinomial coefficients.",
+    "Perform set operations and compute elementary (conditional) probabilities.",
+    "Use the concept of random variables and their distributions, cumulative distribution functions.",
+    "Compute marginal distributions, conditional distributions and conditional expectations.",
+    "Evaluate mathematical expectations, moments, variances, co-variances, conditional expectations, and moment-generating functions.",
+    "Investigate the basic properties of important discrete and continuous random variables such as Bernouilli, binomial, hypergeometric, Poisson, uniform, exponential, gamma and normal.",
+    "Implement different techniques such as the distribution function technique, the moment generating function technique to evaluate the distribution of functions of random variables.",
+    "Investigate the properties of various statistics (eg. sample mean, sample variance, order statistics) and use them in simple statistical estimation and hypothesis testing problems.",
+    "Applications in various disciplines."
+  ],
+  "course_objective": [
+    "To give an understanding of uncertainty and randomness",
+    "To teach the fundemantal concepts and defintions of probability",
+    "To equip the students with the tools and techniques of probability theory"
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 60
+  },
+  "program_requirements": [
+    {
+      "program": "Political Science",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Economics",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "International Studies",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mathematics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "MATH",
+  "cn": "203",
+  "section": "A",
+  "key": "202501_MATH_203_A"
+}

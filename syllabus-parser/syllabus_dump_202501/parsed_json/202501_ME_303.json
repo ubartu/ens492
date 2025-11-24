@@ -1,0 +1,95 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Control System Design - ME 303",
+    "classroom": "FASS-G025,FENS-L063",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "ENS 206",
+    "corequisites": "ME 303R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Kemalettin Erbatur",
+      "email": "erbatur@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This courses introduces fundamental approaches to control system design. Specific topics include: cascade compensation networks; design in frequency domain; design using the Root Locus; systems with a prefilter; design of state variable feedback systems; controllability; observability; pole placement using state feedback; Ackermann's formula; ; limitations of state variable feedback ; state observers; the design of robust control systems.",
+  "course_learning_outcomes": [
+    "Characterize the performance of linear control systems in terms of steady-state error and time-domain specifications",
+    "Analyze the basic objectives of closed-loop control systems, such as stability and tracking",
+    "Design and analyze linear controllers with realistic constraints using root-locus, state-space and frequency-domain design methods",
+    "Use MATLAB/Simulink in control system design",
+    "Convert continuous time controllers into digital ones using discretization methods and implement control algorithms using embedded controllers",
+    "Design experiments, test the impact of controller parameters on the response of physical systems and analyze the measured response"
+  ],
+  "course_objective": [
+    "Objective of the course is to enable students to understand why automatic control is useful, recognize the value of integrated control and process design, identify when a process is easy or difficult to control, learn key ideas and concepts in dynamics and feedback, grasp relevant mathematical theory, be able to solve some important control problems and recognize difficult ones, and be aware of computational tools."
+  ],
+  "course_materials": {
+    "resources": [
+      "Feedback Control of Dynamic Systems Eighth Edition Gene. F. Franklin L. David Powell",
+      "Abbas Emami-Naeini"
+    ],
+    "technology_requirements": "MATLAB and Simulink Program"
+  },
+  "assessment_percent": {
+    "final": 25,
+    "midterm": 20,
+    "quiz": 3,
+    "assignment": 15,
+    "participation": 5,
+    "homework": 32
+  },
+  "program_requirements": [
+    {
+      "program": "Battery Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ME",
+  "cn": "303",
+  "section": null,
+  "key": "202501_ME_303"
+}

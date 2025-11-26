@@ -1,0 +1,73 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Plant Nutrition - BIO 415",
+    "classroom": "FASS-G056,FENS-L047",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:5, Basic:5",
+    "prerequisites": "Corequisites:",
+    "corequisites": null,
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Devrim Coşkun",
+      "email": "devrim.coskun@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Uptake mechanisms of mineral nutrients, their transport in xylem and phloem, mineral nutrition in yield formation, physiological functions of mineral nutrients, relationship between mineral nutrition and plant diseases, diagnosis of nutrient deficiencies and toxicities, genotypic variation in mineral nutrition and soil and plant factors affecting nutrient availability in rhizosphere.",
+  "course_learning_outcomes": [
+    "Upon completion of this coursr, students should be able to: Characterize and identify leaf deficiency and toxicity symptoms of mineral nutrients in crop plants",
+    "Describe essential steps of root absorption, shoot transport, leaf remobilization and seed deposition of mineral nutrients",
+    "Describe critical functions of mineral nutrients in plant growth and stress tolerance",
+    "Characterize the relationships between mineral nutrition and tolerance to diseases in crop plants",
+    "Understand how plants modify rhizosphere soil chemically and biologically when exposed to a nutrient deficiency"
+  ],
+  "course_objective": "Sustainable Development Goals (SDGs) Related to This Course: Zero Hunger Sustainable Cities and Communities Life On Land",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 50,
+    "midterm": 50
+  },
+  "program_requirements": [
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "BIO",
+  "cn": "415",
+  "section": null,
+  "key": "202501_BIO_415"
+}

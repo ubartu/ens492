@@ -1,0 +1,84 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Optoelectronics - EE 403",
+    "classroom": "FENS-L030",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:2, Engineering:4",
+    "prerequisites": "EE 307",
+    "corequisites": "EE 403R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Muhammad Umar",
+      "email": "muhammad.umar@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Materials for optoelectronics, optical processes in semiconductors, absorption and radiation, transition rates and carrier lifetime. principles of Light Emitting Diodes (LEDs), lasers, photodetectors, modulators and solar cells. Optoelectronic integrated circuits Designs, demonstrations and projects related to optoelectronic device phenomena.",
+  "course_learning_outcomes": [
+    "Understanding the fundamentals of light waveguding.",
+    "Learning the principles of light transmission through a fiber, and limitations such as loss, dispersion,etc",
+    "Learning the network architecture of Fiber Optic Telecommunication Networks",
+    "Analyzing optical cavities,resonators and oscilattors",
+    ".Understanding the structure and working principles of LEDS, Lasers, Optical Amplifiers, Photodetectors,solar Cells and their applications",
+    "Learning the principles of optical information processing implemented on semiconductor photonic chips.",
+    "An overall understanding of the scope of the optoelectronic industry and its impact on our daily lives"
+  ],
+  "course_objective": "To introduce basics of optics,optoelectronics and photonics in understanding the working principles of various optoelectronic devices and applications.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 30,
+    "quiz": 5,
+    "individual project": 15,
+    "homework": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Physics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "EE",
+  "cn": "403",
+  "section": null,
+  "key": "202501_EE_403"
+}

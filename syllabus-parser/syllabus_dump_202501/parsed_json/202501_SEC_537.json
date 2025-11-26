@@ -1,0 +1,282 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Cybersecurity Practices and Applications - SEC 537",
+    "classroom": "FASS-1010,UC-G030",
+    "level_of_course": "Masters",
+    "course_credits": "SU Credit:3.000, ECTS:10",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Orçun Çetin",
+      "email": "orcun.cetin@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Introduction and general terminology, Classification of Attacks, Cyber Threats, Vulnerabilities and misconfigurations, Human Issues, Basic security components, Phishing and social engineering, Introduction to Linux, Basic Security Testing with Linux, Introduction to Red Team Tools, Reconnaissance attempts, Initial Access, Persistence, Application security, Command Injections, Memory Injections, Script Injection, Secure software development lifecycle, Threat Modeling",
+  "course_learning_outcomes": [
+    "Decent Work and Economic Growth",
+    "Industry, Innovation and Infrastructure",
+    "Peace, Justice and Strong Institutions"
+  ],
+  "course_objective": "Be able to design, develop, test and evaluate secure software and code. Be able to analyze security issues in networks and computer systems to secure an IT infrastructure. Be able to evaluate OWASP Top 10 vulnerabilities, programming best practices, and security issues in websites and APIs. Be able to understand fundamentals of penetration testing. Be able to communicate security findings, risks, and mitigation strategies effectively to both technical and non-technical audiences.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 50,
+    "individual project": 30,
+    "homework": 20
+  },
+  "program_requirements": [
+    {
+      "program": "MS-Computer Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Industrial Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mathematics (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Manufacturing Engineering (non-thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Physics (non-thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Cyber Security",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Manufacturing Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Electronics Engineering and Computer Science (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Energy Technologies and Management (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Physics (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Mechatronics LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Physics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Biological Sciences and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Bio. Sci. & Bioeng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Cyber Security (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Manufacturing Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mathematics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering and Computer Science (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Materials Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering and Computer Science",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Elec. Eng&Comp Sc.LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Materials Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Computer Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Electronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Electronics Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "SEC",
+  "cn": "537",
+  "section": null,
+  "key": "202501_SEC_537"
+}

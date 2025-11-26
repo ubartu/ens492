@@ -1,0 +1,89 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Formal Languages and Automata Theory - CS 302",
+    "classroom": "FASS-1050,FASS-G018",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:2, Engineering:4",
+    "prerequisites": "-",
+    "corequisites": "CS 302R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Kemal İnan",
+      "email": "inan@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Introduction to languages, grammars and computation, Chomsky hierarchy, Regular languages and regular expressions, finite state automata and nondeterminism, automata determinization and minimization, pumping lemma and closure properties for regular languages, context free languages and grammars, push-down automata, pumping lemma for context-free languages, closure properties of context-free languages.",
+  "course_learning_outcomes": [
+    "Construct deterministic and nondeterministic finite state automata (DFA and NFA) for solving simple decision problems and perform conversions from nondeterministic to deterministic finite automata as well as between regular expressions and finite state automata.",
+    "Evaluate the computational complexity of algorithms involved in the decision problems of finite state automata, use the pumping lemma to demonstrate the non-regularity of languages",
+    "Compute the minimal state machine corresponding to a DFA,",
+    "Understand and construct context-free grammars (CFG) for formal definitions involving recursion such as regular expressions ; in particular understand the fundamental role played by CFG in designing formal computer languages with simple examples",
+    "Construct (infinite state) push down automata as acceptors of context free languages ; in particular compute from CFGs the corresponding push down automaton and vice versa",
+    "Use the CFG version of the pumping lemma to prove languages that are not context free",
+    "Evaluate the computational complexity of algorithms involved in the decision problems of context free grammars and push down automaton, classify and simplify grammars into their useful canonical forms",
+    "Use deterministic push down automata to parse formal language strings (computer programs) by using (i) top down or (ii) bottom up techniques",
+    "Formulate simple language manipulation techniques using Turing Machines",
+    "In general ,learn and master the use mathematical induction techniques in proving statements on formal language and automata theory"
+  ],
+  "course_objective": [
+    "To introduce finite state machines , contex free grammars and Turing Machines (only on an introductory level) and their properties as the basis for the formal expressivity of computer languages and present algorithms and their computational complexity for solving linguistic decision problems ."
+  ],
+  "course_materials": {
+    "resources": [
+      "Main Text: Introduction to Automata Theory, Languages and Computation, Hopcroft, Motwani & Ullman, Pearson (Addison Wesley) 2006 , 3rd edition. Auxiliary Text: Elements of the Theory of Computation, Lewis & Papadimitriou, Prentice Hall 1998."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 25,
+    "quiz": 35
+  },
+  "program_requirements": [
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "302",
+  "section": null,
+  "key": "202501_CS_302"
+}

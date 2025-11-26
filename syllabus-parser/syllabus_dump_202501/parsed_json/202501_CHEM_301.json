@@ -1,0 +1,105 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Inorganic Chemistry - CHEM 301",
+    "classroom": "FENS-L062",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:5, Engineering:1",
+    "prerequisites": "-",
+    "corequisites": "CHEM 301L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Alp Yürüm",
+      "email": "alp.yurum@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Atomic structure and the periodic table; molecular models; symmetry; molecular orbitals; inorganic solids; solid state chemistry; acids and bases; oxidation-reduction reactions. Coordination chemistry; organometallic chemistry; chemistry and periodic trends among metals; chemistry of some nonmetals; cluster and cage chemistry; bioinorganic chemistry. Laboratory experiments related to the topics in the course.",
+  "course_learning_outcomes": [
+    "Receive instruction on fundamentals of inorganic chemistry",
+    "Describe atomic structure and how it influences periodic trends (Quantum theory historical development, Quantum numbers and Atomic Wave Functions, Electron configurations, Shielding, Periodic trends and exceptions (ionization energy, electron affinity and covalent and ionic radii)).",
+    "Identify solid state chemistry, as well as acid/base chemistry",
+    "Describe simple bonding theory and how this applies to..( Lewis dot, Resonance, Expanded shells, Formal charge, VSEPR, Polarity)",
+    "Apply concepts of lattice enthalpy including the calculation of lattice enthalpy of ionic compounds and the Born-Haber Cycle.",
+    "Apply the concepts learned in this course in problem solving.",
+    "Explain the representative elements and their compounds involving both theoretical and descriptive approaches.",
+    "Develop an ability to apply their course knowledge experimentally (with the help of laboratory experiments).",
+    "Demonstrate proficiency in assembling basic laboratory glassware",
+    "Obtain practical experience in synthetic and instrumental techniques",
+    "Perform fundamental laboratory techniques with groups or individually",
+    "Develop strategies for problem solving and self reliance",
+    "Prepare a proper research notebook (the preparation of lap reports)",
+    "Organize data and present their experimental results.",
+    "Comprehend about general concepts (e.g. boron chemistry, hard water, nuclear energy, ceramics, trace metals of life, etc.) with the help of homework assignments"
+  ],
+  "course_objective": "Required course for the Minor Honor Program in Chemistry",
+  "course_materials": {
+    "resources": [
+      "*Weller, Overton and Rourke’s Inorganic Chemistry (7th Ed.) Alternative Textbooks: * Shriver and Atkins’ Inorganic Chemistry (5th or 6th Ed.) * Housecroft and Sharpe’s Inorganic Chemistry"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 40,
+    "assignment": 10,
+    "case study": 20
+  },
+  "program_requirements": [
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Chemistry",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Battery Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "CHEM",
+  "cn": "301",
+  "section": null,
+  "key": "202501_CHEM_301"
+}

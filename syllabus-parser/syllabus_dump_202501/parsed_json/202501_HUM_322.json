@@ -1,0 +1,52 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Major Works of Art: The World Before Modernity - HUM 322",
+    "classroom": "FASS-1101,FASS-G025",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:5",
+    "prerequisites": "SPS 101 and  SPS 102 and ( HUM 201 or  HUM 202 or  HUM 207)",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Sinem Erdoğan İşkorkutan",
+      "email": "sinem.iskorkutan@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course examines the arts of the pre-modern period from a cross-cultural perspective. One of the main objectives of the course is to thoroughly analyze the shared visual and artistic vocabularies of various works of art and/or art mediums across cultural geographies. Another objective is to help the students develop a critical understanding of the often-used concepts in art history – style, provenance, and appropriation. While the lectures are thematically organized, the selected artworks will be evaluated chronologically against the backdrop of historical and cultural contexts. The course covers art analysis, both stylistic and iconographical, as well as critical reading and writing.",
+  "course_learning_outcomes": [
+    "One of the main objectives of the course is to familiarize students with certain masterpieces of art in the pre-modern period from various cultural geographies.",
+    "Upon completion of this course students will be able to assess cultural interconnectivity and artistic dialogue in pre-modern period."
+  ],
+  "course_objective": [
+    "While providing a deep stylistic, iconographical, and socio-historical analysis of selected art works from the pre-modern period ranging from the early 15th to the late 18th centuries that display cross-cultural dialogue and artistic appropriation, the course intends to challenge ethnic, religious, and national perspectives on art history. This method also calls into question Eurocentric classifications of artistic styles and artworks."
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 25,
+    "assignment": 10,
+    "participation": 12,
+    "attendance": 8,
+    "presentation": 10
+  },
+  "program_requirements": [
+    {
+      "program": "2.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "HUM",
+  "cn": "322",
+  "section": null,
+  "key": "202501_HUM_322"
+}

@@ -1,0 +1,80 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Multimedia  Communication - EE 414",
+    "classroom": "FENS-L027",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "CS 201",
+    "corequisites": "EE 414R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Özgür Gürbüz",
+      "email": "ogurbuz@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Data transmission and encoding. Error detection techniques. Automatic repeat request (ARQ) protocols. Medium access control techniques: Aloha, CSMA/CD, GSM, Token Ring, FDDI, Network control stability. High-speed gigabit networks. ATM. Performance evaluation and monitoring M/M/1 Queues and networks of Queues.",
+  "course_learning_outcomes": [
+    "By the end of this course, students should be able to: Describe the operation of existing network technologies",
+    "Construct applications or interfaces to work with existing network technologies",
+    "Propose networking solutions at all layers",
+    "Build models for analyzing network algorithms/protocols",
+    "Build simulation models for analyzing the performance of network algorithms/protocols, architectures, deployments, etc.",
+    "Use network simulation tools",
+    "Record and interpret the results of simulation experiments",
+    "Adopt a systematic approach to understand network problems",
+    "Improve programming skills by building models in simulation tools",
+    "Improve team working skills via course project"
+  ],
+  "course_objective": "To introduce students with communication networks and networking technologies, performance analysis of networks, multimedia traffic and networking.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 30,
+    "group project": 20,
+    "homework": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "EE",
+  "cn": "414",
+  "section": null,
+  "key": "202501_EE_414"
+}

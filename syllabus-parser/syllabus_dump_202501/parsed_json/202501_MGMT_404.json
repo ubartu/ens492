@@ -1,0 +1,57 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Technology Management - MGMT 404",
+    "classroom": "FASS-G048,FMAN-L018",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Aras Can Aktan",
+      "email": "can.aktan@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "The focus of the course is on the key concepts, models, and methods that enable managers to effectively manage the development and utilization of technologies. The goal is to develop an awareness of the range, scope, and complexity of the phenomena, issues, and problems related to economics and management of technology and technological innovations. The course will enable the integration of technology, operations and business strategy. In short, the participants will develop a better understanding of the complex issues surrounding the managerial tasks with respect to technology.",
+  "course_learning_outcomes": [
+    "Upon successful completion of this course, students should be able to: 1. Describe the range, scope, and complexity of the phenomena, issues, and problems related to technology management; 2. Develop insights about various problems where particular managerial decisions need to be taken such as technology acquisition and transfer; 3. Utilize a range of tools used in technology creation, search, assessment, selection, implementation, utilization, and strategy; 4. Implement the primary tasks and decisions that are required to turn a technological innovation into a sound business opportunity; 5. Comprehend how to integrate engineering and business knowledge in running business successfully."
+  ],
+  "course_objective": "The focus of the course is on the key concepts, models, and methods that enable manager to effectively manage the development and utilization of technologies. The goal is to develop an awareness of the range, scope, and complexity of the phenomena, issues, and problems related to economics and management of technology and technological innovations. The course will mainly focus on the micro issues but it will extend the discussion to cover macro issues of technology management by studying how industries and firms are transformed by new technologies, how new industries are formed, and what factors affect the innovation performance.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "group project": 30
+  },
+  "program_requirements": [
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Entrepreneurship",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "MGMT",
+  "cn": "404",
+  "section": null,
+  "key": "202501_MGMT_404"
+}

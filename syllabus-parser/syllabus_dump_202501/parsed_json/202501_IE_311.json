@@ -1,0 +1,91 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Operations Research I - IE 311",
+    "classroom": "FENS-L045",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:2, Engineering:4",
+    "prerequisites": "( MATH 201) and ( ENS 208)",
+    "corequisites": "IE 311R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Erhun Kundakcıoğlu",
+      "email": "erhun.kundakcioglu@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Linear and integer programming formulations; convex analysis; algorithmic design and the simplex method; duality and sensitivity; computer implementations.",
+  "course_learning_outcomes": [
+    "Model linear decision problems into an integer or continuous linear programming model.",
+    "Solve linear programming problems by means of the primal and dual simplex methods and be able to decide under which conditions one should apply which method.",
+    "Have a basic knowledge of the concept of duality in linear programming and its consequences.",
+    "Implement linear and integer programming formulations in a programming language."
+  ],
+  "course_objective": [
+    "The objective of this course is to study the modeling and solution of decision problems with deterministic parameters using operations research techniques with a particular emphasis on solution algorithms and implementation."
+  ],
+  "course_materials": {
+    "resources": [
+      "Operations Research: Applications and Algorithms, 4th edition. W.L. Winston. Thomson/Brooks/Cole, 2004. Introduction to Operations Research, 9th edition. F.S. Hillier, G.J. Lieberman.",
+      "McGraw-Hill, 2010."
+    ],
+    "technology_requirements": "Students will need to model, implement and solve linear and integer programs in lectures and recitations. We will use Gurobi solver with Python interface. AI/LLM Usage Policy All coursework in this class consists of lab and recitation assignments that must be completed during class sessions. Students are not permitted to use AI-based tools (such as ChatGPT, Claude, Bard, Grammarly, or similar platforms) for any part of these graded assignments. This prohibition includes -but is not limited to- brainstorming, outlining, drafting, editing, paraphrasing, or generating solutions. All submitted work must reflect each student’s own independent effort and original thought. This restriction applies uniformly across all lab and recitation work. Use of AI tools during class for any graded task is strictly prohibited. Outside of class, students are welcome to explore AI tools to aid their understanding of course concepts. However, please be aware that these tools may produce inaccurate or incomplete explanations, particularly for mathematical optimization problems. Students remain fully responsible for mastering the material and verifying their understanding."
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 40,
+    "quiz": 15,
+    "other": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "IE",
+  "cn": "311",
+  "section": null,
+  "key": "202501_IE_311"
+}

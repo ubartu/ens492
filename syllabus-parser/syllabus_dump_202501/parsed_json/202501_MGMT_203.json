@@ -1,0 +1,65 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Introduction to Data Analysis and Research in Business - MGMT 203",
+    "classroom": "FENS-G032,FMAN-L018",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "MGMT 201",
+    "corequisites": "MGMT 203R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Füsun Ülengin",
+      "email": "fulengin@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course teaches practical perspectives on research design, data collection, and analysis useful for managers. The scientific method, defining a hypothesis, sources and validity of data, sampling, examining distributions of and relationships between data, basic inferential statistics, linear regression, and ethics in research are topics covered in the course. The course follows a hands-on, skill-building approach using mainly MS Excel and appropriate add-ins for statistical analysis.",
+  "course_learning_outcomes": [
+    "Upon successful completion of the course, the student should be able to: 1. Describe the role of research in business. 2. Describe the different data-collection methods. 3. Use appropriate tools in MS Excel to summarize/visualize/analyze quantitative data. 4. Interpret and calculate descriptive statistics. 5. Apply sampling correctly. 6. Interpret and calculate confidence intervals. 7. Perform and interpret hypothesis tests. 8. Use various parametric tests, including the linear regression model and interpret the output."
+  ],
+  "course_objective": [
+    "This course provides a detailed introduction to data analysis and research in business. Applications are chosen from a variety of areas such as operations and marketing. Thus, the course lays the foundation for more detailed study in those functional area courses. The emphasis is both on conceptual understanding of the material and doing hands on statistical analysis. Microsoft Excel and associated add-ins are used for the purpose of analysis.",
+    "The course provides the student with a strong background in statistical principles and the process of business research and survey design. Students will be introduced to several different and interesting applications of data analysis and statistics in business. Combining this contextual information with some statistical tools, students are expected to have a better understanding of when and why statistical analysis is useful, understand the importance of valid, reliable data collection, and have the practical skills to carry out such tasks. The successful student will finish this course with an ability to effectively evaluate and act upon statistical reports and data relating to applications in business. In addition, due to the hands-on nature of the course, the students will become skilled in performing certain standard statistical analyses using MS Excel."
+  ],
+  "course_materials": {
+    "resources": [
+      "Albright, S.C., Winston, W.L. (2025), Business Analytics: Data Analytics and Decision Making”, 8th ed., Centage Learning, Australia The link for purchase: (SABANCI KOD) Business Analytics: Data Analysis & Decision Making Albright/Winston (Kod içinde e-kitap erişimi de mevcuttur.) - Çağlayan Kitap & Yayıncılık & Eğitim"
+    ],
+    "technology_requirements": "You should bring your Laptops"
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 25,
+    "quiz": 15,
+    "case study": 15,
+    "written report": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Management",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Business Analytics",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "MGMT",
+  "cn": "203",
+  "section": null,
+  "key": "202501_MGMT_203"
+}

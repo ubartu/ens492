@@ -1,0 +1,47 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Creativity & Leading  Innovations - ORG 404",
+    "classroom": "FMAN-L018",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Alex Cayrol",
+      "email": "alex.cayrol@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "The focus of this course is on the key concepts, models and methods that enable managers to enhance creativity in organizations and to develop an innovative idea of products and services. The goal of this course is to develop a critical mindset about creativity and innovation as complex processes, with a comprehensive review of tools and academic literature. For instance, the course will enable participants to understand the key success factors of innovation and creativity, to apply different idea generation techniques or to transform an idea into a business plan. In short, the participants will obtain the knowledge and practices to enhance innovative capacity within the workplace.",
+  "course_learning_outcomes": [
+    "Decent Work and Economic Growth",
+    "Industry, Innovation and Infrastructure"
+  ],
+  "course_objective": "Sustainable Development Goals (SDGs) Related to This Course: Decent Work and Economic Growth Industry, Innovation and Infrastructure",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "quiz": 30,
+    "attendance": 20,
+    "group project": 50
+  },
+  "program_requirements": [
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ORG",
+  "cn": "404",
+  "section": null,
+  "key": "202501_ORG_404"
+}

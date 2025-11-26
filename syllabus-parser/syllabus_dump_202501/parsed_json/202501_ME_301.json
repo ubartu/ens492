@@ -1,0 +1,93 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Mechanical Systems I - ME 301",
+    "classroom": "FASS-G006,FENS-G035",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:1, Engineering:5",
+    "prerequisites": "ENS 204",
+    "corequisites": "ME 301R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Güllü Kızıltaş Şendur",
+      "email": "gkiziltas@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course introduces fundamentals of mechanical systems analysis and design. Specific topics include: preliminary design and analysis of mechanical systems; machine elements and their functions; force and life analysis of mechanical systems;basic design of mechanical systems for stability stress and deflections. and deflections.",
+  "course_learning_outcomes": [
+    "Describe the fundamentals for mechanics of materials, get familiar with stress, strain and deformation",
+    "Calculate the loadings on components and drawing internal force/moment diagrams",
+    "Calculate part stresses under various (axial, bending, torsion, etc or combined loading) cases and making design choices",
+    "Calculate thermal stresses, deformations and safety of components",
+    "Calculate stresses in pressurized vessels and principal stresses",
+    "Design for static and dynamic failures",
+    "Calculate deformation and strains of beams"
+  ],
+  "course_objective": "Objective of the course is to introduce students with mechanics of materials, fundamentals of strength of materials, strain and stress analysis, component design principles, design for static failure, design for dynamic failure and implementation of basic optimization methods in design problems.",
+  "course_materials": {
+    "resources": [
+      "Beer, F.P., Johnston, Jr., E.R., DeWolf J.T., and Mazurek D. F., Mechanics of Materials, McGraw-Hill Education, USA, July 2015. (textbook)",
+      "Popov, E. P., Mechanics of Materials, Prentice Hall, 1976.",
+      "Hibbeler, R. C., Mechanics of Materials, Prentice Hall, New Jersey, USA.",
+      "Young, W. C., Roark’s Formulas for Stress and Strain, McGraw-Hill, New York, 1996."
+    ],
+    "technology_requirements": "-"
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 46,
+    "quiz": 24
+  },
+  "program_requirements": [
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Energy",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ME",
+  "cn": "301",
+  "section": null,
+  "key": "202501_ME_301"
+}

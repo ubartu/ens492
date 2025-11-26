@@ -1,0 +1,90 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Calculus II - MATH 102 Section B",
+    "classroom": "FMAN-G071",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:6",
+    "prerequisites": "MATH 101",
+    "corequisites": "MATH 102R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Şirin Kaya",
+      "email": "sirincaliskan@sabanciuniv.edu"
+    },
+    {
+      "name": "Canan Kaşıkcı",
+      "email": "canankasikci@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Sequences and series. Power series. Taylor polynomials, Taylor series and approximation. Visualizing functions of several variables; graphs and contour diagrams. Vectors. Differentation in several variables; partial and directional derivatives. Linear and quadratic approxiamtion. Classification of local extrema. Optimization, Lagrange Multipliers. Integration in several variables. Iterated integrals. Change of variables; polar, cylindrical and spherical coordinates.",
+  "course_learning_outcomes": [
+    "Define the notion of convergence of series and use various tests to determine series convergence",
+    "Find Taylor representations of functions and approximate functions via Taylor polynomials",
+    "Understand and use the concept of a function of several variables, draw graphs in 3-space",
+    "Use the properties of vectors and operations with vectors",
+    "Compute partial derivatives, directional derivatives and write equations of tangent planes to surfaces",
+    "Apply partial derivatives to find and test local extrema",
+    "Evaluate double integrals in Cartesian and polar coordinates and triple integrals in Cartesian coordinates"
+  ],
+  "course_objective": [
+    "To introduce series and concepts of multivariable calculus, to relate notions in multivariable calculus to their analogues in single variable."
+  ],
+  "course_materials": {
+    "resources": [
+      "Textbook: Calculus Early Transcendentals 2nd Edition (Global Edition), Briggs, Cochran & Gillett."
+    ],
+    "technology_requirements": "none"
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 54,
+    "attendance": 6
+  },
+  "program_requirements": [
+    {
+      "program": "2.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "3.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "4.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "5.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "6.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "7.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "MATH",
+  "cn": "102",
+  "section": "B",
+  "key": "202501_MATH_102_B"
+}

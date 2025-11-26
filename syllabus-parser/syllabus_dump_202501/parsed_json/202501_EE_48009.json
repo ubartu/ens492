@@ -1,0 +1,88 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Special Topics in EE: Machine Learning for Communication Systems - EE 48009",
+    "classroom": "FENS-L065,FENS-L067",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "MATH 203",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Çağlar Tunç",
+      "email": "caglar.tunc@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Overview of machine learning techniques, 5G/6G communication system architecture and AI convergence, O-RAN and data-driven network control, clustering techniques for UAV localization, time-series models such as LSTM for channel estimation and beam tracking, reinforcement learning and multi-agent decision-making in networks, supervised learning for traffic classification, unsupervised learning and explainable AI for anomaly detection, ML-based optimization in wireless networks, hands-on assignments using Jupyter notebooks, Sionna-based simulations for network/system-level modeling, and a final project on selected use cases in communication systems.",
+  "course_learning_outcomes": [
+    "Understand and explain key machine learning concepts and how they apply to communication systems.",
+    "Implement ML algorithms to solve problems such as channel estimation, signal classification, and resource allocation.",
+    "Evaluate the performance and limitations of ML-based solutions in communication scenarios.",
+    "Apply explainable and interpretable AI techniques to build trustworthy models for communication system tasks.",
+    "Use simulation tools and real datasets to analyze and prototype intelligent communication systems."
+  ],
+  "course_objective": null,
+  "course_materials": {
+    "resources": [
+      "Any versions of the following books: Applications of Machine Learning in Wireless Communications, by Ruisi He; Ruisi Zhiguo Ding Machine Learning and Wireless Communications, by Yonina C. Eldar, Andrea Goldsmith, Deniz Gündüz, H. Vincent Poor Wireless Communications, by Andreas F. Molisch"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "assignment": 60,
+    "participation": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "EE",
+  "cn": "48009",
+  "section": null,
+  "key": "202501_EE_48009"
+}

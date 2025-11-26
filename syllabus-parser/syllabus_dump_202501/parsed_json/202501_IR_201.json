@@ -1,0 +1,65 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "International Relations Theory - IR 201",
+    "classroom": "FASS-1001,FASS-2031",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "SPS 101 and  SPS 102",
+    "corequisites": "IR 201D",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Samet Apaydın",
+      "email": "samet.apaydin@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Surveys basic concepts and processes in international relations. The course presents competing theoretical perspectives; realism, liberalism, and radical approaches with a special emphasis on post-cold war debates. Partial theories such as foreign policy analysis, conflict analysis and resolution, and security studies are also examined.",
+  "course_learning_outcomes": [
+    "Identify the main actors of international relations and understand their interests.",
+    "Evaluate how different actors interact and under what conditions they cooperate.",
+    "Discuss and critique the explanatory power of grand theories and mid-level theories.",
+    "Think analytically about the important puzzles of world politics among different issue areas.",
+    "Apply theories to explain real world events."
+  ],
+  "course_objective": "The goal of this course is to equip students with the tools to understand and critically think about international politics. By the end of this course, students will be able to discuss and critique the mainstream IR theories, think analytically about the important puzzles of world politics, familiarize themselves with seminal works, and apply the IR toolbox to current developments and issues in international politics.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 25,
+    "midterm": 20,
+    "assignment": 15,
+    "term-paper": 20,
+    "participation": 10,
+    "attendance": 10
+  },
+  "program_requirements": [
+    {
+      "program": "International Studies",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Political Science and International Relations",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Political Science",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "IR",
+  "cn": "201",
+  "section": null,
+  "key": "202501_IR_201"
+}

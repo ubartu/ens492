@@ -1,0 +1,294 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Computer Graphics and Visualization - CS 543",
+    "classroom": "FENS-G025,FENS-L058",
+    "level_of_course": "Masters",
+    "course_credits": "SU Credit:3.000, ECTS:10",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Selim Saffet Balcısoy",
+      "email": "balcisoy@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course provides a study of computer graphics representation schemes and rendering algorithms such as advanced methods for representing, displaying, and rendering two- and three-dimensional scenes, general algebraic curves and surfaces, splines, Gaussian and bump-function representations, fractals, particle systems, constructive solid geometry methods, lighting models, radiosity, advanced ray-tracing methods, surface texturing, animation techniques data visualization methods.",
+  "course_learning_outcomes": [
+    "On successful completion of this course, students should be able to: Master introductory and advanced computer graphics techniques using GPU",
+    "Read a set of state-of the-art research papers and select an advanced graphics techniques to be implemented",
+    "Prepare a project on increasing level of realism of a scene using shader techniques.",
+    "Master at least one GPU programming language.",
+    "Prepare and do research on an advanced research area in real-time graphics;",
+    "Implement a graphics engine using shaders;",
+    "Use technical manuals, online resources and books to interpret graphics techniques and effects;",
+    "Be an effective member of a team;",
+    "Present technical matter to a small audience;",
+    "Complete a working to a deadline."
+  ],
+  "course_objective": "This course provides a study of computer graphics representation schemes and rendering algorithms such as advanced methods for representing, displaying, and rendering two- and three-dimensional scenes, general algebraic curves and surfaces, splines, Gaussian and bump-function representations, fractals, particle systems, constructive solid geometry methods, lighting models, radiosity, advanced ray-tracing methods, surface texturing, animation techniques data visualization methods.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": "On successful completion of this course, students should be able to: Master introductory and advanced computer graphics techniques using GPU Read a set of state-of the-art research papers and select an advanced graphics techniques to be implemented Prepare a project on increasing level of realism of a scene using shader techniques. Master at least one GPU programming language. Prepare and do research on an advanced research area in real-time graphics; Implement a graphics engine using shaders; Use online resources and books to interpret graphics techniques and effects;"
+  },
+  "assessment_percent": {
+    "midterm": 40,
+    "individual project": 60
+  },
+  "program_requirements": [
+    {
+      "program": "MS-Bio. Sci. & Bioeng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Materials Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Physics (non-thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Mathematics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Physics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Biological Sciences and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Electronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "MS-Elec. Eng&Comp Sc.LFI-ENG",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Cyber Security",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering and Computer Science",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Manufacturing Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering and Computer Science (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Mathematics (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Computer Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "MS-Mechatronics LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Manufacturing Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Business Analytics (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Cyber Security (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Electronics Engineering and Computer Science (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "MS-Industrial Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Manufacturing Engineering (non-thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Physics (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Computer Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "MS-Electronics Eng. LFI-ENG",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Energy Technologies and Management (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Materials Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "543",
+  "section": null,
+  "key": "202501_CS_543"
+}

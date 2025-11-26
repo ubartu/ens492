@@ -1,0 +1,92 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Fluid Dynamics - ME 307",
+    "classroom": "FENS-2019,FENS-L047",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:1, Engineering:5",
+    "prerequisites": "NS 101 and  MATH 102",
+    "corequisites": "ME 307R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Ali Koşar",
+      "email": "kosara@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course will cover basic and applied fluid mechanics. Specific topics include fluid properties, statics, kinematics, and dynamics: conservation of mass, momentum, and energy in integral and differential equation form; hydrodynamics; real fluids, laminar and turbulent flows; boundary layer model and approximate analysis; measurement methods in fluid flow.",
+  "course_learning_outcomes": [
+    "Comprehend physical aspects of fluid mechanics and mechanism of fluidic devices.",
+    "Define and determine fluid forces acting on objects and surfaces in static fluids.",
+    "Define flow problems with mathematical models that describe the flow such as the Bernoulli equation, stream functions, potential flow, and 2D steady Navier-Stokes equations in simple geometries.",
+    "Model and analyze flow problems using conservation equations and control volumes.",
+    "Relate fundamental figures of merits such as friction coefficient for pipes and ducts drag and lift coefficients for external flows over cylinders, spheres and other objects in laminar and turbulent regimes in solution to complex flow problems.",
+    "Apply the basic applied-mathematical tools that support fluid dynamics",
+    "Identify reasonable assumptions and provide simple solutions to complex engineering problems involving fluid motion.",
+    "Understand dimensions, dimensional homogeneity and dimensionless numbers and identify laminar, transitory and turbulent flows in pipe flows and external flows."
+  ],
+  "course_objective": "In the field of mechatronics and mechanical engineering, the course aims to have students learn and understant the behavior of fluids and fluidic systems. Emphasis is on the modeling of these systems. A simple project is given for the modeling and design of a real fluidic system and its operation.",
+  "course_materials": {
+    "resources": [
+      "Fundamentals of Fluid Mechanics, 7th Edition, Bruce R. Munson, Alric P. Rothmayer, Theodore H. Okiishi, Wade W. Huebsch and lecture notes."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 20,
+    "midterm": 40,
+    "assignment": 20,
+    "participation": 20
+  },
+  "program_requirements": [
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Energy",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Physics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "ME",
+  "cn": "307",
+  "section": null,
+  "key": "202501_ME_307"
+}

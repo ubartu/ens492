@@ -1,0 +1,71 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Operations Research II - IE 312 Section A",
+    "classroom": "FASS-G022,FMAN-G013",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:1, Engineering:5",
+    "prerequisites": "IE 311",
+    "corequisites": "IE 312R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Burak Kocuk",
+      "email": "burakkocuk@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Develop a broad perspective on the relationships between various types of optimization problems; acquire modeling and solution skills for various methodologies: integer programming, network flows, dynamic programming, heuristics; apply these skills to problems from domains such as service, production, transportation, and energy systems.",
+  "course_learning_outcomes": [
+    "Have a basic understanding of integer programming modeling and branch and bound algorithm as a solution method.",
+    "Have an understanding of basic concepts related to networks, network models including shortest path, maximum flow and minimum cost network flow problems",
+    "Have an understanding of dynamic programming",
+    "Have an understanding of heuristic approaches",
+    "Be able to implement developed models and/or solution methods using appropriate software"
+  ],
+  "course_objective": "To teach basic ingredients of deterministic optimization including integer programming modeling and solution methods, network models, dynamic programming and heuristics",
+  "course_materials": {
+    "resources": [
+      "Operations Research: Applications and Algorithms, 4th edition. W.L. Winston. Thomson/Brooks/Cole, 2004. Introduction to Operations Research, 9th edition. F.S. Hillier, G.J. Lieberman. McGraw-Hill, 2010. Operations Research: An Introduction, 7th edition. H.A. Taha. Prentice-Hall, 2003."
+    ],
+    "technology_requirements": "Students will need to model, implement and solve integer programming, network flow and dynamic programming problems in lectures, recitations, quizzes and exams using Python. We will use Gurobi solver with Python interface frequently. A step-by-step installation tutorial is already uploaded to Sucourse."
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 50,
+    "quiz": 15,
+    "other": 5
+  },
+  "program_requirements": [
+    {
+      "program": "Industrial Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "IE",
+  "cn": "312",
+  "section": "A",
+  "key": "202501_IE_312_A"
+}

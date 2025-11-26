@@ -1,0 +1,97 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Algorithms - CS 301",
+    "classroom": "FENS-G077,FMAN-G071",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:1, Engineering:5",
+    "prerequisites": "( MATH 204 and  CS 300)",
+    "corequisites": "CS 301R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Esra Erdem",
+      "email": "esraerdem@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course will cover algorithms for a variety of problems, as well as general algorithm design and analysis techniques such as divide-and-conquer, dynamic programming, and greedy algorithms. Specific topics include algorithm analysis, recurrences and asymptotic analysis, searching, sorting, order-statistics, shortest path problems, and network-flows. An introduction to the computational complexity classes (such as P, NP, NP- hard, NP-complete, PSPACE) together with approximation algorithms and the performance evaluation of algorithm implementations in practice are also covered in the course.",
+  "course_learning_outcomes": [
+    "The students are expected to be able to analyse algorithms' resource usage by using asymptotic analysis and asymptotic notations.",
+    "The students are expected to be able identify the algorithm design technique used by a given algorithm such as divide-and-conquer, dynamic programming, greedy, etc.).",
+    "The students are expected to be able to use these algorithm design techniques to develop new algorithms for simple computational problems.",
+    "The students are expected to be aware of some common computational problems and some known algorithms for these problems.",
+    "The students are expected to know that there are limits of algorithmic approaches to the computational problems.",
+    "The students are expected to be able to design tests to analyse the correctness and the performance of practical implementations of algorithms."
+  ],
+  "course_objective": [
+    "To prepare students 1) to analyze an algorithm's performance by asymptotic analysis methods, 2) to understand the role of data structures and programming paradigms on the performance of algorithms, and 3) to design efficient algorithms taking into account these important factors."
+  ],
+  "course_materials": {
+    "resources": [
+      "``Introduction to Algorithms'' (3rd edition) by Cormen, Leiserson, Rivest and Stein."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 50,
+    "assignment": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "301",
+  "section": null,
+  "key": "202501_CS_301"
+}

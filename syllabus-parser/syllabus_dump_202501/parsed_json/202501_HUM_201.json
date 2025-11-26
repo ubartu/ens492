@@ -1,0 +1,98 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Major Works of Literature - HUM 201",
+    "classroom": "FASS-G062",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:5",
+    "prerequisites": "Corequisites:",
+    "corequisites": null,
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Zeynep Nevin Yelçe",
+      "email": "zeynepyelce@sabanciuniv.edu"
+    },
+    {
+      "name": "Neriman Kuyucu",
+      "email": "neriman.kuyucu@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course explores major works of literature in a thematic and chronological framework, and introduces various traditions, movements, and innovations. Each lecture focuses on one or two works that are considered to be paradigmatic of an epoch, but includes comparisons with related works and discussions on the historical, intellectual, and aesthetic background in which they originated. Readings from a variety of authors from the Ancient World through Modernism will be the focus of this class. Discussions focus on the aesthetic and intellectual experience of reading these works as a distinct form of artistic expression. The course aims to provide the necessary knowledge of the literature of different cultures and time periods, to introduce different types of literature such as poetry, prose fiction, and drama , to encourage students to analyze literary works for meaning beyond what is immediately visible, to develop critical thinking skills through reading, discussing and writing, to extend students’ reading experience and awareness on the universal human condition , and to figure out how major works come to express human values within historical and social context.",
+  "course_learning_outcomes": [
+    "demonstrate skilled familiarity with literary texts of Western literature and correctly distinguish their different genres and time periods",
+    "identify some of the persistent myths and archetypes of Western culture and recognize their appearance in contemporary culture",
+    "recognize artistic and stylistic features of poetry, prose, myths, and the epic",
+    "recognize what constitutes the object of study for literature scholars and how that knowledge is obtained, evaluated and expanded upon",
+    "evaluate a claim made about a work of literature",
+    "construct their own arguments about a text and support them with evidence from the text",
+    "explain how individual works of literature are both a product of the culture in which they are produced and at the same time shape that culture",
+    "specifically, interpret myths from multiple angles and comparatively"
+  ],
+  "course_objective": [
+    "This course introduces a few significant works of literature that influenced their own times and continue to have an impact on our understanding of the world and its cultures.",
+    "We engage in an in depth reading of the foundational works of narrative at the dawn of Western civilization. We study the genres of epic, poetry, myth, and prose narrative with a view to understand the nature and meaning of the shift from the oral tradition of Greek wisdom literature?epic, poetry, myth?to the written civilization. Some of the themes covered are: the characteristics of oral and written communication; the birth of narration; the uses of literature; transformation brought about with writing systems; the world of ancient Near East as it shaped Greek and later Western civilization; the nature of mythic thought; the dimension of human experience expressed by myths and multiple ways of reading myths; the difference of mythic thought from philosophical and scientific thought; the archetype as the central figure of the mythic conception of the universe; the archetype of the hero; legends pertaining to heroes as different from myths."
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 25,
+    "assignment": 20,
+    "participation": 15,
+    "attendance": 5
+  },
+  "program_requirements": [
+    {
+      "program": "2.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "3.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "4.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "5.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "6.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "7.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "8.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "HUM",
+  "cn": "201",
+  "section": null,
+  "key": "202501_HUM_201"
+}

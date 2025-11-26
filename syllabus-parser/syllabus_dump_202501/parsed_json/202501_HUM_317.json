@@ -1,0 +1,55 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Major Works of Moral Philosophy - HUM 317",
+    "classroom": "FASS-1101,FASS-1102",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:5",
+    "prerequisites": "SPS 101 and  SPS 102 and ( HUM 201 or  HUM 202 or  HUM 207)",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Elif Yavnık",
+      "email": "eyavnik@sabanciuniv.edu"
+    },
+    {
+      "name": "Faik Kurtulmuş",
+      "email": "afaikkurtulmus@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course examines the main moral theories and their applications to various aspects of human life. Moral theories to be discussed include virtue ethics, deontology and consequentialism, which will be investigated through the major works of philosophers such as Plato, Aristotle, Kant, Mill and Nietzsche.",
+  "course_learning_outcomes": [
+    "Gaining familiarity with the prominent perspectives and discussions in moral philosophy.",
+    "Acquiring moral literacy in order to evaluate and form informed opinions on contemporary moral problems.",
+    "Learning how to research and prepare a moral debate for presentation in public.",
+    "Developing skills to form and express one's opinion in a clear and organized fashion."
+  ],
+  "course_objective": "To introduce students to the historical and contemporary views and discussions in ethics, as well as to help them develop skills to morally assess situations of moral relevance.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 25,
+    "quiz": 20,
+    "attendance": 10,
+    "group project": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Philosophy",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "HUM",
+  "cn": "317",
+  "section": null,
+  "key": "202501_HUM_317"
+}

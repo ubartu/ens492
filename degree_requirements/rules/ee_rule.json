@@ -1,0 +1,26 @@
+{
+  "major": "EE",
+  "required": {
+    "must_all": [
+      "CS303",
+      "EE200",
+      "EE202",
+      "EE308",
+      "EE395",
+      "ENS201",
+      "ENS203",
+      "ENS211",
+      "ENS491",
+      "ENS492",
+      "MATH203",
+      "MATH204",
+      "MATH212",
+      "PHYS113"
+    ],
+    "totals": { "min_courses": 14, "min_su": 39 }
+  },
+  "electives": { "core_su": 25, "area_su": 9, "free_su": 15, "spillover": true },
+  "faculty":   { "min_count": 5, "min_math": 2, "min_fens": 3, "min_fass": 0, "min_sbs": 0 },
+  "buckets":   { "engineering_ects": 90, "basic_science_ects": 60 },
+  "totals":    { "min_su": 129, "min_ects": 240 }
+}

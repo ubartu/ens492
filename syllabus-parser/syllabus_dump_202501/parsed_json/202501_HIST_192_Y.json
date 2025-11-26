@@ -1,0 +1,86 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Principles of Atatürk and the History of the Turkish Revolution II - HIST 192 Section Y",
+    "classroom": "FASS-1098",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:2.000, ECTS:3",
+    "prerequisites": "HIST 191",
+    "corequisites": "Course Type:",
+    "course_type": null
+  },
+  "instructors": [
+    {
+      "name": "Atacan Atakan",
+      "email": "atacan.atakan@sabanciuniv.edu"
+    },
+    {
+      "name": "Burhan İzgin",
+      "email": "burhan.izgin@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "HIST 192 provides an academic perspective on the geography that we call the Turkish Republic today and the historical relations established among the human societies that lived there in the past and present. HIST 192 is designed to be a follow-up of HIST 191 and thus complements the content and timeline previously introduced, in a thematic order, by reflecting on major milestones in the history of the Turkish Republic from World War I up to the year 2020. With a focus on the history of Modern Türkiye at its center, HIST 192 offers an interdisciplinary approach by relying on other disciplines, social sciences, and humanities, such as human history, political science, economy, and sociology. Apart from that, the content of HIST 192 is strongly related with the content of TLL 102. The thematic structure and the chronological framework of these separate courses compliment each other. To that end, the course provides a chance to relate the historical content of HIST 192 with the literary works that are studied in TLL 102. Finally, this course aims to teach basics of academic literacy, source criticism and fact-checking as integrated skills whilst dealing with the content material.",
+  "course_learning_outcomes": [
+    "Upon completion of this course students will be able to describe the main themes related to the modernization process of Turkey.",
+    "Upon completion of this course students will be able to comprehend the Atatürkist reforms and their role in the shaping of present-day Turkey.",
+    "Upon completion of this course students will be able to identify the key developments of the political, social and economic history of the Republic of Turkey and relate them to an",
+    "Upon completion of this course students will be able to overall conception of the subject matter.",
+    "Upon completion of this course students will be able to describe large themes over a relatively long span of history.",
+    "Upon completion of this course students will be able to develop independent study."
+  ],
+  "course_objective": "This is the second part of a university course which introduces students to the historical roots of the principles of Atatürk as well as to the implementation of these principles. To achieve this, the following issues are concentrated upon: Ottoman and Turkish political history from 1908 to the present; the Balkan Wars, World War I and Turkish nationalism; the War of Independence; the reforms of Atatürk; World War II and the transition to a multi-party system; Demokrat Parti and its successors, the military interventions of 1960, 1971, 1980 and 1998; the issue of democratization of Turkey.",
+  "course_materials": {
+    "resources": [
+      "James L. Gelvin, The Modern Middle East: A History (3rd Edition), (New York; Oxford: Oxford University Press, 2011), 180 - 216. Betty S. Anderson, A History of the Modern Middle East: Rulers, Rebels, and Rouges, (Stanford: Stanford University Press, 2016), 199 - 240. William Cleveland and Martin Bunton, A History of the Modern Middle East, (Boulder: Westview Press, 2009), 175 - 192. Houchang Chehabi, “Dress Codes for Men in Turkey and Iran,” in Men of Order: Authoritarian Modernization Under Atatürk and Reza Shah by Erik Jan Zürcher and Touraj Atabaki (New York: I. B. Tauris, 2004), 209-37. Mustafa Aydın, “Turkish Foreign Policy in the Chaos of War, 1939-1945” in From Enemies to Allies Turkey and Britain, 1918–1960, edited by Daniel-Joseph MacArthur-Seal, Dilek Barlas, William Hale (Routledge: London, 2022), 130-147. William Cleveland and Martin Bunton, A History of the Modern Middle East, (Boulder: Westview Press, 2009), 193 - 215. William Cleveland and Martin Bunton, A History of the Modern Middle East, (Boulder: Westview Press, 2009), 275 - 300. William Cleveland and Martin Bunton, A History of the Modern Middle East, (Boulder: Westview Press, 2009), 301 - 344. Sabri Sayarı, “Political Violence and Terrorism in Turkey, 1976– 80: A Retrospective Analysis,” Terrorism and Political Violence, Vol. 22, no. 2 (2010), 198-215. Berdal Aral, “Dispensing with Tradition? Turkish Politics and International Society during the Özal Decade, 1983-93,” Middle Eastern Studies, Vol. 37, No. 1 (Jan., 2001), 72-88.",
+      "Arthur Goldschmidt Jr. and Ibrahim Al-Marashi, A Concise History of Middle East (12th Edition), (New York; London: Routledge 2019), 301-315.",
+      "Erik Jan Zürcher, “Years of Crisis, 1994–2002,” in Turkey: A Modern History, (I. B. Taurus: New York and London, 2017), 319-37.",
+      "Arthur Goldschmidt Jr. and Ibrahim Al-Marashi, A Concise History of Middle East (12th Edition), (New York; London: Routledge 2019), 327-336; 344-364; 398-409. Selin Bengi Gümrükçü, “Unraveling the Cycle of Protest in Turkey’s Gezi Park,” Review of Middle East Studies, no. 57 (2023): 264–279.",
+      "Arthur Goldschmidt Jr. and Ibrahim Al-Marashi, A Concise History of Middle East (12th Edition), (New York; London: Routledge 2019), 373-397. Yeşim Arat, “Contestation and Collaboration: Women’s Struggles for Empowerment in Turkey,” in The Cambridge History of Turkey: Turkey in Modern World, Vol. 4 by Reşat Kasaba (Cambridge University Press: Cambridge, 2008), 388-418. Margot Badran, “Between Secular and Islamic Feminism/s: Reflections on the Middle East and Beyond,” Journal of Middle East Women's Studies, Vol. 1, No. 1, (Winter 2005): 6-28. Levent Donat Berköz, “Singing the Unspeakable: Resisting Power Nazan Öncel, Popular Music and Women’s Rights in Modern Turkey,” in Resistance in Contemporary Middle Eastern Cultures Literature, Cinema and Music by Karima Laachir and Saeed Talajooy (Routledge: Cambridge and New York, 2013), 226-44. Amina Boubia, “Music, Politics and ‘Organic Artists’ during the Arab Spring,” Middle East Journal of Culture and Communication, Vol. 12 (March 2019): 88-108."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 30,
+    "quiz": 20,
+    "participation": 10
+  },
+  "program_requirements": [
+    {
+      "program": "2.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "3.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "4.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "5.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "6.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "HIST",
+  "cn": "192",
+  "section": "Y",
+  "key": "202501_HIST_192_Y"
+}

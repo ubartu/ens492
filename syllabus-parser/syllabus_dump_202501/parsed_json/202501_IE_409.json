@@ -1,0 +1,89 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Project Scheduling and Management - IE 409",
+    "classroom": "FENS-G032",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "IE 311 and  IE 303",
+    "corequisites": "Course Type:",
+    "course_type": null
+  },
+  "instructors": [
+    {
+      "name": "Ece Naz Duman",
+      "email": "ecenaz.duman@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Overview of project management process; project selection; project idea generation, formulation, financing, bidding, budgeting, and cash flow analysis; team formation and building; deterministic and stochastic unconstrained project scheduling; resource constrained project scheduling algorithms; progress and cost control of projects; agile project management; examples of management of projects from various sectors.",
+  "course_learning_outcomes": [
+    "to grasp the project management process and be able to use quantitative tools of project management and MS Project software tool",
+    "to be able to identify, analyze and model management problems suitable for formulation as projects",
+    "to be capable to participate in practice in the formulation, description, planning, scheduling, control, and proper termination of the project",
+    "to be able to transform project descriptions into mathematical programming models by employing project networks and solve them using appropriate solution techniques",
+    "to grasp the essentials of project selection and financial aspects of project management such as financing, bidding, budgeting and cash flow analysis",
+    "to learn the use of one major project management software tool (MS Project) in detail"
+  ],
+  "course_objective": "The objective of this course is to introduce the student to the quantitative aspects of the body of knowledge in project management, including agile and hybrid approaches. Emphasis is given to implementing quantitative techniques already acquired in other courses.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 25,
+    "quiz": 20,
+    "individual project": 10,
+    "group project": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Energy",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "IE",
+  "cn": "409",
+  "section": null,
+  "key": "202501_IE_409"
+}

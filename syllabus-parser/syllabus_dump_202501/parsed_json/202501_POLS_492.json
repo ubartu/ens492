@@ -1,0 +1,58 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "European Union: Politics, Policies and Governance - POLS 492",
+    "classroom": "FASS-1099",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "SPS 101 or  SPS 102",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Senem Aydın Düzgit",
+      "email": "saduzgit@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course aims to provide the students with a basic understanding of the European Union. The course will give an evolution of the idea of European unity through a neo-functionalist framework. The main focus of the course is on the emergence of the European Union and its institutions in a historical framework. The ultimate objective is to furnish students with the comprehension that the state is going through a major transformation in Europe due to the process of European integration.",
+  "course_learning_outcomes": [
+    "list the theories of European integration understand the process of integration from 1945 onwards identify the obstacles in integration trace the evolution of European integration apply different theories of integration to explain critical developments in the EU assess the common policies in the EU"
+  ],
+  "course_objective": "This course aims to provide the students with a basic understanding of the process of European integration and the European Union.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 50,
+    "midterm": 40,
+    "participation": 10
+  },
+  "program_requirements": [
+    {
+      "program": "International Studies",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Political Science and International Relations",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Political Science",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "POLS",
+  "cn": "492",
+  "section": null,
+  "key": "202501_POLS_492"
+}

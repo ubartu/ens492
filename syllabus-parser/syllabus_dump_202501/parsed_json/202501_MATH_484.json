@@ -1,0 +1,100 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Mathematical Introduction to Quantum Algorithms and Post-Quantum Cryptography - MATH 484",
+    "classroom": "FENS-2019,FENS-G029",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:3, Engineering:3",
+    "prerequisites": "MATH 201",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Ferruh Özbudak",
+      "email": "ferruh.ozbudak@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course provides a rigorous mathematical introduction to quantum algorithms and post-quantum cryptography, focusing on theoretical foundations rather than physical realizations. It covers Hilbert spaces, unitary transformations, quantum gates, and computational complexity theory. The course emphasizes algorithmic aspects, including Deutsch’s algorithm, Simon’s algorithm, Grover’s search, and Shor’s factorization algorithm, with a strong algebraic and complexity-theoretic approach. The final four weeks introduce post-quantum cryptography from a mathematical perspective, covering code-based and lattice-based cryptographic techniques that ensure security in a quantum computing era.",
+  "course_learning_outcomes": [
+    "Understand the mathematical foundations of quantum computing, including Hilbert spaces, unitary transformations, and quantum circuits.",
+    "Analyze and apply quantum algorithms, such as Deutsch?s algorithm, Grover?s search, Simon?s algorithm, and Shor?s factorization method, from an algebraic and complexity-theoretic perspective.",
+    "Develop mathematical reasoning for quantum cryptography, including the security implications of quantum computing on classical cryptographic protocols.",
+    "Explore post-quantum cryptographic schemes, particularly code-based and lattice-based cryptography, and evaluate their mathematical structures and security assumptions.",
+    "Compare and contrast quantum computing with classical computing, focusing on complexity classes, computational advantages, and cryptographic impact.",
+    "Apply theoretical knowledge to solve research-oriented problems in quantum computing and post-quantum cryptography, particularly through project-based learning."
+  ],
+  "course_objective": null,
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 30,
+    "assignment": 20,
+    "other": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mathematics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "MATH",
+  "cn": "484",
+  "section": null,
+  "key": "202501_MATH_484"
+}

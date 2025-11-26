@@ -1,0 +1,84 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Manufacturing Processes I - IE 309",
+    "classroom": "FENS-G032,FENS-G035",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:1, Engineering:5",
+    "prerequisites": "ENS 205",
+    "corequisites": "IE 309R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Lütfi Taner Tunç",
+      "email": "ttunc@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Overview of modern manufacturing technology; introduction to manufacturing processes, inspection methods and quality; materials and their manufacturing characteristics; description of various conventional and applications in industry: casting, metal forming, forging, extrusion, rolling, joining and welding, EDM, ECM, laser machining, abrasive flow processes; machining processes: turning, milling, drilling, broaching etc., abrasive machining processes. Lab demonstrations and plant tours.",
+  "course_learning_outcomes": [
+    "At the conclusion of this course, students should be able to: Describe, select and analyze different manufacturing processes and their equipments,",
+    "Analyze characteristics of different processes in terms of quality, cost, lead time, volume",
+    "Identify and select manufacturing processes and their parameters for a given industrial part/design.",
+    "Work effectively in a team to analyze a product to identify and explain production stages and manufacturing processes."
+  ],
+  "course_objective": "Introduce principles of manufacturing processes and equipment, and examine characteristics of different processes in terms of quality, cost, lead time, volume etc. Development of basic background for process selection and analysis.",
+  "course_materials": {
+    "resources": [
+      "Manufacturing Processes for Engineering Materials by S. Kalpakjian and S.R. Schmid, 5th Edition, Prentice Hall, 2008. (in reserve and available to purchase at the bookstore)"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 15,
+    "midterm": 45,
+    "quiz": 5,
+    "assignment": 5,
+    "participation": 15,
+    "group project": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Energy",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "IE",
+  "cn": "309",
+  "section": null,
+  "key": "202501_IE_309"
+}

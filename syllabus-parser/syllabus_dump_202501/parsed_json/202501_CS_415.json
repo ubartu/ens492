@@ -1,0 +1,104 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Introduction to deep learning - CS 415",
+    "classroom": "FASS-G062",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "DSA 210 or  CS 210",
+    "corequisites": "CS 415L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Erchan Aptoula",
+      "email": "erchan.aptoula@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Introduction and artificial neural networks: their history, the perceptron and its limitations, boolean and real multi-layered perceptron, topologies, universal function approximation, decision boundaries, activations, sufficiency of architecture, Training I: recall on Gradient, Jacobian, Hessian; what is learning, empirical risk minimization, gradient descent, calculus of backpropagation, Training II: convergence issues, loss surfaces, momentum, optimization, second order methods, regularization strategies, initialization, Convnets I: definitions, types of convolutions, pooling, prominent architectures, Convnets II: vision models with convnets, feature pyramid, transposed convolution, object detection and segmentation, Sequence modeling I: Time series, RNNs, Sequence modeling II: Memory, LSTMs, sequence prediction, Attention: transformers, sequence to sequence predictions, LLMs and their downstream applications, Representation learning: autoencoders, self-supervision, unsupervised approaches, contrastive learning, Generative DL: Variational autoencoders, GANs and diffusion, Deep reinforcement learning: deep q-learning, Graph Neural networks, AI ethics",
+  "course_learning_outcomes": [
+    "Have a good understanding of the mathematical foundations of artificial neural networks",
+    "Be able to write deep learning programs for conducting common tasks such as classification and regression with a variety of data types (e.g. text, image, graphs, etc)",
+    "Have a good understanding of prominent deep learning architectures, such as convnets, transformers and large language models",
+    "Have a good understanding of modern deep learning paradigms such as deep representation learning and deep reinforcement learning"
+  ],
+  "course_objective": [
+    "This course covers the theory and foundations of Artificial Neural Networks and various shallow neural network architectures, including the single & multi-layer perceptrons and deep learning architectures (e.g. convolutional neural networks, recurrent networks, autoencoders, generative adversarial networks, transformers). Students will be expected to develop deep learning systems for machine learning problems for a variety of data types (visual, text, graphs)."
+  ],
+  "course_materials": {
+    "resources": [
+      "S. J. D. Prince, Understanding Deep Learning – https://udlbook.github.io/udlbook/",
+      "M. Nielsen, Neural Networks and Deep Learning – http://neuralnetworksanddeeplearning.com/",
+      "Goodfellow, Bengio and Courville, Deep Learning – https://www.deeplearningbook.org/",
+      "Zhang, A and others, Dive into Deep learning – https://d2l.ai/"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "midterm": 34,
+    "assignment": 30,
+    "group project": 36
+  },
+  "program_requirements": [
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "415",
+  "section": null,
+  "key": "202501_CS_415"
+}

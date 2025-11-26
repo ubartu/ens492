@@ -1,0 +1,59 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Introduction to Marketing - MKTG 301 Section A",
+    "classroom": "FASS-G022",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Zeynep Karagür",
+      "email": "zeynep.karagur@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course is an introduction to the study of structure and functions of marketing systems in the firm, economy, and society which will include analysis of the environment, target markets, and managerial aspects of marketing. Role of marketing, consumer behaviour, business-to-business markets, marketing research, segmentation and targeting will also be described and discussed. In addition, managerial aspects of marketing such as product and service development, pricing, promotion, advertising, selling, and distribution will be covered.",
+  "course_learning_outcomes": [
+    "On completion of this course, students should be able to: Appreciate the ways in which theories from marketing and the wider social sciences inform our understanding of marketing in practice. Demonstrate their understanding of the marketing environment, evolution and constraints Apply their knowledge of marketing models and theories to decisions within a managerial context. Upon successful completion of the course, the student should be able to: 1. Observe and interpret marketing in action; 2. Critically evaluate their own behaviours as marketing consumers; 3. Become acquainted with research issues and instruments in marketing."
+  ],
+  "course_objective": "The integrated lecture and seminar programme is designed to: To introduce students to the study of marketing in higher education. Student learning of the basic raw material is enhanced by encouraging students to use their direct experience of marketing as an input to their studies. Assist students with issues such as time management and the change from structured to more autonomous learning. Develop the transferable skills of analysis, critical thinking and presentation which students need to progress in higher education, not only in Marketing but in related subjects.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 25,
+    "participation": 10,
+    "group project": 30
+  },
+  "program_requirements": [
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Entrepreneurship",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Decision and Behavior",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "MKTG",
+  "cn": "301",
+  "section": "A",
+  "key": "202501_MKTG_301_A"
+}

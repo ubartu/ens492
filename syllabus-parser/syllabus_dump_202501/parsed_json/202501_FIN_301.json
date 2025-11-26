@@ -1,0 +1,65 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Financial Management - FIN 301",
+    "classroom": "FASS-G018",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "Corequisites:",
+    "corequisites": null,
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Bünyamin Önal",
+      "email": "bunyamin.onal@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course develops an understanding of the theoretical and practical issues relating to financial management. The main objectives of the course are : to introduce the students to the financial markets and the financial instruments traded in these markets, to expose the students to the quantitative toos and methods of modern finance, and to help students gain competence in using these tools to make sound financial decisions. Topics covered in the course include: the link between accounting and finance, an introduction to financial statement analysis, the time value of money, bond and stock valuation, investment decision criteria and capital budgeting, project analysis, risk-return relationship, cost of capital, and an overview of corporate financing and capital structure.",
+  "course_learning_outcomes": [
+    "Upon successful completion of this course, students should be able to: 1. Comprehend the theoretical and practical issues of corporate finance (i.e. how managers use financial theory to solve practical problems). 2. Describe why companies and financial markets behave the way they do (i.e. ask the right questions to analyze new problems in times of change). 3. Identify the fundamental concepts of valuation, risk / return, capital budgeting, investment and financing decisions, and risk management (i.e. concepts and information on which good financial decisions are based). 4. Employ various concepts and techniques from topics such as financial statement analysis, time value of cash flows, valuation of risk-less & risky assets, corporate investment & financial planning, risk-return relationship, capital structure decision, diversification of risk , options & futures, etc."
+  ],
+  "course_objective": "This course develops an understanding of the theoretical and practical issues relating to financial management. The main objectives of the course are to introduce the students to the financial markets and financial instruments, to expose the students to the quantitative tools and methods of modern finance, and to help students gain competence in using these tools to make sound financial decisions. Topics covered in the course include: the link between accounting and finance, the time value of money, bond and stock valuation, investment decision criteria and capital budgeting, project analysis, risk-return relationship, cost of capital, and an overview of corporate financing and capital structure.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 50,
+    "midterm": 30,
+    "assignment": 10,
+    "group project": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Entrepreneurship",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Finance",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "FIN",
+  "cn": "301",
+  "section": null,
+  "key": "202501_FIN_301"
+}

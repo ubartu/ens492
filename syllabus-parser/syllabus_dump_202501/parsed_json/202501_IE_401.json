@@ -1,0 +1,76 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Production and Service Systems Operations - IE 401",
+    "classroom": "FASS-G062,UC-G030",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "MS 301 or  IE 301 or  IE 311",
+    "corequisites": "Course Type:",
+    "course_type": null
+  },
+  "instructors": [
+    {
+      "name": "Murat Kaya",
+      "email": "mkaya@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Mathematical and computer methods for planning and control in production and distribution systems; overview of supply chain management; forecasting; aggregate production planning; inventory replenishment policies; lot sizing; material and capacity requirements planning.",
+  "course_learning_outcomes": [
+    "Describe the major steps in the manufacturing planning and control (MPC) hierarchy (including APP, MPS and MRP), and their relationships",
+    "Develop demand forecasting models using time series methods",
+    "Apply the fundamental inventory management models (including the EOQ, newsvendor, (Q,R) and (s,S) models) to relevant problems",
+    "Relate industrial engineering and operations research methods obtained in previous courses to production planning and control domain",
+    "Formulate and solve production planning problems",
+    "Implement forecasting and inventory management models and heuristics using optimization solvers and programming languages."
+  ],
+  "course_objective": "Prepare students for manufacturing practice and/or research through an advanced treatment of concepts and methods for manufacturing planning and control.",
+  "course_materials": {
+    "resources": [
+      "Textbooks 1) One of the following two versions of the same book:",
+      "Nahmias S. and Lennon Olsen, T., Production and Operations Analytics, 7th or 8th edition, Waveland Press.",
+      "Nahmias, S., Production and Operations Analysis, 5th or 6th edition, McGraw-Hill. 2) For some topics: Vollmann, T. E., Berry, W. L., Whybark, D. C., Jacobs, F. R., Manufacturing Planning and Control for Supply Chain Management, 5th or 6th edition, McGraw-Hill. Useful References",
+      "Silver, E. A., Pyke, D. F., Peterson, R., Inventory Management and Production Planning and Scheduling, 3rd edition, Wiley, 1998.",
+      "Hopp, W. J., M. L. Spearman, Factory Physics, McGraw-Hill. 3rd edition. 2011.",
+      "Ptak, C. A., C. J. Smith. Orlicky’s Material Requirements Planning. 3rd edition. 2011."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 50,
+    "midterm": 35,
+    "participation": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "IE",
+  "cn": "401",
+  "section": null,
+  "key": "202501_IE_401"
+}

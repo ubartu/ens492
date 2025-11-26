@@ -1,0 +1,57 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Philosophy of Mind - PHIL 310",
+    "classroom": "FASS-1097,FASS-1098",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Elif Yavnık",
+      "email": "eyavnik@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course introduces students to traditional and current topics in philosophy of mind and cognition. The first part of the course is devoted to the mind-body problem and classical responses to it like dualism, identity theory, and functionalism. The second part deals with two characteristic features of mind: intentionality and consciousness. Accounts to be discussed include representationalism and the computer model of mind, connectionism and neural networks, theories of mental content, theories of phenomenal consciousness.",
+  "course_learning_outcomes": [
+    "Critical thinking and reading abilities, analytic writing and academic discussion skills"
+  ],
+  "course_objective": [
+    "The first part offers an excellent platform for exercise in philosophical argumentation as there is a continuous argumentative dialectic from traditional texts to recent debates. Moreover, as concepts from other fields of philosophy (like metaphysics, epistemology, and philosophy of language) are relevant for the arguments we will study, the students will be introduced to concepts which they can understand easily in other courses, or apply in other contexts.",
+    "The second part will demonstrate the relevance of philosophy for related disciplines and vice versa. It may also appeal students of, e.g., computer science, neuroscience, or mechatronics, who are interested in foundational questions of their disciplines."
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 30,
+    "quiz": 15,
+    "attendance": 10,
+    "group project": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Philosophy",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Decision and Behavior",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "PHIL",
+  "cn": "310",
+  "section": null,
+  "key": "202501_PHIL_310"
+}

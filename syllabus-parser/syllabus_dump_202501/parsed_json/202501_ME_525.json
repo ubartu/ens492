@@ -1,0 +1,292 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Autonomous Mobile Robotics - ME 525",
+    "classroom": "FENS-G029",
+    "level_of_course": "Masters",
+    "course_credits": "SU Credit:3.000, ECTS:10",
+    "prerequisites": "-",
+    "corequisites": "ME 525L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Mustafa Ünel",
+      "email": "munel@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "The course covers fundamental problems of autonomous mobile robotics including locomotion, perception, localization, planning and navigation. In the context of locomotion, legged, wheeled and flying mobile robots will be discussed. In the perception part, various sensors that are used on mobile robots will be introduced and several sensor fusion algorithms will be presented. Localization problems will be tackled in a probabilistic framework using Markov and Kalman Filtering techniques. Simultaneous Localization and Mapping (SLAM) problem and its variations will also be introduced and discussed. Finally planning and navigation strategies will be covered.",
+  "course_learning_outcomes": [
+    "evaluate various locomotion mechanisms including legged, wheeled and flying locomotions.",
+    "design feedback controllers for motion control of the wheeled mobile robots",
+    "select appropriate sensors for perception including non-visual and visual sensors",
+    "implement localization and mapping algorithms using Markov and Kalman filter",
+    "synthesize optimal paths using artificial potential functions",
+    "demonstrate hands on experience with mobile robots"
+  ],
+  "course_objective": "To teach fundamentals of autonomous mobile robotics that include locomotion, perception, localization, mapping, planning and navigation of mobile robots so that students can acquire a solid theoretical background and hands-on experience in mobile robotics.",
+  "course_materials": {
+    "resources": [
+      "Textbook",
+      "Introduction to Autonomous Mobile Robots, 2nd Edition, Roland Siegwart, Illah R. Nourbakhsh and Davide Scaramuzza, MIT Press, 2011. Readings",
+      "Computational Principles of Mobile Robotics, Gregory Dudek, Michael Jenkin, Cambridge University Press, 2010.",
+      "Autonomous Robots, George A. Bekey, MIT Press, 2005."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 25,
+    "assignment": 28,
+    "participation": 5,
+    "homework": 12
+  },
+  "program_requirements": [
+    {
+      "program": "Cyber Security (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Physics (non-thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Cyber Security",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Biological Sciences and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Energy Technologies and Management (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Materials Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Manufacturing Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Manufacturing Engineering (non-thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Computer Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Electronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Electronics Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Industrial Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Manufacturing Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "MS-Elec. Eng&Comp Sc.LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Computer Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Mechatronics LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Physics (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mathematics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering and Computer Science (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Electronics Engineering and Computer Science (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering and Computer Science",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Bio. Sci. & Bioeng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mathematics (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Materials Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Physics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ME",
+  "cn": "525",
+  "section": null,
+  "key": "202501_ME_525"
+}

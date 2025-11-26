@@ -1,0 +1,90 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Sustainability and Circularity in Materials - IF 402",
+    "classroom": "FENS-G029",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:2",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Burcu Saner Okan",
+      "email": "bsanerokan@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course aims to provide a multidisciplinary approach, including engineering, management, and sustainability sciences, for the development of recycling and upcycling technologies towards a ustainable future. A circular approach is needed as a significant contribution to a more sustainable, low-carbon, resource-efficient, and competitive circularity by closing the loop on product lifecycles through greater recycling and the use of recycled materials. The course will cover detailed discussions on how waste thermosets thermoplastics instead of landfilling are converted into value-added products by recycling processes, and how unrecyclable materials like carbon fiber-based composite can be recycled and how direct and captured CO2 from air and oceans can be converted into chemicals and raw materials. Additionally, cradle-to-grave life cycle assessment approaches will be explained to measure the environmental impact of circular products, such as the release of CO2 emissions. This course will discuss the implications of increased resource efficiency and circularity for sustainable development, addressing in more detail design, manufacturing, use,reuse, repair, remanufacturing, recycling,and sustainable waste management It will also examine the contribution of recycling to the sustainability of industrial processes and sustainable development, considering the increasing demand for green products and environmental regulations in various sectors.",
+  "course_learning_outcomes": [
+    "Number of assessment methods",
+    "2",
+    "1",
+    "1",
+    "1"
+  ],
+  "course_objective": [
+    "Explain the historical trends and future predictions regarding the use of natural resources and the related sustainability challenges.",
+    "Critically discuss the implications of increased resource-efficiency and circularity for sustainable development theories, methods and tools from multiple disciplines.",
+    "Describe the concepts and fundamental principles behind various strategies for resource efficiency, focusing on recycling and upcycling within a circular and sustainable approach.",
+    "Identify key stakeholders, their options, barriers, and drivers for transitioning to more resource-efficient and circular materials in the industry.",
+    "Analyze the impact of enhanced resource efficiency and circularity on sustainable material development by applying Life Cycle Assessment (LCA) methods.",
+    "Evaluate strategies to enhance resource efficiency and promote circularity by applying theories, methods, and tools from various disciplines.",
+    "Develop innovative solutions for reducing waste and improving the lifecycle management of materials.",
+    "Design and implement projects that incorporate principles of circular economy and sustainability.",
+    "Understand and implement regulatory frameworks and standards related to environmental sustainability and resource management."
+  ],
+  "course_materials": {
+    "resources": [
+      "Lecture notes, review articles, Joint Research Centre -- Institute for Environment and Sustainability. (2010). ILCD Handbook - General guide on LCA - Provisons and action steps. https://eplca.jrc.ec.europa.eu/uploads/ILCD-Handbook-General-guide-for-LCA-PROVISIONS-12March2010-ISBN-a-clean-v1.0-EN.pdf LCA tools: Carbon footprint calculations:",
+      "https://www.footprintnetwork.org",
+      "https://coolcalifornia.arb.ca.gov/choose-your-calculator Simapro Program available in the lab."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "assignment": 10,
+    "group project": 20,
+    "written report": 20,
+    "presentation": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Sustainability",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "IF",
+  "cn": "402",
+  "section": null,
+  "key": "202501_IF_402"
+}

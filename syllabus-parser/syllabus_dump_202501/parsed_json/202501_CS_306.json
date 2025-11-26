@@ -1,0 +1,102 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Database Systems - CS 306",
+    "classroom": "FENS-G077,FMAN-G071",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "CS 204 or  DSA 201",
+    "corequisites": "CS 306R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Yücel Saygın",
+      "email": "ysaygin@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course covers the fundamental topics in database management systems including ANSI/SPARC architecture, data abstraction, data independence; data definition and manipulation languages; entity-relationship and relational data models, integrity constraints, query languages like SQL, relational algebra and calculus, functional dependencies, normal forms, transaction processing recovery and concurrency control, data structure for database management systems such as indices, B-trees, hashing.",
+  "course_learning_outcomes": [
+    "After the course, the student will be able to develop a database application starting with the conceptual design leading to logical and physical designs.",
+    "After the course, the student will be competent on relational model and SQL.",
+    "After the course, the student will be able to implement a database application based on a given design.",
+    "After the course, the student will be able explain the concept of functional dependency and will be able to avoid redundancies and other problems causing by bad designs.",
+    "After the course, the student will be able to explain how a DBMS concurrently handles the transactions and what happens after a system crash.",
+    "After the course, the student will be able to explain how the data is physically stored, managed, and queried within the database."
+  ],
+  "course_objective": [
+    "To supply the students with the theory and practice of database management systems, and database application development."
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": "Computers"
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 35,
+    "quiz": 15,
+    "assignment": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "306",
+  "section": null,
+  "key": "202501_CS_306"
+}

@@ -1,0 +1,83 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Genetics - BIO 303",
+    "classroom": "FENS-G015,FENS-L062",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:4.000, ECTS:7, Basic:5, Engineering:2",
+    "prerequisites": "NS 201",
+    "corequisites": "BIO 303L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Duygu Kuzuoğlu Öztürk",
+      "email": "duygu.kuzuoglu@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Aims to illustrate the basic principles of molecular and evolutionary genetics from Mendel to modern molecular biology. Examples will be chosen from prokaryotic and eukaryotic organisms and topics include: principles of heredity and variation and their application to evolution and development, phsicochemical nature of the gene, problems of recombination and gene action, selection.",
+  "course_learning_outcomes": [
+    "Upon successful completion of this course, students should be able to: Identify the concepts of heredity, the chemical nature of the hereditary material, and its action.",
+    "Describe the rewarding uses of genetics in their other subjects, e.g., biology, medicine.",
+    "Interpret genetic information, such as popular news reports, management decisions faced by your company, and personal health choices of you or your family."
+  ],
+  "course_objective": "To teach fundamentals of traditional and modern concepts genetics.",
+  "course_materials": {
+    "resources": [
+      "Genetics, D. Peter Snustad, Michael J. Simmons. Essential Genetics and Genomics, Daniel L. Hartl"
+    ],
+    "technology_requirements": "All the students should have access to a laptop"
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 30,
+    "quiz": 15,
+    "participation": 5,
+    "written report": 15,
+    "other": 5
+  },
+  "program_requirements": [
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "BIO",
+  "cn": "303",
+  "section": null,
+  "key": "202501_BIO_303"
+}

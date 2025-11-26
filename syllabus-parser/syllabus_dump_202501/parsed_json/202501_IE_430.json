@@ -1,0 +1,80 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Logistics Systems Planning and Design - IE 430",
+    "classroom": "FASS-G022,FENS-G035",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "IE 312",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "İhsan Sadati",
+      "email": "msadati@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Planning and analysis of logistics systems; data collection methods; facility location/allocation; comparative analysis of different transportation modes and intermodal transportation; fleet planning and vehicle allocation; vehicle routing; other issues such as third party logistics; reverse logistics; vendor managed inventory; collaborative planning, forecasting, and replenishment; e-business and its impact on logistics.",
+  "course_learning_outcomes": [
+    "(1) identify and state the basic principles and concepts of logistics systems design;",
+    "(2) model location problems and solve them using optimization software and tools;",
+    "(3) develop her/his own algorithms to efficiently solve location problems;",
+    "(4) model long-haul freight transportation problems and solve them using optimization software and tools;",
+    "(5) develop her/his own algorithms to efficiently solve long-haul freight transportation problems;",
+    "(6) model short-haul freight transportation problems and solve them using optimization software and tools;",
+    "(7) develop her/his own algorithms to efficiently solve short-haul freight transportation problems;",
+    "(8) conduct challenging technical projects that involve modeling and algorithmic solution approaches;",
+    "(9) work in a team in managing challenging logistics systems design projects."
+  ],
+  "course_objective": "The objective of the course is to give the students a solid understanding of the analytical modeling and solution approaches in logistics planning problems and design issues in logistics systems. We will use mathematical programming approaches to model and solve the planning and control problems arising in transportation and distribution logistics, including (but not limited to) single and multiple facility location/allocation problems, logistics networks design for long-haul freight transportation, transportation modes and multi-modal transport, and vehicle routing and scheduling. We will develop and employ both exact and approximate methods to solve optimization problems and implement computerized applications. Proficiency in operations research and capability of using an optimization solver (preferably Gurobi) and coding with a computer programming language (Python or C++) are required.",
+  "course_materials": {
+    "resources": [
+      "Textbook",
+      "Introduction to Logistics Systems Management: With Microsoft Excel and Python Examples, 3rd Edition. G. Ghiani, G. Laporte and R. Musmanno, 2022 (Publisher: John Wiley & Sons). Reading",
+      "Freight transport and distribution: concepts and optimisation models. Bektas, T., 2017. CRC Press.",
+      "Facilities Design, 3rd edition. S. Heragu, 2008 (Publisher: CRC Press). [TS177 .H47 2008]",
+      "Supply Chain Engineering. M. Goetschalckx, 2011 (Publisher: Springer). [HD38.5 .G586 2011 ] eBook available online"
+    ],
+    "technology_requirements": "The students need to develop their coding capabilities. Hence, there will be a group project assignment. The students are required to use Python. Install Anaconda from https://www.anaconda.com/products/distribution. You can follow the guide uploaded to SU Course."
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 25,
+    "assignment": 15,
+    "participation": 5,
+    "group project": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "IE",
+  "cn": "430",
+  "section": null,
+  "key": "202501_IE_430"
+}

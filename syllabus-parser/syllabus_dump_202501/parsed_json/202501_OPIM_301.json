@@ -1,0 +1,63 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Operations Management - OPIM 301",
+    "classroom": "FMAN-G013,FMAN-G060",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "MGMT 203 or ( MATH 306)",
+    "corequisites": "OPIM 301R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Kemal Berkay Tüzün",
+      "email": "kemal.tuzun@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Operations management encompasses decisions related with the production of goods and services. This course exposes the students to issues such as product and process design, capacity planning, inventory planning, and quality management at varying levels of decision making from strategic to operational. In addition to the introduction of basic concepts, analytical tools for supporting good decision-making are also introduced.",
+  "course_learning_outcomes": [
+    "Upon successful completion of the course, the student should be able to: 1. Define operations management and its relation to the other functions. 2. Demonstrate his/her understanding on product-process matrix and its strategic implications. 3. Analyze and improve process performance. 4. Assess the impact of uncertainty on system performance. 5. Assess and improve process quality. 6. Describe the bullwhip effect, its reasons and how to mitigate it in supply chains. 7. Perform aggregate sales and operations planning using Excel. 8. Demonstrate his/her understanding on basic inventory management concepts."
+  ],
+  "course_objective": [
+    "The operations function along with finance and marketing is one of the primary functions of an organization. Operations management is concerned with the efficient and effective production and delivery of goods and services. Thus it involves managing of the processes that transforms inputs into outputs.",
+    "While providing an introduction to operations management, the objectives of this course include the following:",
+    "To familiarize you with the components of operations management in different organizational settings.",
+    "To develop an understanding of strategic and tactical issues confronting operations managers.",
+    "To equip you with the skills as well as the language, concepts, tools and insights on understanding, analyzing and improving main operations management issues so as to gain competitive advantage.",
+    "To develop an understanding of business processes, process flows, and process quality.",
+    "To introduce operations planning and control issues including demand management and forecasting, capacity management, aggregate sales and operations planning, and inventory management."
+  ],
+  "course_materials": {
+    "resources": [
+      "We will be closely following the textbook given below. You are expected to read the chapters mentioned in the course outline before each session. The book is available in the bookstore. You can also use the earlier editions of the book available in the IC. Heizer, J., Render, B., Munson, C., 2020. Operations Management: Sustainability and Supply Chain Management, Global Edition, 14th Edition, Pearson."
+    ],
+    "technology_requirements": "To fully participate in this course, students are expected to have access to the following: 1. Laptop Computer – A functioning laptop is required for accessing course materials. Please ensure your device can connect to the internet reliably and run standard productivity software (e.g., Word, Excel, Powerpoint, PDF reader). 2. Scientific Calculator – A non-programmable scientific calculator is required for problem-solving during class activities and exams. Graphing calculators or calculator apps on phones are not permitted during assessments. Students are responsible for bringing these devices to every class session unless otherwise noted."
+  },
+  "assessment_percent": {
+    "final": 25,
+    "midterm": 50,
+    "assignment": 15,
+    "participation": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Sustainability",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "OPIM",
+  "cn": "301",
+  "section": null,
+  "key": "202501_OPIM_301"
+}

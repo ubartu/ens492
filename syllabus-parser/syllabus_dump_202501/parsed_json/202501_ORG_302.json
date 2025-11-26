@@ -1,0 +1,73 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Organizational Behavior - ORG 302",
+    "classroom": "FASS-G018,FENS-L045",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "Course Type:",
+    "course_type": null
+  },
+  "instructors": [
+    {
+      "name": "Öykü Arkan Tunç",
+      "email": "oyku.arkan@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course discusses individual attitudes and behavior within organizational contexts, processes such as perception, learning and motivation; group processes; leadership, organizational culture, organizational change and the effects of societal culture on work-related attitudes.",
+  "course_learning_outcomes": [
+    "Upon successful completion of this course, students should be able to: 1. Define the basic concepts, theoretical perspectives, and practices that are useful for understanding human behavior and improving performance and well-being in the workplace. 2. Define and explain individual attributes such as dispositions, personality as well as psychological processes in perception, cognition, and motivation. 3. Define and explain horizontal and vertical relations in organizational settings 4. Define and explain the implications of organizational culture and HR practices on individual behavior 5. Identify and explain cross-cultural differences in the above mentioned concepts and processes."
+  ],
+  "course_objective": "The main objective of this course is to introduce the basic concepts, theoretical perspectives, and practices that are useful for understanding human behavior and improving performance and well-being in the workplace. The course aims firstly to decipher the employee, by focusing on \"universal\" individual attributes such as dispositions, personality as well as \"culturally-bound\" differences in perception, cognition, and motivation. The second aim of the course is to put this employee into the organizational context, and analyze the implications of organizational culture and HR practices on individual behavior, and the intricacies of dyadic as well as group relations.",
+  "course_materials": {
+    "resources": [
+      "Required Textbook: Organizational Behavior: Improving Performance and Commitment in the Workplace, by Colquitt, LePine & Wesson, 8th Edition, McGraw-Hill *This textbook is also available in the library and the bookshop. You can purchase the online version of the textbook as well. In addition, there will be designated notes and weekly readings (all available on SuCourse)."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "midterm": 40,
+    "quiz": 10,
+    "participation": 15,
+    "group project": 35
+  },
+  "program_requirements": [
+    {
+      "program": "Psychology",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Sustainability",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Decision and Behavior",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Conflict Analysis & Resolution",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ORG",
+  "cn": "302",
+  "section": null,
+  "key": "202501_ORG_302"
+}

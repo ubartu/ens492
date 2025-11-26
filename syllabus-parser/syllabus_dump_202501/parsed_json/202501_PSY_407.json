@@ -1,0 +1,62 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "EEG Methods and Analyses - PSY 407",
+    "classroom": "FASS-1096",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "CS 201 or  CS 210 or  PSY 202 or  DSA 210",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Eren Günseli",
+      "email": "eren.gunseli@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course is a project-based course in which the student designs the experiment, collects data and performs EEG analyses. The first part of the course focuses on EEG experimental design and data collection. This section teaches students how to shape the choices EEG researchers make when designing their experiments according to their research questions. The second part focuses on data analysis and interpretation of results. Students learn preprocessing, event-related and steady- state potentials, time-frequency power analyses in both univariate and multivariate domains. They acquire not only theoretical knowledge but also practical skills.",
+  "course_learning_outcomes": [
+    "Good Health and Well-being"
+  ],
+  "course_objective": [
+    "Develop foundational knowledge of EEG as a research method: Introduce students to what EEG measures, its strengths and limitations, and how it compares to other cognitive neuroscience methods.",
+    "Bridge theory and practice in EEG research: Provide students with hands-on opportunities to design, analyze, and interpret EEG data in the context of cognitive neuroscience questions.",
+    "Cultivate analytical and computational skills: Build students’ ability to implement core EEG analysis pipelines using MATLAB and EEGLAB, fostering reproducibility and data literacy.",
+    "Encourage critical engagement with EEG research: Enable students to read, evaluate, and critique published EEG studies, identifying methodological strengths, weaknesses, and future directions.",
+    "Strengthen scientific communication and collaboration: Support students in effectively presenting EEG analyses and interpretations, both in group presentations and in written work.",
+    "Highlight the broader relevance of EEG skills: Demonstrate how EEG methods and the associated data analysis skills connect to applied domains such as clinical diagnosis, mental health, education, industry, and technology."
+  ],
+  "course_materials": {
+    "resources": [
+      "Textbook: We will mostly follow Mike X Cohen’s Analyzing Neural Time Series Data: Theory and Practice. However, you are not expected to own the book. Instead, I will go over all the important bits and provide the necessary MATLAB code."
+    ],
+    "technology_requirements": "Prior exposure to MATLAB or Python is helpful but not required."
+  },
+  "assessment_percent": {
+    "assignment": 25,
+    "participation": 10,
+    "group project": 25,
+    "presentation": 40
+  },
+  "program_requirements": [
+    {
+      "program": "Psychology",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "PSY",
+  "cn": "407",
+  "section": null,
+  "key": "202501_PSY_407"
+}

@@ -1,0 +1,87 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Computational Approaches to Problem Solving - IF 100 Section C",
+    "classroom": "FASS-G062",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:5, Engineering:5",
+    "prerequisites": "-",
+    "corequisites": "IF 100R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Yalçın Can Kılıç",
+      "email": "yalcin.kilic@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "The course is an introduction to the key concepts in computational thinking such as algorithmic thinking, abstraction and decomposition. The students will also gain basic programming skills in order to apply computational thinking concepts in practice. Through the lectures, homeworks, and interactive recitations specific to different disciplines, the students will learn how to design algorithms, how to divide a problem into subproblems, and how to build a solution by means of compositions. Evaluation of the solutions in terms of correctness and efficiency will also be covered. In order to enable students apply computational thinking skills in practice, basic programming concepts, such as variables, statements, conditionals, iteration, and functions will be introduced by using a simple programming language such as Python.",
+  "course_learning_outcomes": [
+    "Define and apply computational thinking and its components for problem solving",
+    "Understand and use variables, assignments and basic input/output",
+    "Understand and use conditional statements",
+    "Understand and use loop statements and its importance in abstraction and pattern recognition",
+    "Understand and use data types and their methods",
+    "Understand and use functions for code modularity and its importance in decomposition and abstraction",
+    "Perform simple text file I/O operations"
+  ],
+  "course_objective": [
+    "The course is an introduction to the key concepts in computational thinking such as algorithmic thinking, abstraction and decomposition. The students will also gain basic programming skills in order to apply computational thinking concepts in practice.",
+    "Through the lectures, take-home exams, and interactive recitations specific to different disciplines, the students will learn how to design algorithms, how to divide a problem into subproblems, and how to build a solution by means of compositions. Evaluation of the solutions in terms of correctness and efficiency will also be covered.",
+    "In order to enable students to apply computational thinking skills in practice, basic programming concepts, such as variables, statements, conditionals, iteration, and functions will be introduced by using a simple programming language such as Python."
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": "Students are expected to use Google Colab for programming assignments and exercises. All course materials will be shared via the course’s Google Drive folder . And, here is the course website for IF100. CodeRunner Feature of SUCourse We apply an automated grading process on Take-Home Exams (THEs), aka assignments. You can use CodeRunner to check your expected grade, before submitting your THEs. CodeRunner can be pretty busy and unresponsive during the last day of the submission. Thus, leaving the submission to the last minute is not a good idea. CodeRunner and Sample Runs together give a good estimate of how correct your implementation is. However, we may test your programs with hidden test cases as well, but you will still be able to see your final grade before submitting your work. Submit your THEs via SUCourse ONLY! Any other methods (paper, email, etc.) are not acceptable, either. The internal clock of SUCourse might be a couple of minutes skewed, so make sure you do not leave the submission to the last minute. Do not forget that \"No successful submission on SUCourse on time = a grade of 0 directly for that take-home exam.\""
+  },
+  "assessment_percent": {
+    "final": 52,
+    "midterm": 42,
+    "assignment": 2,
+    "attendance": 4
+  },
+  "program_requirements": [
+    {
+      "program": "2.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "3.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "4.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "5.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "6.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "7.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "IF",
+  "cn": "100",
+  "section": "C",
+  "key": "202501_IF_100_C"
+}

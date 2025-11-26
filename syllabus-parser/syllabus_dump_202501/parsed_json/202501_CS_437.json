@@ -1,0 +1,78 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Cybersecurity Practices and Applications - CS 437",
+    "classroom": "FASS-1010,UC-G030",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "CS 408",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Orçun Çetin",
+      "email": "orcun.cetin@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Introduction and general terminology, Classification of Attacks, Cyber Threats, Vulnerabilities and misconfigurations, Human Issues, Basic security components, Phishing and social engineering, Introduction to Linux, Basic Security Testing with Linux, Introduction to Red Team Tools, Reconnaissance attempts, Initial Access, Persistence, Application security, Command Injections, Memory Injections, Script Injection, Secure software development lifecycle, Threat Modeling",
+  "course_learning_outcomes": [
+    "Students will display fundamental understanding of typical cyber security problems and mitigation methods",
+    "Students will show understanding steps towards developing a secure and robust software",
+    "Students will demonstrate hands-on experience with the Linux operating system and attack tools."
+  ],
+  "course_objective": "Be able to design, develop, test and evaluate secure software and code. Be able to analyze security issues in networks and computer systems to secure an IT infrastructure. Be able to evaluate OWASP Top 10 vulnerabilities, programming best practices, and security issues in websites and APIs. Be able to understand fundamentals of penetration testing. Be able to communicate security findings, risks, and mitigation strategies effectively to both technical and non-technical audiences.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 50,
+    "assignment": 25,
+    "homework": 25
+  },
+  "program_requirements": [
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "437",
+  "section": null,
+  "key": "202501_CS_437"
+}

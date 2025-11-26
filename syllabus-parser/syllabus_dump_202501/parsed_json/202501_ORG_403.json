@@ -1,0 +1,80 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Cross-Cultural Management - ORG 403",
+    "classroom": "FASS-1011",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Arzu Syeda Wasti",
+      "email": "awasti@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This main objective of this course is to introduce students to the area of cross-cultural management. By learning about the dilemmas and opportunities that are presented in international and multi-cultural work environments, students will be better able to function in an increasingly global business environment. Special emphasis will be placed on the management of people and groups in international organizations. To this end, the major dimensions of cultural variation will be outlined and cross cultural theoires will be introduced to enhance personal and other people’s performance in cross-cultural work situations.",
+  "course_learning_outcomes": [
+    "Number of assessment methods",
+    "1",
+    "2",
+    "2",
+    "1"
+  ],
+  "course_objective": [
+    "The main objective of this course is to introduce students to the area of cross-cultural management. By learning about the dilemmas and opportunities that are presented in international and multi-cultural work environments, students will be better able to function in an increasingly global business environment. Emphasis will be placed on the management of people and groups in multinational/multicultural organizations.",
+    "Learning Outcomes:",
+    "Upon successful completion of the course, the student should be able to:",
+    "Define culture and the major dimensions of cultural variation.",
+    "Comprehend how culture influences individuals’ cognition, emotion, and motivation as well as relationships.",
+    "Understand the influence of culture in the workplace, in particular, the theories of motivation and leadership.",
+    "Use cross-cultural theory to enhance personal and other people’s performance in multinational organizations and cross-cultural situations."
+  ],
+  "course_materials": {
+    "resources": [
+      "Most of the reading material for this course can be accessed electronically and downloaded as pdf files via the Information Center. Cases and some other material will be obtained from HBS publishing (links will be provided)."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "midterm": 40,
+    "assignment": 15,
+    "case study": 10,
+    "participation": 15,
+    "group project": 20
+  },
+  "program_requirements": [
+    {
+      "program": "Society, Culture and Politics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "International Studies",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Sustainability",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ORG",
+  "cn": "403",
+  "section": null,
+  "key": "202501_ORG_403"
+}

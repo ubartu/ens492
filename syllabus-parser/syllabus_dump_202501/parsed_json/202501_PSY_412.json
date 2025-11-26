@@ -1,0 +1,53 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Visual Cognition - PSY 412",
+    "classroom": "FASS-G052,FASS-G056",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "PSY 201",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Nihan Alp",
+      "email": "nihanalp@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course aims to survey research and theoretical discussions on Visual Cognition. Vision is central to our daily interactions with the world. It is the most salient sense modality, dominating our perception. Visual thinking plays a crucial role in a number of tasks such as object recognition, reading emotions from facial expressions, spatial orientation and wayfinding, creative problem solving, planning for the future, understanding scientific visualizations or visual art. Topics to be discussed include theoretical research on cognitive and neural processes underlying visual cognition as well as applied research on visual thinking and individual differences in visual processing styles.",
+  "course_learning_outcomes": [
+    "Students are expected to be critical and independent thinkers.",
+    "Students are expected to discuss specific issues in visual cognition."
+  ],
+  "course_objective": null,
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "term-paper": 55,
+    "participation": 15,
+    "individual project": 30
+  },
+  "program_requirements": [
+    {
+      "program": "Psychology",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science and Analytics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "PSY",
+  "cn": "412",
+  "section": null,
+  "key": "202501_PSY_412"
+}

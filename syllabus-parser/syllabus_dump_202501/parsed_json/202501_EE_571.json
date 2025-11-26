@@ -1,0 +1,282 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Linear Systems - EE 571",
+    "classroom": "FENS-L067",
+    "level_of_course": "Masters",
+    "course_credits": "SU Credit:3.000, ECTS:10",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Melih Türkseven",
+      "email": "melih.turkseven@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Gives the fundamental theory of linear dynamical systems in both continuous and discrete time. The course covers state- space representations, vector spaces, linear operators, eigenvalues and eigenvectors, functions of vectors and matrices, solutions to state equations, stability, controllability, observability, realization theory, feedback and observers.",
+  "course_learning_outcomes": [
+    "After taking this course, a successful graduate student must have a solid background in linear system theory which can be applied to many engineering problems such as control, signal processing, vision and robotics. In particular, students should be able to: 1. Classify systems and develop Input/Output and State-Space representations for systems 2. Use vector space ideas, matrices and their functions 3. Check controllability and the observability of a linear system 4. Check the external and the internal stability of a system 5. Design linear state feedback control 6. Estimate states of a dynamical system using various observers"
+  ],
+  "course_objective": [
+    "This course is intended for first year graduate students to present the fundamental concepts of the linear systems theory."
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "midterm": 30,
+    "assignment": 30,
+    "individual project": 40
+  },
+  "program_requirements": [
+    {
+      "program": "Cyber Security (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Manufacturing Engineering (non-thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering and Computer Science (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Electronics Engineering and Computer Science (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Physics (non-thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Manufacturing Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mathematics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Biological Sciences and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Electronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "MS-Elec. Eng&Comp Sc.LFI-ENG",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Materials Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Bio. Sci. & Bioeng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Electronics Eng. LFI-ENG",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Physics (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering and Computer Science",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Physics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Cyber Security",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Computer Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Industrial Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Manufacturing Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Computer Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Energy Technologies and Management (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Materials Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mathematics (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "MS-Mechatronics LFI-ENG",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "EE",
+  "cn": "571",
+  "section": null,
+  "key": "202501_EE_571"
+}

@@ -1,0 +1,82 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Autonomous Mobile Robotics - ME 425",
+    "classroom": "FENS-G029",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:4.000, ECTS:7, Basic:1, Engineering:6",
+    "prerequisites": "ENS 206 or  ENS 211",
+    "corequisites": "ME 425L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Mustafa Ünel",
+      "email": "munel@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "The course covers fundamental problems of autonomous mobile robotics including locomotion, perception, localization, planning and navigation. In the context of locomotion, legged, wheeled, and flying mobile robots will be discussed. In the perception part, various sensors that are used on mobile robots will be introduced and several sensor fusion algorithms will be presented. fusion algorithms will be presented. Localization Localization problems will be tackled in a probabilistic framework using Markov and Kalman Filtering techniques. Simultaneous Localization and Mapping (SLAM) problem and its variations will also be introduced and discussed. Finally, planning and navigation strategies will be covered.",
+  "course_learning_outcomes": [
+    "evaluate various locomotion mechanisms including legged, wheeled and flying locomotions",
+    "design feedback controllers for motion control of the wheeled mobile robots",
+    "select appropriate sensors for perception including non-visual and visual sensors",
+    "implement localization and mapping algorithms using Markov and Kalman filters",
+    "synthesize optimal paths using artificial potential functions",
+    "demonstrate hands-on experience with mobile robots"
+  ],
+  "course_objective": "To teach fundamentals of autonomous mobile robotics that include locomotion, perception, localization, mapping, planning and navigation of mobile robots so that students can acquire a solid theoretical background and hands-on experience in mobile robotics.",
+  "course_materials": {
+    "resources": [
+      "Textbook",
+      "Introduction to Autonomous Mobile Robots, 2nd Edition, Roland Siegwart, Illah R. Nourbakhsh and Davide Scaramuzza, MIT Press, 2011. Readings",
+      "Computational Principles of Mobile Robotics, Gregory Dudek, Michael Jenkin, Cambridge University Press, 2010.",
+      "Autonomous Robots, George A. Bekey, MIT Press, 2005."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 25,
+    "assignment": 28,
+    "participation": 5,
+    "homework": 12
+  },
+  "program_requirements": [
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "ME",
+  "cn": "425",
+  "section": null,
+  "key": "202501_ME_425"
+}

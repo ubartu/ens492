@@ -1,0 +1,104 @@
+{
+  "course_info": {
+    "faculty": "School of Languages",
+    "semester": "Fall 2025-2026",
+    "course": "Turkish Language and Literature I - TLL 101 Section G2",
+    "classroom": "FASS-1103",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:2.000, ECTS:3",
+    "prerequisites": "Corequisites:",
+    "corequisites": null,
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Elif Sezer Aydınlı",
+      "email": "elif.sezer@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This literature course aims to discuss the modernization process of the late Ottoman-early Republican period through literary texts. Organized in a coordinated and related manner with the HIST 191, the course has two complementary goals: (1) to examine how the history of modernization of the 19th century is reflected in literature and, at the same time, how literature affects the formation of this history; (2) to gain theoretical and practical skills on how to read, discuss, and interpret a literary text in written or oral form. In line with these goals, students are expected to read and discuss these literary texts and related secondary sources in two-hour discussion sessions each week and to prepare oral presentations and written works on these texts.",
+  "course_learning_outcomes": [
+    "Students are expected to be able to comprehend and examine the selected texts (novels, short stories, and plays) of 19th century Ottoman-Turkish Literature as well as related academic readings",
+    "Students are expected to be able to develop knowledge of basic literary elements (plot, character development, setting, etc.)",
+    "Students are expected to be able to take part in class discussions by responding to input, listening to others and expressing their own opinions appropriately",
+    "Students are expected to be able to select and analyze sources, plan and organize information, and formulate their own perspective in order to prepare a discussion-based presentation",
+    "Students are expected to be able to recognize and identify the differences in authors' approaches to particular issues/themes",
+    "Students are expected to be able to gain an understanding of the relation between a literary text and its political, social and cultural context",
+    "Students are expected to be able to identify the similarities and differences between the historical account of a period in modern Turkish history (as in HIST 191) and its reflection in the literary works discussed",
+    "Students are expected to be able to understand writing prompts and plan their response to exam-based essays",
+    "Students are expected to be able to analyze, synthesize and utilize academic texts in order to formulate an appropriate response to writing prompts",
+    "Students are expected to be able to demonstrate their understanding of academic integrity by integrating sources effectively into their course work by using the APA referencing system"
+  ],
+  "course_objective": "To develop students' theoretical and practical skills in reading, discussing and interpreting literary texts and to develop their understanding of how the Ottoman-Turkish modernization process is reflected in literature and how in turn literature affects this process.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 20,
+    "quiz": 25,
+    "participation": 25
+  },
+  "program_requirements": [
+    {
+      "program": "2.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "3.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "4.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "5.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "6.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "7.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "8.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "9.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "10.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "TLL",
+  "cn": "101",
+  "section": "G2",
+  "key": "202501_TLL_101_G2"
+}

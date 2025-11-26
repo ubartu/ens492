@@ -1,0 +1,85 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Industrial Control - ME 308",
+    "classroom": "FENS-L058,FENS-L067",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "-",
+    "corequisites": "ME 308L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Kemalettin Erbatur",
+      "email": "erbatur@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This is an course that covers industrial control systems. The specific topics include: control systems architectures; transducers and actuators; communications in industrial control systems - industrial LANs; sequential control - programmable logic controllers; direct digital control and supervisory control; structures of SCADA systems; case studies.",
+  "course_learning_outcomes": [
+    "List main types of industrial automation systems and industrial actuation and sensor systems",
+    "Identify the individual design steps in an industrial automation project.",
+    "Design automation systems with industrial control components.",
+    "Compare different industrial control strategies.",
+    "Draw wiring diagrams.",
+    "Program Programmable Logic Controllers (PLC) and Industrial Robots",
+    "Develop Graphical User Interfaces",
+    "Work with industrial communication networks",
+    "Wire and instrument basic industrial sensors and actuators.",
+    "Develop skills to adapt industrial control components to their automation design.",
+    "Develop problem solving and planning skills and work effectively as part of a team"
+  ],
+  "course_objective": "To provide the students with the foundations of modern industrial control in the machine automation context.",
+  "course_materials": {
+    "resources": [
+      "Lecture slides, tutorial pdf's."
+    ],
+    "technology_requirements": "Equipment in the university lab is used."
+  },
+  "assessment_percent": {
+    "final": 25,
+    "midterm": 20,
+    "quiz": 4,
+    "assignment": 36,
+    "participation": 5,
+    "homework": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ME",
+  "cn": "308",
+  "section": null,
+  "key": "202501_ME_308"
+}

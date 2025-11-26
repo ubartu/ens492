@@ -1,0 +1,101 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Calculus I - MATH 101 Section A",
+    "classroom": "FENS-G077",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:6",
+    "prerequisites": "-",
+    "corequisites": "MATH 101R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Ayesha Asloob Qureshi",
+      "email": "aqureshi@sabanciuniv.edu"
+    },
+    {
+      "name": "Matteo Paganin",
+      "email": "paganin@sabanciuniv.edu"
+    },
+    {
+      "name": "Gamze Kuruk",
+      "email": "gamze.kuruk@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Basic functions; their properties and applications to modeling. Rate of change, limit, derivative and linear approximation. Computational techniques. Local and global extrema. Applications to optimization problems. The definite integral. Antiderivatives and the Fundamental Theorem of Calculus. Integration techniques. Improper integrals. Applications.",
+  "course_learning_outcomes": [
+    "Understand and use basic properties of elementary functions",
+    "Understand the idea of limit analytically/graphically, and evaluate limits",
+    "Understand the definition of derivative and its geometric meaning",
+    "Compute derivatives using standard differentiation techniques",
+    "Apply the notion of derivative graphing and optimization problems",
+    "Understand the definition of definite integral and its geometric meaning",
+    "Compute integrals using standard integration techniques",
+    "Understand the idea of integration over unbounded intervals and compute them"
+  ],
+  "course_objective": [
+    "To teach fundamental notions of calculus in single variable."
+  ],
+  "course_materials": {
+    "resources": [
+      "Textbooks: Calculus Early Transcendentals 2nd Edition (Global Edition), Briggs, Cochran & Gillett. You can purchase it at the bookstore on campus. Exercises: provided via worksheets (without solutions) in class and on SUCourse."
+    ],
+    "technology_requirements": "None."
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 54,
+    "attendance": 6
+  },
+  "program_requirements": [
+    {
+      "program": "2.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "3.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "4.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "5.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "6.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "7.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "8.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "MATH",
+  "cn": "101",
+  "section": "A",
+  "key": "202501_MATH_101_A"
+}

@@ -1,0 +1,81 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Analysis and Synthesis of Mechanisms - ME 312",
+    "classroom": "FENS-G029,FENS-L056",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "ENS 204",
+    "corequisites": "ME 312R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Volkan Patoğlu",
+      "email": "vpatoglu@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course is designed to equip students with fundamental theories and methodologies that are used in kinematic and dynamic analysis, and synthesis of mechanisms commonly encountered in machine design. Covered topics include: Analytical, graphical and computational techniques for displacement, velocity, and acceleration analyses; static and dynamic approaches for force analysis; kinematics and dynamics of cam-follower, screw, belt/chain drive mechanisms and gear trains; mechanism design process; graphical, analytical, and computational methods for mechanism synthesis.",
+  "course_learning_outcomes": [
+    "Describe fundamental concepts in mechanisms (linkages, cams, gears, etc.) and describe the mechanism design process and identify basic types of mechanisms, joints and motion; determine degree of freedom (mobility) of mechanisms and equivalent linkages.",
+    "Perform position, velocity and acceleration analyses using graphical, analytical, and computer methods.",
+    "Analyze linkages, gear trains, belt and chain drive, cam-follower, and screw mechanisms. Perform force analysis in linkages using static and dynamic methods.",
+    "Synthesize mechanisms for prescribed path and motion generation using graphical, analytical, and computational methods."
+  ],
+  "course_objective": [
+    "The goal of this course is to introduce juniors and seniors to basic methods in the synthesis, kinematic, and dynamic analysis of mechanisms commonly encountered in machine design.",
+    "This course is designed to equip students with fundamental theories and methodologies that are used in kinematic analysis, dynamic analysis, and synthesis of mechanisms commonly encountered in machine design. Students will learn analytical and computational techniques for displacement, velocity, and acceleration analyses of mechanisms, as well as methods for force analysis using static and dynamic approaches. Kinematics (and time permitting dynamics) of gear trains, screw mechanisms, and belt/chain drive mechanisms will be discussed. Students will be introduced to the mechanism design process. Synthesis of mechanisms for the generation of a prescribed path and motion will be covered. Throughout the course, vector-based approaches will be emphasized. Analytical and computational methods for mechanism synthesis will also be exercised."
+  ],
+  "course_materials": {
+    "resources": [
+      "Web Site: Available through SUCourse+. Please check regularly for announcements and updates. Recommended Reading: Rao, Dynamics of Particles and Rigid Bodies: A Systematic Approach, Cambridge University Press, Reissue Edition, 2011. Reference Books:",
+      "Kane and Levinson, Dynamics: Theory and Applications, https://ecommons.cornell.edu/bitstream/1813/638/10/Dynamics-Theory_opt.pdf, 1985. Norton, Design of Machinery: An Introduction to the Synthesis and Analysis of Mechanisms and Machines, Third Edition, McGraw-Hill Higher Education, 2003. Wilson and Sadler, Kinematics and Dynamics of Machinery, Third Edition in SI Units, Prentice Hall, 2003."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 25,
+    "assignment": 20,
+    "participation": 3,
+    "individual project": 22
+  },
+  "program_requirements": [
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ME",
+  "cn": "312",
+  "section": null,
+  "key": "202501_ME_312"
+}

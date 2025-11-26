@@ -1,0 +1,106 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Introduction to Computer Aided Drafting and Solid Modeling - ENS 209",
+    "classroom": "FENS-G032,FENS-G035",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:1, Engineering:5",
+    "prerequisites": "-",
+    "corequisites": "ENS 209L,ENS 209R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Utku Seven",
+      "email": "useven@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "ENS 209 is concerned with the basic and important principles in computer-aided drafting and design (CADD), and 3D solid modeling. Based on an understanding of engineering drawing, the course will further introduce the use of computers for 2D drafting and 3D solid modeling. Topics include: engineering drawing, tolerances, computer-aided technical drafting and design, geometric models and data structures, representation and manipulation of curves and surfaces and 3D solid modeling, and assembly modeling and analysis.",
+  "course_learning_outcomes": [
+    "Describe the design process and product life cycle,",
+    "Describe the advantages of using computers in design process,",
+    "Identify different technical drawings based on the projection system used,",
+    "Sketch the different views of a given 3D component,",
+    "Interpret drawings that include section views,",
+    "Assign dimensions and tolerances on the views correctly (properly),",
+    "Represent and manipulate free-form curves and surfaces,",
+    "Understand and draw sections and cutting planes,",
+    "Use conventional and geometric dimensions and tolerance to describe size, shape and geometric tolerances accurately on an engineering drawing,",
+    "Model 3D objects using solid modeling techniques,",
+    "Identify and apply dimensioning guidelines,",
+    "Interpret a technical drawing,",
+    "Develop assembly drawings using constraints,",
+    "Design for Assembly and Manufacturing (Design for X),",
+    "Work with a CAD software (Solidworks) to design an assembly and generate technical drawings of its components and assembly drawings,",
+    "Work effectively in a team to analyze a product (assembly) to dissect and design it using CAD software."
+  ],
+  "course_objective": "To teach the basic and important principles in computer-aided drafting and design (CADD), and 3D solid modeling. Based on an understanding of engineering drawing, the course will further introduce the use of computers for 2D drafting and 3D solid modeling.",
+  "course_materials": {
+    "resources": [
+      "Course Book:",
+      "Technical Drawing with Engineering Graphics, 14/E by Giesecke, Hill, Spencer, Mitchell, Dygdon, Novak, Lockhart & Goodman, Prentice Hall, ISBN-10: 0135090490. Purchase link: Technical Drawing with Engineering Graphics: Pearson New International Edition - Çağlayan Kitap & Yayıncılık & Eğitim (e-book) Supplementary References:",
+      "Engineering Design Graphics with Solidworks 2019, 1/e by Bethune, Prentice Hall, ISBN-10: 0135401755",
+      "Principles of CAD/CAM/CAE, 1/e by Lee, Prentice Hall, ISBN-10: 0201380366"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 25,
+    "quiz": 4,
+    "assignment": 10,
+    "participation": 5,
+    "group project": 15,
+    "homework": 6
+  },
+  "program_requirements": [
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Entrepreneurship",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ENS",
+  "cn": "209",
+  "section": null,
+  "key": "202501_ENS_209"
+}

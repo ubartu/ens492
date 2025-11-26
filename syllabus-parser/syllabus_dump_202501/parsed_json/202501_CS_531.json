@@ -1,0 +1,292 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Parallel Processing and Algorithms - CS 531",
+    "classroom": "FASS-1010",
+    "level_of_course": "Masters",
+    "course_credits": "SU Credit:3.000, ECTS:10",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Kamer Kaya",
+      "email": "kaya@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course covers parallel computing architectures and interconnection networks, issues such as speedup, efficiency cost, granularity and scalability, and topics in parallel algorithms for many important problems such as sparse and and dense matrix operations (e.g., transposition, matrix-vector multiplication, matrix-matrix multiplication, solution of linear system of equations), graph problems and other computationally intensive problems in numerical applications.",
+  "course_learning_outcomes": [
+    "At the end of the course the student will understand the evolution of high performance and parallel computing with respect to laws and modern hardware.",
+    "At the end of the course the student will be competent to measure the performance of parallel and distributed programs. S/he will be able to evaluate whether a parallel and distributed application is efficient or not and propose techniques to increase the performance.",
+    "At the end of the course the student will be able to design, apply, and analyze parallel algorithms in problem solving.",
+    "At the end of the course the student will gain hands-on experience with GPU programming with CUDA and multicore programming with OpenMP."
+  ],
+  "course_objective": "To teach fundamentals of traditional and modern concepts in high-performance computing with a sufficient hands-on experience on parallel programming",
+  "course_materials": {
+    "resources": [
+      "There is no official book. Slides will be provided."
+    ],
+    "technology_requirements": "Server accounts will be provided to the students."
+  },
+  "assessment_percent": {
+    "midterm": 45,
+    "assignment": 15,
+    "group project": 30,
+    "presentation": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Computer Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Computer Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "MS-Computer Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Electronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering and Computer Science (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Mathematics (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Electronics Engineering and Computer Science (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "MS-Mechatronics LFI-ENG",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Physics (non-thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering and Computer Science",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Manufacturing Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Physics (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Cyber Security",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Materials Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Materials Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Biological Sciences and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Electronics Eng. LFI-ENG",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Energy Technologies and Management (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Manufacturing Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mathematics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Business Analytics (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Bio. Sci. & Bioeng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Cyber Security (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "MS-Elec. Eng&Comp Sc.LFI-ENG",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Industrial Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Manufacturing Engineering (non-thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Physics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "531",
+  "section": null,
+  "key": "202501_CS_531"
+}

@@ -1,0 +1,110 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Globalization and Health Inequalities - CULT 568",
+    "classroom": "FASS-1096,FASS-G025",
+    "level_of_course": "Masters",
+    "course_credits": "SU Credit:3.000, ECTS:10",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Ayşecan Terzioğlu",
+      "email": "aysecan@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course introduces recent theoretical perspectives and ethnographic work which explore how the political and medical authorities as well as the lay people, discuss the effects of globalization and global encounters on health inequalities, and how the global and local health policies address these inequalities. It covers such topics as the role of global health institutions in addressing the health inequalities, tensions between states’ priorities and global impositions in defining and applying health policies, competition between biomedicine and alternative medical systems, local interpretations of global medical technologies and local conceptualizations of global epidemics. The course also includes nuanced approaches to the global and local ethical issues around the body, gender, life, illness, birth, death and pharmaceutical industry",
+  "course_learning_outcomes": [
+    "Learn different disciplines in social sciences and humanities approach the issues of health inequalities at global and local levels.",
+    "Acquire an understanding on how the historical and current political, economic and cultural inequalities are reflected, reproduced and challenged in the health realm and medical institutions.",
+    "Learn about the social constructions of health, illness, body, life and death in particular cultural contexts.",
+    "Explore different cultural patterns of discriminations, marginalizations and stigmatizations based on health and illness issues.",
+    "Explore how the patients and lay people challenge the existing health inequalities through patient activisms and lobbying."
+  ],
+  "course_objective": "Understanding how global, national and local political, economic and cultural inequalities are reflected, reproduced and challenged in the health realm and medical institutions, since the 19th century onwards. Writing a term paper based on an original research on the social and political aspects of health inequalities.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "participation": 20,
+    "individual project": 50,
+    "presentation": 30
+  },
+  "program_requirements": [
+    {
+      "program": "Leaders for Industry Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Biological Sciences and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Cultural Studies (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Industrial Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Cultural Studies (non-thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Materials Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Bio. Sci. & Bioeng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Materials Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Mechatronics LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "CULT",
+  "cn": "568",
+  "section": null,
+  "key": "202501_CULT_568"
+}

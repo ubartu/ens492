@@ -1,0 +1,93 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Programming Languages - CS 305",
+    "classroom": "UC-G030",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "CS 204",
+    "corequisites": "Course Type:",
+    "course_type": null
+  },
+  "instructors": [
+    {
+      "name": "Hüsnü Yenigün",
+      "email": "yenigun@sabanciuniv.edu"
+    },
+    {
+      "name": "at least 4 hours before)",
+      "email": null
+    }
+  ],
+  "catalog_course_description": "This course discusses the concepts underlying the design, definition, implementation, and use of modern programming languages for a variety of programming paradigms, such as imperative, functional, logic and concurrent programming paradigms. The syntax and semantics of programming languages are described using formal approaches, and basic concepts of language analysis and compilation are covered using modern tools.",
+  "course_learning_outcomes": [
+    "The students are expected to have basic information for the implementation of programming languages.",
+    "The students are expected to have some experience to apply techniques of language implementation by using tools for language implementation.",
+    "The students are expected to have basic information for the common concepts in programming languages.",
+    "The students are expected to have introductory information on programming language paradigms such as functional programming, logic programming, and parallel programming."
+  ],
+  "course_objective": [
+    "To give the students the basic principles of various programming language paradigms and implementation of these languages."
+  ],
+  "course_materials": {
+    "resources": [
+      "TEXTBOOKS*: [1] “Programming Languages: Concepts and Constructs” by Ravi Sethi [2] “Concepts of Programming Languages” by Robert W. Sebesta [3] “Comparative Programming Languages” by Leslie B. Wilson and Robert G. Clark [4] “Programming Languages: Principles and Paradigms” by Allen Tucker and Robert Noonan [5] “Essentials of Programming Languages” by Daniel Friedman, Mitchell Wand, and Christopher T. Haynes *: A lecture notes document prepared based on the references above will be provided."
+    ],
+    "technology_requirements": "You will need to have SSH access to cs305.sabanciuniv.edu server for homeworks. SU-Net users of the students will be activated on this server after the course starts. All the software packages you need for homeworks are already installed on this server."
+  },
+  "assessment_percent": {
+    "final": 45,
+    "midterm": 40,
+    "homework": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "305",
+  "section": null,
+  "key": "202501_CS_305"
+}

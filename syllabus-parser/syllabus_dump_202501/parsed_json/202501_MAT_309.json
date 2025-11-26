@@ -1,0 +1,87 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Transport Phenomena in Materials Processing - MAT 309",
+    "classroom": "FENS-L065,FENS-L067",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "-",
+    "corequisites": "MAT 309R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Mehmet Yıldız",
+      "email": "mehmet.yildiz@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Brief summary of vector mechanics and matrix algebra, Suffix notation, Summation convention (Einstein notation) Gradient of a scalar, divergence and curl of a vector; Gradient of a vector, divergence and curl of a tensor Integral theorems for vectors and tensors: Divergence and stokes theorems Introduction to Fluid Flow Introduction to Heat Transfer Introduction to Mass Transfer Emphasizing on the similarities among transport equations Boundary and Interfaces Conditions Introduction to numerical simulation of transport equations Applications of Transport Phenomena in Materials Processing Selected Materials Processing Technologies.",
+  "course_learning_outcomes": [
+    "Know mathematical preliminaries such as vector mechanics and matrix algebra, suffix notation, summation convention, gradient of a scalar and vector fields, divergence and curl of a vector and tensor and integral theorems for vectors and tensors (ie., divergence and Stokes theorems)",
+    "Describe mass, momentum, energy conservations",
+    "Know the governing equations and constitutive relations for momentum, heat and mass transfer and identify the similarities among transport equations, and be able to define boundary conditions such as Dirichlet and Neumann conditions",
+    "Be able to solve 1-D simplified form of governing equations analytically",
+    "Be able to discretize diffusion equation for 1-D and 2-D simple geometries using finite difference approach and solved it numerically.",
+    "Be able to identify governing equations to be utilized in modeling of transport phenomena a given material processing and determine relevant boundary conations"
+  ],
+  "course_objective": "This course intends to introduce materials science and engineering students to the transport phenomena in materials processing. Transport phenomena is concerned with the subjects of momentum transport (fluid mechanics), energy transport (heat transfer with conduction, convection, and radiation), and mass transport (molecular and convective diffusion in fluids, and solid state diffusion in solids). The course is composed of two parts. Part I will provides introduction to fluid flow, heat transfer, and mass transfer. It includes governing equations and boundary conditions for studying materials processing. Part II covers the several specific applications to materials processing with a brief description of various materials processing technologies such as solidification, crystal growth, phase change, polymer processing, and rheology, and bulk and surface heat treating. Students will also be exposed very briefly to the numerical simulation of transport equations through finite difference formulations and coding with MATLAB. By the end of the course, students will gain mathematical modeling skill that is fundamentally important to have a better understanding of engineering problems involving momentum, heat and mass transport.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "assignment": 20,
+    "individual project": 40
+  },
+  "program_requirements": [
+    {
+      "program": "Battery Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Energy",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "MAT",
+  "cn": "309",
+  "section": null,
+  "key": "202501_MAT_309"
+}

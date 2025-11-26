@@ -1,0 +1,103 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "RF Integrated Circuits. - EE 411",
+    "classroom": "FENS-L027",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "EE 306",
+    "corequisites": "EE 411L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "İlker Kalyoncu",
+      "email": "ilker.kalyoncu@sabanciuniv.edu"
+    },
+    {
+      "name": "Yaşar Gürbüz",
+      "email": "yasar@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course will deliver RF integrated circuits design methodologies using CMOS and SiGe BiCMOS technologies while also providing advantages/disadvantages of other RF technologies in terms of RF/microwave figure of merits. RF integrated circuit design fundamental/parameters will be reviewed, S-parameters, nonlinearity, sensitivity, efficiency, noise figure, input, output dynamic ranges, matching, etc., and implemented, along with circuit design fundamentals, at different circuits, such as Low Noise Amplifiers, Mixers, Oscillators, Frequency Synthesizers, and Power Amplifiers, Phase Shifters, Attenuators, etc. Recitation/Lab implementations will be carried out by designing such circuits using CAD tools, such as Cadence, ADS, Momentum, Sonnet, and also will include testing practices of such circuits.",
+  "course_learning_outcomes": [
+    "To understand the concept of analog and RF integrated circuits technology",
+    "To understand RF and microwave transistor technologies and their RF-Models",
+    "To understand fundamental design parameters of RF integrated circuits such as S-parameters, nonlinearity, sensitivity, efficiency, noise figure, input, output dynamic ranges etc.",
+    "To design matching and impedance transformation networks using in integrated circuits and components",
+    "To understand fundamentals of the following RF integrated system building blocks and circuits: Low Noise Amplifiers, Mixers, Oscillators, Frequency Synthesizers, and Power Amplifiers",
+    "To be able to analyze, design and simulate integrated RF circuits such as Low Noise Amplifiers, Mixers, Oscillators, Frequency Synthesizers, and Power Amplifiers",
+    "To be able to use and implement RF integrated circuits design and simulation tools such as ADS, Cadence Spectre",
+    "To be able to use and implement integrated passive components for different RF integrated circuit applications such as sonnet SONNET tools",
+    "To be able to understand RF integrated system specifications and breakdown these specs to building block and circuit levels",
+    "To be able to measure and characterize RF integrated components and circuits."
+  ],
+  "course_objective": [
+    "To understand the concept of RF integrated circuits",
+    "To analyze RF circuit building blocks building blocks (through lectures, homework and recitations)",
+    "To design these RF circuit building blocks (through lectures, homework and recitations.).",
+    "To design, simulate and optimize RF circuits with the aid of Cadence tools (through recit).",
+    "To design spiral inductors and transmission lines with the aid of SONNET tools (through recit).",
+    "To practice layout techniques in Cadence design environment (through recit).",
+    "To understand applications of RF circuits."
+  ],
+  "course_materials": {
+    "resources": [
+      "Behzad Razavi, RF Microelectronics (Main Text)",
+      "Sorin Voinigescu, High-Frequency Integrated Circuits (Suggested Text)",
+      "Thomas H. Lee, The Design of CMOS Radio-Frequency Integrated Circuits (Suggested Text)",
+      "John W. M. Rogers & Calvin Plett, Radio Frequency Integrate Circuit Design (Suggested Text)"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 25,
+    "individual project": 25,
+    "homework": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "EE",
+  "cn": "411",
+  "section": null,
+  "key": "202501_EE_411"
+}

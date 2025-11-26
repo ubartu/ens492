@@ -1,0 +1,103 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Programming Fundamentals - CS 201 Section A",
+    "classroom": "FENS-G077,FMAN-G071",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "IF 100",
+    "corequisites": "CS 201R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Saima Gül",
+      "email": "saima.gul@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course is intended to introduce students to the field of computing (basic computer organization, data representation, concepts, algorithmic thinking and problem solving), as well as give them intermediate level programming abilities in an object-oriented programming language",
+  "course_learning_outcomes": [
+    "Upon successful completion of Introduction to Computing, students are expected to be able to: Describe the basics of computer architecture, programming languages and compilers",
+    "Design an algorithm (step-by-step solution) for a given computing problem",
+    "Write small C++ programs",
+    "Use the basic programming concepts like if-else statements and while-for loops",
+    "Use functions and describe different parameter passing methods",
+    "Use, modify existing classes and design new classes",
+    "Perform simple text file I/O operations",
+    "Perform searches on arrays and sort arrays",
+    "Perform basic complexity analysis on algorithms"
+  ],
+  "course_objective": [
+    "To introduce students to the field of computing (basic computer organization, data representation, concepts, algorithmic thinking and problem solving), as well as giving them intermediate level programming abilities in an object-oriented programming language (currently C++)."
+  ],
+  "course_materials": {
+    "resources": [
+      "All course materials will be available on SUCourse, including: ● Lecture Notes ● Recitation Samples ● Example Codes Textbook: A Computer Science Tapestry, 2nd Edition, Owen L. Astrachan (NOT available in the bookstore anymore but available at the library and online). We may not stick to the textbook all the time, you are responsible for all material covered in class."
+    ],
+    "technology_requirements": "Primary Recommendation: Visual Studio (Community Edition, Windows) • Visual Studio will serve as the main IDE for this course. • It offers a full-featured environment for C++ development, including a built-in compiler, debugger, and project management tools. • Students using Windows should install the latest version of Visual Studio Community Edition (free for educational use). Alternative Option: Visual Studio Code (Cross-Platform, Lightweight) • VS Code may be used if you prefer a lighter IDE, or if you are working on macOS/Linux. • It requires additional setup for compiling and debugging C++ programs. Additional Setup for macOS Users (when using VS Code): 1. Install Xcode Command Line Tools by running: xcode-select --install 2. Ensure a C/C++ compiler is available (usually provided with the Xcode tools). 3. Install the C/C++ extension in VS Code (by Microsoft). Note: While both IDEs are acceptable, in-class demonstrations and examples will primarily use Visual Studio."
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 30,
+    "quiz": 10,
+    "participation": 6,
+    "attendance": 4,
+    "homework": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "CS",
+  "cn": "201",
+  "section": "A",
+  "key": "202501_CS_201_A"
+}

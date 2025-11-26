@@ -1,0 +1,88 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Polymer Engineering: Fundamentals - MAT 305",
+    "classroom": "FENS-2019,FENS-L062",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:5, Basic:1, Engineering:4",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Fevzi Çakmak Cebeci",
+      "email": "fccebeci@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Structure and classification of polymers Polymer synthesis and molecular characteristics such as weight, tacticity, and crosslinking. Morphology, crystallinity, melting and glass transition. Elasticity and viscoelasticity. Theoretical models for viscoelasticity. Dynamic mechanical propreties. Mechanical behaviors of polymers including creep, yielding, crazing, and fracture. Materials selection and performance under stress and temperature.",
+  "course_learning_outcomes": [
+    "Describe the synthesis methods and molecular structures of polymers and explain their impact on material properties.",
+    "Analyze the structural features of polymeric solids, including crystallinity, glass transition temperature, and molecular orientation.",
+    "Explain the significance of molecular weight and molecular weight distribution in determining the physical, mechanical, and processing properties of polymers.",
+    "Apply principles of chain conformation and network elasticity to understand the behavior of elastomers and rubber-like materials.",
+    "Evaluate the viscoelastic behavior of polymers using theoretical models.",
+    "Investigate the dynamic mechanical response, creep, and stress relaxation behaviors of polymers under various conditions.",
+    "Assess the stiffness, yielding, and fracture mechanics of polymers for specific engineering applications.",
+    "Relate temperature dependence and stress analysis to the selection and performance of polymeric materials in engineering contexts.",
+    "Demonstrate proficiency in interpreting and applying fracture mechanics principles to polymers, including crazing and fracture properties."
+  ],
+  "course_objective": "Introduce students to polymeric materials and the science that gives rise to polymer properties, with the target of being able to select, specify and use polymers in engineering applications.",
+  "course_materials": {
+    "resources": [
+      "Principles of Polymer Engineering 2E, N. G. McCrum, C. P. Buckley, C. B. Bucknall",
+      "Fundamentals of Polymer Engineering, Arie Ram",
+      "G. Odian, Principles of Polymerization, Wiley-Interscience",
+      "Ehrenstein, G.W., Theriault, R.P., Polymeric Materials: Structure, Properties, Applications, Hanser Publishing, Munich",
+      "Sperling, L. H, New York, Introduction to Physical Polymer Science, John Wiley, New York",
+      "Birley, A. W., Haworth, B. Batchelor, J., Munich, Physics of Plastics Processing, Properties and Materials Engineering, Hanser Publishing, Munich",
+      "Billmeyer, F. W., New York, Textbook of Polymer Science, 3rd Edition, John Wiley, New York",
+      "Mills, N. J, London, Plastics. Microstructure and Engineering Applications, Edward Arnold, London Crawford, R. J, Oxford, Plastics Engineering, Pergamon Press, Oxford"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 60,
+    "assignment": 5,
+    "attendance": 5
+  },
+  "program_requirements": [
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "MAT",
+  "cn": "305",
+  "section": null,
+  "key": "202501_MAT_305"
+}

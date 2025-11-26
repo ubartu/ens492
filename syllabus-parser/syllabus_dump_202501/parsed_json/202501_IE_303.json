@@ -1,0 +1,97 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Decision Economics - IE 303",
+    "classroom": "UC-G030",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "-",
+    "corequisites": "IE 303R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Tonguç Ünlüyurt",
+      "email": "tonguc@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Time value of money; discounted cash flow analysis; break-even analysis; evaluation of alternative capital investment proposals considering depreciation, inflation, taxes; make or buy analysis; replacement analysis; bonds, stocks, and options; decision making under certainty and risk; internal (and external) rate of return analysis; after tax cash flow analysis; net present value.",
+  "course_learning_outcomes": [
+    "Apply equivalent worth methods and rate of return methods to determine the best alternative to carry out an engineering project;",
+    "Carry out interest computations and conversions;",
+    "Compute after tax cash flows;",
+    "Use spreadsheets to conduct engineering economic analysis;",
+    "Identify the relevance of engineering economics analysis in everyday life;",
+    "Appreciate the use of spreadsheets in engineering economic analysis;",
+    "Identify relevant problems that need engineering economic analysis;",
+    "Use the methods and concepts with real life data."
+  ],
+  "course_objective": "Sustainable Development Goals (SDGs) Related to This Course: Industry, Innovation and Infrastructure",
+  "course_materials": {
+    "resources": [
+      "Enginnering Economy, Sullivan, Wicks, Wilck, 18th edition, e-book, Pearson"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 50,
+    "quiz": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Industrial Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Entrepreneurship",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Energy",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Finance",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "IE",
+  "cn": "303",
+  "section": null,
+  "key": "202501_IE_303"
+}

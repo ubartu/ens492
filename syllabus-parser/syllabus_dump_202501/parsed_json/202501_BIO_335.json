@@ -1,0 +1,78 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Experimental Techniques in Biology - BIO 335",
+    "classroom": "FENS-L058,FENS-L065",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:5, Engineering:1",
+    "prerequisites": "-",
+    "corequisites": "BIO 335L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Ali Rıza Umut  Şahin",
+      "email": "umut.sahin@sabanciuniv.edu"
+    },
+    {
+      "name": "Bio 331 is an intermediate level course that covers classical and contemporary biochemical, biophysical and molecular techniques with particular emphasis on the theoretical physical, chemical and mathematical backgrounds of the methods in question. Elementary / intermediate knowledge in cellular and molecular biology and also chemistry will be essential.",
+      "email": null
+    }
+  ],
+  "catalog_course_description": "A general introduction to basic techniques used in characterization and separation of biological systems and molecules. Topics include microscopy, centrifugation, liquid chromatography methods, spectroscopy and electrophoresis. Lab sessions will give a chance to use these techniques individually.",
+  "course_learning_outcomes": [
+    "Upon completion of the course, students will have a general knowledge of basic laboratory techniques for characterization and separation of biological systems and molecules. Students would be able to perform basic laboratory techniques.",
+    "Module 1 Microscopy: Students will have a deeper understanding of both, theory and application in the following topics: Basic Concepts in Microscopy Light microscopy Fluorescence microscopy Confocal Microscopy Live-cell imaging and Sensor techniques",
+    "Module 2 Electrophoresis Techniques: Students will learn how to use Gel electrophoresis techniques for analysis of nucleic acids and proteins for both, diagnostic purposes and preparative purposes, which includes: Basic Concepts in Electrophoresis Horizontal and Vertical Electrophoresis 2D Gel Electrophoresis and Protein Detection Methods Electrophoresis of Nucleic Acids",
+    "Module 3 Centrifugation Techniques: Basic Concepts of Centrifugation Techniques Types of Centrifuges and analytical ultracentrifugation techniques Separation methods and preparative ultracentrifuges Types of rotors",
+    "Module 4 Spectroscopic Techniques: Introduction and basic concepts of Spectroscopic Techniques UV-VIS Spectroscopy Infrared and fluorescence spectroscopy Circular dichroism (CD) spectroscopy NMR Spectroscopy and X-ray crystallography Atomic Spectroscopy and Mass spectroscopy",
+    "Module 5 PCR Techniques: Principles of Polymerase Chain reaction Preparative and Diagnostic PCR DNA Sequencing methods Sanger Sequencing, Next Generation Sequencing Methods",
+    "Module 6 Chromatography and Mass spectrometry: Basic Principles of Chromatography Thin layer chromatography Liquid Chromatography Gas Chromatography Principles of MALDI-TOF Electrospray Ionization Mass Spectrometry"
+  ],
+  "course_objective": "To teach students the basic concepts of bioanalytical techniques in both, theory and practice, which are relevant to biologists and bioengineers but also students from different fields.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "other": 100
+  },
+  "program_requirements": [
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "BIO",
+  "cn": "335",
+  "section": null,
+  "key": "202501_BIO_335"
+}

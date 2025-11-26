@@ -1,0 +1,115 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Topics in Episodic Memory and Future Thinking - PSY 518",
+    "classroom": "FASS-G006",
+    "level_of_course": "Masters",
+    "course_credits": "SU Credit:3.000, ECTS:10",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Çağla Aydın",
+      "email": "caglaaydin@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This advanced graduate seminar provides a thorough examination of episodic memory and episodic future thinking, encompassing both current research in the field and practical applications. The course integrates theoretical frameworks with empirical evidence, employing a multidisciplinary approach to understanding the complexities of memory and imagination processes. Key focal points include the development of episodic memory, the impact of aging on remembering, memory and imagination in social contexts, the connection between emotion and memory, the accuracy of memory, neurological perspectives on memory, the various functions of memory, and the practical implications derived from memory research.",
+  "course_learning_outcomes": [
+    "Decent Work and Economic Growth"
+  ],
+  "course_objective": "This advanced undergraduate / graduate seminar provides a thorough examination of episodic memory and episodic future thinking, encompassing both current research in the field and practical applications. The course integrates theoretical frameworks with empirical evidence, employing a multidisciplinary approach to understanding the complexities of memory and imagination processes. Key focal points include the development of episodic memory, the impact of aging on remembering, memory and imagination in social contexts, the connection between emotion and memory, the accuracy of memory, neurological perspectives on memory, the various functions of memory, and the practical implications derived from memory research.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "midterm": 25,
+    "assignment": 15,
+    "participation": 15,
+    "attendance": 10,
+    "individual project": 15,
+    "presentation": 20
+  },
+  "program_requirements": [
+    {
+      "program": "Psychology (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Biological Sciences and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Industrial Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Materials Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Mechatronics LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Experimental Psychology",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "MS-Materials Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Social Psychology",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "MS-Bio. Sci. & Bioeng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "PSY",
+  "cn": "518",
+  "section": null,
+  "key": "202501_PSY_518"
+}

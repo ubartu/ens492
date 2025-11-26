@@ -1,0 +1,76 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Law and Ethics - SPS 303 Section B",
+    "classroom": "UC-G030",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:5",
+    "prerequisites": "-",
+    "corequisites": "SPS 303D",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Hüseyin Sungur Kuyumcuoğlu",
+      "email": "huseyin.kuyumcuoglu@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course aims to encourage students to reflect on the meaning of being an individual and a citizen. Certain fundamental questions, posed by the ancients but persisting in their relevance, informs the structure of the course: What is good life? How should we live? What does the life of a virtuous individual and citizen consist of? How can the likely conflicts between the two be resolved? Related to these, the course also explores the diverse relationships between law and ethics and adresses issues such as political authority, representation and consent, freedom, justice, and equality.",
+  "course_learning_outcomes": [
+    "Upon successful completion of this course, students should acquire an understanding of some key ideas and concepts that shape academic and non-academic debates about politics.",
+    "Upon successful completion of this course, students should be able to offer well-constructed arguments for their views about social, political and legal matters",
+    "Upon successful completion of this course, students should develop their ability to read philosophical writings",
+    "Upon successful completion of this course, students should have a basic understanding of the key concepts and theories in political philosophy",
+    "Upon successful completion of this course, students should be knowledgeable about the nature of law, the rule of law, democracy, constitutionalism, political legitimacy, freedom, justice, and the institutions of social justice.",
+    "Upon successful completion of this course, students should be able to critically evaluate arguments"
+  ],
+  "course_objective": "This course aims to encourage students to reflect on the meaning of being an individual and a citizen.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 40,
+    "midterm": 40,
+    "quiz": 10,
+    "participation": 10
+  },
+  "program_requirements": [
+    {
+      "program": "2.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "3.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "4.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "5.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "6.",
+      "required": false,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "SPS",
+  "cn": "303",
+  "section": "B",
+  "key": "202501_SPS_303_B"
+}

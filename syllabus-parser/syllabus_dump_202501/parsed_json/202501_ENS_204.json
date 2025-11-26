@@ -1,0 +1,94 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Mechanics - ENS 204",
+    "classroom": "FENS-G032,FENS-G035",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Basic:1, Engineering:5",
+    "prerequisites": "NS 101 and  MATH 102",
+    "corequisites": "ENS 204R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Güllü Kızıltaş Şendur",
+      "email": "gkiziltas@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "The course covers the following topics; statics of particles: forces in plane, forces in space, equilibrium, moment of a force, moment of a couple, equivalent systems of forces on rigid bodies, equilibrium in two dimensions, equilibrium in three dimensions, distributed forces: centroids and center of gravity, analysis of structures: trusses, frames and machines, internal forces in beams and cables, friction, moments of inertia of areas, moments of inertia of masses",
+  "course_learning_outcomes": [
+    "Use vector algebra in calculation of forces and moments",
+    "Apply equilibrium equations in the solution of 2- and 3-dimensional concurrent or non-concurrent force systems.",
+    "Solve for unknown forces and moments using both the scalar and vector methods.",
+    "Develop appropriate free-body diagrams and to use them in solution of statics problems.",
+    "Formulate and solve the equilibrium equations for rigid bodies made up of multiple members.",
+    "Calculate the geometric and mass properties of interest in solid mechanics."
+  ],
+  "course_objective": [
+    "Students will be able to:",
+    "use vector algebra in calculation of forces and moments.",
+    "apply equilibrium equations in the solution of 2- and 3-dimensional concurrent or non-concurrent force systems.",
+    "solve for unknown forces and moments using both the scalar and vector methods.",
+    "develop appropriate free-body diagrams and to use them in solution of statics problems.",
+    "formulate and solve the equilibrium equations for rigid bodies made up of multiple members.",
+    "calculate the geometric and mass properties of interest in solid mechanics."
+  ],
+  "course_materials": {
+    "resources": [
+      "Students are recommended to follow the references occasionally:",
+      "Hibbeler, R.C., Engineering Mechanics: Statics, Prentice-Hall, Inc., New Jersey, 1998. (textbook)",
+      "Beer, F.P., and Johnston, Jr., E.R., Vector Mechanics for Engineering Statics, McGraw-Hill Book Co., Boston, 1997.",
+      "Merriam, J.L., and Kraige, L.G., Engineering Mechanics, Statics, John Wiley & Sons, Inc., New York, 1997."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 46,
+    "quiz": 24
+  },
+  "program_requirements": [
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "ENS",
+  "cn": "204",
+  "section": null,
+  "key": "202501_ENS_204"
+}

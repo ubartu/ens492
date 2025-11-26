@@ -1,0 +1,292 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Behavioral and Experimental Methods in Operations Management - IE 640",
+    "classroom": "FENS-L058",
+    "level_of_course": "Masters",
+    "course_credits": "SU Credit:3.000, ECTS:10",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Murat Kaya",
+      "email": "mkaya@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course aims to introduce the use of behavioral and experimental methods that have been increasingly popular in the field of operations management. In particular we use a supply chain scenario to study how human beings make individual and strategic decisions in the face of uncertainty and risk. First, we use the standard newsvendor problem to discuss decisions involving only a single individual. This problem is concerned with the order quantity decision of a retailer that faces probabilistic demand. Then, we consider a simple manufacturer-retailer supply chain where the retailer faces the newsvendor problem, and her problem parameters are determined by the contract that the manufacturer offers. This scenario allows us to study what happens to decisions when two individuals interact strategically with each other . Course discussion is based on results from decision-making experiments with human subjects. In addition to published research papers, we also use data from experiments conducted at Sabanci University.",
+  "course_learning_outcomes": [
+    "Use the newsvendor model to investigate stochastic inventory problems.",
+    "Discuss the heuristics and biases observed in human newsvendor experiments.",
+    "Explain the concept of supply chain coordination and describe the mechanics of fundamental supply chain contracts.",
+    "Describe the factors that affect strategic long-run interactions between human decision makers.",
+    "Conduct hypothesis testing and build regression models on experiment data."
+  ],
+  "course_objective": "Sustainable Development Goals (SDGs) Related to This Course: Industry, Innovation and Infrastructure Responsible Consumption and Production In this course, we study how human beings make decisions in the face of uncertainty and risk. We investigate individual and strategic decision-making issues using a supply chain context. First, we use the standard newsvendor problem to discuss decisions involving only a single individual. This problem is concerned with the order quantity decision of a retailer that faces probabilistic demand. Then, we consider a simple manufacturer-retailer supply chain where the retailer faces the newsvendor problem, and her problem parameters are determined by the “contract” (the wholesale price, etc.) that the manufacturer offers. This scenario allows us to study what happens to decisions when two individuals interact strategically with each other. To understand human behavior, we study experimental research that is based on decision-making experiments with human subjects. In addition to published research papers, we also use data from our own experiments conducted here at Sabanci University. In these experiments, student subjects play the roles of manufacturer and retailer, making contract and order quantity decisions for around 40 rounds. Comparing experimental data with theoretical model predictions, we aim to answer questions such as: Do subjects make decisions as predicted by theory? If not, what are the factors that affect their decisions? Do subjects use certain decision heuristics in making decisions? Can we build statistical models to better predict human behavior? Do different subject pools exhibit different behavior? Do subjects learn to make better decisions over time? We also study the effects of strategic human interaction between the two parties in a supply chain. Relevant questions include Do the subjects behave as predicted by the game-theoretical equilibrium? Can the manufacturer anticipate the retailer’s reaction when determining contract parameters? Do manufacturers care about fairness when offering the contract? What factors affect the retailer’s contract rejection decision? Can we explain subject decisions using personality data? We consider these questions under different supply chain contracts, including wholesale price, buyback, and revenue sharing contracts. We aim to compare the experimental performance of these contracts with each other and also with theoretical predictions. These topics have important practical implications in the design of decision support systems, incentive systems, as well as supply chain contracts. Understanding human decision-making under risk and in strategic interactions is also a prerequisite for developing successful Artificial Intelligence platforms that will work with human managers. Topics Introduction: Decision experiments in Operations Management Introduction to Supply Chain Experiments & their data Part I: Individual decisions The newsvendor model Newsvendor experiments The \"Pull to center\" effect, decision heuristics Effects of learning and feedback Behavioral models to explain newsvendor decisions Subject-level versus average analysis Part II: Strategic interaction between individuals Supply chain coordination and the double marginalization problem Game-theoretic analytical solutions under different contracts Comparing analytical predictions with experimental data Building behavioral models to explain manufacturer and retailer decisions Using subjects’ personality data to explain decisions.",
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "midterm": 40,
+    "quiz": 12,
+    "assignment": 10,
+    "participation": 13,
+    "individual project": 25
+  },
+  "program_requirements": [
+    {
+      "program": "Leaders for Industry Biological Sciences and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Data Science (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mathematics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Manufacturing Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering and Computer Science",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Bio. Sci. & Bioeng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Cyber Security (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Materials Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Mechatronics LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": true
+    },
+    {
+      "program": "Physics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Computer Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Electronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering and Computer Science (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Electronics Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Cyber Security",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Computer Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Elec. Eng&Comp Sc.LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Manufacturing Engineering (non-thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Electronics Engineering and Computer Science (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Energy Technologies and Management (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "MS-Industrial Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Materials Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Physics (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Business Analytics (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Computer Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mathematics (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Physics (non-thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Manufacturing Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "IE",
+  "cn": "640",
+  "section": null,
+  "key": "202501_IE_640"
+}

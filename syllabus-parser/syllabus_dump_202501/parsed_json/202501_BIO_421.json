@@ -1,0 +1,81 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Tissue Engineering - BIO 421",
+    "classroom": "FENS-G025,FENS-L030",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "BIO 301 and  BIO 332",
+    "corequisites": "BIO 421L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Sibel Çetinel",
+      "email": "cetinel@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Tissue engineering combines the skills of engineering and knowledge of principle biology to generate, restore and replace damaged tissues and organs. To engineer living tissues mimicking conditions in living organism is essential. Therefore, tissue engineering is considered a biomedical engineering discipline and a potential alternative to tissue and organ transplantation. This course is built on three main pillars of tissue engineering: cells, scaffolds, and growth factors. Initially stem cells and differentiation is discussed as well as cell-based tissue engineering applications. Then design and characterization of biomaterials and nanomaterials as tissue scaffolds are covered. Here, various bio-fabrication techniques including 3D bioprinting are detailed. This course also covers the interaction with biomaterial surface, mechanical loading, biologic regulators, and culture conditions. Finally, examples of tissue engineering- based procedures that can alleviate specific diseases and clinical translation of regenerative therapies are analyzed as case studies with student presentations. This course also contains a laboratory session. At this session students will learn to handle mammalian cell cultures, prepare hydrogel and polymer scaffolds, perform tissue culture and characterization.",
+  "course_learning_outcomes": [
+    "Describe the significance, status, and future potential of tissue engineering,",
+    "Explain the challenges of tissue engineering of different (individual) tissues,",
+    "Explain the biomaterial selection, design, and characterization criteria for scaffold generation,",
+    "Explain the selection, source, and handling of cells for tissue engineering applications,",
+    "Explain the selection of bio-fabrication method for different (individual) tissues,",
+    "Describe the challenges of in vivo transplantation and clinical translation of tissue engineered systems,",
+    "Manage to identify the scientific problem and formulate the solution,",
+    "Present a literature study, discuss, and deduct the scientific information.",
+    "Perform mammalian cell culture on tissue scaffolds."
+  ],
+  "course_objective": "Students will learn certain aspects of tissue engineering and how to utilize this information to generate overall strategic approach used to solve a clinical problem.",
+  "course_materials": {
+    "resources": [
+      "Jan de Boer, Clemens van Blitterswijk (2022, Third Edition), Tissue Engineering, Academic Press. ISBN: 978-0-12-824459-3 Robert Lanza, Robert Langer, Joseph P. Vacanti, Anthony Atala (2020, Fifth Edition), Principles of Tissue Engineering, Academic Press. ISBN: 978-0-12-818422-6"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "midterm": 30,
+    "group project": 20,
+    "presentation": 20,
+    "other": 30
+  },
+  "program_requirements": [
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "BIO",
+  "cn": "421",
+  "section": null,
+  "key": "202501_BIO_421"
+}

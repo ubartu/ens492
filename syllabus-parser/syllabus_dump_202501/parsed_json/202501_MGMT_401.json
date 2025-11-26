@@ -1,0 +1,73 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Business Strategy - MGMT 401",
+    "classroom": "FMAN-G050",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "ACC 201 or  MGMT 201",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Remzi Gözübüyük",
+      "email": "remzi@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course serves as a capstone course of the management program, targeted to senior students. The subjects covered are: competitive strategies; techniques for analyzing industries, competitors, and companies from a strategic perspective; strategy formulation and implementation; strategy in new business development.",
+  "course_learning_outcomes": [
+    "Upon completion of this course, students will be able to: 1. Assess the structure of firms' external environments and understand how these affect expected long-run industry performance 2. Evaluate firm competitive positioning and interaction, and assess firm-level resources and capabilities 3. Develop appropriate and superior strategies at the business-unit and corporate levels 4. Assess the dynamics of competition and understand how economic, social, political, and technological forces can affect strategic re-positioning and long-term profitability"
+  ],
+  "course_objective": "Strategy is about ?where to go? and ?how to get there?. This course pertains creation and maintenance of a long-term strategic vision for the firm and formulating a competitive strategy in accordance with that vision. Building on the knowledge about functional business areas such as production, marketing, accounting, finance, and information systems, this course introduces core concepts of strategic management. To understand how a firm can improve its strategic position, we will study several contemporary business theories and frameworks. These concepts will equip you with the tools necessary to analyze a firm?s competitive environment and resources. The emphasis is on the formulation and successful implementation of strategy in different types of firms across industries.",
+  "course_materials": {
+    "resources": [
+      "A case packet, which includes the cases and readings from Harvard Business School will be provided to you within the second week of the course. You will receive a link which will include all the material. However, if you have not done before, you have to create an account with Harvard Business School publishing. Optional Reading Material: Textbook: Essentials of Strategic Management, 4th Edition. Gamble, Peteraf, and Thompson. Popular Books: On Strategy Formulation:",
+      "Rumelt, R. 2011. Good Strategy, Bad Strategy.",
+      "Magretta, J. Understanding Michael Porter.",
+      "Kay, J. The Hare and The Tortoise: An Informal Guide to Business Strategy.",
+      "Greenwald, B. and Kahn, J. Competition Demystified: A Radically Simplified Approach to Business Strategy. On Game Theory & Strategy:",
+      "Dixit, A. and Nalebuff, B. The Art of Strategy.",
+      "Brandenburger, A. and Nalebuff, B. Co-Opetition.",
+      "Stuart, H. The Profitability Test. On Strategy Implementation:",
+      "Lafley, A.G. and Martin, R. Playing to Win.",
+      "Hrebiniak, L. G. Making Strategy Work: Leading Effective Execution and Change",
+      "Marcus, A. Strategic Foresight: A New Look at Scenarios."
+    ],
+    "technology_requirements": "Students need to bring their laptops to the class for simulations."
+  },
+  "assessment_percent": {
+    "final": 20,
+    "midterm": 20,
+    "case study": 15,
+    "participation": 15,
+    "group project": 20,
+    "other": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Entrepreneurship",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Energy",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "MGMT",
+  "cn": "401",
+  "section": null,
+  "key": "202501_MGMT_401"
+}

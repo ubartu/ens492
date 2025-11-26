@@ -1,0 +1,51 @@
+{
+  "course_info": {
+    "faculty": "School of Languages",
+    "semester": "Fall 2025-2026",
+    "course": "Basic Turkish I - TUR 101 Section D",
+    "classroom": "FMAN-G050,FMAN-G056",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Ayşe Gözde Kurtuluş",
+      "email": "gozde.kurtulus@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Basic Turkish I is designed as an introductory course to the Turkish language and aims to help foreign students develop basic level grammar and oral skills and to raise their awareness of processes involved in effective communication.",
+  "course_learning_outcomes": null,
+  "course_objective": [
+    "By the end of the semester, students will be able to:",
+    "Introduce themselves and others, and provide/understand personal information.",
+    "Use common expressions for greetings, politeness, and everyday interaction.",
+    "Ask and answer questions about family, friends, residence, possessions, daily activities, and free time activities.",
+    "Conduct simple transactions such as shopping and asking for prices.",
+    "Express likes, dislikes, and basic opinions.",
+    "Fill in simple forms and write short texts (postcards, short descriptions).",
+    "Recognize and use basic grammatical structures including word order, pronouns, cases, nominal sentences, and the present continuous tense."
+  ],
+  "course_materials": {
+    "resources": [
+      "Coursebook & workbook: “Yeni İstanbul Uluslararası Öğrenciler İçin Türkçe Eğitim Seti A1” – Kültür Sanat Basımevi",
+      "Power Point Presentation of each unit & worksheets"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 25,
+    "quiz": 20,
+    "attendance": 15,
+    "presentation": 5
+  },
+  "program_requirements": [],
+  "term": "202501",
+  "sc": "TUR",
+  "cn": "101",
+  "section": "D",
+  "key": "202501_TUR_101_D"
+}

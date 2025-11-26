@@ -1,0 +1,86 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Quality Planning and Control - IE 403",
+    "classroom": "FASS-1010",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "MATH 306",
+    "corequisites": "Course Type:",
+    "course_type": null
+  },
+  "instructors": [
+    {
+      "name": "Ali Rıza Kaylan",
+      "email": "aliriza.kaylan@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Introduction to total quality management philosophies and ISO 9000 standards; design and analysis of statistical process control systems; Six Sigma problem solving tools; acceptance sampling techniques; reliability testing; evaluation of the source of variation; design of experiments; failure modes & effects analysis; quality by design and introduction to Taguchi approach.",
+  "course_learning_outcomes": [
+    "Define product and process quality; identify inefficiencies within manufacturing or service operations using Lean Six Sigma tools",
+    "Collect and visualize data on process parameters, inputs and outputs after validating measurement systems in order to assess process capability",
+    "Identify root causes of process inefficiencies using statistical analysis such as Hypothesis Testing or Multiple Regression",
+    "Develop and test process improvement solutions with Failure Mode and Effects Analysis (FMEA)",
+    "Generate statistical process control (SPC) plans with appropriate SPC tools or acceptance sampling strategies"
+  ],
+  "course_objective": [
+    "Course objectives (and program outcomes):",
+    "This course aims to equip students with the necessary statistical methods and problem solving techniques to improve product and service quality. By the completion of the course, the students will be able to;",
+    "Define product and process quality; identify inefficiencies within manufacturing or service operations using Lean Six Sigma tools",
+    "Collect and visualize data on process parameters, inputs and outputs after validating measurement systems in order to assess process capability",
+    "Identify root causes of process inefficiencies using statistical analysis such as Hypothesis Testing or Multiple Regression",
+    "Develop and test process improvement solutions with Failure Mode and Effects Analysis (FMEA)",
+    "Generate statistical process control (SPC) plans with appropriate SPC tools or acceptance sampling strategies"
+  ],
+  "course_materials": {
+    "resources": [
+      "Textbook: Montgomery, Douglas C., Statistical Quality Control: A Modern Introduction, John Wiley & Sons, Inc., Eight Edition, 2020. References: The following books and journals can be accessed as additional resources. 1. Banks, Jerry, Principles of Quality Control, John Wiley & Sons, Inc., 1989",
+      "2. Feigenbaum, A. V., Total Quality Control, McGraw-Hill Inc. , 1991. 3. Grant, Eugene L., Richard S. Leavenworth, Statistical Quality Control, Seventh Edition, McGraw Hill, 1996. 4. Juran, J.M. and F.M. Gryna Quality Planning and Analysis, McGraw-Hill, 1980. 5. Wadsworth, H. M., K. S. Stephens, A. B. Godfrey, Modern Methods for Quality Control and Improvement , John Wiley & Sons, Inc., 1986 6. Quality Journals a) Quality Engineering, b) Quality Progress, c) Journal of Quality Technology, d) Technometrics."
+    ],
+    "technology_requirements": "Lecture notes, class handouts, assignments, and other relevant course materials will be posted on the course web page."
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 30,
+    "quiz": 30,
+    "participation": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "IE",
+  "cn": "403",
+  "section": null,
+  "key": "202501_IE_403"
+}

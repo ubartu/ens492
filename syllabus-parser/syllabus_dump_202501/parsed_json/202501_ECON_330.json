@@ -1,0 +1,63 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Industrial Organization - ECON 330",
+    "classroom": "FASS-G025,FASS-G050",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "ECON 204 and  ECON 201 and  ECON 301",
+    "corequisites": "ECON 330R",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Alexander Rodivilov",
+      "email": "alexander.rodivilov@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Perfect competition; monopoly; price discrimination; oligopoly; markets for homogeneous and differentiated products; strategic behaviour and entry barriers; advertising; quality; vertical relations; network effects; competition law and policy.",
+  "course_learning_outcomes": [
+    "Analyze and write a report on the cases handled by the Competition Authority of Turkey by combining their theoretical knowledge with the real life issues regarding the case while trying to identify the anti-competitive action the defendants have (allegedly) conducted,",
+    "Analyze the decision process of firm behavior under less than competitive conditions,",
+    "Analyze the many theoretical and practical issues regarding the regulation of markets and the implementation of competition policy",
+    "Compare the descriptions of the EU and Turkish regulatory and antitrust policy making systems."
+  ],
+  "course_objective": "The purpose of this course is to study the main concepts and analytical tools of the theory of industrial organization. Industrial organization studies how firms interact and compete with each other in the market. For instance, when a firm decides the price of its product, it takes into account that this decision affects the profits of other firms in the market and these firms can react by changing their prices. These interdependences underlie most firms' decisions such as prices, product design, investment in R&D, advertising campaigns, location of outlets, or merger. The focus is predominantly on markets characterized by imperfect competition, i.e. markets where firms can exercise market power. This course will look at this question both from the perspective of firms and from that of public policy. Throughout the course we will examine an interesting tension or a potential conflict of interest: while successful management of a firm often requires the adoption and implementation of strategies to increase profits, create comparative advantage, increase market share, or gain and sustain market power, these same strategies are sometimes constrained by public authorities because they are seen as attempts, (in the words of European competition law), to “restrain and distort competition” We will therefore examine the impact of firm behavior on social welfare and what government agencies, such as the Competition Authority of Turkey, or supragovernmental bodies, such as the European Commission, do (or should and should not do) to regulate rivalry between firms. The first part of the course will be devoted to monopolistic markets with only one firm and no actual competitors. We will investigate the efficiency losses associated with monopolistic markets. It will also be important to understand how the outcome of a monopolistic market depends on the number and characteristics of the products offered by the firm. From there we will move to oligopolistic markets, with several firms competing in the market for the same good. The outcomes of these markets will be determined by the firms' strategic optimal behavior. Firms will anticipate the decisions of other competing firms. Finally, we will study the effects of alternative government interventions in markets: what practices should antitrust law prohibit? What are the effects of patent regulation on investment in R&D and on consumer welfare? The tools for our analysis will be basic calculus and game theory. An effort will be made to keep the lectures self-contained. Most of the ideas can be understood with simple math and graphs, but students should be prepared to work with a certain level of formality.",
+  "course_materials": {
+    "resources": [
+      "Suggested Textbook: Belleflamme, Paul, and Martin Peitz. Industrial organization: markets and strategies. Cambridge University Press, 2015."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 50,
+    "midterm": 35,
+    "homework": 15
+  },
+  "program_requirements": [
+    {
+      "program": "Energy",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Economics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "ECON",
+  "cn": "330",
+  "section": null,
+  "key": "202501_ECON_330"
+}

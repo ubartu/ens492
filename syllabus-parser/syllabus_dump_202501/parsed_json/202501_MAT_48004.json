@@ -1,0 +1,72 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Special Topics in MAT: Polymer Matrix Composites - MAT 48004",
+    "classroom": "FENS-L056",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "NS 207 and  MAT 302 and  MAT 305 and  MAT 307",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Bekir Dızman",
+      "email": "bekirdizman@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Polymer Matrix Composites course aims to inform undergraduate and graduate students in materials and manufacturing engineering programs about polymer matrix composites. In order to better understand the structure-property-application relationship in polymer matrix composites, which is the most common type of composite, the polymer matrix and fibers that make up polymer matrix composites, the polymer matrix-fiber interface and the distribution of fibers in the matrix will be examined within the scope of the course. The preparation, processing and characterization (spectroscopic, rheological, thermal and mechanical) methods of different types of polymers that make up the polymer matrix will be explained in detail. Various processing and forming methods used in the preparation of polymer matrix composites will be explained by considering different types of polymer matrices. Information will be given about the thermal and mechanical characterization methods used for the polymer matrix composites. Finally, various application areas of polymer matrix composites and the materials selection criteria will be discussed.",
+  "course_learning_outcomes": [
+    "Understand the structure-property-application relationship in polymer matrix composites (PMCs).",
+    "Understand the constituents of PMCs, the fiber-matrix interface, and fiber arrangement.",
+    "Develop a solid understanding of the polymers utilized in PMCs through the examination of (1) advantages of polymers over conventional materials, (2) versatile nature of polymers, (3) polymerization processes, (4) polymer processing, (5) microstructural and viscoelastic behavior of polymers, (6) thermal and mechanical properties of polymers.",
+    "Learn about the PMC processing and forming methods and estimate the mechanical properties of PMCs.",
+    "Learn about how to examine thermal and mechanical properties of PMCs.",
+    "Understand the application areas of PMCs and the methods of materials selection."
+  ],
+  "course_objective": [
+    "Understand the structure-property-application relationship in polymer matrix composites (PMCs).",
+    "Understand the constituents of PMCs, the fiber-matrix interface, and fiber arrangement.",
+    "Develop a solid understanding of the polymers utilized in PMCs through the examination of (1) advantages of polymers over conventional materials, (2) versatile nature of polymers, (3) polymerization processes, (4) polymer processing, (5) microstructural and viscoelastic behavior of polymers, (6) thermal and mechanical properties of polymers.",
+    "Learn about the PMC processing and forming methods and estimate the mechanical properties of PMCs.",
+    "Learn about how to examine thermal and mechanical properties of PMCs.",
+    "Understand the application areas of PMCs and the methods of materials selection."
+  ],
+  "course_materials": {
+    "resources": [
+      "An Introduction to Polymer Matrix Composites (by Mustafa Akay) Course notes"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 60,
+    "quiz": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "MAT",
+  "cn": "48004",
+  "section": null,
+  "key": "202501_MAT_48004"
+}

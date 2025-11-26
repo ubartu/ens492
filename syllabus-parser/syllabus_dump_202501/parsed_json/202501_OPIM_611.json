@@ -1,0 +1,83 @@
+{
+  "course_info": {
+    "faculty": "Sabancı Business School",
+    "semester": "Fall 2025-2026",
+    "course": "Modeling in Operations Management - OPIM 611",
+    "classroom": "FMAN-G062",
+    "level_of_course": "Masters",
+    "course_credits": "SU Credit:3.000, ECTS:12",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Burak Gökgür",
+      "email": "bgokgur@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course aims to introduce the students to the conceptual frameworks and models of operations management and the techniques to find the best solutions to these models. Upon completion of this course, the students are expected to analyze complex supply chain systems, build mathematical models for these systems, and find the best policies to operate these systems. Several inventory settings and pricing and game-theoretic models will be analyzed in a supply chain setting, and their solution methods will be discussed.",
+  "course_learning_outcomes": [
+    "Industry, Innovation and Infrastructure",
+    "Responsible Consumption and Production"
+  ],
+  "course_objective": [
+    "Upon successful completion of the course, the student should be able to:",
+    "Understand quantitative modeling and analysis of complex supply chain problems.",
+    "Develop mathematical formulations of inventory and pricing problems in deterministic and stochastic settings.",
+    "Build solution approaches to determine the best solutions to inventory and pricing problems in deterministic and stochastic settings.",
+    "Develop game-theoretic models in the operations management framework, and construct solution approaches to investigate the optimal behaviors of the agents."
+  ],
+  "course_materials": {
+    "resources": [
+      "The course will largely be conducted using lecture notes. The following books will be used as reference: 1. Zipkin, P. (2000) Foundations of Inventory Management. McGraw-Hill, New York. 2. Porteus, E. L. (2002) Foundations of Stochastic Inventory Theory. Stanford University Press, Stanford. 3. Silver, E. A., Pyke, D. F., and Peterson R. (1998) Inventory Management and Production Planning and Scheduling. John Wiley and Sons. 4. Tirole, J. (1988) The Theory of Industrial Organization, MIT Press. 5. Talluri, K. T., and van Ryzin, G. J. (2004) The Theory and Practice of Revenue Management, Kluwer Academic Publishers. 6. Fudenberg, D., and Tirole, J. (1991) Game Theory, MIT Press.",
+      "7. De Palme, A., Thisse, J.-F., and Anderson, S. P. (1992) Discrete Choice Theory of Product Differentiation"
+    ],
+    "technology_requirements": "I will post the deadlines, assignments, cancellations, postponements, in short, everything on SUCourse+ throughout the term. Please check it frequently to see if new material has been placed. Note that Sabancı University uses a very powerful web-based tool called Turnitin. Turnitin is the worldwide standard in online plagiarism prevention. It allows instructors to compare student papers against a database composed of millions of articles. Every paper you submit will be scanned by Turnitin, and results will be reflected in your grades."
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 30,
+    "quiz": 10,
+    "participation": 5,
+    "group project": 20,
+    "homework": 5
+  },
+  "program_requirements": [
+    {
+      "program": "Management",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "MS-Industrial Eng. LFI-MAN",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Business Analytics (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "OPIM",
+  "cn": "611",
+  "section": null,
+  "key": "202501_OPIM_611"
+}

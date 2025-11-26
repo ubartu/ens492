@@ -1,0 +1,69 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Political Theory II - POLS 473",
+    "classroom": "FASS-G050",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6",
+    "prerequisites": "SPS 101 or  SPS 102",
+    "corequisites": "-",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Ayşe Gülden Kadıoğlu",
+      "email": "ayse@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "This course explores the central issues in contemporary political philosophy such as the nature and value of democracy, freedom, justice, equality, collective well- being, collective identity, and the political institutions these ideals require.",
+  "course_learning_outcomes": [
+    "Identify the main currents of ideas that accompany the various routes to modernity.",
+    "Discuss the various manifestations of the main set of ideologies, namely liberalism, conservatism, socialism, anarchism, fascism, nationalism, feminism, and environmentalism.",
+    "Compare and contrast these ideologies with each other."
+  ],
+  "course_objective": "To convey the meaning of fundamental, modern political ideologies.",
+  "course_materials": {
+    "resources": [
+      "Required Readings eBooks that can be reached online through the Information Center website:",
+      "Kevin Harrison and Tony Boyd, Understanding Political Ideas and Movements (Manchester: Manchester University Press, 2003).",
+      "Michael Freeden, Ideology: A Very Short Introduction (Oxford: Oxford University Press, 2003).",
+      "Richard Bellamy and Andrew Mason, Political Concepts (Manchester: Manchester University Press, 2003).",
+      "Further required articles/book chapters can be seen in the course schedule below and are posted in SUCourse. Additional/Suggested Readings Books that can be borrowed at the Reserve Section of the Information Center:",
+      "David Ingersoll, Richard K. Matthews and Andrew Davison, The Philosophic Roots of Modern Ideology (Hudson, NY: Sloan Publishing, 2016/Fifth Edition)/some chapters of this book are available online in the publisher’s website and are listed as Required Readings for this course: https://www.sloanpublishing.com/table_of_contents18",
+      "Nancy S. Love (ed.), Dogmas and Dreams: A Reader in Modern Political Ideologies (Washington, DC: CQ Press, 2011/Fourth Edition).",
+      "Eric Hoffer, True Believer: Thoughts on the Nature of Mass Movements (New York: Harper Perennial Classics, 1951)/this book can be purchased electronically/it is available for limited viewing on the internet/it is also available for purchase at the campus Bookstore."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "midterm": 80,
+    "assignment": 10,
+    "participation": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Philosophy",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Political Science",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Political Science and International Relations",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "POLS",
+  "cn": "473",
+  "section": null,
+  "key": "202501_POLS_473"
+}

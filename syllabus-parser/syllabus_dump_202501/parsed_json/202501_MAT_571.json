@@ -1,0 +1,283 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Introduction to Electron Microscopy - MAT 571",
+    "classroom": "FENS-L055,FENS-L058",
+    "level_of_course": "Masters",
+    "course_credits": "SU Credit:3.000, ECTS:10",
+    "prerequisites": "-",
+    "corequisites": "MAT 571L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Mehmet Ali Gülgün",
+      "email": "m-gulgun@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "The course will treat electron optics and diffraction physic as a basis for the advanced course. It will go into the construction and functions of different types of electron microscopes and detectors. The largest portion of the course is devoted to analyzing materials and their defects with the help of electron optics and diffraction physics. A short but essential introduction to analytical electron microscopy and spectroscopic techniques will be given. The course will have 3-4 laboratory exercises to introduce practical issues with the electron microscopy.",
+  "course_learning_outcomes": [
+    "AIMS ? To teach the student fundamentals of using electrons in imaging of materials and demonstrate the main differences between Electron Microscopy and Optical Microscopy ? To define the limits of scanning electron microscopy (SEM) and introduce the concepts in transmission electron microscopy (TEM). ? To explain the capabilities and science behind the TEM technique. INTENDED LEARNING OUTCOMES 1. Module Specific Skills. By the end of this module, the students should be able to: (a) Know the working principle of SEM and how images are obtained (b) Explain the types of interactions between energetic electrons and matter (c) Define how these interactions are used to carry out spectral analysis (d) Compare SEM and TEM methods and know each technique?s limitations 2. Discipline Specific Skills. By the end of this module, the students should: (e) understand how an electron beam is generated and utilized in imaging (f) know what type of information one can extract from the interactions between electrons and the sample in the SEM and TEM (g) comprehend how various detectors work (h) understand the principle of diffraction and its use in structural characterization. (i) know the differences between various techniques to obtain different contrasts in the TEM. 3. Individual and Key Skills. By the end of this module, the students will: (j) gain an understanding of fundamentals of imaging using electrons (k) be able to reach a level where they can decide which technique they would use in their research. (l) relate various types of contrasts in both SEM and TEM to the processes that might have taken place in materials. (m) be at a level where they will know how to present their results they obtained using electron microscopy in their research. (s) think and make decisions on the path which will enable them to resolve a given issue."
+  ],
+  "course_objective": "To teach the students the theory and the practice of imaging and diffraction using electrons. Students get formal lectures in imaging in SEM and TEM and diffraction in TEM. They also learn spectral analysis in SEM and TEM. They have to apply what they learn in class to practical use in lab sessions.",
+  "course_materials": {
+    "resources": [
+      "Recommended Books for the course",
+      "1 “Scanning Electron Microscopy and X-Ray Microanalysis” by J. I. Goldstein, D. E. Newbury, P. Echlin, D. E. Joy, C. Fiori, and E. Lifshin, Plenum press 2 “Transmission Electron Microscopy” by D. B. Williams and C. B. Carter. Plenum press 3 QED The strange Theory of Light and Matter, Richard P Feynman, Penguin Books, Other Books you may find useful: 1. “Diffraction Physics,” by J. Cowley, North Holland PL, 1990 2. “High Resolution Transmission Electron Microsopy and Asssociated Techniques”, P. Buseck, J. Cowley, and L. Eyring, Oxford, 1992 3. “Elektronenmikroskopie” Flegler, Heckman, Klomparens. Spektrum, 1993."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 35,
+    "written report": 30
+  },
+  "program_requirements": [
+    {
+      "program": "Leaders for Industry Computer Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Electronics Engineering and Computer Science (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Elec. Eng&Comp Sc.LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Energy Technologies and Management (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Physics (non-thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Data Science (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Electronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering and Computer Science (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Manufacturing Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Leaders for Industry Biological Sciences and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Bio. Sci. & Bioeng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Physics (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering and Computer Science",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Physics",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Materials Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Cyber Security",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Computer Science and Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Electronics Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Industrial Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Materials Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Leaders for Industry Mechatronics Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Mathematics",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering (with thesis)",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Mathematics (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Computer Sci.&Eng. LFI-ENG",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Industrial Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Manufacturing Engineering (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Manufacturing Engineering (non-thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Cyber Security (with thesis)",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "MS-Mechatronics LFI-ENG",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "MAT",
+  "cn": "571",
+  "section": null,
+  "key": "202501_MAT_571"
+}

@@ -1,0 +1,60 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Arts and Social Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Language of Drawing I - VA 203",
+    "classroom": "SUSAM-1010",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:4.000, ECTS:7",
+    "prerequisites": "-",
+    "corequisites": "-",
+    "course_type": "Studio"
+  },
+  "instructors": [
+    {
+      "name": "Kerem Ozan Bayraktar",
+      "email": "keremozan.bayraktar@sabanciuniv.edu"
+    },
+    {
+      "name": "Kerem Ozan Bayraktar is an artist and researcher. He examines material transformations, accumulations, and interactions between natural and artificial forms through mixed media installations, digital techniques, and field research. He participated in several art & research programs, including Fellowship for Situated Practice (basis voor actuele kunst, 2022, the Netherlands) and the Berlin Senate Residency Program (Zentrum für Kunst und Urbanistik, 2021, Germany). His work has recently been featured in the Tokyo Biennale (2023, Japan), Non-/Human Assemblages (2021, South Korea), Sentient Matter (2021, D21, Germany), Timeless Curiosities (2024, Istanbul Modern, Turkey). Bayraktar received his MFA and DFA degrees from Marmara University, Faculty of Fine Arts, Painting deparment. He is currently a faculty member at Sabancı University. His recent publications include Marmara (2023), Spirits on the Ground (2021) and Dünyaların Haritaları [Maps of Worlds] (2021). Bayraktar lives in Istanbul and is represented by Sanatorium.",
+      "email": null
+    }
+  ],
+  "catalog_course_description": "This introductory studio course presents drawing as a fundamental practice of observation, expression, and spatial thinking. Open to students from all disciplines, it explores drawing beyond technical skill, emphasizing its role as a tool for inquiry and communication across fields. Through diverse approaches and critical discussions, participants engage with mark-making, composition, and representation, developing a personal visual language applicable to their own practices.",
+  "course_learning_outcomes": [
+    "Establish a foundation for competence in basic drawing techniques including line control, basic perspective and composition.",
+    "Experiment with a variety of drawing media to explore their characteristics and expressive qualities.",
+    "Understand the basic concepts of spatial representation and translate three-dimensional forms into two dimensions.",
+    "Begin to analyze and discuss works of art, developing visual literacy and critical thinking skills.",
+    "Engage in self-reflection to analyze personal creative choices and motivations."
+  ],
+  "course_objective": [
+    "This studio course provides an introduction to drawing as practice as a fundamental artistic and communicative form. Students will develop basic drawing skills, explore various approaches to observation and representation, and discover the expressive potential of the medium in a contemporary context. Through practical exercises, individual projects and group critiques, students will develop a dynamic and personal relationship with drawing that can be utilized across a range of disciplines."
+  ],
+  "course_materials": {
+    "resources": [
+      "Anderson-Tempini, Gemma. Drawing as a Way of Knowing in Art and Science. Intellect Books, 2017. Arnheim, Rudolf. Art and Visual Perception: A Psychology of the Creative Eye. Univ of California Press, 1954.",
+      "Botz-Bornstein, Thorsten. The Philosophy of Lines: From Art Nouveau to Cyberspace. Springer Nature, 2021. Chorpening, Kelly, and Rebecca Fortnum. A Companion to Contemporary Drawing. Wiley-Blackwell, 2020. Crary, Jonathan. Techniques of the Observer. MIT Press, 1990. Davidson, Margaret. Contemporary Drawing: Key Concepts and Techniques. Watson-Guptill, 2011. Butler, Cornelia H. Afterimage: Drawing Through Process. MIT Press, 1999. Garner, Steve. Writing on drawing: Essays on drawing practice and research. Intellect, 2008. Ingold, Tim. Lines: A brief history. Routledge, 2016. Kantrowitz, Andrea. Drawing Thought: How Drawing Helps Us Observe, Discover, and Invent. MIT Press, 2022. Kentridge, William. Six Drawing Lessons. Harvard University Press, 2014. Marshall, Russell, and Phil Sawdon, eds. Hyperdrawing: Beyond the Lines of Contemporary Art. Bloomsbury Publishing, 2012.",
+      "Nancy, Jean-Luc. The Pleasure in Drawing. Fordham University Press, 2013. Panofsky, Erwin. Perspective as symbolic form. Princeton University Press, 2020. Rawson, Philip. Drawing. University of Pennsylvania Press, 2016. Ruskin, John. The Elements of Drawing. Courier Corporation, 1971. Scolari, Massimo, and Jenny Condie Palandri. Oblique Drawing: A History of Anti-Perspective. MIT Press, 2012. Seligman, Isabel, and Hugo Chapman. Pushing Paper: Contemporary Drawing from 1970 to Now. Thames & Hudson, 2019. Witt, Andrew. Formulations: Architecture, Mathematics, Culture. MIT Press, 2022."
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "participation": 20,
+    "individual project": 40,
+    "homework": 40
+  },
+  "program_requirements": [
+    {
+      "program": "Visual Arts and Visual Communications Design",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    }
+  ],
+  "term": "202501",
+  "sc": "VA",
+  "cn": "203",
+  "section": null,
+  "key": "202501_VA_203"
+}

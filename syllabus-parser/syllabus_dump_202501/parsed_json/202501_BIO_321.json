@@ -1,0 +1,97 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Biochemistry I - BIO 321",
+    "classroom": "FENS-G015",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:4.000, ECTS:7, Basic:7",
+    "prerequisites": "NS 201 and  NS 207",
+    "corequisites": "BIO 321L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Hüveyda Başağa",
+      "email": "huveyda@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Biochemistry I Chemical nature of cellular components; enzymes and mechanism of enzyme activity; energy interconversions and biosynthetic reactions, including template dependent reactions, and some aspects of control mechanisms. Weekly laboratory session introduces the major experimental tools used in modern biology.",
+  "course_learning_outcomes": [
+    "Identify the fundamental concepts of biochemistry",
+    "Describe the structures and functions of amino acids.",
+    "Describe the structure and biological function relationship of proteins.",
+    "Describe the basic aspects of Michelis-Menten enzyme kinetics and catalysis.",
+    "Describe the main aspects of the structures and functions of carbohydrates, nucleotides and lipids.",
+    "Develop a general understanding to approach essential facts and theories of biochemistry.",
+    "Identify the key features of amino acids, proteins, enzymes, carbohydrates, nucleotides and lipids and use these features in frame of a biochemical experimental design and method in a laboratory context, with some guidance.",
+    "With some guidance, analyze, interpret and report biochemically derived data, which have lowered level of complexity than the ones gained from real world experimentations, in details.",
+    "Evaluate the main aspects of the biochemistry with reference to the lecture",
+    "Express basic biochemical concepts effectively by written means in homeworks, quizzes, examinations and lab notebooks.",
+    "With some guidance, identify the covered concepts in the text book and study autonomously.",
+    "With some guidance, collect specific information about biochemically important molecules from the text book and understand their roles in a biochemical laboratory method."
+  ],
+  "course_objective": [
+    "AIMS",
+    "Classroom sessions of this module aims to teach fundamental concepts in biochemistry including topics on Amino Acids, Protein Structure & Function, Enzyme Kinetics, Carbohydrates, Nucleotides and Lipids to the students who do have at least D ?grade in freshman level Biology, Chemistry (NS 102 ? Science of Nature II) and Calculus (MATH 101 & MATH 102) courses.",
+    "As a co-requisite the classrooms sessions, laboratory sessions of this module (BIO321L) aims to introduce major experimental methods used in modern biochemistry weekly by simultaneously complementing the in-class covered concepts.",
+    "INTENDED LEARNING OUTCOMES",
+    "After completing the in-class teaching and laboratory activities associated with this module you should be able to: (Look Learning Outcomes items)",
+    "Module-specific skills 1-5",
+    "Discipline-specific skills 6-9",
+    "Individual and key skills 10-12"
+  ],
+  "course_materials": {
+    "resources": null,
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 30,
+    "midterm": 40,
+    "assignment": 20,
+    "homework": 10
+  },
+  "program_requirements": [
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Chemistry",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Molecular Biology, Genetics and Bioengineering",
+      "required": true,
+      "core_elective": false,
+      "area_elective": false
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "BIO",
+  "cn": "321",
+  "section": null,
+  "key": "202501_BIO_321"
+}

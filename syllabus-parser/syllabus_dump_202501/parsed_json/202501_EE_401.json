@@ -1,0 +1,82 @@
+{
+  "course_info": {
+    "faculty": "Faculty of Engineering and Natural Sciences",
+    "semester": "Fall 2025-2026",
+    "course": "Very Large Scale Integrated System Design I - EE 401",
+    "classroom": "FENS-L065",
+    "level_of_course": "Undergraduate",
+    "course_credits": "SU Credit:3.000, ECTS:6, Engineering:6",
+    "prerequisites": "CS 303 and ( EL 302 or  EE 302)",
+    "corequisites": "EE 401L",
+    "course_type": "Lecture"
+  },
+  "instructors": [
+    {
+      "name": "Ömer Ceylan",
+      "email": "ceylanomer@sabanciuniv.edu"
+    }
+  ],
+  "catalog_course_description": "Complementary Metal-Oxide Semiconductor (CMOS) technology and limitations; CMOS circuit and logic design; layout rules and techniques; circuit characterization and performance estimation; CMOS subsystem design, basic building blocks; structured design principles; Very-Large-Scale Integrated (VLSI) system design methods; DRC, logic and circuit simulation.",
+  "course_learning_outcomes": [
+    "Describe digital VLSI circuit design styles;",
+    "Analyze and reduce delay of full custom digital VLSI circuits;",
+    "Design and analyze full custom arithmetic circuits (e.g. adder, multiplier);",
+    "Describe basic techniques for reducing power consumption of digital VLSI circuits;",
+    "Describe clock generation and distribution in synchronous digital VLSI circuits;",
+    "Describe standard cell libraries;",
+    "Design and implement standard cell based digital VLSI circuits using logic synthesis and physical synthesis tools;",
+    "Verify functionality and timing of standard cell based digital VLSI circuits using a logic simulation tool."
+  ],
+  "course_objective": "This course teaches both full custom and standard cell based digital CMOS VLSI circuit design, implementation and analysis. Students gain practical experience by designing, implementing and verifying full custom and standard cell based digital CMOS VLSI circuits.",
+  "course_materials": {
+    "resources": [
+      "CMOS VLSI Design: A Circuits and Systems Perspective (4th Edition), Neil Weste and David Harris, Addison-Wesley",
+      "Digital Interated Circuits – A Design Perspective (2nd Edition), Jan M. Rabaey, Anantha Chandrakasan and Borivoje Nikolic, Prentice-Hall"
+    ],
+    "technology_requirements": null
+  },
+  "assessment_percent": {
+    "final": 35,
+    "midterm": 30,
+    "assignment": 28,
+    "attendance": 2,
+    "homework": 5
+  },
+  "program_requirements": [
+    {
+      "program": "Mechatronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Telecommunications Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Electronics Engineering",
+      "required": false,
+      "core_elective": true,
+      "area_elective": false
+    },
+    {
+      "program": "Materials Science and Nano Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    },
+    {
+      "program": "Microelectronics Engineering",
+      "required": false,
+      "core_elective": false,
+      "area_elective": true
+    }
+  ],
+  "term": "202501",
+  "sc": "EE",
+  "cn": "401",
+  "section": null,
+  "key": "202501_EE_401"
+}

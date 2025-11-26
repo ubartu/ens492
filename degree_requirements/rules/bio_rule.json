@@ -1,0 +1,25 @@
+{
+  "major": "BIO",
+  "required": {
+    "must_all": [
+      "BIO301",
+      "BIO303",
+      "BIO321",
+      "BIO332",
+      "BIO335",
+      "BIO395",
+      "CHEM212",
+      "ENS210",
+      "ENS491",
+      "ENS492",
+      "NS201",
+      "NS207",
+      "NS216"
+    ],
+    "totals": { "min_courses": 13, "min_su": 39 }
+  },
+  "electives": { "core_su": 29, "area_su": 9, "free_su": 15, "spillover": true },
+  "faculty":   { "min_count": 5, "min_math": 2, "min_fens": 3, "min_fass": 0, "min_sbs": 0 },
+  "buckets":   { "engineering_ects": null, "basic_science_ects": null },
+  "totals":    { "min_su": 133, "min_ects": 240 }
+}

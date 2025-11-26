@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OCR Parser Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+        button {
+            padding: 10px 20px;
+            margin: 10px 0;
+            cursor: pointer;
+        }
+        pre {
+            background: #f5f5f5;
+            padding: 15px;
+            border: 1px solid #ccc;
+            overflow-x: auto;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+        #progress {
+            margin: 10px 0;
+            color: #666;
+        }
+        .section {
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <h2>Bannerweb Screenshot OCR Test</h2>
+    
+    <input type="file" id="imageInput" accept=".png,.jpg,.jpeg" multiple>
+    <button onclick="parseScreenshots()">Parse Screenshots</button>
+    
+    <div id="progress"></div>
+    
+    <div class="section">
+        <h3>Parsed Courses:</h3>
+        <pre id="output">No results yet...</pre>
+    </div>
+    
+    <div class="section">
+        <h3>OCR Text (Debug):</h3>
+        <pre id="debug">No debug info yet...</pre>
+    </div>
+
+    <script src='https://cdn.jsdelivr.net/npm/tesseract.js@5/dist/tesseract.min.js'></script>
+    <script src='transcript-ocr-parser.js'></script>
+    <script>
+        async function preprocessImage(file) {
+            return new Promise((resolve) => {
+                const img = new Image();
+                const canvas = document.createElement('canvas');
+                const ctx = canvas.getContext('2d');
+                
+                img.onload = () => {
+                    // Scale up for better OCR
+                    canvas.width = img.width * 2;
+                    canvas.height = img.height * 2;
+                    
+                    // Draw scaled image
+                    ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+                    
+                    // Get image data
+                    let imageData = ctx.getImageData(0, 0, canvas.width, canvas.height);
+                    let data = imageData.data;
+                    
+                    // Convert to grayscale and increase contrast
+                    for (let i = 0; i < data.length; i += 4) {
+                        let gray = data[i] * 0.299 + data[i + 1] * 0.587 + data[i + 2] * 0.114;
+                        
+                        // Increase contrast
+                        gray = ((gray - 128) * 1.5) + 128;
+                        
+                        // Binarization
+                        gray = gray > 128 ? 255 : 0;
+                        
+                        data[i] = data[i + 1] = data[i + 2] = gray;
+                    }
+                    
+                    ctx.putImageData(imageData, 0, 0);
+                    
+                    // Convert to blob
+                    canvas.toBlob(resolve, 'image/png');
+                };
+                
+                img.src = URL.createObjectURL(file);
+            });
+        }
+
+        async function parseScreenshots() {
+            const files = document.getElementById('imageInput').files;
+            if (files.length === 0) {
+                alert('Please select at least one image');
+                return;
+            }
+            
+            const progressDiv = document.getElementById('progress');
+            const outputDiv = document.getElementById('output');
+            const debugDiv = document.getElementById('debug');
+            
+            progressDiv.textContent = 'Processing...';
+            outputDiv.textContent = 'Processing...';
+            debugDiv.textContent = '';
+            
+            try {
+                const allCourses = {};
+                let allOcrText = '';
+                
+                for (let i = 0; i < files.length; i++) {
+                    const file = files[i];
+                    progressDiv.textContent = `Preprocessing image ${i + 1}...`;
+                    
+                    // Preprocess the image
+                    const processedBlob = await preprocessImage(file);
+                    
+                    progressDiv.textContent = `Processing image ${i + 1} of ${files.length}...`;
+                    
+                    // Run OCR on preprocessed image
+                    const { data: { text } } = await Tesseract.recognize(processedBlob, 'eng', {
+                        tessedit_char_whitelist: 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+-/()., :&',
+                        tessedit_pageseg_mode: Tesseract.PSM.AUTO,
+                        logger: m => {
+                            if (m.status === 'recognizing text') {
+                                progressDiv.textContent = `Processing image ${i + 1}: ${Math.round(m.progress * 100)}%`;
+                            }
+                        }
+                    });
+                    
+                    allOcrText += `\n=== Image ${i + 1}: ${file.name} ===\n${text}\n`;
+                    
+                    const courses = extractCoursesFromBannerweb(text);
+                    Object.assign(allCourses, courses);
+                }
+                
+                progressDiv.textContent = `Done! Found ${Object.keys(allCourses).length} courses.`;
+                outputDiv.textContent = JSON.stringify(allCourses, null, 2);
+                debugDiv.textContent = allOcrText;
+                
+            } catch (error) {
+                progressDiv.textContent = 'Error occurred!';
+                outputDiv.textContent = 'Error: ' + error.message;
+                console.error(error);
+            }
+        }
+    </script>
+</body>
+</html>

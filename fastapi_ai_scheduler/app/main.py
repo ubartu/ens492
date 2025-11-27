@@ -26,7 +26,6 @@ def _verify_database_connection() -> None:
             "Database connection failed. Ensure the DATABASE_URL is correct and the database is reachable."
         ) from exc
 
-
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     """Modern FastAPI lifespan handler"""

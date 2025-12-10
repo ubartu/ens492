@@ -29,6 +29,7 @@ import {
 import { toast } from "sonner";
 import { Search, Briefcase, BookOpen, Calendar, Plus, Check, Loader2, X, ArrowRight, Clock, Sparkles, GraduationCap, Zap, ChevronDown, TrendingUp } from "lucide-react";
 import { cn } from "@/lib/utils";
+import TranscriptUpload from "@/components/TranscriptUpload";
 
 interface Course {
   id: string;
@@ -271,6 +272,14 @@ export default function Home() {
     setPastCourseIds(pastCourseIds.filter(id => id !== courseId));
   };
 
+  const handleTranscriptUpload = (courseCodes: string[]) => {
+    const uniqueCourses = Array.from(new Set([...pastCourseIds, ...courseCodes]));
+    setPastCourseIds(uniqueCourses);
+    toast.success(`Added ${courseCodes.length} courses from transcript`, {
+      description: `Total: ${uniqueCourses.length} courses selected`,
+    });
+  };
+
   const filteredCourses = useMemo(() => {
     return allCourses.filter(c => {
       if (pastCourseIds.includes(c.id)) return false;
@@ -295,7 +304,7 @@ export default function Home() {
           <div className="absolute bottom-1/4 right-1/4 w-80 h-80 bg-accent/5 rounded-full blur-3xl" />
         </div>
 
-        <div className="w-full max-w-2xl mx-auto px-4 sm:px-6 py-10 sm:py-16">
+        <div className="w-full max-w-3xl mx-auto px-4 sm:px-6 py-10 sm:py-16">
           <header className="text-center mb-12">
             <div className="inline-flex items-center justify-center w-20 h-20 rounded-3xl bg-gradient-to-br from-primary to-primary/80 text-primary-foreground mb-6 float shadow-xl shadow-primary/30 relative">
               <GraduationCap className="w-10 h-10" />
@@ -358,46 +367,50 @@ export default function Home() {
                       {loadingCourses && <Loader2 className="w-3 h-3 animate-spin" />}
                     </label>
 
-                    <Popover open={commandOpen} onOpenChange={setCommandOpen}>
-                      <PopoverTrigger asChild>
-                        <Button
-                          variant="outline"
-                          role="combobox"
-                          aria-expanded={commandOpen}
-                          className="w-full h-11 justify-between rounded-xl bg-background/50 font-normal"
-                        >
-                          <span className="text-muted-foreground">Search courses...</span>
-                          <ChevronDown className="ml-2 h-4 w-4 shrink-0 opacity-50" />
-                        </Button>
-                      </PopoverTrigger>
-                      <PopoverContent className="w-[--radix-popover-trigger-width] p-0 rounded-2xl" align="start">
-                        <Command className="rounded-2xl">
-                          <CommandInput
-                            placeholder="Type course code or name..."
-                            value={courseSearch}
-                            onValueChange={setCourseSearch}
-                          />
-                          <CommandList>
-                            <CommandEmpty>No course found.</CommandEmpty>
-                            <CommandGroup heading="Courses">
-                              {filteredCourses.map((course) => (
-                                <CommandItem
-                                  key={course.id}
-                                  value={`${course.id} ${course.title}`}
-                                  onSelect={() => addPastCourse(course.id)}
-                                  className="flex items-center gap-3 py-3 cursor-pointer"
-                                >
-                                  <span className="font-mono text-xs text-muted-foreground bg-secondary px-2 py-0.5 rounded-lg shrink-0">
-                                    {course.id}
-                                  </span>
-                                  <span className="text-sm truncate">{course.title}</span>
-                                </CommandItem>
-                              ))}
-                            </CommandGroup>
-                          </CommandList>
-                        </Command>
-                      </PopoverContent>
-                    </Popover>
+                    <div className="space-y-2">
+                      <Popover open={commandOpen} onOpenChange={setCommandOpen}>
+                        <PopoverTrigger asChild>
+                          <Button
+                            variant="outline"
+                            role="combobox"
+                            aria-expanded={commandOpen}
+                            className="w-full h-11 justify-between rounded-xl bg-background/50 font-normal"
+                          >
+                            <span className="text-muted-foreground">Search courses...</span>
+                            <ChevronDown className="ml-2 h-4 w-4 shrink-0 opacity-50" />
+                          </Button>
+                        </PopoverTrigger>
+                        <PopoverContent className="w-[--radix-popover-trigger-width] p-0 rounded-2xl" align="start">
+                          <Command className="rounded-2xl">
+                            <CommandInput
+                              placeholder="Type course code or name..."
+                              value={courseSearch}
+                              onValueChange={setCourseSearch}
+                            />
+                            <CommandList>
+                              <CommandEmpty>No course found.</CommandEmpty>
+                              <CommandGroup heading="Courses">
+                                {filteredCourses.map((course) => (
+                                  <CommandItem
+                                    key={course.id}
+                                    value={`${course.id} ${course.title}`}
+                                    onSelect={() => addPastCourse(course.id)}
+                                    className="flex items-center gap-3 py-3 cursor-pointer"
+                                  >
+                                    <span className="font-mono text-xs text-muted-foreground bg-secondary px-2 py-0.5 rounded-lg shrink-0">
+                                      {course.id}
+                                    </span>
+                                    <span className="text-sm truncate">{course.title}</span>
+                                  </CommandItem>
+                                ))}
+                              </CommandGroup>
+                            </CommandList>
+                          </Command>
+                        </PopoverContent>
+                      </Popover>
+
+                      <TranscriptUpload onCoursesExtracted={handleTranscriptUpload} />
+                    </div>
                   </div>
                 </div>
 
@@ -573,7 +586,7 @@ export default function Home() {
 
         {selectedCourses.length > 0 && (
           <div className="fixed bottom-6 left-0 right-0 z-50 animate-slide-up">
-            <div className="w-full max-w-2xl mx-auto px-4 sm:px-6">
+            <div className="w-full max-w-3xl mx-auto px-4 sm:px-6">
               <Link href="/calendar" className="block">
                 <Card className="shadow-2xl shadow-primary/20 border-primary/20 bg-card/95 backdrop-blur-md hover:shadow-primary/30 transition-all cursor-pointer group">
                   <CardContent className="p-4 flex items-center justify-between gap-4">

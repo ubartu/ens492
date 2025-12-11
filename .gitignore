@@ -1,1 +1,7 @@
 node_modules/
+
+# IDE configuration files
+.idea/
+
+# macOS system files
+.DS_Store

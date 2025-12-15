@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect, useRef, useCallback, useMemo } from 'react';
+import { useState, useEffect, useRef, useCallback, useMemo, Fragment } from 'react';
 import Link from 'next/link';
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -11,8 +11,9 @@ import { ScrollArea } from "@/components/ui/scroll-area";
 import { HoverCard, HoverCardContent, HoverCardTrigger } from "@/components/ui/hover-card";
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip";
 import { toast } from "sonner";
-import { Search, ChevronLeft, X, Clock, Loader2, Plus, BookOpen, MapPin, User, ChevronDown, GraduationCap, Sparkles, AlertTriangle } from "lucide-react";
+import { Search, ChevronLeft, X, Clock, Loader2, Plus, BookOpen, MapPin, User, ChevronDown, GraduationCap, Sparkles, AlertTriangle, Copy } from "lucide-react";
 import { cn } from "@/lib/utils";
+import crnData from '../../../crn-scraper/crns.json';
 
 interface Section {
     section: string;
@@ -38,6 +39,13 @@ interface Course {
 interface SelectedCourse extends Course {
     color: string;
     selectedSection?: string;
+}
+
+interface CrnEntry {
+    name: string;
+    code: string;
+    crn: string;
+    group: string;
 }
 
 const DAYS = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'];
@@ -81,6 +89,9 @@ function parseSchedule(schedule: string | object | undefined): { day: string; ti
     return Array.isArray(schedule) ? schedule : [];
 }
 
+const normalizeCode = (code: string) => code.replace(/\s+/g, '').toUpperCase();
+const normalizeSection = (section?: string) => (section || '').replace(/\s+/g, '').toUpperCase();
+
 function mapTimeToSlots(timeStr: string): { startIndex: number; span: number } | null {
     try {
         const [startStr, endStr] = timeStr.split(' - ');
@@ -114,6 +125,15 @@ export default function CalendarPage() {
     const [hasMore, setHasMore] = useState(false);
     const [expandedCourse, setExpandedCourse] = useState<string | null>(null);
     const loaderRef = useRef<HTMLDivElement>(null);
+    const crnMap = useMemo(() => {
+        const map = new Map<string, CrnEntry[]>();
+        (crnData as CrnEntry[]).forEach(entry => {
+            const key = normalizeCode(entry.code);
+            if (!map.has(key)) map.set(key, []);
+            map.get(key)!.push(entry);
+        });
+        return map;
+    }, []);
 
     useEffect(() => {
         const fetchCourses = async () => {
@@ -234,6 +254,44 @@ export default function CalendarPage() {
             c.id === courseId ? { ...c, selectedSection: sectionId } : c
         ));
     };
+
+    const getCrnForCourse = useCallback((course: SelectedCourse): CrnEntry | null => {
+        const key = normalizeCode(course.id);
+        const candidates = crnMap.get(key) || [];
+        if (candidates.length === 0) return null;
+
+        if (course.selectedSection) {
+            const sectionMatch = candidates.find(c => normalizeSection(c.group) === normalizeSection(course.selectedSection));
+            if (sectionMatch) return sectionMatch;
+        }
+
+        return candidates[0] || null;
+    }, [crnMap]);
+
+    const handleCopyCrns = useCallback(() => {
+        if (selectedCourses.length === 0) {
+            toast.info('No courses selected', { description: 'Add courses to copy their CRNs.' });
+            return;
+        }
+
+        const lines = selectedCourses.map(course => {
+            const crnEntry = getCrnForCourse(course);
+            const codeLabel = normalizeCode(course.id);
+            const sectionLabel = course.selectedSection ? ` ${course.selectedSection}` : '';
+            if (crnEntry) return `${codeLabel}${sectionLabel}: ${crnEntry.crn}`;
+            return `${codeLabel}${sectionLabel}: CRN not found`;
+        });
+
+        const text = lines.join('\n');
+
+        if (navigator?.clipboard?.writeText) {
+            navigator.clipboard.writeText(text)
+                .then(() => toast.success('CRNs copied', { description: 'Ready to paste into Banner.' }))
+                .catch(() => toast.error('Failed to copy CRNs'));
+        } else {
+            toast.error('Clipboard not available');
+        }
+    }, [getCrnForCourse, selectedCourses]);
 
     const getScheduleForCourse = (course: SelectedCourse): { day: string; time: string; location?: string }[] => {
         const sections = parseSections(course.sections);
@@ -500,8 +558,8 @@ export default function CalendarPage() {
 
                                             <div className="grid grid-cols-[70px_repeat(5,1fr)] auto-rows-[56px]">
                                                 {TIME_SLOTS.map((slot, slotIdx) => (
-                                                    <>
-                                                        <div key={`time-${slot.hour}`} className="border-r border-b px-1 py-1.5 text-[9px] font-medium text-muted-foreground flex flex-col items-center justify-center bg-secondary/20">
+                                                    <Fragment key={`slot-${slot.hour}`}>
+                                                        <div className="border-r border-b px-1 py-1.5 text-[9px] font-medium text-muted-foreground flex flex-col items-center justify-center bg-secondary/20">
                                                             <span className="text-foreground font-semibold">{slot.startLabel}</span>
                                                             <span className="text-[8px]">to {slot.endLabel}</span>
                                                         </div>
@@ -605,7 +663,7 @@ export default function CalendarPage() {
                                                                 </div>
                                                             );
                                                         })}
-                                                    </>
+                                                    </Fragment>
                                                 ))}
                                             </div>
                                         </div>
@@ -620,7 +678,19 @@ export default function CalendarPage() {
                                                 <Sparkles className="w-4 h-4 text-primary" />
                                                 Your Courses
                                             </h3>
-                                            <Badge variant="secondary" className="rounded-full">{totalCredits} credits</Badge>
+                                            <div className="flex items-center gap-2">
+                                                <Button
+                                                    variant="outline"
+                                                    size="sm"
+                                                    className="gap-1.5 rounded-xl"
+                                                    onClick={handleCopyCrns}
+                                                    disabled={selectedCourses.length === 0}
+                                                >
+                                                    <Copy className="w-4 h-4" />
+                                                    Copy CRNs
+                                                </Button>
+                                                <Badge variant="secondary" className="rounded-full">{totalCredits} credits</Badge>
+                                            </div>
                                         </div>
                                         {selectedCourses.length === 0 ? (
                                             <div className="flex flex-col items-center justify-center text-center py-8">

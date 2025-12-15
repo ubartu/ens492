@@ -1,0 +1,8432 @@
+[
+  {
+    "name": "Academic Literacies",
+    "code": "AL 102",
+    "crn": "10263",
+    "group": "A1"
+  },
+  {
+    "name": "Academic Literacies",
+    "code": "AL 102",
+    "crn": "10267",
+    "group": "A2"
+  },
+  {
+    "name": "Academic Literacies",
+    "code": "AL 102",
+    "crn": "10270",
+    "group": "A3"
+  },
+  {
+    "name": "Academic Literacies",
+    "code": "AL 102",
+    "crn": "10271",
+    "group": "A4"
+  },
+  {
+    "name": "Academic Literacies",
+    "code": "AL 102",
+    "crn": "12593",
+    "group": "A5"
+  },
+  {
+    "name": "Academic Literacies",
+    "code": "AL 102",
+    "crn": "10273",
+    "group": "B1"
+  },
+  {
+    "name": "Academic Literacies",
+    "code": "AL 102",
+    "crn": "10274",
+    "group": "B2"
+  },
+  {
+    "name": "Academic Literacies",
+    "code": "AL 102",
+    "crn": "10275",
+    "group": "B3"
+  },
+  {
+    "name": "Academic Literacies",
+    "code": "AL 102",
+    "crn": "10276",
+    "group": "B4"
+  },
+  {
+    "name": "Academic Literacies",
+    "code": "AL 102",
+    "crn": "12594",
+    "group": "B5"
+  },
+  {
+    "name": "Academic Literacies",
+    "code": "AL 102",
+    "crn": "10280",
+    "group": "C1"
+  },
+  {
+    "name": "Academic Literacies",
+    "code": "AL 102",
+    "crn": "10281",
+    "group": "C2"
+  },
+  {
+    "name": "Academic Literacies",
+    "code": "AL 102",
+    "crn": "10283",
+    "group": "C3"
+  },
+  {
+    "name": "Academic Literacies",
+    "code": "AL 102",
+    "crn": "10284",
+    "group": "C4"
+  },
+  {
+    "name": "Academic Literacies",
+    "code": "AL 102",
+    "crn": "12595",
+    "group": "C5"
+  },
+  {
+    "name": "Academic Literacies",
+    "code": "AL 102",
+    "crn": "10286",
+    "group": "D1"
+  },
+  {
+    "name": "Academic Literacies",
+    "code": "AL 102",
+    "crn": "10287",
+    "group": "D2"
+  },
+  {
+    "name": "Academic Literacies",
+    "code": "AL 102",
+    "crn": "10288",
+    "group": "D3"
+  },
+  {
+    "name": "Academic Literacies",
+    "code": "AL 102",
+    "crn": "10289",
+    "group": "D4"
+  },
+  {
+    "name": "Academic Literacies",
+    "code": "AL 102",
+    "crn": "12596",
+    "group": "D5"
+  },
+  {
+    "name": "Introduction to Financial Accounting and Reporting",
+    "code": "ACC 201",
+    "crn": "10174",
+    "group": "A"
+  },
+  {
+    "name": "Introduction to Financial Accounting and Reporting",
+    "code": "ACC 201",
+    "crn": "10176",
+    "group": "B"
+  },
+  {
+    "name": "Managerial Accounting",
+    "code": "ACC 301",
+    "crn": "10004",
+    "group": "0"
+  },
+  {
+    "name": "Financial Reporting and Statement Analysis",
+    "code": "ACC 501",
+    "crn": "13150",
+    "group": "0"
+  },
+  {
+    "name": "Financial Reporting and Statement Analysis",
+    "code": "ACC 801",
+    "crn": "13264",
+    "group": "0"
+  },
+  {
+    "name": "Financial Reporting",
+    "code": "ACC 901",
+    "crn": "13267",
+    "group": "0"
+  },
+  {
+    "name": "Financial Statement Analysis",
+    "code": "ACC 910",
+    "crn": "13270",
+    "group": "0"
+  },
+  {
+    "name": "Academic Practices and Development",
+    "code": "GR 500E",
+    "crn": "12750",
+    "group": "0"
+  },
+  {
+    "name": "Academic Practices and Development",
+    "code": "GR 500M",
+    "crn": "12388",
+    "group": "0"
+  },
+  {
+    "name": "Academic Practices and Development",
+    "code": "GR 500S",
+    "crn": "12396",
+    "group": "CUL"
+  },
+  {
+    "name": "Academic Practices and Development",
+    "code": "GR 500S",
+    "crn": "12397",
+    "group": "ECO"
+  },
+  {
+    "name": "Academic Practices and Development",
+    "code": "GR 500S",
+    "crn": "12399",
+    "group": "GEN"
+  },
+  {
+    "name": "Academic Practices and Development",
+    "code": "GR 500S",
+    "crn": "12398",
+    "group": "HIS"
+  },
+  {
+    "name": "Academic Practices and Development",
+    "code": "GR 500S",
+    "crn": "12400",
+    "group": "POL"
+  },
+  {
+    "name": "Academic Practices and Development",
+    "code": "GR 500S",
+    "crn": "12401",
+    "group": "PSY"
+  },
+  {
+    "name": "Academic Practices and Development",
+    "code": "GR 500S",
+    "crn": "12402",
+    "group": "TS"
+  },
+  {
+    "name": "Academic Practices and Development",
+    "code": "GR 500S",
+    "crn": "12403",
+    "group": "VAC"
+  },
+  {
+    "name": "Scientific and Technical Communication",
+    "code": "GR 555E",
+    "crn": "11790",
+    "group": "A"
+  },
+  {
+    "name": "Scientific and Technical Communication",
+    "code": "GR 555E",
+    "crn": "11791",
+    "group": "B"
+  },
+  {
+    "name": "Scientific and Technical Communication",
+    "code": "GR 555E",
+    "crn": "11792",
+    "group": "C"
+  },
+  {
+    "name": "Academic Writing for Graduate Students",
+    "code": "GR 555M",
+    "crn": "11193",
+    "group": "0"
+  },
+  {
+    "name": "PhD Qualifying Exam Preparation",
+    "code": "GR 700E",
+    "crn": "12387",
+    "group": "0"
+  },
+  {
+    "name": "Decision Making Practice",
+    "code": "MART 802",
+    "crn": "13303",
+    "group": "0"
+  },
+  {
+    "name": "Introduction to Action Research and Transformation",
+    "code": "MART 803",
+    "crn": "13302",
+    "group": "0"
+  },
+  {
+    "name": "Agile Transformation",
+    "code": "MART 804",
+    "crn": "13304",
+    "group": "0"
+  },
+  {
+    "name": "Organizational Development and Transformation",
+    "code": "MART 810",
+    "crn": "13305",
+    "group": "0"
+  },
+  {
+    "name": "Stakeholder & Internal Communication: Reputation Management",
+    "code": "MART 811",
+    "crn": "13306",
+    "group": "0"
+  },
+  {
+    "name": "Strategy Transformation",
+    "code": "MART 824",
+    "crn": "13301",
+    "group": "0"
+  },
+  {
+    "name": "Basic Arabic I",
+    "code": "ARA 510",
+    "crn": "13322",
+    "group": "0"
+  },
+  {
+    "name": "Basic Arabic I Discussion",
+    "code": "ARA 510D",
+    "crn": "13324",
+    "group": "0"
+  },
+  {
+    "name": "Intermediate Arabic I",
+    "code": "ARA 530",
+    "crn": "13323",
+    "group": "0"
+  },
+  {
+    "name": "Intermediate Arabic I Discussion",
+    "code": "ARA 530D",
+    "crn": "13325",
+    "group": "0"
+  },
+  {
+    "name": "Fundamentals of Data Driven Business Decisions",
+    "code": "BAN 506",
+    "crn": "13148",
+    "group": "0"
+  },
+  {
+    "name": "Data Driven Decision Making",
+    "code": "BAN 800",
+    "crn": "13263",
+    "group": "0"
+  },
+  {
+    "name": "Predictive Analytics",
+    "code": "BAN 805",
+    "crn": "13232",
+    "group": "0"
+  },
+  {
+    "name": "Descriptive Analytics",
+    "code": "BAN 827",
+    "crn": "13231",
+    "group": "0"
+  },
+  {
+    "name": "Data Warehousing and Business Intelligence",
+    "code": "BAN 831",
+    "crn": "13233",
+    "group": "0"
+  },
+  {
+    "name": "Computational Tools and IT for Analytics",
+    "code": "BAN 835",
+    "crn": "13230",
+    "group": "0"
+  },
+  {
+    "name": "Data Driven Decision Making",
+    "code": "BAN 900",
+    "crn": "13260",
+    "group": "0"
+  },
+  {
+    "name": "Inorganic Chemistry",
+    "code": "CHEM 301",
+    "crn": "10073",
+    "group": "0"
+  },
+  {
+    "name": "Inorganic Chemistry Lab",
+    "code": "CHEM 301L",
+    "crn": "10076",
+    "group": "0"
+  },
+  {
+    "name": "Electrochemistry",
+    "code": "CHEM 405",
+    "crn": "11931",
+    "group": "0"
+  },
+  {
+    "name": "Electrochemistry",
+    "code": "CHEM 505",
+    "crn": "11932",
+    "group": "0"
+  },
+  {
+    "name": "Civic Involvement Projects I",
+    "code": "CIP 101",
+    "crn": "10298",
+    "group": "0"
+  },
+  {
+    "name": "Civic Involvement Projects I",
+    "code": "CIP 101N",
+    "crn": "10322",
+    "group": "A"
+  },
+  {
+    "name": "Civic Involvement Projects I",
+    "code": "CIP 101N",
+    "crn": "12158",
+    "group": "AY"
+  },
+  {
+    "name": "Civic Involvement Projects I",
+    "code": "CIP 101N",
+    "crn": "10323",
+    "group": "B"
+  },
+  {
+    "name": "Civic Involvement Projects I",
+    "code": "CIP 101N",
+    "crn": "12159",
+    "group": "BY"
+  },
+  {
+    "name": "Civic Involvement Projects I",
+    "code": "CIP 101N",
+    "crn": "10325",
+    "group": "C"
+  },
+  {
+    "name": "Civic Involvement Projects I",
+    "code": "CIP 101N",
+    "crn": "12160",
+    "group": "CY"
+  },
+  {
+    "name": "Civic Involvement Projects I",
+    "code": "CIP 101N",
+    "crn": "10326",
+    "group": "D"
+  },
+  {
+    "name": "Civic Involvement Projects I",
+    "code": "CIP 101N",
+    "crn": "12161",
+    "group": "DY"
+  },
+  {
+    "name": "Programming Fundamentals",
+    "code": "CS 201",
+    "crn": "10190",
+    "group": "A"
+  },
+  {
+    "name": "Programming Fundamentals",
+    "code": "CS 201",
+    "crn": "10192",
+    "group": "B"
+  },
+  {
+    "name": "Programming Fundamentals Recitation",
+    "code": "CS 201R",
+    "crn": "10195",
+    "group": "A1"
+  },
+  {
+    "name": "Programming Fundamentals Recitation",
+    "code": "CS 201R",
+    "crn": "10197",
+    "group": "A2"
+  },
+  {
+    "name": "Programming Fundamentals Recitation",
+    "code": "CS 201R",
+    "crn": "10198",
+    "group": "A3"
+  },
+  {
+    "name": "Programming Fundamentals Recitation",
+    "code": "CS 201R",
+    "crn": "10200",
+    "group": "B1"
+  },
+  {
+    "name": "Programming Fundamentals Recitation",
+    "code": "CS 201R",
+    "crn": "10203",
+    "group": "B2"
+  },
+  {
+    "name": "Programming Fundamentals Recitation",
+    "code": "CS 201R",
+    "crn": "10204",
+    "group": "B3"
+  },
+  {
+    "name": "Programming Fundamentals Recitation",
+    "code": "CS 201R",
+    "crn": "10207",
+    "group": "B4"
+  },
+  {
+    "name": "Programming Fundamentals Recitation",
+    "code": "CS 201R",
+    "crn": "10206",
+    "group": "C"
+  },
+  {
+    "name": "Programming Fundamentals Recitation",
+    "code": "CS 201R",
+    "crn": "10212",
+    "group": "D1"
+  },
+  {
+    "name": "Programming Fundamentals Recitation",
+    "code": "CS 201R",
+    "crn": "10214",
+    "group": "D2"
+  },
+  {
+    "name": "Advanced Programming",
+    "code": "CS 204",
+    "crn": "10218",
+    "group": "0"
+  },
+  {
+    "name": "Advanced Programming Lab",
+    "code": "CS 204L",
+    "crn": "10221",
+    "group": "A1"
+  },
+  {
+    "name": "Advanced Programming Lab",
+    "code": "CS 204L",
+    "crn": "10222",
+    "group": "A2"
+  },
+  {
+    "name": "Advanced Programming Lab",
+    "code": "CS 204L",
+    "crn": "10223",
+    "group": "B1"
+  },
+  {
+    "name": "Advanced Programming Lab",
+    "code": "CS 204L",
+    "crn": "10225",
+    "group": "B2"
+  },
+  {
+    "name": "Advanced Programming Lab",
+    "code": "CS 204L",
+    "crn": "10226",
+    "group": "C1"
+  },
+  {
+    "name": "Advanced Programming Lab",
+    "code": "CS 204L",
+    "crn": "10227",
+    "group": "C2"
+  },
+  {
+    "name": "Data Structures",
+    "code": "CS 300",
+    "crn": "12538",
+    "group": "0"
+  },
+  {
+    "name": "Data Structures",
+    "code": "CS 300R",
+    "crn": "10101",
+    "group": "A1"
+  },
+  {
+    "name": "Data Structures",
+    "code": "CS 300R",
+    "crn": "10103",
+    "group": "A2"
+  },
+  {
+    "name": "Data Structures",
+    "code": "CS 300R",
+    "crn": "10104",
+    "group": "B1"
+  },
+  {
+    "name": "Data Structures",
+    "code": "CS 300R",
+    "crn": "10105",
+    "group": "B2"
+  },
+  {
+    "name": "Algorithms",
+    "code": "CS 301",
+    "crn": "10106",
+    "group": "0"
+  },
+  {
+    "name": "Algorithms",
+    "code": "CS 301R",
+    "crn": "10111",
+    "group": "A1"
+  },
+  {
+    "name": "Algorithms",
+    "code": "CS 301R",
+    "crn": "12541",
+    "group": "A2"
+  },
+  {
+    "name": "Formal Languages and Automata Theory",
+    "code": "CS 302",
+    "crn": "10116",
+    "group": "0"
+  },
+  {
+    "name": "Formal Languages and Automata Theory Recitation",
+    "code": "CS 302R",
+    "crn": "10118",
+    "group": "0"
+  },
+  {
+    "name": "Logic and Digital System Design",
+    "code": "CS 303",
+    "crn": "10119",
+    "group": "A"
+  },
+  {
+    "name": "Logic and Digital System Design",
+    "code": "CS 303",
+    "crn": "12542",
+    "group": "B"
+  },
+  {
+    "name": "Logic and Digital System Design",
+    "code": "CS 303L",
+    "crn": "10123",
+    "group": "A1"
+  },
+  {
+    "name": "Logic and Digital System Design",
+    "code": "CS 303L",
+    "crn": "12545",
+    "group": "A2"
+  },
+  {
+    "name": "Logic and Digital System Design",
+    "code": "CS 303L",
+    "crn": "10129",
+    "group": "B1"
+  },
+  {
+    "name": "Logic and Digital System Design",
+    "code": "CS 303L",
+    "crn": "10130",
+    "group": "B2"
+  },
+  {
+    "name": "Logic and Digital System Design",
+    "code": "CS 303L",
+    "crn": "10122",
+    "group": "C1"
+  },
+  {
+    "name": "Logic and Digital System Design",
+    "code": "CS 303L",
+    "crn": "12544",
+    "group": "C2"
+  },
+  {
+    "name": "Logic and Digital System Design",
+    "code": "CS 303L",
+    "crn": "10127",
+    "group": "D1"
+  },
+  {
+    "name": "Logic and Digital System Design",
+    "code": "CS 303L",
+    "crn": "12543",
+    "group": "D2"
+  },
+  {
+    "name": "Logic and Digital System Design",
+    "code": "CS 303L",
+    "crn": "10131",
+    "group": "E1"
+  },
+  {
+    "name": "Logic and Digital System Design",
+    "code": "CS 303L",
+    "crn": "10133",
+    "group": "E2"
+  },
+  {
+    "name": "Logic and Digital System Design",
+    "code": "CS 303R",
+    "crn": "10134",
+    "group": "A"
+  },
+  {
+    "name": "Logic and Digital System Design",
+    "code": "CS 303R",
+    "crn": "12547",
+    "group": "B"
+  },
+  {
+    "name": "Programming Languages",
+    "code": "CS 305",
+    "crn": "11936",
+    "group": "0"
+  },
+  {
+    "name": "Database Systems",
+    "code": "CS 306",
+    "crn": "10141",
+    "group": "0"
+  },
+  {
+    "name": "Database Systems",
+    "code": "CS 306R",
+    "crn": "10146",
+    "group": "A"
+  },
+  {
+    "name": "Database Systems",
+    "code": "CS 306R",
+    "crn": "11155",
+    "group": "B"
+  },
+  {
+    "name": "Operating Systems",
+    "code": "CS 307",
+    "crn": "10135",
+    "group": "0"
+  },
+  {
+    "name": "Operating Systems",
+    "code": "CS 307R",
+    "crn": "10147",
+    "group": "0"
+  },
+  {
+    "name": "Software Engineering",
+    "code": "CS 308",
+    "crn": "10150",
+    "group": "0"
+  },
+  {
+    "name": "Software Engineering",
+    "code": "CS 308L",
+    "crn": "12026",
+    "group": "0"
+  },
+  {
+    "name": "Mobile Application Development",
+    "code": "CS 310",
+    "crn": "10160",
+    "group": "0"
+  },
+  {
+    "name": "Internship Project",
+    "code": "CS 395",
+    "crn": "13446",
+    "group": "0"
+  },
+  {
+    "name": "Computer Architectures",
+    "code": "CS 401",
+    "crn": "12451",
+    "group": "0"
+  },
+  {
+    "name": "Computer Architectures",
+    "code": "CS 401L",
+    "crn": "12452",
+    "group": "0"
+  },
+  {
+    "name": "Artificial Intelligence",
+    "code": "CS 404",
+    "crn": "12453",
+    "group": "0"
+  },
+  {
+    "name": "Computer Graphics",
+    "code": "CS 405",
+    "crn": "10172",
+    "group": "0"
+  },
+  {
+    "name": "Computer Graphics Lab",
+    "code": "CS 405L",
+    "crn": "10173",
+    "group": "0"
+  },
+  {
+    "name": "Parallel Computing",
+    "code": "CS 406",
+    "crn": "12454",
+    "group": "0"
+  },
+  {
+    "name": "Computer Networks",
+    "code": "CS 408",
+    "crn": "10175",
+    "group": "0"
+  },
+  {
+    "name": "Computer Networks",
+    "code": "CS 408L",
+    "crn": "10178",
+    "group": "A"
+  },
+  {
+    "name": "Computer Networks",
+    "code": "CS 408L",
+    "crn": "10180",
+    "group": "B"
+  },
+  {
+    "name": "Cryptography",
+    "code": "CS 411",
+    "crn": "10182",
+    "group": "0"
+  },
+  {
+    "name": "Machine Learning",
+    "code": "CS 412",
+    "crn": "10188",
+    "group": "0"
+  },
+  {
+    "name": "Machine Learning",
+    "code": "CS 412R",
+    "crn": "10189",
+    "group": "0"
+  },
+  {
+    "name": "Introduction to deep learning",
+    "code": "CS 415",
+    "crn": "12937",
+    "group": "0"
+  },
+  {
+    "name": "Introduction to deep learning lab.",
+    "code": "CS 415L",
+    "crn": "12938",
+    "group": "0"
+  },
+  {
+    "name": "Digital Image and Video Analysis",
+    "code": "CS 419",
+    "crn": "12157",
+    "group": "0"
+  },
+  {
+    "name": "Digital Image & Video Analysis Lab.",
+    "code": "CS 419L",
+    "crn": "12939",
+    "group": "0"
+  },
+  {
+    "name": "Quantum Programming I",
+    "code": "CS 435",
+    "crn": "13123",
+    "group": "0"
+  },
+  {
+    "name": "Cybersecurity Practices and Applications",
+    "code": "CS 437",
+    "crn": "12027",
+    "group": "0"
+  },
+  {
+    "name": "Natural Language Processing",
+    "code": "CS 445",
+    "crn": "12455",
+    "group": "0"
+  },
+  {
+    "name": "Human Computer Interaction",
+    "code": "CS 449",
+    "crn": "10194",
+    "group": "0"
+  },
+  {
+    "name": "Special Topics in CS: Internet of Things Sensing System",
+    "code": "CS 48007",
+    "crn": "10202",
+    "group": "0"
+  },
+  {
+    "name": "Special Topics in CS: Evolution and Biology for Artificial Intelligence",
+    "code": "CS 48011",
+    "crn": "13126",
+    "group": "0"
+  },
+  {
+    "name": "Cryptography",
+    "code": "CS 507",
+    "crn": "10184",
+    "group": "0"
+  },
+  {
+    "name": "Machine Learning",
+    "code": "CS 512",
+    "crn": "10213",
+    "group": "0"
+  },
+  {
+    "name": "Parallel Processing and Algorithms",
+    "code": "CS 531",
+    "crn": "12456",
+    "group": "0"
+  },
+  {
+    "name": "Computer Graphics and Visualization",
+    "code": "CS 543",
+    "crn": "11943",
+    "group": "0"
+  },
+  {
+    "name": "Human Computer Interaction",
+    "code": "CS 549",
+    "crn": "10199",
+    "group": "0"
+  },
+  {
+    "name": "Graduate Seminar I",
+    "code": "CS 551",
+    "crn": "11342",
+    "group": "0"
+  },
+  {
+    "name": "Graduate Seminar II",
+    "code": "CS 552",
+    "crn": "11343",
+    "group": "0"
+  },
+  {
+    "name": "Special Topics in CS: Internet of Things Sensing System",
+    "code": "CS 58007",
+    "crn": "12577",
+    "group": "0"
+  },
+  {
+    "name": "Special Topics in CS: Scalable Learning Systems",
+    "code": "CS 58010",
+    "crn": "13072",
+    "group": "0"
+  },
+  {
+    "name": "Special Topics in CS: Evolution and Biology for Artificial Intelligence",
+    "code": "CS 58011",
+    "crn": "13127",
+    "group": "0"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "CS 590",
+    "crn": "11506",
+    "group": "01"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "CS 590",
+    "crn": "11507",
+    "group": "02"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "CS 590",
+    "crn": "12784",
+    "group": "05"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "CS 590",
+    "crn": "11511",
+    "group": "06"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "CS 590",
+    "crn": "12423",
+    "group": "07"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "CS 590",
+    "crn": "11513",
+    "group": "08"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "CS 590",
+    "crn": "12785",
+    "group": "09"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "CS 590",
+    "crn": "11515",
+    "group": "10"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "CS 590",
+    "crn": "13206",
+    "group": "11"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "CS 590",
+    "crn": "13207",
+    "group": "12"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "CS 590",
+    "crn": "12242",
+    "group": "13"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "CS 590",
+    "crn": "13208",
+    "group": "14"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "CS 590",
+    "crn": "13209",
+    "group": "15"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "CS 590",
+    "crn": "12419",
+    "group": "16"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "CS 590",
+    "crn": "11812",
+    "group": "17"
+  },
+  {
+    "name": "Directed Research",
+    "code": "CS 591",
+    "crn": "13406",
+    "group": "01"
+  },
+  {
+    "name": "Directed Research",
+    "code": "CS 591",
+    "crn": "13407",
+    "group": "02"
+  },
+  {
+    "name": "Directed Research",
+    "code": "CS 591",
+    "crn": "13408",
+    "group": "03"
+  },
+  {
+    "name": "Directed Research",
+    "code": "CS 591",
+    "crn": "13409",
+    "group": "04"
+  },
+  {
+    "name": "Directed Research",
+    "code": "CS 591",
+    "crn": "13410",
+    "group": "05"
+  },
+  {
+    "name": "Directed Research",
+    "code": "CS 591",
+    "crn": "13411",
+    "group": "06"
+  },
+  {
+    "name": "Directed Research",
+    "code": "CS 591",
+    "crn": "13434",
+    "group": "07"
+  },
+  {
+    "name": "Ph.D.Dissertation",
+    "code": "CS 790",
+    "crn": "12878",
+    "group": "01"
+  },
+  {
+    "name": "Ph.D.Dissertation",
+    "code": "CS 790",
+    "crn": "12879",
+    "group": "02"
+  },
+  {
+    "name": "Ph.D.Dissertation",
+    "code": "CS 790",
+    "crn": "12880",
+    "group": "03"
+  },
+  {
+    "name": "Ph.D.Dissertation",
+    "code": "CS 790",
+    "crn": "12883",
+    "group": "06"
+  },
+  {
+    "name": "Directed Research I",
+    "code": "CS 791",
+    "crn": "13412",
+    "group": "01"
+  },
+  {
+    "name": "Directed Research I",
+    "code": "CS 791",
+    "crn": "13413",
+    "group": "02"
+  },
+  {
+    "name": "Directed Research I",
+    "code": "CS 791",
+    "crn": "13433",
+    "group": "03"
+  },
+  {
+    "name": "Directed Research I",
+    "code": "CS 791",
+    "crn": "13448",
+    "group": "04"
+  },
+  {
+    "name": "Conflict Analysis and Resolution",
+    "code": "CONF 300",
+    "crn": "11933",
+    "group": "0"
+  },
+  {
+    "name": "International Conflict and Peace",
+    "code": "CONF 400",
+    "crn": "11934",
+    "group": "0"
+  },
+  {
+    "name": "International Conflict and Peace",
+    "code": "CONF 500",
+    "crn": "11935",
+    "group": "0"
+  },
+  {
+    "name": "Globalization and Health Inequalities",
+    "code": "CULT 368",
+    "crn": "12940",
+    "group": "0"
+  },
+  {
+    "name": "Core Issues in Cultural Studies",
+    "code": "CULT 500",
+    "crn": "10259",
+    "group": "0"
+  },
+  {
+    "name": "Cultural Analysis Workshop",
+    "code": "CULT 503",
+    "crn": "11945",
+    "group": "0"
+  },
+  {
+    "name": "Globalization and Health Inequalities",
+    "code": "CULT 568",
+    "crn": "12941",
+    "group": "0"
+  },
+  {
+    "name": "Pro",
+    "code": "CULT 590",
+    "crn": "10261",
+    "group": "0"
+  },
+  {
+    "name": "Master's Thesis",
+    "code": "CULT 599",
+    "crn": "10264",
+    "group": "A"
+  },
+  {
+    "name": "Master's Thesis",
+    "code": "CULT 599",
+    "crn": "10265",
+    "group": "B"
+  },
+  {
+    "name": "Master's Thesis",
+    "code": "CULT 599",
+    "crn": "10266",
+    "group": "C"
+  },
+  {
+    "name": "Master's Thesis",
+    "code": "CULT 599",
+    "crn": "12902",
+    "group": "D"
+  },
+  {
+    "name": "Master's Thesis",
+    "code": "CULT 599",
+    "crn": "13319",
+    "group": "E"
+  },
+  {
+    "name": "Introduction to Data Analytics",
+    "code": "DA 501",
+    "crn": "13307",
+    "group": "0"
+  },
+  {
+    "name": "Applied Statistics",
+    "code": "DA 503",
+    "crn": "13309",
+    "group": "0"
+  },
+  {
+    "name": "Introduction to Data Modeling and Processing",
+    "code": "DA 505",
+    "crn": "13308",
+    "group": "0"
+  },
+  {
+    "name": "Modeling and Optimization",
+    "code": "DA 507",
+    "crn": "13310",
+    "group": "0"
+  },
+  {
+    "name": "Term Project",
+    "code": "DA 592",
+    "crn": "13311",
+    "group": "0"
+  },
+  {
+    "name": "Advanced Programming for Data Science",
+    "code": "DSA 201",
+    "crn": "12641",
+    "group": "0"
+  },
+  {
+    "name": "Advanced Programming for Data Science",
+    "code": "DSA 201R",
+    "crn": "12643",
+    "group": "A1"
+  },
+  {
+    "name": "Advanced Programming for Data Science",
+    "code": "DSA 201R",
+    "crn": "13034",
+    "group": "A2"
+  },
+  {
+    "name": "Advanced Programming for Data Science",
+    "code": "DSA 201R",
+    "crn": "12647",
+    "group": "B"
+  },
+  {
+    "name": "Advanced Programming for Data Science",
+    "code": "DSA 201R",
+    "crn": "13035",
+    "group": "C1"
+  },
+  {
+    "name": "Advanced Programming for Data Science",
+    "code": "DSA 201R",
+    "crn": "13036",
+    "group": "C2"
+  },
+  {
+    "name": "Introduction to Data Science",
+    "code": "DSA 210",
+    "crn": "12655",
+    "group": "A"
+  },
+  {
+    "name": "Introduction to Data Science",
+    "code": "DSA 210",
+    "crn": "12656",
+    "group": "B"
+  },
+  {
+    "name": "Introduction to Data Science Recitation",
+    "code": "DSA 210R",
+    "crn": "12657",
+    "group": "A"
+  },
+  {
+    "name": "Introduction to Data Science Recitation",
+    "code": "DSA 210R",
+    "crn": "12658",
+    "group": "B"
+  },
+  {
+    "name": "Introduction to Data Science Recitation",
+    "code": "DSA 210R",
+    "crn": "12659",
+    "group": "C"
+  },
+  {
+    "name": "Introduction to Data Science Recitation",
+    "code": "DSA 210R",
+    "crn": "12660",
+    "group": "D"
+  },
+  {
+    "name": "Graduate Seminar I",
+    "code": "DS 551",
+    "crn": "11344",
+    "group": "0"
+  },
+  {
+    "name": "Graduate Seminar II",
+    "code": "DS 552",
+    "crn": "13203",
+    "group": "0"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "DS 590",
+    "crn": "13445",
+    "group": "01"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "DS 590",
+    "crn": "12787",
+    "group": "02"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "DS 590",
+    "crn": "11541",
+    "group": "03"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "DS 590",
+    "crn": "11542",
+    "group": "04"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "DS 590",
+    "crn": "12253",
+    "group": "05"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "DS 590",
+    "crn": "11545",
+    "group": "06"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "DS 590",
+    "crn": "13214",
+    "group": "07"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "DS 590",
+    "crn": "12254",
+    "group": "08"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "DS 590",
+    "crn": "12788",
+    "group": "09"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "DS 590",
+    "crn": "13451",
+    "group": "10"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "DS 590",
+    "crn": "13216",
+    "group": "11"
+  },
+  {
+    "name": "Directed Research",
+    "code": "DS 591",
+    "crn": "13414",
+    "group": "01"
+  },
+  {
+    "name": "Directed Research",
+    "code": "DS 591",
+    "crn": "13415",
+    "group": "02"
+  },
+  {
+    "name": "Directed Research",
+    "code": "DS 591",
+    "crn": "13429",
+    "group": "03"
+  },
+  {
+    "name": "Games and Strategies",
+    "code": "ECON 201",
+    "crn": "10229",
+    "group": "A"
+  },
+  {
+    "name": "Games and Strategies",
+    "code": "ECON 201",
+    "crn": "10230",
+    "group": "B"
+  },
+  {
+    "name": "Games and Strategies",
+    "code": "ECON 201",
+    "crn": "12029",
+    "group": "C"
+  },
+  {
+    "name": "Games and Strategies",
+    "code": "ECON 201R",
+    "crn": "10232",
+    "group": "A"
+  },
+  {
+    "name": "Games and Strategies",
+    "code": "ECON 201R",
+    "crn": "10233",
+    "group": "B"
+  },
+  {
+    "name": "Games and Strategies",
+    "code": "ECON 201R",
+    "crn": "12030",
+    "group": "C"
+  },
+  {
+    "name": "Macroeconomics",
+    "code": "ECON 202",
+    "crn": "10235",
+    "group": "A"
+  },
+  {
+    "name": "Macroeconomics",
+    "code": "ECON 202",
+    "crn": "10237",
+    "group": "B"
+  },
+  {
+    "name": "Macroeconomics",
+    "code": "ECON 202",
+    "crn": "10238",
+    "group": "C"
+  },
+  {
+    "name": "Macroeconomics",
+    "code": "ECON 202R",
+    "crn": "10240",
+    "group": "A"
+  },
+  {
+    "name": "Macroeconomics",
+    "code": "ECON 202R",
+    "crn": "10242",
+    "group": "B"
+  },
+  {
+    "name": "Macroeconomics",
+    "code": "ECON 202R",
+    "crn": "10243",
+    "group": "C"
+  },
+  {
+    "name": "Microeconomics",
+    "code": "ECON 204",
+    "crn": "10245",
+    "group": "A"
+  },
+  {
+    "name": "Microeconomics",
+    "code": "ECON 204",
+    "crn": "10246",
+    "group": "B"
+  },
+  {
+    "name": "Microeconomics",
+    "code": "ECON 204R",
+    "crn": "10251",
+    "group": "A"
+  },
+  {
+    "name": "Microeconomics",
+    "code": "ECON 204R",
+    "crn": "10252",
+    "group": "B"
+  },
+  {
+    "name": "Project and Internship",
+    "code": "ECON 300",
+    "crn": "13392",
+    "group": "0"
+  },
+  {
+    "name": "Econometrics",
+    "code": "ECON 301",
+    "crn": "10256",
+    "group": "0"
+  },
+  {
+    "name": "Econometrics",
+    "code": "ECON 301R",
+    "crn": "10258",
+    "group": "0"
+  },
+  {
+    "name": "Industrial Organization",
+    "code": "ECON 330",
+    "crn": "12460",
+    "group": "0"
+  },
+  {
+    "name": "Industrial Organization",
+    "code": "ECON 330R",
+    "crn": "12462",
+    "group": "0"
+  },
+  {
+    "name": "Financial Institutions and Markets",
+    "code": "ECON 350",
+    "crn": "12943",
+    "group": "0"
+  },
+  {
+    "name": "Applied Econometrics",
+    "code": "ECON 401",
+    "crn": "11960",
+    "group": "0"
+  },
+  {
+    "name": "Law and Economics",
+    "code": "ECON 405",
+    "crn": "10295",
+    "group": "0"
+  },
+  {
+    "name": "Growth and Development",
+    "code": "ECON 420",
+    "crn": "10296",
+    "group": "0"
+  },
+  {
+    "name": "Labor Economics",
+    "code": "ECON 430",
+    "crn": "10297",
+    "group": "0"
+  },
+  {
+    "name": "Spatial Data Science",
+    "code": "ECON 494",
+    "crn": "12949",
+    "group": "0"
+  },
+  {
+    "name": "Microeconomics I",
+    "code": "ECON 501",
+    "crn": "10302",
+    "group": "0"
+  },
+  {
+    "name": "Microeconomics I",
+    "code": "ECON 501R",
+    "crn": "10304",
+    "group": "0"
+  },
+  {
+    "name": "Macroeconomics I",
+    "code": "ECON 503",
+    "crn": "10307",
+    "group": "0"
+  },
+  {
+    "name": "Macroeconomics I",
+    "code": "ECON 503R",
+    "crn": "10308",
+    "group": "0"
+  },
+  {
+    "name": "Quantitative Methods",
+    "code": "ECON 505",
+    "crn": "10309",
+    "group": "0"
+  },
+  {
+    "name": "Quantitative Methods",
+    "code": "ECON 505R",
+    "crn": "10310",
+    "group": "0"
+  },
+  {
+    "name": "Seminar I",
+    "code": "ECON 591",
+    "crn": "10311",
+    "group": "0"
+  },
+  {
+    "name": "Advanced Macroeconomics",
+    "code": "ECON 603",
+    "crn": "12463",
+    "group": "0"
+  },
+  {
+    "name": "Applied Econometrics",
+    "code": "ECON 604",
+    "crn": "11961",
+    "group": "0"
+  },
+  {
+    "name": "Discrete Choice Methods",
+    "code": "ECON 635",
+    "crn": "12952",
+    "group": "0"
+  },
+  {
+    "name": "Seminar III",
+    "code": "ECON 691",
+    "crn": "10312",
+    "group": "0"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "ECON 699",
+    "crn": "10314",
+    "group": "A"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "ECON 699",
+    "crn": "10316",
+    "group": "C"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "ECON 699",
+    "crn": "10319",
+    "group": "D"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "ECON 699",
+    "crn": "13089",
+    "group": "E"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "ECON 699",
+    "crn": "13090",
+    "group": "F"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "ECON 699",
+    "crn": "13318",
+    "group": "G"
+  },
+  {
+    "name": "PhD Dissertation",
+    "code": "ECON 799",
+    "crn": "13085",
+    "group": "A"
+  },
+  {
+    "name": "PhD Dissertation",
+    "code": "ECON 799",
+    "crn": "13086",
+    "group": "B"
+  },
+  {
+    "name": "PhD Dissertation",
+    "code": "ECON 799",
+    "crn": "13088",
+    "group": "D"
+  },
+  {
+    "name": "Analog Integrated Circuits",
+    "code": "EE 303",
+    "crn": "10346",
+    "group": "0"
+  },
+  {
+    "name": "Analog Integrated Circuits",
+    "code": "EE 303R",
+    "crn": "10347",
+    "group": "A1"
+  },
+  {
+    "name": "Analog Integrated Circuits",
+    "code": "EE 303R",
+    "crn": "13029",
+    "group": "A2"
+  },
+  {
+    "name": "Semiconductor Physics and Devices",
+    "code": "EE 307",
+    "crn": "10349",
+    "group": "0"
+  },
+  {
+    "name": "Semiconductor Physics and Devices",
+    "code": "EE 307R",
+    "crn": "11148",
+    "group": "A"
+  },
+  {
+    "name": "Semiconductor Physics and Devices",
+    "code": "EE 307R",
+    "crn": "13030",
+    "group": "B"
+  },
+  {
+    "name": "Introduction to Signal Processing and Information Systems",
+    "code": "EE 311",
+    "crn": "10350",
+    "group": "0"
+  },
+  {
+    "name": "Introduction to Signal Processing and Information Systems",
+    "code": "EE 311R",
+    "crn": "10352",
+    "group": "0"
+  },
+  {
+    "name": "Introduction to Communication Systems",
+    "code": "EE 313",
+    "crn": "10355",
+    "group": "0"
+  },
+  {
+    "name": "Introduction to Communication Systems",
+    "code": "EE 313R",
+    "crn": "12131",
+    "group": "0"
+  },
+  {
+    "name": "Very Large Scale Integrated System Design I",
+    "code": "EE 401",
+    "crn": "10365",
+    "group": "0"
+  },
+  {
+    "name": "VLSI Systems Design I Lab",
+    "code": "EE 401L",
+    "crn": "10362",
+    "group": "0"
+  },
+  {
+    "name": "Optoelectronics",
+    "code": "EE 403",
+    "crn": "12963",
+    "group": "0"
+  },
+  {
+    "name": "Optoelectronics",
+    "code": "EE 403R",
+    "crn": "12964",
+    "group": "0"
+  },
+  {
+    "name": "Microelectronic Fabrication",
+    "code": "EE 407",
+    "crn": "10367",
+    "group": "0"
+  },
+  {
+    "name": "Microelectronic Fabrication",
+    "code": "EE 407L",
+    "crn": "10369",
+    "group": "A"
+  },
+  {
+    "name": "Microelectronic Fabrication",
+    "code": "EE 407L",
+    "crn": "11216",
+    "group": "B"
+  },
+  {
+    "name": "Microelectronic Fabrication",
+    "code": "EE 407L",
+    "crn": "12034",
+    "group": "C"
+  },
+  {
+    "name": "Microelectronic Fabrication",
+    "code": "EE 407L",
+    "crn": "11219",
+    "group": "D"
+  },
+  {
+    "name": "Microelectronic Fabrication",
+    "code": "EE 407L",
+    "crn": "12549",
+    "group": "F"
+  },
+  {
+    "name": "RF Integrated Circuits.",
+    "code": "EE 411",
+    "crn": "10380",
+    "group": "0"
+  },
+  {
+    "name": "RF Integrated Circuits Lab.",
+    "code": "EE 411L",
+    "crn": "10382",
+    "group": "0"
+  },
+  {
+    "name": "Multimedia  Communication",
+    "code": "EE 414",
+    "crn": "10395",
+    "group": "0"
+  },
+  {
+    "name": "Multimedia Communication",
+    "code": "EE 414R",
+    "crn": "12464",
+    "group": "0"
+  },
+  {
+    "name": "Biomedical Instrumentation",
+    "code": "EE 473",
+    "crn": "12967",
+    "group": "0"
+  },
+  {
+    "name": "Biomedical Instrumentation Lab",
+    "code": "EE 473L",
+    "crn": "12971",
+    "group": "0"
+  },
+  {
+    "name": "Special Topics in EE: Machine Learning for Communication Systems",
+    "code": "EE 48009",
+    "crn": "12972",
+    "group": "0"
+  },
+  {
+    "name": "Semiconductor Process Technology",
+    "code": "EE 533",
+    "crn": "10368",
+    "group": "0"
+  },
+  {
+    "name": "Semiconductor Process Technology Lab..",
+    "code": "EE 533L",
+    "crn": "12550",
+    "group": "A"
+  },
+  {
+    "name": "Semiconductor Process Technology Lab..",
+    "code": "EE 533L",
+    "crn": "10371",
+    "group": "B"
+  },
+  {
+    "name": "Semiconductor Process Technology Lab..",
+    "code": "EE 533L",
+    "crn": "12551",
+    "group": "C"
+  },
+  {
+    "name": "Semiconductor Process Technology Lab..",
+    "code": "EE 533L",
+    "crn": "12036",
+    "group": "D"
+  },
+  {
+    "name": "Semiconductor Process Technology Lab..",
+    "code": "EE 533L",
+    "crn": "12553",
+    "group": "F"
+  },
+  {
+    "name": "Random Processes",
+    "code": "EE 550",
+    "crn": "10406",
+    "group": "0"
+  },
+  {
+    "name": "Graduate Seminar I",
+    "code": "EE 551",
+    "crn": "11328",
+    "group": "0"
+  },
+  {
+    "name": "Nano",
+    "code": "EE 567",
+    "crn": "11966",
+    "group": "0"
+  },
+  {
+    "name": "Detection and Estimation Theory",
+    "code": "EE 568",
+    "crn": "12973",
+    "group": "0"
+  },
+  {
+    "name": "Linear Systems",
+    "code": "EE 571",
+    "crn": "12467",
+    "group": "0"
+  },
+  {
+    "name": "Biomedical Instrumentation",
+    "code": "EE 573",
+    "crn": "12968",
+    "group": "0"
+  },
+  {
+    "name": "Special Topics in EE: VLSI Systems Design I",
+    "code": "EE 58003",
+    "crn": "12468",
+    "group": "0"
+  },
+  {
+    "name": "Machine Learning for Communication Systems",
+    "code": "EE 58009",
+    "crn": "13431",
+    "group": "0"
+  },
+  {
+    "name": "Special Topics in EE:Millimeter",
+    "code": "EE 5807",
+    "crn": "12974",
+    "group": "0"
+  },
+  {
+    "name": "Special Topics in EE: Millimeter",
+    "code": "EE 5807R",
+    "crn": "12976",
+    "group": "0"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "EE 590",
+    "crn": "12791",
+    "group": "01"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "EE 590",
+    "crn": "13443",
+    "group": "02"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "EE 590",
+    "crn": "12256",
+    "group": "03"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "EE 590",
+    "crn": "13218",
+    "group": "04"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "EE 590",
+    "crn": "11554",
+    "group": "06"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "EE 590",
+    "crn": "13220",
+    "group": "08"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "EE 590",
+    "crn": "13221",
+    "group": "09"
+  },
+  {
+    "name": "Directed Research",
+    "code": "EE 591",
+    "crn": "13416",
+    "group": "0"
+  },
+  {
+    "name": "Microwave Devices and Circuits",
+    "code": "EE 633",
+    "crn": "11967",
+    "group": "0"
+  },
+  {
+    "name": "System Identification",
+    "code": "EE 672",
+    "crn": "12977",
+    "group": "0"
+  },
+  {
+    "name": "Ph.D.Dissertation",
+    "code": "EE 790",
+    "crn": "12886",
+    "group": "02"
+  },
+  {
+    "name": "Ph.D.Dissertation",
+    "code": "EE 790",
+    "crn": "11564",
+    "group": "03"
+  },
+  {
+    "name": "Graduate Seminar I",
+    "code": "ETM 551",
+    "crn": "13205",
+    "group": "0"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "ETM 590",
+    "crn": "13222",
+    "group": "0"
+  },
+  {
+    "name": "Energy",
+    "code": "ENRG 315",
+    "crn": "12163",
+    "group": "0"
+  },
+  {
+    "name": "Energy Systems Optimization",
+    "code": "ENRG 420",
+    "crn": "12151",
+    "group": "0"
+  },
+  {
+    "name": "Cell Design, Modelling and Battery Pack Development",
+    "code": "ENRG 424",
+    "crn": "12978",
+    "group": "0"
+  },
+  {
+    "name": "Cell Design, Modelling and Battery Pack Development",
+    "code": "ENRG 424L",
+    "crn": "12980",
+    "group": "0"
+  },
+  {
+    "name": "Energy Systems Optimization",
+    "code": "ENRG 520",
+    "crn": "12154",
+    "group": "0"
+  },
+  {
+    "name": "Cell Design, Modelling and Battery Pack Development",
+    "code": "ENRG 524",
+    "crn": "13334",
+    "group": "0"
+  },
+  {
+    "name": "Cell Design, Modelling and Battery Pack Development Lab.",
+    "code": "ENRG 524L",
+    "crn": "13335",
+    "group": "0"
+  },
+  {
+    "name": "Thermodynamics",
+    "code": "ENS 202",
+    "crn": "10335",
+    "group": "0"
+  },
+  {
+    "name": "Thermodynamics",
+    "code": "ENS 202R",
+    "crn": "10336",
+    "group": "0"
+  },
+  {
+    "name": "Electronic Circuits I",
+    "code": "ENS 203",
+    "crn": "10337",
+    "group": "0"
+  },
+  {
+    "name": "Electronic Circuits I",
+    "code": "ENS 203R",
+    "crn": "10338",
+    "group": "A1"
+  },
+  {
+    "name": "Electronic Circuits I",
+    "code": "ENS 203R",
+    "crn": "10339",
+    "group": "A2"
+  },
+  {
+    "name": "Electronic Circuits I",
+    "code": "ENS 203R",
+    "crn": "10340",
+    "group": "B1"
+  },
+  {
+    "name": "Electronic Circuits I",
+    "code": "ENS 203R",
+    "crn": "10341",
+    "group": "B2"
+  },
+  {
+    "name": "Mechanics",
+    "code": "ENS 204",
+    "crn": "10342",
+    "group": "0"
+  },
+  {
+    "name": "Mechanics",
+    "code": "ENS 204R",
+    "crn": "10343",
+    "group": "A1"
+  },
+  {
+    "name": "Mechanics",
+    "code": "ENS 204R",
+    "crn": "10344",
+    "group": "A2"
+  },
+  {
+    "name": "Introduction to Materials Science",
+    "code": "ENS 205",
+    "crn": "10345",
+    "group": "0"
+  },
+  {
+    "name": "Introduction to Materials Science",
+    "code": "ENS 205R",
+    "crn": "13052",
+    "group": "A"
+  },
+  {
+    "name": "Introduction to Materials Science",
+    "code": "ENS 205R",
+    "crn": "13049",
+    "group": "B"
+  },
+  {
+    "name": "Introduction to Materials Science",
+    "code": "ENS 205R",
+    "crn": "13046",
+    "group": "C"
+  },
+  {
+    "name": "Introduction to Materials Science",
+    "code": "ENS 205R",
+    "crn": "13042",
+    "group": "D"
+  },
+  {
+    "name": "Introduction to Materials Science",
+    "code": "ENS 205R",
+    "crn": "10351",
+    "group": "E"
+  },
+  {
+    "name": "Introduction to Energy Systems",
+    "code": "ENS 207",
+    "crn": "10413",
+    "group": "0"
+  },
+  {
+    "name": "Introduction to Energy Systems",
+    "code": "ENS 207R",
+    "crn": "10414",
+    "group": "0"
+  },
+  {
+    "name": "Introduction to Industrial Engineering",
+    "code": "ENS 208",
+    "crn": "10374",
+    "group": "A"
+  },
+  {
+    "name": "Introduction to Industrial Engineering",
+    "code": "ENS 208",
+    "crn": "10376",
+    "group": "B"
+  },
+  {
+    "name": "Introduction to Industrial Engineering Recitation",
+    "code": "ENS 208R",
+    "crn": "10383",
+    "group": "A"
+  },
+  {
+    "name": "Introduction to Industrial Engineering Recitation",
+    "code": "ENS 208R",
+    "crn": "10384",
+    "group": "B"
+  },
+  {
+    "name": "Introduction to Computer Aided Drafting and Solid Modeling",
+    "code": "ENS 209",
+    "crn": "10387",
+    "group": "0"
+  },
+  {
+    "name": "Introduction to Computer Aided Drafting and Solid Modeling",
+    "code": "ENS 209L",
+    "crn": "10391",
+    "group": "A"
+  },
+  {
+    "name": "Introduction to Computer Aided Drafting and Solid Modeling",
+    "code": "ENS 209L",
+    "crn": "10397",
+    "group": "B"
+  },
+  {
+    "name": "Introduction to Computer Aided Drafting and Solid Modeling",
+    "code": "ENS 209R",
+    "crn": "10401",
+    "group": "A"
+  },
+  {
+    "name": "Introduction to Computer Aided Drafting and Solid Modeling",
+    "code": "ENS 209R",
+    "crn": "10407",
+    "group": "B"
+  },
+  {
+    "name": "Computational Biology",
+    "code": "ENS 210",
+    "crn": "10420",
+    "group": "0"
+  },
+  {
+    "name": "Computational Biology",
+    "code": "ENS 210L",
+    "crn": "10424",
+    "group": "0"
+  },
+  {
+    "name": "Signals",
+    "code": "ENS 211",
+    "crn": "10418",
+    "group": "0"
+  },
+  {
+    "name": "Signals",
+    "code": "ENS 211R",
+    "crn": "10419",
+    "group": "A1"
+  },
+  {
+    "name": "Signals",
+    "code": "ENS 211R",
+    "crn": "10421",
+    "group": "A2"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12668",
+    "group": "01"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11350",
+    "group": "02"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11351",
+    "group": "03"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11352",
+    "group": "04"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13144",
+    "group": "05"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13145",
+    "group": "06"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13146",
+    "group": "07"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12670",
+    "group": "08"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11357",
+    "group": "09"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11358",
+    "group": "10"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13197",
+    "group": "100"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13321",
+    "group": "101"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13333",
+    "group": "102"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13336",
+    "group": "103"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13380",
+    "group": "104"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13388",
+    "group": "105"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13147",
+    "group": "11"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13149",
+    "group": "12"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11361",
+    "group": "13"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11362",
+    "group": "14"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12198",
+    "group": "15"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13152",
+    "group": "16"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13153",
+    "group": "17"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12673",
+    "group": "18"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13154",
+    "group": "19"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12675",
+    "group": "20"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12201",
+    "group": "21"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11370",
+    "group": "22"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12910",
+    "group": "23"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11372",
+    "group": "24"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13155",
+    "group": "25"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12913",
+    "group": "26"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12678",
+    "group": "27"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13156",
+    "group": "28"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13161",
+    "group": "29"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13157",
+    "group": "30"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13162",
+    "group": "31"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13163",
+    "group": "32"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12683",
+    "group": "33"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12684",
+    "group": "34"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12685",
+    "group": "35"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11388",
+    "group": "36"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12686",
+    "group": "37"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11390",
+    "group": "38"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13164",
+    "group": "39"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11392",
+    "group": "40"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13165",
+    "group": "41"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12688",
+    "group": "42"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13166",
+    "group": "43"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12209",
+    "group": "44"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12719",
+    "group": "45"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13167",
+    "group": "46"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13168",
+    "group": "47"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12717",
+    "group": "48"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12212",
+    "group": "49"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13169",
+    "group": "50"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12213",
+    "group": "51"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12214",
+    "group": "52"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11406",
+    "group": "53"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11832",
+    "group": "54"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13170",
+    "group": "55"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11409",
+    "group": "56"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13171",
+    "group": "57"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11410",
+    "group": "58"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11411",
+    "group": "59"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12718",
+    "group": "60"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13172",
+    "group": "61"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12691",
+    "group": "62"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11435",
+    "group": "63"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13173",
+    "group": "64"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11438",
+    "group": "65"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11441",
+    "group": "66"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11442",
+    "group": "67"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11444",
+    "group": "68"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13174",
+    "group": "69"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12692",
+    "group": "70"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13175",
+    "group": "71"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11453",
+    "group": "72"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11455",
+    "group": "73"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13176",
+    "group": "74"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13181",
+    "group": "75"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "11810",
+    "group": "76"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13317",
+    "group": "77"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13182",
+    "group": "78"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12425",
+    "group": "79"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12444",
+    "group": "81"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13183",
+    "group": "82"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13184",
+    "group": "83"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12698",
+    "group": "84"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12699",
+    "group": "85"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13185",
+    "group": "86"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13186",
+    "group": "87"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13187",
+    "group": "88"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13188",
+    "group": "89"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13189",
+    "group": "90"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12705",
+    "group": "91"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12706",
+    "group": "92"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12708",
+    "group": "94"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13190",
+    "group": "95"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13191",
+    "group": "96"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "13192",
+    "group": "97"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12712",
+    "group": "98"
+  },
+  {
+    "name": "Graduation Project (Design)",
+    "code": "ENS 491",
+    "crn": "12906",
+    "group": "99"
+  },
+  {
+    "name": "Graduation Project: Case Study Session",
+    "code": "ENS 491R",
+    "crn": "13193",
+    "group": "A"
+  },
+  {
+    "name": "Graduation Project: Case Study Session",
+    "code": "ENS 491R",
+    "crn": "13194",
+    "group": "B"
+  },
+  {
+    "name": "Graduation Project: Case Study Session",
+    "code": "ENS 491R",
+    "crn": "13195",
+    "group": "C"
+  },
+  {
+    "name": "Graduation Project: Case Study Session",
+    "code": "ENS 491R",
+    "crn": "13196",
+    "group": "D"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "11242",
+    "group": "01"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "11243",
+    "group": "02"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "11244",
+    "group": "03"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "11245",
+    "group": "04"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "12611",
+    "group": "05"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "11247",
+    "group": "06"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "11248",
+    "group": "07"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "11249",
+    "group": "08"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "11250",
+    "group": "09"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "11251",
+    "group": "10"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "13135",
+    "group": "11"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "11260",
+    "group": "12"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "13136",
+    "group": "13"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "13137",
+    "group": "14"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "13138",
+    "group": "15"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "11264",
+    "group": "16"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "11265",
+    "group": "17"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "11266",
+    "group": "18"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "11267",
+    "group": "19"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "13139",
+    "group": "20"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "11278",
+    "group": "21"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "13140",
+    "group": "22"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "12911",
+    "group": "23"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "11272",
+    "group": "24"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "11273",
+    "group": "25"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "12414",
+    "group": "26"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "12427",
+    "group": "27"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "12612",
+    "group": "28"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "12613",
+    "group": "29"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "12614",
+    "group": "30"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "12912",
+    "group": "31"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "12616",
+    "group": "32"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "12617",
+    "group": "33"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "12607",
+    "group": "34"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "12608",
+    "group": "35"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "12654",
+    "group": "36"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "12662",
+    "group": "37"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "12735",
+    "group": "38"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "12897",
+    "group": "39"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "12905",
+    "group": "40"
+  },
+  {
+    "name": "Graduation Project  (Implementation)",
+    "code": "ENS 492",
+    "crn": "12907",
+    "group": "41"
+  },
+  {
+    "name": "Mathematical Methods for Scientists and Engineers I",
+    "code": "ENS 525",
+    "crn": "12597",
+    "group": "0"
+  },
+  {
+    "name": "English Route 1",
+    "code": "ENG 0001",
+    "crn": "13337",
+    "group": "1A1"
+  },
+  {
+    "name": "English Route 1",
+    "code": "ENG 0001",
+    "crn": "13338",
+    "group": "1B1"
+  },
+  {
+    "name": "English Route 1",
+    "code": "ENG 0001",
+    "crn": "13339",
+    "group": "1C1"
+  },
+  {
+    "name": "English Route 1",
+    "code": "ENG 0001",
+    "crn": "13340",
+    "group": "1D1"
+  },
+  {
+    "name": "English Route 1",
+    "code": "ENG 0001",
+    "crn": "13341",
+    "group": "1E1"
+  },
+  {
+    "name": "English Route 2",
+    "code": "ENG 0002",
+    "crn": "13342",
+    "group": "2A1"
+  },
+  {
+    "name": "English Route 2",
+    "code": "ENG 0002",
+    "crn": "13343",
+    "group": "2B1"
+  },
+  {
+    "name": "English Route 2",
+    "code": "ENG 0002",
+    "crn": "13344",
+    "group": "2C1"
+  },
+  {
+    "name": "English Route 2",
+    "code": "ENG 0002",
+    "crn": "13345",
+    "group": "2D1"
+  },
+  {
+    "name": "English Route 2",
+    "code": "ENG 0002",
+    "crn": "13346",
+    "group": "2E1"
+  },
+  {
+    "name": "English Route 2",
+    "code": "ENG 0002",
+    "crn": "13347",
+    "group": "2F1"
+  },
+  {
+    "name": "English Route 3",
+    "code": "ENG 0003",
+    "crn": "13348",
+    "group": "3A1"
+  },
+  {
+    "name": "English Route 3",
+    "code": "ENG 0003",
+    "crn": "13349",
+    "group": "3B1"
+  },
+  {
+    "name": "English Route 3",
+    "code": "ENG 0003",
+    "crn": "13350",
+    "group": "3C1"
+  },
+  {
+    "name": "English Route 3",
+    "code": "ENG 0003",
+    "crn": "13351",
+    "group": "3D1"
+  },
+  {
+    "name": "English Route 3",
+    "code": "ENG 0003",
+    "crn": "13352",
+    "group": "3E1"
+  },
+  {
+    "name": "English Route 3",
+    "code": "ENG 0003",
+    "crn": "13353",
+    "group": "3F1"
+  },
+  {
+    "name": "English Route 3",
+    "code": "ENG 0003",
+    "crn": "13354",
+    "group": "3G1"
+  },
+  {
+    "name": "English Route 3",
+    "code": "ENG 0003",
+    "crn": "13355",
+    "group": "3H1"
+  },
+  {
+    "name": "English Route 3",
+    "code": "ENG 0003",
+    "crn": "13356",
+    "group": "3J1"
+  },
+  {
+    "name": "English Route 3",
+    "code": "ENG 0003",
+    "crn": "13357",
+    "group": "3K1"
+  },
+  {
+    "name": "English Route 3",
+    "code": "ENG 0003",
+    "crn": "13358",
+    "group": "3L1"
+  },
+  {
+    "name": "English Route 4",
+    "code": "ENG 0004",
+    "crn": "13359",
+    "group": "4A1"
+  },
+  {
+    "name": "English Route 4",
+    "code": "ENG 0004",
+    "crn": "13360",
+    "group": "4B1"
+  },
+  {
+    "name": "English Route 4",
+    "code": "ENG 0004",
+    "crn": "13361",
+    "group": "4C1"
+  },
+  {
+    "name": "English Route 4",
+    "code": "ENG 0004",
+    "crn": "13362",
+    "group": "4D1"
+  },
+  {
+    "name": "English Route 4",
+    "code": "ENG 0004",
+    "crn": "13363",
+    "group": "4E1"
+  },
+  {
+    "name": "English Route 4",
+    "code": "ENG 0004",
+    "crn": "13364",
+    "group": "4F1"
+  },
+  {
+    "name": "English Route 4",
+    "code": "ENG 0004",
+    "crn": "13365",
+    "group": "4G1"
+  },
+  {
+    "name": "English Route 4",
+    "code": "ENG 0004",
+    "crn": "13366",
+    "group": "4H1"
+  },
+  {
+    "name": "English Route 4",
+    "code": "ENG 0004",
+    "crn": "13367",
+    "group": "4J1"
+  },
+  {
+    "name": "English Route 4",
+    "code": "ENG 0004",
+    "crn": "13368",
+    "group": "4K1"
+  },
+  {
+    "name": "English Route 4",
+    "code": "ENG 0004",
+    "crn": "13369",
+    "group": "4L1"
+  },
+  {
+    "name": "English Route 4",
+    "code": "ENG 0004",
+    "crn": "13370",
+    "group": "4M1"
+  },
+  {
+    "name": "English Route 4",
+    "code": "ENG 0004",
+    "crn": "13371",
+    "group": "4N1"
+  },
+  {
+    "name": "English Route 4",
+    "code": "ENG 0004",
+    "crn": "13372",
+    "group": "4O1"
+  },
+  {
+    "name": "English Route 4",
+    "code": "ENG 0004",
+    "crn": "13373",
+    "group": "4P1"
+  },
+  {
+    "name": "English Route 4",
+    "code": "ENG 0004",
+    "crn": "13374",
+    "group": "4Q1"
+  },
+  {
+    "name": "English Route 4",
+    "code": "ENG 0004",
+    "crn": "13375",
+    "group": "4R1"
+  },
+  {
+    "name": "English Route 4",
+    "code": "ENG 0004",
+    "crn": "13376",
+    "group": "4S1"
+  },
+  {
+    "name": "English Route 4",
+    "code": "ENG 0004",
+    "crn": "13377",
+    "group": "4T1"
+  },
+  {
+    "name": "English Route 4",
+    "code": "ENG 0004",
+    "crn": "13378",
+    "group": "4U1"
+  },
+  {
+    "name": "English Route 4",
+    "code": "ENG 0004",
+    "crn": "13379",
+    "group": "4V1"
+  },
+  {
+    "name": "Professional Communication Skills in English",
+    "code": "ENG 300",
+    "crn": "10332",
+    "group": "A"
+  },
+  {
+    "name": "Professional Communication Skills in English",
+    "code": "ENG 300",
+    "crn": "10334",
+    "group": "B"
+  },
+  {
+    "name": "Financial Management",
+    "code": "FIN 301",
+    "crn": "10429",
+    "group": "0"
+  },
+  {
+    "name": "Financial Management",
+    "code": "FIN 301R",
+    "crn": "13226",
+    "group": "0"
+  },
+  {
+    "name": "Corporate Finance",
+    "code": "FIN 401",
+    "crn": "10434",
+    "group": "0"
+  },
+  {
+    "name": "Derivative Securities",
+    "code": "FIN 403",
+    "crn": "10436",
+    "group": "0"
+  },
+  {
+    "name": "Corporate Mergers & Acquisitions",
+    "code": "FIN 405",
+    "crn": "13067",
+    "group": "0"
+  },
+  {
+    "name": "Behavioral Finance",
+    "code": "FIN 406",
+    "crn": "12988",
+    "group": "0"
+  },
+  {
+    "name": "Wealth Management",
+    "code": "FIN 499",
+    "crn": "10441",
+    "group": "0"
+  },
+  {
+    "name": "Accounting & Financial Statement Analysis",
+    "code": "MFIN 850",
+    "crn": "13275",
+    "group": "0"
+  },
+  {
+    "name": "Corporate Finance",
+    "code": "MFIN 851",
+    "crn": "13276",
+    "group": "0"
+  },
+  {
+    "name": "Economics for Managers",
+    "code": "MFIN 859",
+    "crn": "13277",
+    "group": "0"
+  },
+  {
+    "name": "Quantitative Methods",
+    "code": "MFIN 860",
+    "crn": "13278",
+    "group": "0"
+  },
+  {
+    "name": "Gender and Society",
+    "code": "GEN 341",
+    "crn": "10442",
+    "group": "0"
+  },
+  {
+    "name": "Gender and Society",
+    "code": "GEN 341D",
+    "crn": "10443",
+    "group": "0"
+  },
+  {
+    "name": "Migrations and the Family",
+    "code": "GEN 385",
+    "crn": "12991",
+    "group": "0"
+  },
+  {
+    "name": "Independent Study in Gender Studies",
+    "code": "GEN 399",
+    "crn": "12622",
+    "group": "0"
+  },
+  {
+    "name": "Migrations and the Family",
+    "code": "GEN 585",
+    "crn": "12992",
+    "group": "0"
+  },
+  {
+    "name": "PhD Thesis",
+    "code": "GEN 699",
+    "crn": "12903",
+    "group": "A"
+  },
+  {
+    "name": "PhD Thesis",
+    "code": "GEN 699",
+    "crn": "13084",
+    "group": "B"
+  },
+  {
+    "name": "Readings and Research on Gender",
+    "code": "GEN 700",
+    "crn": "11976",
+    "group": "0"
+  },
+  {
+    "name": "Basic German I",
+    "code": "GER 110",
+    "crn": "12581",
+    "group": "0"
+  },
+  {
+    "name": "Basic German I Discussion",
+    "code": "GER 110D",
+    "crn": "12584",
+    "group": "0"
+  },
+  {
+    "name": "Classical Mythology in Art",
+    "code": "HART 234",
+    "crn": "10456",
+    "group": "0"
+  },
+  {
+    "name": "From Modern to Contemporary Art",
+    "code": "HART 292",
+    "crn": "12003",
+    "group": "0"
+  },
+  {
+    "name": "Principles of Atatürk and the History of the Turkish Revolution I",
+    "code": "HIST 191",
+    "crn": "10654",
+    "group": "A"
+  },
+  {
+    "name": "Principles of Atatürk and the History of the Turkish Revolution I",
+    "code": "HIST 191",
+    "crn": "10655",
+    "group": "B"
+  },
+  {
+    "name": "Principles of Atatürk and the History of the Turkish Revolution I",
+    "code": "HIST 191",
+    "crn": "10656",
+    "group": "Y"
+  },
+  {
+    "name": "Principles of Atatürk and the History of the Turkish Revolution II",
+    "code": "HIST 192",
+    "crn": "10658",
+    "group": "Y"
+  },
+  {
+    "name": "Principles of Atatürk and the History of the Turkish Revolution II",
+    "code": "HIST 192",
+    "crn": "10657",
+    "group": "0"
+  },
+  {
+    "name": "From Empire to Republic : Turkish Nationalism and the Nation",
+    "code": "HIST 489",
+    "crn": "10457",
+    "group": "0"
+  },
+  {
+    "name": "M.A. Pro",
+    "code": "HIST 500",
+    "crn": "10459",
+    "group": "0"
+  },
+  {
+    "name": "Explorations in World History I",
+    "code": "HIST 501",
+    "crn": "10460",
+    "group": "0"
+  },
+  {
+    "name": "Sources and Methods for Ottoman History, 1450",
+    "code": "HIST 561",
+    "crn": "13129",
+    "group": "0"
+  },
+  {
+    "name": "From Empire to Republic : Turkish Nationalism and the Nation",
+    "code": "HIST 589",
+    "crn": "10458",
+    "group": "0"
+  },
+  {
+    "name": "Master's Thesis",
+    "code": "HIST 599",
+    "crn": "10467",
+    "group": "A"
+  },
+  {
+    "name": "Master's Thesis",
+    "code": "HIST 599",
+    "crn": "10468",
+    "group": "B"
+  },
+  {
+    "name": "Master's Thesis",
+    "code": "HIST 599",
+    "crn": "10471",
+    "group": "C"
+  },
+  {
+    "name": "PhD Pro",
+    "code": "HIST 600",
+    "crn": "13141",
+    "group": "0"
+  },
+  {
+    "name": "Politics and Society  in Ottoman Cities, 16th",
+    "code": "HIST 682",
+    "crn": "12997",
+    "group": "0"
+  },
+  {
+    "name": "PhD Thesis",
+    "code": "HIST 699",
+    "crn": "10472",
+    "group": "A"
+  },
+  {
+    "name": "Major Works of Literature",
+    "code": "HUM 201",
+    "crn": "10660",
+    "group": "0"
+  },
+  {
+    "name": "Major Works of Literature – Discussion",
+    "code": "HUM 201D",
+    "crn": "10661",
+    "group": "A1"
+  },
+  {
+    "name": "Major Works of Literature – Discussion",
+    "code": "HUM 201D",
+    "crn": "10662",
+    "group": "A2"
+  },
+  {
+    "name": "Major Works of Literature – Discussion",
+    "code": "HUM 201D",
+    "crn": "10664",
+    "group": "B1"
+  },
+  {
+    "name": "Major Works of Literature – Discussion",
+    "code": "HUM 201D",
+    "crn": "10665",
+    "group": "B2"
+  },
+  {
+    "name": "Major Works of Literature – Discussion",
+    "code": "HUM 201D",
+    "crn": "10667",
+    "group": "C1"
+  },
+  {
+    "name": "Major Works of Literature – Discussion",
+    "code": "HUM 201D",
+    "crn": "13110",
+    "group": "C2"
+  },
+  {
+    "name": "Major Works of Literature – Discussion",
+    "code": "HUM 201D",
+    "crn": "13111",
+    "group": "C3"
+  },
+  {
+    "name": "Major Works of Literature – Discussion",
+    "code": "HUM 201D",
+    "crn": "10668",
+    "group": "D1"
+  },
+  {
+    "name": "Major Works of Literature – Discussion",
+    "code": "HUM 201D",
+    "crn": "13112",
+    "group": "D2"
+  },
+  {
+    "name": "Major Works of Literature – Discussion",
+    "code": "HUM 201D",
+    "crn": "13113",
+    "group": "D3"
+  },
+  {
+    "name": "Major Works of Western Art",
+    "code": "HUM 202",
+    "crn": "10681",
+    "group": "0"
+  },
+  {
+    "name": "Major Works of Western Art",
+    "code": "HUM 202D",
+    "crn": "10682",
+    "group": "A1"
+  },
+  {
+    "name": "Major Works of Western Art",
+    "code": "HUM 202D",
+    "crn": "10683",
+    "group": "A2"
+  },
+  {
+    "name": "Major Works of Western Art",
+    "code": "HUM 202D",
+    "crn": "10684",
+    "group": "A3"
+  },
+  {
+    "name": "Major Works of Western Art",
+    "code": "HUM 202D",
+    "crn": "10686",
+    "group": "B1"
+  },
+  {
+    "name": "Major Works of Western Art",
+    "code": "HUM 202D",
+    "crn": "10687",
+    "group": "B2"
+  },
+  {
+    "name": "Major Works of Western Art",
+    "code": "HUM 202D",
+    "crn": "10688",
+    "group": "B3"
+  },
+  {
+    "name": "Major Works of Western Art",
+    "code": "HUM 202D",
+    "crn": "10689",
+    "group": "C1"
+  },
+  {
+    "name": "Major Works of Western Art",
+    "code": "HUM 202D",
+    "crn": "10685",
+    "group": "C2"
+  },
+  {
+    "name": "Major Works of Western Art",
+    "code": "HUM 202D",
+    "crn": "13114",
+    "group": "D1"
+  },
+  {
+    "name": "Major Works of Western Art",
+    "code": "HUM 202D",
+    "crn": "13115",
+    "group": "D2"
+  },
+  {
+    "name": "Major Works of Western Philosophy",
+    "code": "HUM 207",
+    "crn": "10690",
+    "group": "0"
+  },
+  {
+    "name": "Major Works of Western Philosophy –  Discussion",
+    "code": "HUM 207D",
+    "crn": "10691",
+    "group": "A"
+  },
+  {
+    "name": "Major Works of Western Philosophy –  Discussion",
+    "code": "HUM 207D",
+    "crn": "10692",
+    "group": "B"
+  },
+  {
+    "name": "Major Works of Western Philosophy –  Discussion",
+    "code": "HUM 207D",
+    "crn": "10693",
+    "group": "C"
+  },
+  {
+    "name": "Major Works of Western Philosophy –  Discussion",
+    "code": "HUM 207D",
+    "crn": "10694",
+    "group": "D"
+  },
+  {
+    "name": "Major Works of Literature: The World Before Modernity",
+    "code": "HUM 311",
+    "crn": "10697",
+    "group": "0"
+  },
+  {
+    "name": "Major Works of Modern Art",
+    "code": "HUM 312",
+    "crn": "10698",
+    "group": "0"
+  },
+  {
+    "name": "Major Works of Moral Philosophy",
+    "code": "HUM 317",
+    "crn": "10700",
+    "group": "0"
+  },
+  {
+    "name": "Major Works of Literature: The Modern World",
+    "code": "HUM 321",
+    "crn": "13020",
+    "group": "0"
+  },
+  {
+    "name": "Major Works of Art: The World Before Modernity",
+    "code": "HUM 322",
+    "crn": "12162",
+    "group": "0"
+  },
+  {
+    "name": "Decision Economics",
+    "code": "IE 303",
+    "crn": "10474",
+    "group": "0"
+  },
+  {
+    "name": "Decision Economics",
+    "code": "IE 303R",
+    "crn": "10475",
+    "group": "A"
+  },
+  {
+    "name": "Decision Economics",
+    "code": "IE 303R",
+    "crn": "10476",
+    "group": "B"
+  },
+  {
+    "name": "Decision Economics",
+    "code": "IE 303R",
+    "crn": "10477",
+    "group": "C"
+  },
+  {
+    "name": "Decision Economics",
+    "code": "IE 303R",
+    "crn": "10478",
+    "group": "D"
+  },
+  {
+    "name": "Decision Economics",
+    "code": "IE 303R",
+    "crn": "10479",
+    "group": "E"
+  },
+  {
+    "name": "Production and Service Systems Planning and Design",
+    "code": "IE 304",
+    "crn": "10481",
+    "group": "0"
+  },
+  {
+    "name": "Simulation",
+    "code": "IE 305",
+    "crn": "11181",
+    "group": "A"
+  },
+  {
+    "name": "Simulation",
+    "code": "IE 305",
+    "crn": "12591",
+    "group": "B"
+  },
+  {
+    "name": "Simulation",
+    "code": "IE 305R",
+    "crn": "10702",
+    "group": "A1"
+  },
+  {
+    "name": "Simulation",
+    "code": "IE 305R",
+    "crn": "10868",
+    "group": "A2"
+  },
+  {
+    "name": "Simulation",
+    "code": "IE 305R",
+    "crn": "13063",
+    "group": "A3"
+  },
+  {
+    "name": "Simulation",
+    "code": "IE 305R",
+    "crn": "10704",
+    "group": "B1"
+  },
+  {
+    "name": "Simulation",
+    "code": "IE 305R",
+    "crn": "10869",
+    "group": "B2"
+  },
+  {
+    "name": "Simulation",
+    "code": "IE 305R",
+    "crn": "13064",
+    "group": "B3"
+  },
+  {
+    "name": "Manufacturing Processes I",
+    "code": "IE 309",
+    "crn": "10486",
+    "group": "0"
+  },
+  {
+    "name": "Manufacturing Processes I",
+    "code": "IE 309R",
+    "crn": "10487",
+    "group": "A"
+  },
+  {
+    "name": "Manufacturing Processes I",
+    "code": "IE 309R",
+    "crn": "10488",
+    "group": "B"
+  },
+  {
+    "name": "Operations Research I",
+    "code": "IE 311",
+    "crn": "10705",
+    "group": "0"
+  },
+  {
+    "name": "Operations Research I Recitation",
+    "code": "IE 311R",
+    "crn": "12558",
+    "group": "A"
+  },
+  {
+    "name": "Operations Research I Recitation",
+    "code": "IE 311R",
+    "crn": "10709",
+    "group": "B"
+  },
+  {
+    "name": "Operations Research II",
+    "code": "IE 312",
+    "crn": "10714",
+    "group": "A"
+  },
+  {
+    "name": "Operations Research II",
+    "code": "IE 312",
+    "crn": "13037",
+    "group": "B"
+  },
+  {
+    "name": "Operations Research II Recitation",
+    "code": "IE 312R",
+    "crn": "10717",
+    "group": "A1"
+  },
+  {
+    "name": "Operations Research II Recitation",
+    "code": "IE 312R",
+    "crn": "13038",
+    "group": "A2"
+  },
+  {
+    "name": "Operations Research II Recitation",
+    "code": "IE 312R",
+    "crn": "10722",
+    "group": "B1"
+  },
+  {
+    "name": "Operations Research II Recitation",
+    "code": "IE 312R",
+    "crn": "13039",
+    "group": "B2"
+  },
+  {
+    "name": "Operations Research III",
+    "code": "IE 313",
+    "crn": "10726",
+    "group": "0"
+  },
+  {
+    "name": "Operations Research III",
+    "code": "IE 313R",
+    "crn": "10727",
+    "group": "A"
+  },
+  {
+    "name": "Operations Research III",
+    "code": "IE 313R",
+    "crn": "10729",
+    "group": "B"
+  },
+  {
+    "name": "Operations Research III",
+    "code": "IE 313R",
+    "crn": "10730",
+    "group": "C"
+  },
+  {
+    "name": "Internship Project",
+    "code": "IE 395",
+    "crn": "13436",
+    "group": "01"
+  },
+  {
+    "name": "Internship Project",
+    "code": "IE 395",
+    "crn": "13437",
+    "group": "02"
+  },
+  {
+    "name": "Internship Project",
+    "code": "IE 395",
+    "crn": "13438",
+    "group": "03"
+  },
+  {
+    "name": "Internship Project",
+    "code": "IE 395",
+    "crn": "13440",
+    "group": "04"
+  },
+  {
+    "name": "Production and Service Systems Operations",
+    "code": "IE 401",
+    "crn": "10491",
+    "group": "0"
+  },
+  {
+    "name": "Quality Planning and Control",
+    "code": "IE 403",
+    "crn": "11137",
+    "group": "0"
+  },
+  {
+    "name": "Digital Transformation",
+    "code": "IE 404",
+    "crn": "13000",
+    "group": "0"
+  },
+  {
+    "name": "Decision Analysis",
+    "code": "IE 405",
+    "crn": "10499",
+    "group": "0"
+  },
+  {
+    "name": "Project Scheduling and Management",
+    "code": "IE 409",
+    "crn": "13001",
+    "group": "0"
+  },
+  {
+    "name": "Modeling and Analysis of Large Systems",
+    "code": "IE 411",
+    "crn": "13002",
+    "group": "0"
+  },
+  {
+    "name": "Information Systems",
+    "code": "IE 413",
+    "crn": "11221",
+    "group": "0"
+  },
+  {
+    "name": "Additive Manufacturing",
+    "code": "IE 416",
+    "crn": "12483",
+    "group": "0"
+  },
+  {
+    "name": "Additive Manufacturing Lab.",
+    "code": "IE 416L",
+    "crn": "12484",
+    "group": "0"
+  },
+  {
+    "name": "Logistics Systems Planning and Design",
+    "code": "IE 430",
+    "crn": "10504",
+    "group": "0"
+  },
+  {
+    "name": "Monte Carlo Methods in Finance",
+    "code": "IE 436",
+    "crn": "13005",
+    "group": "0"
+  },
+  {
+    "name": "Linear Programming and Extensions",
+    "code": "IE 501",
+    "crn": "10508",
+    "group": "0"
+  },
+  {
+    "name": "Stochastic Processes",
+    "code": "IE 503",
+    "crn": "10509",
+    "group": "0"
+  },
+  {
+    "name": "Operations Research and Data Mining",
+    "code": "IE 525",
+    "crn": "12485",
+    "group": "0"
+  },
+  {
+    "name": "Graduate Seminar I",
+    "code": "IE 551",
+    "crn": "12725",
+    "group": "0"
+  },
+  {
+    "name": "Graduate Seminar II",
+    "code": "IE 552",
+    "crn": "11321",
+    "group": "0"
+  },
+  {
+    "name": "Manufacturing Systems Modelling",
+    "code": "IE 567",
+    "crn": "13008",
+    "group": "0"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "IE 590",
+    "crn": "11589",
+    "group": "01"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "IE 590",
+    "crn": "13452",
+    "group": "02"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "IE 590",
+    "crn": "13223",
+    "group": "04"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "IE 590",
+    "crn": "13224",
+    "group": "05"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "IE 590",
+    "crn": "13227",
+    "group": "07"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "IE 590",
+    "crn": "13228",
+    "group": "08"
+  },
+  {
+    "name": "Behavioral and Experimental Methods in Operations Management",
+    "code": "IE 640",
+    "crn": "13009",
+    "group": "0"
+  },
+  {
+    "name": "Graduate Seminar I",
+    "code": "IE 751",
+    "crn": "12726",
+    "group": "0"
+  },
+  {
+    "name": "Graduate Seminar II",
+    "code": "IE 752",
+    "crn": "12727",
+    "group": "0"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "IE 790",
+    "crn": "12285",
+    "group": "01"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "IE 790",
+    "crn": "11610",
+    "group": "03"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "IE 790",
+    "crn": "12803",
+    "group": "04"
+  },
+  {
+    "name": "Introduction to Computer Programming",
+    "code": "IT 501",
+    "crn": "13312",
+    "group": "0"
+  },
+  {
+    "name": "Fundamentals of Data Communications and TCP/IP Networking",
+    "code": "IT 511",
+    "crn": "13314",
+    "group": "0"
+  },
+  {
+    "name": "Programming with Java",
+    "code": "IT 524",
+    "crn": "13315",
+    "group": "0"
+  },
+  {
+    "name": "Database Design, Management and Administration",
+    "code": "IT 553",
+    "crn": "13313",
+    "group": "0"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving",
+    "code": "IF 100",
+    "crn": "10733",
+    "group": "A"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving",
+    "code": "IF 100",
+    "crn": "10735",
+    "group": "B"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving",
+    "code": "IF 100",
+    "crn": "10737",
+    "group": "C"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving",
+    "code": "IF 100",
+    "crn": "12924",
+    "group": "X"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving – Recitation",
+    "code": "IF 100R",
+    "crn": "10739",
+    "group": "A1"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving – Recitation",
+    "code": "IF 100R",
+    "crn": "10741",
+    "group": "A2"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving – Recitation",
+    "code": "IF 100R",
+    "crn": "10742",
+    "group": "B1"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving – Recitation",
+    "code": "IF 100R",
+    "crn": "10743",
+    "group": "B2"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving – Recitation",
+    "code": "IF 100R",
+    "crn": "10745",
+    "group": "C1"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving – Recitation",
+    "code": "IF 100R",
+    "crn": "10746",
+    "group": "C2"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving – Recitation",
+    "code": "IF 100R",
+    "crn": "10748",
+    "group": "D1"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving – Recitation",
+    "code": "IF 100R",
+    "crn": "10750",
+    "group": "D2"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving – Recitation",
+    "code": "IF 100R",
+    "crn": "10753",
+    "group": "E1"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving – Recitation",
+    "code": "IF 100R",
+    "crn": "10755",
+    "group": "E2"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving – Recitation",
+    "code": "IF 100R",
+    "crn": "10757",
+    "group": "F1"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving – Recitation",
+    "code": "IF 100R",
+    "crn": "10759",
+    "group": "F2"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving – Recitation",
+    "code": "IF 100R",
+    "crn": "10761",
+    "group": "G1"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving – Recitation",
+    "code": "IF 100R",
+    "crn": "10762",
+    "group": "G2"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving – Recitation",
+    "code": "IF 100R",
+    "crn": "10763",
+    "group": "H1"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving – Recitation",
+    "code": "IF 100R",
+    "crn": "10765",
+    "group": "H2"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving – Recitation",
+    "code": "IF 100R",
+    "crn": "10766",
+    "group": "K1"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving – Recitation",
+    "code": "IF 100R",
+    "crn": "10768",
+    "group": "K2"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving – Recitation",
+    "code": "IF 100R",
+    "crn": "10770",
+    "group": "L1"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving – Recitation",
+    "code": "IF 100R",
+    "crn": "10772",
+    "group": "L2"
+  },
+  {
+    "name": "Computational Approaches to Problem Solving – Recitation",
+    "code": "IF 100R",
+    "crn": "11422",
+    "group": "M1"
+  },
+  {
+    "name": "Sustainability and Circularity in Materials",
+    "code": "IF 402",
+    "crn": "12945",
+    "group": "0"
+  },
+  {
+    "name": "International Relations Theory",
+    "code": "IR 201",
+    "crn": "10773",
+    "group": "0"
+  },
+  {
+    "name": "International Relations Theory",
+    "code": "IR 201D",
+    "crn": "10774",
+    "group": "0"
+  },
+  {
+    "name": "World Politics",
+    "code": "IR 394",
+    "crn": "11991",
+    "group": "0"
+  },
+  {
+    "name": "Literature, Ideology and  Resistance",
+    "code": "LIT 359",
+    "crn": "12946",
+    "group": "0"
+  },
+  {
+    "name": "Literature, Ideology, Resistance",
+    "code": "LIT 559",
+    "crn": "12947",
+    "group": "0"
+  },
+  {
+    "name": "Introduction to Management",
+    "code": "MGMT 201",
+    "crn": "10933",
+    "group": "A"
+  },
+  {
+    "name": "Introduction to Management",
+    "code": "MGMT 201",
+    "crn": "10931",
+    "group": "B"
+  },
+  {
+    "name": "Introduction to Management",
+    "code": "MGMT 201R",
+    "crn": "10934",
+    "group": "A"
+  },
+  {
+    "name": "Introduction to Management",
+    "code": "MGMT 201R",
+    "crn": "10935",
+    "group": "B"
+  },
+  {
+    "name": "Introduction to Data Analysis and Research in Business",
+    "code": "MGMT 203",
+    "crn": "10937",
+    "group": "0"
+  },
+  {
+    "name": "Introduction to Data Analysis and Research in Business",
+    "code": "MGMT 203R",
+    "crn": "11152",
+    "group": "0"
+  },
+  {
+    "name": "Summer Internship",
+    "code": "MGMT 300",
+    "crn": "13382",
+    "group": "0"
+  },
+  {
+    "name": "Introduction to Sustainability",
+    "code": "MGMT 301",
+    "crn": "12962",
+    "group": "0"
+  },
+  {
+    "name": "NGO Management and Impact: Organizational Design, Positioning, and Sustainable Futures",
+    "code": "MGMT 309",
+    "crn": "13134",
+    "group": "0"
+  },
+  {
+    "name": "Business Strategy",
+    "code": "MGMT 401",
+    "crn": "10613",
+    "group": "0"
+  },
+  {
+    "name": "Entrepreneurship",
+    "code": "MGMT 402",
+    "crn": "12080",
+    "group": "0"
+  },
+  {
+    "name": "International Business",
+    "code": "MGMT 403",
+    "crn": "10616",
+    "group": "0"
+  },
+  {
+    "name": "Technology Management",
+    "code": "MGMT 404",
+    "crn": "11893",
+    "group": "0"
+  },
+  {
+    "name": "Corporate Governance and Social Responsibility",
+    "code": "MGMT 410",
+    "crn": "10618",
+    "group": "0"
+  },
+  {
+    "name": "Social Innovation and Entrepreneurship",
+    "code": "MGMT 412",
+    "crn": "10619",
+    "group": "0"
+  },
+  {
+    "name": "Strategic Innovation",
+    "code": "MGMT 413",
+    "crn": "10620",
+    "group": "0"
+  },
+  {
+    "name": "Entrepreneurial Technology Commercialization",
+    "code": "MGMT 415",
+    "crn": "10622",
+    "group": "0"
+  },
+  {
+    "name": "Fundamentals of Family Business",
+    "code": "MGMT 418",
+    "crn": "10623",
+    "group": "0"
+  },
+  {
+    "name": "Entrepreneurial Skills Workshop I",
+    "code": "MGMT 495",
+    "crn": "13198",
+    "group": "0"
+  },
+  {
+    "name": "Global Business Context",
+    "code": "MGMT 501",
+    "crn": "13159",
+    "group": "0"
+  },
+  {
+    "name": "Economics for Managers",
+    "code": "MGMT 514",
+    "crn": "13158",
+    "group": "0"
+  },
+  {
+    "name": "Technology Management",
+    "code": "MGMT 551",
+    "crn": "13180",
+    "group": "0"
+  },
+  {
+    "name": "Personal Branding",
+    "code": "MGMT 578",
+    "crn": "13179",
+    "group": "0"
+  },
+  {
+    "name": "Managerial Skills Development",
+    "code": "MGMT 596",
+    "crn": "13177",
+    "group": "0"
+  },
+  {
+    "name": "Strategic Management",
+    "code": "MGMT 602",
+    "crn": "12578",
+    "group": "0"
+  },
+  {
+    "name": "Economics for Managers",
+    "code": "MGMT 814",
+    "crn": "13262",
+    "group": "0"
+  },
+  {
+    "name": "Technology Management",
+    "code": "MGMT 842",
+    "crn": "13273",
+    "group": "0"
+  },
+  {
+    "name": "Personal Branding",
+    "code": "MGMT 878",
+    "crn": "13269",
+    "group": "0"
+  },
+  {
+    "name": "Managerial Skills Development",
+    "code": "MGMT 896",
+    "crn": "13268",
+    "group": "0"
+  },
+  {
+    "name": "Ethics in Business",
+    "code": "MGMT 905",
+    "crn": "13261",
+    "group": "0"
+  },
+  {
+    "name": "Strategic Management",
+    "code": "MGMT 910",
+    "crn": "13258",
+    "group": "0"
+  },
+  {
+    "name": "Technology Management",
+    "code": "MGMT 942",
+    "crn": "13257",
+    "group": "0"
+  },
+  {
+    "name": "Managerial Skills Development",
+    "code": "MGMT 996",
+    "crn": "13272",
+    "group": "0"
+  },
+  {
+    "name": "Research Methods in Management and Organization Studies",
+    "code": "MRES 601",
+    "crn": "12571",
+    "group": "0"
+  },
+  {
+    "name": "Ph.D. Qualifying Exam Preparation",
+    "code": "MRES 699",
+    "crn": "11194",
+    "group": "0"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "MRES 700",
+    "crn": "11195",
+    "group": "0"
+  },
+  {
+    "name": "Graduate Seminar I",
+    "code": "MFE 551",
+    "crn": "11324",
+    "group": "0"
+  },
+  {
+    "name": "Graduate Seminar I",
+    "code": "MFE 552",
+    "crn": "13199",
+    "group": "0"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "MFE 590",
+    "crn": "11757",
+    "group": "01"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "MFE 590",
+    "crn": "11760",
+    "group": "02"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "MFE 590",
+    "crn": "11754",
+    "group": "03"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "MFE 590",
+    "crn": "13387",
+    "group": "05"
+  },
+  {
+    "name": "Directed Research",
+    "code": "MFE 591",
+    "crn": "13444",
+    "group": "01"
+  },
+  {
+    "name": "Directed Research",
+    "code": "MFE 591",
+    "crn": "13432",
+    "group": "02"
+  },
+  {
+    "name": "Graduate Seminar I",
+    "code": "MFE 751",
+    "crn": "12728",
+    "group": "0"
+  },
+  {
+    "name": "Graduate Seminar II",
+    "code": "MFE 752",
+    "crn": "13200",
+    "group": "0"
+  },
+  {
+    "name": "PHD Dissertation",
+    "code": "MFE 790",
+    "crn": "11764",
+    "group": "01"
+  },
+  {
+    "name": "PHD Dissertation",
+    "code": "MFE 790",
+    "crn": "11765",
+    "group": "02"
+  },
+  {
+    "name": "PHD Dissertation",
+    "code": "MFE 790",
+    "crn": "13442",
+    "group": "03"
+  },
+  {
+    "name": "PHD Dissertation",
+    "code": "MFE 790",
+    "crn": "11767",
+    "group": "04"
+  },
+  {
+    "name": "PHD Dissertation",
+    "code": "MFE 790",
+    "crn": "13386",
+    "group": "06"
+  },
+  {
+    "name": "Directed Research I",
+    "code": "MFE 791",
+    "crn": "13426",
+    "group": "0"
+  },
+  {
+    "name": "Manufacturing Metrology",
+    "code": "MFG 511",
+    "crn": "13131",
+    "group": "0"
+  },
+  {
+    "name": "Additive Manufacturing",
+    "code": "MFG 516",
+    "crn": "12521",
+    "group": "0"
+  },
+  {
+    "name": "Additive Manufacturing Lab.",
+    "code": "MFG 516L",
+    "crn": "12522",
+    "group": "0"
+  },
+  {
+    "name": "Machine Tool Engineering",
+    "code": "MFG 565",
+    "crn": "10609",
+    "group": "0"
+  },
+  {
+    "name": "Machine Tool Engineering – Lab.",
+    "code": "MFG 565L",
+    "crn": "10610",
+    "group": "0"
+  },
+  {
+    "name": "Special Topics in MFG:Advanced Mechanics of Composite Structures",
+    "code": "MFG 58002",
+    "crn": "12961",
+    "group": "0"
+  },
+  {
+    "name": "Marketing Management",
+    "code": "MIM 801",
+    "crn": "13282",
+    "group": "0"
+  },
+  {
+    "name": "Data Insights for Marketing",
+    "code": "MIM 810",
+    "crn": "13281",
+    "group": "0"
+  },
+  {
+    "name": "Marketing Analytics",
+    "code": "MIM 811",
+    "crn": "13283",
+    "group": "0"
+  },
+  {
+    "name": "Trade & B2B Marketing",
+    "code": "MIM 819",
+    "crn": "13280",
+    "group": "0"
+  },
+  {
+    "name": "Consumer Behavior",
+    "code": "MIM 825",
+    "crn": "13284",
+    "group": "0"
+  },
+  {
+    "name": "Personal Branding",
+    "code": "MIM 878",
+    "crn": "13279",
+    "group": "0"
+  },
+  {
+    "name": "Introduction to Marketing",
+    "code": "MKTG 301",
+    "crn": "10626",
+    "group": "A"
+  },
+  {
+    "name": "Introduction to Marketing",
+    "code": "MKTG 301",
+    "crn": "12081",
+    "group": "B"
+  },
+  {
+    "name": "Marketing Research",
+    "code": "MKTG 401",
+    "crn": "12965",
+    "group": "0"
+  },
+  {
+    "name": "Consumer Behavior",
+    "code": "MKTG 402",
+    "crn": "10628",
+    "group": "0"
+  },
+  {
+    "name": "Brand Management",
+    "code": "MKTG 406",
+    "crn": "11895",
+    "group": "0"
+  },
+  {
+    "name": "Marketing Management",
+    "code": "MKTG 501",
+    "crn": "13160",
+    "group": "0"
+  },
+  {
+    "name": "Trade & B2B Marketing",
+    "code": "MKTG 519",
+    "crn": "13178",
+    "group": "0"
+  },
+  {
+    "name": "Marketing Management",
+    "code": "MKTG 801",
+    "crn": "13265",
+    "group": "0"
+  },
+  {
+    "name": "Trade & B2B Marketing",
+    "code": "MKTG 819",
+    "crn": "13271",
+    "group": "0"
+  },
+  {
+    "name": "Marketing Management",
+    "code": "MKTG 901",
+    "crn": "13259",
+    "group": "0"
+  },
+  {
+    "name": "Trade & B2B Marketing",
+    "code": "MKTG 919",
+    "crn": "13274",
+    "group": "0"
+  },
+  {
+    "name": "Polymer Engineering: Fundamentals",
+    "code": "MAT 305",
+    "crn": "10521",
+    "group": "0"
+  },
+  {
+    "name": "Transport Phenomena in Materials Processing",
+    "code": "MAT 309",
+    "crn": "12948",
+    "group": "0"
+  },
+  {
+    "name": "Transport Phenomena in Materials Processing",
+    "code": "MAT 309R",
+    "crn": "12950",
+    "group": "0"
+  },
+  {
+    "name": "Materials Characterization",
+    "code": "MAT 312",
+    "crn": "10524",
+    "group": "0"
+  },
+  {
+    "name": "Materials Characterization Lab",
+    "code": "MAT 312L",
+    "crn": "10525",
+    "group": "A"
+  },
+  {
+    "name": "Materials Characterization Lab",
+    "code": "MAT 312L",
+    "crn": "13032",
+    "group": "B"
+  },
+  {
+    "name": "Mechanical Properties of Materials",
+    "code": "MAT 314",
+    "crn": "12054",
+    "group": "0"
+  },
+  {
+    "name": "Surface Chemistry",
+    "code": "MAT 401",
+    "crn": "12953",
+    "group": "0"
+  },
+  {
+    "name": "Special Topics in MAT: Polymer Matrix Composites",
+    "code": "MAT 48004",
+    "crn": "12486",
+    "group": "0"
+  },
+  {
+    "name": "Thermodynamics",
+    "code": "MAT 501",
+    "crn": "10532",
+    "group": "0"
+  },
+  {
+    "name": "Structure and Properties of Materials",
+    "code": "MAT 509",
+    "crn": "10533",
+    "group": "0"
+  },
+  {
+    "name": "Surface Science and Engineering",
+    "code": "MAT 520",
+    "crn": "12954",
+    "group": "0"
+  },
+  {
+    "name": "Tribology",
+    "code": "MAT 521",
+    "crn": "13381",
+    "group": "0"
+  },
+  {
+    "name": "Graduate Seminar I",
+    "code": "MAT 551",
+    "crn": "11332",
+    "group": "0"
+  },
+  {
+    "name": "Graduate Seminar II",
+    "code": "MAT 552",
+    "crn": "11333",
+    "group": "0"
+  },
+  {
+    "name": "Introduction to Electron Microscopy",
+    "code": "MAT 571",
+    "crn": "12487",
+    "group": "0"
+  },
+  {
+    "name": "Introduction to Electron Microscopy",
+    "code": "MAT 571L",
+    "crn": "12489",
+    "group": "0"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "MAT 590",
+    "crn": "11613",
+    "group": "02"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "MAT 590",
+    "crn": "11633",
+    "group": "03"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "MAT 590",
+    "crn": "12293",
+    "group": "06"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "MAT 590",
+    "crn": "12820",
+    "group": "08"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "MAT 590",
+    "crn": "12813",
+    "group": "09"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "MAT 590",
+    "crn": "11621",
+    "group": "10"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "MAT 590",
+    "crn": "12298",
+    "group": "11"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "MAT 590",
+    "crn": "12296",
+    "group": "12"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "MAT 590",
+    "crn": "13234",
+    "group": "13"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "MAT 590",
+    "crn": "13237",
+    "group": "16"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "MAT 590",
+    "crn": "13240",
+    "group": "19"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "MAT 590",
+    "crn": "13383",
+    "group": "20"
+  },
+  {
+    "name": "Directed Research",
+    "code": "MAT 591",
+    "crn": "13417",
+    "group": "0"
+  },
+  {
+    "name": "Special Topics in MAT: Polymer Matrix Composites",
+    "code": "MAT 68004",
+    "crn": "11010",
+    "group": "0"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "MAT 790",
+    "crn": "12316",
+    "group": "01"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "MAT 790",
+    "crn": "12823",
+    "group": "02"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "MAT 790",
+    "crn": "11671",
+    "group": "03"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "MAT 790",
+    "crn": "11650",
+    "group": "04"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "MAT 790",
+    "crn": "11651",
+    "group": "05"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "MAT 790",
+    "crn": "12309",
+    "group": "06"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "MAT 790",
+    "crn": "11654",
+    "group": "07"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "MAT 790",
+    "crn": "11655",
+    "group": "08"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "MAT 790",
+    "crn": "11670",
+    "group": "09"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "MAT 790",
+    "crn": "11658",
+    "group": "11"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "MAT 790",
+    "crn": "11662",
+    "group": "15"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "MAT 790",
+    "crn": "11663",
+    "group": "16"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "MAT 790",
+    "crn": "13244",
+    "group": "17"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "MAT 790",
+    "crn": "11665",
+    "group": "18"
+  },
+  {
+    "name": "Directed Research I",
+    "code": "MAT 791",
+    "crn": "13418",
+    "group": "0"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101",
+    "crn": "10777",
+    "group": "A"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101",
+    "crn": "10778",
+    "group": "B"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101",
+    "crn": "10779",
+    "group": "C"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101",
+    "crn": "12923",
+    "group": "X"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101R",
+    "crn": "10780",
+    "group": "A1"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101R",
+    "crn": "10781",
+    "group": "A2"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101R",
+    "crn": "10782",
+    "group": "A3"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101R",
+    "crn": "10783",
+    "group": "A4"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101R",
+    "crn": "10785",
+    "group": "A5"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101R",
+    "crn": "10786",
+    "group": "A6"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101R",
+    "crn": "10792",
+    "group": "B1"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101R",
+    "crn": "10794",
+    "group": "B2"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101R",
+    "crn": "10795",
+    "group": "B3"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101R",
+    "crn": "10796",
+    "group": "B4"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101R",
+    "crn": "10797",
+    "group": "B5"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101R",
+    "crn": "10798",
+    "group": "B6"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101R",
+    "crn": "10800",
+    "group": "B7"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101R",
+    "crn": "10805",
+    "group": "C1"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101R",
+    "crn": "10814",
+    "group": "C2"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101R",
+    "crn": "10815",
+    "group": "C3"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101R",
+    "crn": "10816",
+    "group": "C4"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101R",
+    "crn": "10810",
+    "group": "C5"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101R",
+    "crn": "10811",
+    "group": "C6"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101R",
+    "crn": "12752",
+    "group": "C7"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101R",
+    "crn": "10790",
+    "group": "D1"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101R",
+    "crn": "12567",
+    "group": "D2"
+  },
+  {
+    "name": "Calculus I",
+    "code": "MATH 101R",
+    "crn": "12062",
+    "group": "D3"
+  },
+  {
+    "name": "Calculus II",
+    "code": "MATH 102",
+    "crn": "10819",
+    "group": "A"
+  },
+  {
+    "name": "Calculus II",
+    "code": "MATH 102",
+    "crn": "10820",
+    "group": "B"
+  },
+  {
+    "name": "Calculus II",
+    "code": "MATH 102R",
+    "crn": "10821",
+    "group": "A1"
+  },
+  {
+    "name": "Calculus II",
+    "code": "MATH 102R",
+    "crn": "10822",
+    "group": "A2"
+  },
+  {
+    "name": "Calculus II",
+    "code": "MATH 102R",
+    "crn": "10824",
+    "group": "A3"
+  },
+  {
+    "name": "Calculus II",
+    "code": "MATH 102R",
+    "crn": "10828",
+    "group": "B1"
+  },
+  {
+    "name": "Calculus II",
+    "code": "MATH 102R",
+    "crn": "10829",
+    "group": "B2"
+  },
+  {
+    "name": "Calculus II",
+    "code": "MATH 102R",
+    "crn": "10830",
+    "group": "B3"
+  },
+  {
+    "name": "Calculus II",
+    "code": "MATH 102R",
+    "crn": "10832",
+    "group": "B4"
+  },
+  {
+    "name": "Calculus II",
+    "code": "MATH 102R",
+    "crn": "10834",
+    "group": "C1"
+  },
+  {
+    "name": "Calculus II",
+    "code": "MATH 102R",
+    "crn": "10836",
+    "group": "C2"
+  },
+  {
+    "name": "Calculus II",
+    "code": "MATH 102R",
+    "crn": "10839",
+    "group": "D1"
+  },
+  {
+    "name": "Linear Algebra",
+    "code": "MATH 201",
+    "crn": "10842",
+    "group": "A"
+  },
+  {
+    "name": "Linear Algebra",
+    "code": "MATH 201",
+    "crn": "10843",
+    "group": "B"
+  },
+  {
+    "name": "Linear Algebra",
+    "code": "MATH 201",
+    "crn": "12564",
+    "group": "C"
+  },
+  {
+    "name": "Linear Algebra",
+    "code": "MATH 201R",
+    "crn": "10844",
+    "group": "A1"
+  },
+  {
+    "name": "Linear Algebra",
+    "code": "MATH 201R",
+    "crn": "10845",
+    "group": "A2"
+  },
+  {
+    "name": "Linear Algebra",
+    "code": "MATH 201R",
+    "crn": "10847",
+    "group": "A3"
+  },
+  {
+    "name": "Linear Algebra",
+    "code": "MATH 201R",
+    "crn": "10848",
+    "group": "A4"
+  },
+  {
+    "name": "Linear Algebra",
+    "code": "MATH 201R",
+    "crn": "10849",
+    "group": "B1"
+  },
+  {
+    "name": "Linear Algebra",
+    "code": "MATH 201R",
+    "crn": "10850",
+    "group": "B2"
+  },
+  {
+    "name": "Linear Algebra",
+    "code": "MATH 201R",
+    "crn": "11161",
+    "group": "B3"
+  },
+  {
+    "name": "Linear Algebra",
+    "code": "MATH 201R",
+    "crn": "12065",
+    "group": "B4"
+  },
+  {
+    "name": "Linear Algebra",
+    "code": "MATH 201R",
+    "crn": "10855",
+    "group": "C1"
+  },
+  {
+    "name": "Linear Algebra",
+    "code": "MATH 201R",
+    "crn": "10856",
+    "group": "C2"
+  },
+  {
+    "name": "Linear Algebra",
+    "code": "MATH 201R",
+    "crn": "10857",
+    "group": "C3"
+  },
+  {
+    "name": "Linear Algebra",
+    "code": "MATH 201R",
+    "crn": "10858",
+    "group": "C4"
+  },
+  {
+    "name": "Linear Algebra",
+    "code": "MATH 201R",
+    "crn": "10862",
+    "group": "D1"
+  },
+  {
+    "name": "Linear Algebra",
+    "code": "MATH 201R",
+    "crn": "10863",
+    "group": "D2"
+  },
+  {
+    "name": "Linear Algebra",
+    "code": "MATH 201R",
+    "crn": "11160",
+    "group": "D3"
+  },
+  {
+    "name": "Linear Algebra",
+    "code": "MATH 201R",
+    "crn": "13041",
+    "group": "D4"
+  },
+  {
+    "name": "Linear Algebra",
+    "code": "MATH 201R",
+    "crn": "10864",
+    "group": "E1"
+  },
+  {
+    "name": "Linear Algebra",
+    "code": "MATH 201R",
+    "crn": "10865",
+    "group": "E2"
+  },
+  {
+    "name": "Introduction to Probability",
+    "code": "MATH 203",
+    "crn": "10874",
+    "group": "A"
+  },
+  {
+    "name": "Introduction to Probability",
+    "code": "MATH 203",
+    "crn": "10875",
+    "group": "B"
+  },
+  {
+    "name": "Introduction to Probability",
+    "code": "MATH 203R",
+    "crn": "10877",
+    "group": "A1"
+  },
+  {
+    "name": "Introduction to Probability",
+    "code": "MATH 203R",
+    "crn": "10878",
+    "group": "A2"
+  },
+  {
+    "name": "Introduction to Probability",
+    "code": "MATH 203R",
+    "crn": "13043",
+    "group": "A3"
+  },
+  {
+    "name": "Introduction to Probability",
+    "code": "MATH 203R",
+    "crn": "13045",
+    "group": "A4"
+  },
+  {
+    "name": "Introduction to Probability",
+    "code": "MATH 203R",
+    "crn": "10880",
+    "group": "B1"
+  },
+  {
+    "name": "Introduction to Probability",
+    "code": "MATH 203R",
+    "crn": "10881",
+    "group": "B2"
+  },
+  {
+    "name": "Introduction to Probability",
+    "code": "MATH 203R",
+    "crn": "13051",
+    "group": "B3"
+  },
+  {
+    "name": "Introduction to Probability",
+    "code": "MATH 203R",
+    "crn": "13053",
+    "group": "B4"
+  },
+  {
+    "name": "Introduction to Probability",
+    "code": "MATH 203R",
+    "crn": "10884",
+    "group": "C1"
+  },
+  {
+    "name": "Introduction to Probability",
+    "code": "MATH 203R",
+    "crn": "12069",
+    "group": "C2"
+  },
+  {
+    "name": "Introduction to Probability",
+    "code": "MATH 203R",
+    "crn": "12068",
+    "group": "C3"
+  },
+  {
+    "name": "Introduction to Probability",
+    "code": "MATH 203R",
+    "crn": "13056",
+    "group": "C4"
+  },
+  {
+    "name": "Introduction to Probability",
+    "code": "MATH 203R",
+    "crn": "10887",
+    "group": "D1"
+  },
+  {
+    "name": "Introduction to Probability",
+    "code": "MATH 203R",
+    "crn": "13058",
+    "group": "D2"
+  },
+  {
+    "name": "Introduction to Probability",
+    "code": "MATH 203R",
+    "crn": "13059",
+    "group": "D3"
+  },
+  {
+    "name": "Introduction to Probability",
+    "code": "MATH 203R",
+    "crn": "13061",
+    "group": "D4"
+  },
+  {
+    "name": "Discrete Mathematics",
+    "code": "MATH 204",
+    "crn": "10902",
+    "group": "0"
+  },
+  {
+    "name": "Discrete Mathematics",
+    "code": "MATH 204R",
+    "crn": "10904",
+    "group": "A1"
+  },
+  {
+    "name": "Discrete Mathematics",
+    "code": "MATH 204R",
+    "crn": "10905",
+    "group": "A2"
+  },
+  {
+    "name": "Discrete Mathematics",
+    "code": "MATH 204R",
+    "crn": "10906",
+    "group": "A3"
+  },
+  {
+    "name": "Discrete Mathematics",
+    "code": "MATH 204R",
+    "crn": "10907",
+    "group": "B1"
+  },
+  {
+    "name": "Discrete Mathematics",
+    "code": "MATH 204R",
+    "crn": "10908",
+    "group": "B2"
+  },
+  {
+    "name": "Discrete Mathematics",
+    "code": "MATH 204R",
+    "crn": "10909",
+    "group": "B3"
+  },
+  {
+    "name": "Discrete Mathematics",
+    "code": "MATH 204R",
+    "crn": "10911",
+    "group": "C1"
+  },
+  {
+    "name": "Discrete Mathematics",
+    "code": "MATH 204R",
+    "crn": "10912",
+    "group": "C2"
+  },
+  {
+    "name": "Discrete Mathematics",
+    "code": "MATH 204R",
+    "crn": "10913",
+    "group": "C3"
+  },
+  {
+    "name": "Introduction to Mathematical Analysis",
+    "code": "MATH 301",
+    "crn": "10540",
+    "group": "0"
+  },
+  {
+    "name": "Introduction to Mathematical Analysis Recitation",
+    "code": "MATH 301R",
+    "crn": "12132",
+    "group": "0"
+  },
+  {
+    "name": "Statistical Modelling",
+    "code": "MATH 306",
+    "crn": "10917",
+    "group": "A"
+  },
+  {
+    "name": "Statistical Modelling",
+    "code": "MATH 306",
+    "crn": "13062",
+    "group": "B"
+  },
+  {
+    "name": "Statistical Modelling",
+    "code": "MATH 306R",
+    "crn": "10919",
+    "group": "A"
+  },
+  {
+    "name": "Statistical Modelling",
+    "code": "MATH 306R",
+    "crn": "10920",
+    "group": "B"
+  },
+  {
+    "name": "Statistical Modelling",
+    "code": "MATH 306R",
+    "crn": "10922",
+    "group": "C"
+  },
+  {
+    "name": "Statistical Modelling",
+    "code": "MATH 306R",
+    "crn": "10923",
+    "group": "D"
+  },
+  {
+    "name": "Statistical Modelling",
+    "code": "MATH 306R",
+    "crn": "10924",
+    "group": "E"
+  },
+  {
+    "name": "Statistical Modelling",
+    "code": "MATH 306R",
+    "crn": "10926",
+    "group": "F"
+  },
+  {
+    "name": "Statistical Modelling",
+    "code": "MATH 306R",
+    "crn": "10928",
+    "group": "G"
+  },
+  {
+    "name": "Statistical Modelling",
+    "code": "MATH 306R",
+    "crn": "10929",
+    "group": "H"
+  },
+  {
+    "name": "Elementary Number Theory",
+    "code": "MATH 317",
+    "crn": "12492",
+    "group": "0"
+  },
+  {
+    "name": "Mathematical Introduction to Quantum Algorithms and Post",
+    "code": "MATH 484",
+    "crn": "12955",
+    "group": "0"
+  },
+  {
+    "name": "Analysis I",
+    "code": "MATH 501",
+    "crn": "10559",
+    "group": "0"
+  },
+  {
+    "name": "Complex Analysis",
+    "code": "MATH 505",
+    "crn": "12493",
+    "group": "0"
+  },
+  {
+    "name": "Algebra I",
+    "code": "MATH 511",
+    "crn": "10560",
+    "group": "0"
+  },
+  {
+    "name": "Commutative Algebra",
+    "code": "MATH 546",
+    "crn": "12957",
+    "group": "0"
+  },
+  {
+    "name": "Graduate Seminar 1",
+    "code": "MATH 551",
+    "crn": "11336",
+    "group": "0"
+  },
+  {
+    "name": "Introduction to Mathematical Analysis",
+    "code": "MATH 571",
+    "crn": "10541",
+    "group": "0"
+  },
+  {
+    "name": "Introduction to Mathematical Analysis",
+    "code": "MATH 571R",
+    "crn": "13225",
+    "group": "0"
+  },
+  {
+    "name": "Mathematical Introduction to Quantum Algorithms and Post",
+    "code": "MATH 584",
+    "crn": "12956",
+    "group": "0"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "MATH 590",
+    "crn": "13246",
+    "group": "02"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "MATH 590",
+    "crn": "11687",
+    "group": "03"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "MATH 590",
+    "crn": "13247",
+    "group": "04"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "MATH 590",
+    "crn": "13248",
+    "group": "05"
+  },
+  {
+    "name": "Directed Research",
+    "code": "MATH 591",
+    "crn": "13419",
+    "group": "01"
+  },
+  {
+    "name": "Directed Research",
+    "code": "MATH 591",
+    "crn": "13420",
+    "group": "02"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "MATH 790",
+    "crn": "11698",
+    "group": "05"
+  },
+  {
+    "name": "Directed Research I",
+    "code": "MATH 791",
+    "crn": "13421",
+    "group": "01"
+  },
+  {
+    "name": "Directed Research I",
+    "code": "MATH 791",
+    "crn": "13422",
+    "group": "02"
+  },
+  {
+    "name": "Mechanical Systems I",
+    "code": "ME 301",
+    "crn": "10569",
+    "group": "0"
+  },
+  {
+    "name": "Mechanical Systems I",
+    "code": "ME 301R",
+    "crn": "11145",
+    "group": "0"
+  },
+  {
+    "name": "Control System Design",
+    "code": "ME 303",
+    "crn": "10570",
+    "group": "0"
+  },
+  {
+    "name": "Control System Design",
+    "code": "ME 303R",
+    "crn": "10572",
+    "group": "A"
+  },
+  {
+    "name": "Control System Design",
+    "code": "ME 303R",
+    "crn": "10573",
+    "group": "B"
+  },
+  {
+    "name": "Control System Design",
+    "code": "ME 303R",
+    "crn": "13033",
+    "group": "C"
+  },
+  {
+    "name": "Fluid Dynamics",
+    "code": "ME 307",
+    "crn": "12589",
+    "group": "0"
+  },
+  {
+    "name": "Fluid Dynamics",
+    "code": "ME 307R",
+    "crn": "12590",
+    "group": "0"
+  },
+  {
+    "name": "Industrial Control",
+    "code": "ME 308",
+    "crn": "10577",
+    "group": "0"
+  },
+  {
+    "name": "Industrial Control",
+    "code": "ME 308L",
+    "crn": "10578",
+    "group": "A"
+  },
+  {
+    "name": "Industrial Control",
+    "code": "ME 308L",
+    "crn": "10579",
+    "group": "B"
+  },
+  {
+    "name": "Industrial Control",
+    "code": "ME 308L",
+    "crn": "10580",
+    "group": "C"
+  },
+  {
+    "name": "Industrial Control",
+    "code": "ME 308L",
+    "crn": "10581",
+    "group": "D"
+  },
+  {
+    "name": "Analysis and Synthesis of Mechanisms",
+    "code": "ME 312",
+    "crn": "10586",
+    "group": "0"
+  },
+  {
+    "name": "Analysis and Synthesis of Mechanisms",
+    "code": "ME 312R",
+    "crn": "10587",
+    "group": "0"
+  },
+  {
+    "name": "Mechatronics System Design",
+    "code": "ME 408",
+    "crn": "10590",
+    "group": "0"
+  },
+  {
+    "name": "Autonomous Mobile Robotics",
+    "code": "ME 425",
+    "crn": "10594",
+    "group": "0"
+  },
+  {
+    "name": "Autonomous Mobile Robotics Lab.",
+    "code": "ME 425L",
+    "crn": "10596",
+    "group": "A"
+  },
+  {
+    "name": "Autonomous Mobile Robotics Lab.",
+    "code": "ME 425L",
+    "crn": "10597",
+    "group": "B"
+  },
+  {
+    "name": "Autonomous Mobile Robotics",
+    "code": "ME 525",
+    "crn": "10595",
+    "group": "0"
+  },
+  {
+    "name": "Autonomous Mobile Robotics Lab.",
+    "code": "ME 525L",
+    "crn": "11165",
+    "group": "0"
+  },
+  {
+    "name": "Graduate Seminar I",
+    "code": "ME 551",
+    "crn": "11330",
+    "group": "0"
+  },
+  {
+    "name": "Graduate Seminar II",
+    "code": "ME 552",
+    "crn": "11331",
+    "group": "0"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "ME 590",
+    "crn": "12831",
+    "group": "01"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "ME 590",
+    "crn": "11700",
+    "group": "02"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "ME 590",
+    "crn": "11701",
+    "group": "03"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "ME 590",
+    "crn": "11711",
+    "group": "04"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "ME 590",
+    "crn": "11713",
+    "group": "05"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "ME 590",
+    "crn": "11704",
+    "group": "06"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "ME 590",
+    "crn": "13441",
+    "group": "07"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "ME 590",
+    "crn": "11717",
+    "group": "08"
+  },
+  {
+    "name": "Directed Research",
+    "code": "ME 591",
+    "crn": "13423",
+    "group": "01"
+  },
+  {
+    "name": "Directed Research",
+    "code": "ME 591",
+    "crn": "13427",
+    "group": "02"
+  },
+  {
+    "name": "Ph.D.Dissertation",
+    "code": "ME 790",
+    "crn": "11719",
+    "group": "01"
+  },
+  {
+    "name": "Ph.D.Dissertation",
+    "code": "ME 790",
+    "crn": "12848",
+    "group": "02"
+  },
+  {
+    "name": "Ph.D.Dissertation",
+    "code": "ME 790",
+    "crn": "12849",
+    "group": "03"
+  },
+  {
+    "name": "Ph.D.Dissertation",
+    "code": "ME 790",
+    "crn": "12346",
+    "group": "04"
+  },
+  {
+    "name": "Ph.D.Dissertation",
+    "code": "ME 790",
+    "crn": "11733",
+    "group": "05"
+  },
+  {
+    "name": "Ph.D.Dissertation",
+    "code": "ME 790",
+    "crn": "11724",
+    "group": "06"
+  },
+  {
+    "name": "Ph.D.Dissertation",
+    "code": "ME 790",
+    "crn": "12852",
+    "group": "08"
+  },
+  {
+    "name": "Ph.D.Dissertation",
+    "code": "ME 790",
+    "crn": "11729",
+    "group": "10"
+  },
+  {
+    "name": "Ph.D.Dissertation",
+    "code": "ME 790",
+    "crn": "13250",
+    "group": "11"
+  },
+  {
+    "name": "Directed Research I",
+    "code": "ME 791",
+    "crn": "13424",
+    "group": "0"
+  },
+  {
+    "name": "Genetics",
+    "code": "BIO 303",
+    "crn": "10014",
+    "group": "0"
+  },
+  {
+    "name": "Genetics",
+    "code": "BIO 303L",
+    "crn": "10016",
+    "group": "0"
+  },
+  {
+    "name": "Microbiology",
+    "code": "BIO 306",
+    "crn": "10029",
+    "group": "0"
+  },
+  {
+    "name": "Microbiology",
+    "code": "BIO 306L",
+    "crn": "10030",
+    "group": "0"
+  },
+  {
+    "name": "Biochemistry I",
+    "code": "BIO 321",
+    "crn": "11149",
+    "group": "0"
+  },
+  {
+    "name": "Biochemistry I",
+    "code": "BIO 321L",
+    "crn": "11150",
+    "group": "0"
+  },
+  {
+    "name": "Experimental Techniques in Biology",
+    "code": "BIO 335",
+    "crn": "12935",
+    "group": "0"
+  },
+  {
+    "name": "Experimental Techniques in Biology Lab.",
+    "code": "BIO 335L",
+    "crn": "12936",
+    "group": "0"
+  },
+  {
+    "name": "Ecology",
+    "code": "BIO 363",
+    "crn": "10038",
+    "group": "0"
+  },
+  {
+    "name": "Multicellular Organization",
+    "code": "BIO 407",
+    "crn": "10039",
+    "group": "0"
+  },
+  {
+    "name": "Plant Nutrition",
+    "code": "BIO 415",
+    "crn": "10040",
+    "group": "0"
+  },
+  {
+    "name": "Tissue Engineering",
+    "code": "BIO 421",
+    "crn": "12143",
+    "group": "0"
+  },
+  {
+    "name": "Tissue Engineering Lab.",
+    "code": "BIO 421L",
+    "crn": "12146",
+    "group": "0"
+  },
+  {
+    "name": "Neurobiology",
+    "code": "BIO 423",
+    "crn": "10041",
+    "group": "0"
+  },
+  {
+    "name": "Bioengineering",
+    "code": "BIO 444",
+    "crn": "10052",
+    "group": "0"
+  },
+  {
+    "name": "Plant Pathology",
+    "code": "BIO 503",
+    "crn": "13125",
+    "group": "0"
+  },
+  {
+    "name": "Tissue Engineering",
+    "code": "BIO 521",
+    "crn": "12144",
+    "group": "0"
+  },
+  {
+    "name": "Tissue Engineering Lab.",
+    "code": "BIO 521L",
+    "crn": "12147",
+    "group": "0"
+  },
+  {
+    "name": "Neurobiology",
+    "code": "BIO 523",
+    "crn": "10043",
+    "group": "0"
+  },
+  {
+    "name": "Agricultural Biotechnology",
+    "code": "BIO 541",
+    "crn": "11930",
+    "group": "0"
+  },
+  {
+    "name": "Bioengineering",
+    "code": "BIO 544",
+    "crn": "10053",
+    "group": "0"
+  },
+  {
+    "name": "Graduate Seminar I",
+    "code": "BIO 551",
+    "crn": "11338",
+    "group": "0"
+  },
+  {
+    "name": "Graduate Seminar II",
+    "code": "BIO 552",
+    "crn": "11339",
+    "group": "0"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "BIO 590",
+    "crn": "12776",
+    "group": "01"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "BIO 590",
+    "crn": "12777",
+    "group": "02"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "BIO 590",
+    "crn": "12779",
+    "group": "03"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "BIO 590",
+    "crn": "11485",
+    "group": "04"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "BIO 590",
+    "crn": "12780",
+    "group": "05"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "BIO 590",
+    "crn": "12220",
+    "group": "06"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "BIO 590",
+    "crn": "11481",
+    "group": "07"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "BIO 590",
+    "crn": "12774",
+    "group": "08"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "BIO 590",
+    "crn": "12889",
+    "group": "09"
+  },
+  {
+    "name": "Directed Research",
+    "code": "BIO 591",
+    "crn": "13393",
+    "group": "01"
+  },
+  {
+    "name": "Directed Research",
+    "code": "BIO 591",
+    "crn": "13394",
+    "group": "02"
+  },
+  {
+    "name": "Directed Research",
+    "code": "BIO 591",
+    "crn": "13395",
+    "group": "03"
+  },
+  {
+    "name": "Directed Research",
+    "code": "BIO 591",
+    "crn": "13397",
+    "group": "05"
+  },
+  {
+    "name": "Directed Research",
+    "code": "BIO 591",
+    "crn": "13398",
+    "group": "06"
+  },
+  {
+    "name": "Nanotoxicology",
+    "code": "BIO 635",
+    "crn": "10072",
+    "group": "0"
+  },
+  {
+    "name": "Graduate Seminar I",
+    "code": "BIO 751",
+    "crn": "12733",
+    "group": "0"
+  },
+  {
+    "name": "Graduate Seminar II",
+    "code": "BIO 752",
+    "crn": "13202",
+    "group": "0"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "BIO 790",
+    "crn": "11500",
+    "group": "02"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "BIO 790",
+    "crn": "12871",
+    "group": "03"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "BIO 790",
+    "crn": "12874",
+    "group": "05"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "BIO 790",
+    "crn": "12875",
+    "group": "06"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "BIO 790",
+    "crn": "12876",
+    "group": "07"
+  },
+  {
+    "name": "Directed Research I",
+    "code": "BIO 791",
+    "crn": "13401",
+    "group": "03"
+  },
+  {
+    "name": "Directed Research I",
+    "code": "BIO 791",
+    "crn": "13403",
+    "group": "05"
+  },
+  {
+    "name": "Directed Research I",
+    "code": "BIO 791",
+    "crn": "13404",
+    "group": "06"
+  },
+  {
+    "name": "Directed Research I",
+    "code": "BIO 791",
+    "crn": "13405",
+    "group": "07"
+  },
+  {
+    "name": "Science of Nature I",
+    "code": "NS 101",
+    "crn": "10938",
+    "group": "A"
+  },
+  {
+    "name": "Science of Nature I",
+    "code": "NS 101",
+    "crn": "10939",
+    "group": "B"
+  },
+  {
+    "name": "Science of Nature I",
+    "code": "NS 101",
+    "crn": "10940",
+    "group": "C"
+  },
+  {
+    "name": "Science of Nature I",
+    "code": "NS 101",
+    "crn": "10941",
+    "group": "D"
+  },
+  {
+    "name": "Science of Nature I",
+    "code": "NS 101",
+    "crn": "10942",
+    "group": "E"
+  },
+  {
+    "name": "Science of Nature I",
+    "code": "NS 101",
+    "crn": "10943",
+    "group": "F"
+  },
+  {
+    "name": "Science of Nature I",
+    "code": "NS 101",
+    "crn": "10944",
+    "group": "G"
+  },
+  {
+    "name": "Science of Nature I",
+    "code": "NS 101",
+    "crn": "10945",
+    "group": "H"
+  },
+  {
+    "name": "Science of Nature I",
+    "code": "NS 101R",
+    "crn": "10946",
+    "group": "A1"
+  },
+  {
+    "name": "Science of Nature I",
+    "code": "NS 101R",
+    "crn": "13023",
+    "group": "A2"
+  },
+  {
+    "name": "Science of Nature I",
+    "code": "NS 101R",
+    "crn": "10948",
+    "group": "B1"
+  },
+  {
+    "name": "Science of Nature I",
+    "code": "NS 101R",
+    "crn": "10949",
+    "group": "B2"
+  },
+  {
+    "name": "Science of Nature I",
+    "code": "NS 101R",
+    "crn": "10950",
+    "group": "C1"
+  },
+  {
+    "name": "Science of Nature I",
+    "code": "NS 101R",
+    "crn": "10951",
+    "group": "C2"
+  },
+  {
+    "name": "Science of Nature I",
+    "code": "NS 101R",
+    "crn": "10952",
+    "group": "D1"
+  },
+  {
+    "name": "Science of Nature I",
+    "code": "NS 101R",
+    "crn": "10953",
+    "group": "D2"
+  },
+  {
+    "name": "Science of Nature II",
+    "code": "NS 102",
+    "crn": "13285",
+    "group": "A"
+  },
+  {
+    "name": "Science of Nature II",
+    "code": "NS 102",
+    "crn": "13286",
+    "group": "B"
+  },
+  {
+    "name": "Science of Nature II",
+    "code": "NS 102",
+    "crn": "13287",
+    "group": "C"
+  },
+  {
+    "name": "Science of Nature II",
+    "code": "NS 102",
+    "crn": "13288",
+    "group": "D"
+  },
+  {
+    "name": "Science of Nature II",
+    "code": "NS 102R",
+    "crn": "13289",
+    "group": "A1"
+  },
+  {
+    "name": "Science of Nature II",
+    "code": "NS 102R",
+    "crn": "13290",
+    "group": "B1"
+  },
+  {
+    "name": "Science of Nature II",
+    "code": "NS 102R",
+    "crn": "13291",
+    "group": "C1"
+  },
+  {
+    "name": "Science of Nature II",
+    "code": "NS 102R",
+    "crn": "13292",
+    "group": "D1"
+  },
+  {
+    "name": "Discovering Life",
+    "code": "NS 201",
+    "crn": "10635",
+    "group": "0"
+  },
+  {
+    "name": "What is There in the Universe: Inside the Milky Way?",
+    "code": "NS 206",
+    "crn": "10636",
+    "group": "0"
+  },
+  {
+    "name": "Organic Chemistry",
+    "code": "NS 207",
+    "crn": "10637",
+    "group": "0"
+  },
+  {
+    "name": "Organic Chemistry I",
+    "code": "NS 207L",
+    "crn": "10638",
+    "group": "A"
+  },
+  {
+    "name": "Organic Chemistry I",
+    "code": "NS 207L",
+    "crn": "10639",
+    "group": "B"
+  },
+  {
+    "name": "Organic Chemistry I",
+    "code": "NS 207L",
+    "crn": "10640",
+    "group": "C"
+  },
+  {
+    "name": "Organic Chemistry I",
+    "code": "NS 207L",
+    "crn": "10641",
+    "group": "D"
+  },
+  {
+    "name": "Operations Management",
+    "code": "OPIM 301",
+    "crn": "10645",
+    "group": "0"
+  },
+  {
+    "name": "Operations Management",
+    "code": "OPIM 301R",
+    "crn": "10646",
+    "group": "0"
+  },
+  {
+    "name": "Management Information Systems",
+    "code": "OPIM 302",
+    "crn": "10647",
+    "group": "0"
+  },
+  {
+    "name": "Management Information System",
+    "code": "OPIM 302R",
+    "crn": "10648",
+    "group": "0"
+  },
+  {
+    "name": "Introduction to Business Analytics",
+    "code": "OPIM 390",
+    "crn": "10649",
+    "group": "0"
+  },
+  {
+    "name": "Introduction to Business Analytics",
+    "code": "OPIM 390R",
+    "crn": "10651",
+    "group": "0"
+  },
+  {
+    "name": "Optimization Modeling in Business Analytics",
+    "code": "OPIM 402",
+    "crn": "10653",
+    "group": "0"
+  },
+  {
+    "name": "AI in Business",
+    "code": "OPIM 413",
+    "crn": "13132",
+    "group": "0"
+  },
+  {
+    "name": "AI in Business",
+    "code": "OPIM 413R",
+    "crn": "13133",
+    "group": "0"
+  },
+  {
+    "name": "Operations and Supply Chain Management",
+    "code": "OPIM 501",
+    "crn": "13151",
+    "group": "0"
+  },
+  {
+    "name": "Modeling in Operations Management",
+    "code": "OPIM 611",
+    "crn": "12966",
+    "group": "0"
+  },
+  {
+    "name": "Operations and Decision Analytics",
+    "code": "OPIM 613",
+    "crn": "12969",
+    "group": "0"
+  },
+  {
+    "name": "Operations and Supply Chain Management",
+    "code": "OPIM 801",
+    "crn": "13266",
+    "group": "0"
+  },
+  {
+    "name": "Organizations and Organizing",
+    "code": "ORG 301",
+    "crn": "10669",
+    "group": "0"
+  },
+  {
+    "name": "Organizational Behavior",
+    "code": "ORG 302",
+    "crn": "10670",
+    "group": "0"
+  },
+  {
+    "name": "Human Resources Management",
+    "code": "ORG 401",
+    "crn": "10672",
+    "group": "0"
+  },
+  {
+    "name": "Cross",
+    "code": "ORG 403",
+    "crn": "11901",
+    "group": "0"
+  },
+  {
+    "name": "Creativity & Leading  Innovations",
+    "code": "ORG 404",
+    "crn": "11014",
+    "group": "0"
+  },
+  {
+    "name": "Basic Persian I",
+    "code": "PERS 510",
+    "crn": "13106",
+    "group": "0"
+  },
+  {
+    "name": "Basic Persian I Discussion",
+    "code": "PERS 510D",
+    "crn": "13107",
+    "group": "0"
+  },
+  {
+    "name": "Problems of Philosophy",
+    "code": "PHIL 202",
+    "crn": "11224",
+    "group": "0"
+  },
+  {
+    "name": "Philosophy of Science",
+    "code": "PHIL 300",
+    "crn": "10673",
+    "group": "0"
+  },
+  {
+    "name": "Philosophy of Mind",
+    "code": "PHIL 310",
+    "crn": "12527",
+    "group": "0"
+  },
+  {
+    "name": "Philosophy of Artificial Intelligence",
+    "code": "PHIL 370",
+    "crn": "12970",
+    "group": "0"
+  },
+  {
+    "name": "Philosophy of Artificial Intelligence",
+    "code": "PHIL 570",
+    "crn": "12975",
+    "group": "0"
+  },
+  {
+    "name": "Basic Concepts of Physics for Scientists and Engineers",
+    "code": "PHYS 113",
+    "crn": "13068",
+    "group": "0"
+  },
+  {
+    "name": "Basic Concepts of Physics for Scientists and Engineers Lab.",
+    "code": "PHYS 113L",
+    "crn": "13119",
+    "group": "A"
+  },
+  {
+    "name": "Basic Concepts of Physics for Scientists and Engineers Lab.",
+    "code": "PHYS 113L",
+    "crn": "13121",
+    "group": "B"
+  },
+  {
+    "name": "Solid State Physics",
+    "code": "PHYS 302",
+    "crn": "13255",
+    "group": "0"
+  },
+  {
+    "name": "Solid State Physics",
+    "code": "PHYS 302R",
+    "crn": "13256",
+    "group": "0"
+  },
+  {
+    "name": "Quantum Mechanics I",
+    "code": "PHYS 303",
+    "crn": "10677",
+    "group": "0"
+  },
+  {
+    "name": "Quantum Mechanics I Recitation",
+    "code": "PHYS 303R",
+    "crn": "11147",
+    "group": "0"
+  },
+  {
+    "name": "Electromagnetic Theory I",
+    "code": "PHYS 511",
+    "crn": "12090",
+    "group": "0"
+  },
+  {
+    "name": "Quantum Mechanics I",
+    "code": "PHYS 531",
+    "crn": "10680",
+    "group": "0"
+  },
+  {
+    "name": "Optoelectronics and Photonics",
+    "code": "PHYS 548",
+    "crn": "13116",
+    "group": "0"
+  },
+  {
+    "name": "Mesoscopic Physics",
+    "code": "PHYS 550",
+    "crn": "12979",
+    "group": "0"
+  },
+  {
+    "name": "Graduate Seminar I",
+    "code": "PHYS 551",
+    "crn": "11348",
+    "group": "0"
+  },
+  {
+    "name": "Graduate Seminar II",
+    "code": "PHYS 552",
+    "crn": "12730",
+    "group": "0"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "PHYS 590",
+    "crn": "13252",
+    "group": "02"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "PHYS 590",
+    "crn": "12865",
+    "group": "03"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "PHYS 590",
+    "crn": "12365",
+    "group": "05"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "PHYS 590",
+    "crn": "12866",
+    "group": "06"
+  },
+  {
+    "name": "Ph.D. Dissertation",
+    "code": "PHYS 790",
+    "crn": "11742",
+    "group": "01"
+  },
+  {
+    "name": "Research Methods for Political Science and International Relations I",
+    "code": "PSIR 311",
+    "crn": "11916",
+    "group": "0"
+  },
+  {
+    "name": "Research Methods for Political Science and International Relations I Discussion",
+    "code": "PSIR 311D",
+    "crn": "11917",
+    "group": "0"
+  },
+  {
+    "name": "Political Theory I",
+    "code": "POLS 301",
+    "crn": "10703",
+    "group": "0"
+  },
+  {
+    "name": "Turkish Politics I",
+    "code": "POLS 352",
+    "crn": "10706",
+    "group": "0"
+  },
+  {
+    "name": "Independent Study",
+    "code": "POLS 399",
+    "crn": "13096",
+    "group": "0"
+  },
+  {
+    "name": "Comparative Party Systems and Electoral Behavior",
+    "code": "POLS 404",
+    "crn": "10710",
+    "group": "0"
+  },
+  {
+    "name": "Rise and Fall of Democracy",
+    "code": "POLS 455",
+    "crn": "10718",
+    "group": "0"
+  },
+  {
+    "name": "Political Theory II",
+    "code": "POLS 473",
+    "crn": "10725",
+    "group": "0"
+  },
+  {
+    "name": "European Union: Politics, Policies and Governance",
+    "code": "POLS 492",
+    "crn": "12984",
+    "group": "0"
+  },
+  {
+    "name": "Middle Eastern Politics and Government",
+    "code": "POLS 495",
+    "crn": "13073",
+    "group": "0"
+  },
+  {
+    "name": "Political Theory",
+    "code": "POLS 502",
+    "crn": "12990",
+    "group": "0"
+  },
+  {
+    "name": "Comparative Party Systems and Electoral Behaviour",
+    "code": "POLS 513",
+    "crn": "13003",
+    "group": "0"
+  },
+  {
+    "name": "Modernity: Concept, Perspectives, and Issues",
+    "code": "POLS 523",
+    "crn": "12983",
+    "group": "0"
+  },
+  {
+    "name": "Methods and Scope of Political Analysis",
+    "code": "POLS 529",
+    "crn": "10734",
+    "group": "0"
+  },
+  {
+    "name": "Methods and Scope of Political Analysis",
+    "code": "POLS 529D",
+    "crn": "10736",
+    "group": "0"
+  },
+  {
+    "name": "International Relations Theory",
+    "code": "POLS 540",
+    "crn": "10738",
+    "group": "0"
+  },
+  {
+    "name": "Middle Eastern Politics and Government",
+    "code": "POLS 549",
+    "crn": "13075",
+    "group": "0"
+  },
+  {
+    "name": "Turkish Politics",
+    "code": "POLS 550",
+    "crn": "10740",
+    "group": "0"
+  },
+  {
+    "name": "Rise and Fall of Democracy",
+    "code": "POLS 565",
+    "crn": "10721",
+    "group": "0"
+  },
+  {
+    "name": "European Union: Politics, Policies and Governance",
+    "code": "POLS 592",
+    "crn": "12986",
+    "group": "0"
+  },
+  {
+    "name": "Pro",
+    "code": "POLS 599",
+    "crn": "10747",
+    "group": "0"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "POLS 699",
+    "crn": "10767",
+    "group": "A"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "POLS 699",
+    "crn": "13093",
+    "group": "C"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "POLS 699",
+    "crn": "10760",
+    "group": "D"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "POLS 699",
+    "crn": "13094",
+    "group": "E"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "POLS 699",
+    "crn": "13095",
+    "group": "F"
+  },
+  {
+    "name": "Readings and Research in Political Science: Political Theory",
+    "code": "POLS 700T",
+    "crn": "13428",
+    "group": "0"
+  },
+  {
+    "name": "Ph.D. Thesis",
+    "code": "POLS 799",
+    "crn": "12091",
+    "group": "A"
+  },
+  {
+    "name": "Ph.D. Thesis",
+    "code": "POLS 799",
+    "crn": "13081",
+    "group": "B"
+  },
+  {
+    "name": "Ph.D. Thesis",
+    "code": "POLS 799",
+    "crn": "10167",
+    "group": "C"
+  },
+  {
+    "name": "Ph.D. Thesis",
+    "code": "POLS 799",
+    "crn": "10169",
+    "group": "E"
+  },
+  {
+    "name": "Ph.D. Thesis",
+    "code": "POLS 799",
+    "crn": "12432",
+    "group": "F"
+  },
+  {
+    "name": "Ph.D. Thesis",
+    "code": "POLS 799",
+    "crn": "13083",
+    "group": "G"
+  },
+  {
+    "name": "Undergraduate Project Course",
+    "code": "PROJ 201",
+    "crn": "10775",
+    "group": "0"
+  },
+  {
+    "name": "Mind and Behavior",
+    "code": "PSY 201",
+    "crn": "10970",
+    "group": "0"
+  },
+  {
+    "name": "Research Methods and Statistics for Psychology I",
+    "code": "PSY 202",
+    "crn": "10971",
+    "group": "0"
+  },
+  {
+    "name": "Research Methods and Statistics for Psychology I Lab",
+    "code": "PSY 202L",
+    "crn": "10972",
+    "group": "A"
+  },
+  {
+    "name": "Research Methods and Statistics for Psychology I Lab",
+    "code": "PSY 202L",
+    "crn": "10973",
+    "group": "B"
+  },
+  {
+    "name": "Research Methods and Statistics for Psychology I Lab",
+    "code": "PSY 202L",
+    "crn": "10974",
+    "group": "C"
+  },
+  {
+    "name": "Stress and Well",
+    "code": "PSY 203",
+    "crn": "12530",
+    "group": "0"
+  },
+  {
+    "name": "Project and Internship",
+    "code": "PSY 300",
+    "crn": "13390",
+    "group": "0"
+  },
+  {
+    "name": "Testing and Measurement",
+    "code": "PSY 306",
+    "crn": "10158",
+    "group": "0"
+  },
+  {
+    "name": "Testing and Measurement Lab",
+    "code": "PSY 306L",
+    "crn": "10159",
+    "group": "0"
+  },
+  {
+    "name": "Cognitive Processes",
+    "code": "PSY 310",
+    "crn": "11918",
+    "group": "0"
+  },
+  {
+    "name": "Emotion",
+    "code": "PSY 311",
+    "crn": "12531",
+    "group": "0"
+  },
+  {
+    "name": "Memory",
+    "code": "PSY 315",
+    "crn": "10157",
+    "group": "0"
+  },
+  {
+    "name": "Social Psychology",
+    "code": "PSY 340",
+    "crn": "10154",
+    "group": "0"
+  },
+  {
+    "name": "Introduction to Neuroscience",
+    "code": "PSY 350",
+    "crn": "12993",
+    "group": "0"
+  },
+  {
+    "name": "Abnormal Behavior",
+    "code": "PSY 360",
+    "crn": "10149",
+    "group": "0"
+  },
+  {
+    "name": "Individual Differences",
+    "code": "PSY 363",
+    "crn": "12533",
+    "group": "0"
+  },
+  {
+    "name": "Independent Study I",
+    "code": "PSY 398",
+    "crn": "13069",
+    "group": "A"
+  },
+  {
+    "name": "Independent Study I",
+    "code": "PSY 398",
+    "crn": "13070",
+    "group": "B"
+  },
+  {
+    "name": "Independent Study I",
+    "code": "PSY 398",
+    "crn": "12095",
+    "group": "E"
+  },
+  {
+    "name": "Independent Study I",
+    "code": "PSY 398",
+    "crn": "12624",
+    "group": "F"
+  },
+  {
+    "name": "Independent Study I",
+    "code": "PSY 398",
+    "crn": "13077",
+    "group": "J"
+  },
+  {
+    "name": "EEG Methods and Analyses",
+    "code": "PSY 407",
+    "crn": "13004",
+    "group": "0"
+  },
+  {
+    "name": "Visual Cognition",
+    "code": "PSY 412",
+    "crn": "13010",
+    "group": "0"
+  },
+  {
+    "name": "Seminar in Memory and Attention",
+    "code": "PSY 415",
+    "crn": "13014",
+    "group": "0"
+  },
+  {
+    "name": "Topics in Episodic Memory and Future Thinking",
+    "code": "PSY 418",
+    "crn": "13019",
+    "group": "0"
+  },
+  {
+    "name": "Trends in Psychological Science",
+    "code": "PSY 501",
+    "crn": "10117",
+    "group": "0"
+  },
+  {
+    "name": "Data Analysis for Psychological Science I",
+    "code": "PSY 502",
+    "crn": "10115",
+    "group": "0"
+  },
+  {
+    "name": "EEG Methods and Analyses",
+    "code": "PSY 507",
+    "crn": "13007",
+    "group": "0"
+  },
+  {
+    "name": "Visual Cognition",
+    "code": "PSY 512",
+    "crn": "13012",
+    "group": "0"
+  },
+  {
+    "name": "Seminar in Memory and Attention",
+    "code": "PSY 515",
+    "crn": "13016",
+    "group": "0"
+  },
+  {
+    "name": "Topics in Episodic Memory and Future Thinking",
+    "code": "PSY 518",
+    "crn": "12498",
+    "group": "0"
+  },
+  {
+    "name": "Personal Relationships",
+    "code": "PSY 540",
+    "crn": "12499",
+    "group": "0"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "PSY 599",
+    "crn": "10086",
+    "group": "A"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "PSY 599",
+    "crn": "10088",
+    "group": "B"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "PSY 599",
+    "crn": "10090",
+    "group": "C"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "PSY 599",
+    "crn": "10091",
+    "group": "D"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "PSY 599",
+    "crn": "10092",
+    "group": "E"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "PSY 599",
+    "crn": "10095",
+    "group": "F"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "PSY 599",
+    "crn": "10096",
+    "group": "G"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "PSY 599",
+    "crn": "13078",
+    "group": "H"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "PSY 599",
+    "crn": "13079",
+    "group": "I"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "PSY 599",
+    "crn": "10100",
+    "group": "J"
+  },
+  {
+    "name": "Directed Research in Psychological Science",
+    "code": "PSY 620",
+    "crn": "13331",
+    "group": "A"
+  },
+  {
+    "name": "Directed Research in Psychological Science",
+    "code": "PSY 620",
+    "crn": "13430",
+    "group": "B"
+  },
+  {
+    "name": "Ph.D. Pro",
+    "code": "PSY 690",
+    "crn": "12628",
+    "group": "0"
+  },
+  {
+    "name": "Ph.D. Thesis",
+    "code": "PSY 699",
+    "crn": "12630",
+    "group": "B"
+  },
+  {
+    "name": "Ph.D. Thesis",
+    "code": "PSY 799",
+    "crn": "12633",
+    "group": "C"
+  },
+  {
+    "name": "PhD Qualifying Exam Preparation",
+    "code": "QL 700",
+    "crn": "12412",
+    "group": "0"
+  },
+  {
+    "name": "Fundamentals of Computing",
+    "code": "SEC 500",
+    "crn": "13326",
+    "group": "0"
+  },
+  {
+    "name": "Introduction to Cryptography and Security Protocols",
+    "code": "SEC 501",
+    "crn": "13327",
+    "group": "0"
+  },
+  {
+    "name": "Network Security",
+    "code": "SEC 502",
+    "crn": "13328",
+    "group": "0"
+  },
+  {
+    "name": "Malware Analysis and Detection",
+    "code": "SEC 503",
+    "crn": "13329",
+    "group": "0"
+  },
+  {
+    "name": "Cybersecurity Practices and Applications",
+    "code": "SEC 537",
+    "crn": "12028",
+    "group": "0"
+  },
+  {
+    "name": "Graduate Seminar I",
+    "code": "SEC 551",
+    "crn": "11346",
+    "group": "0"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "SEC 590",
+    "crn": "12374",
+    "group": "02"
+  },
+  {
+    "name": "Project Course",
+    "code": "SEC 592",
+    "crn": "13450",
+    "group": "0"
+  },
+  {
+    "name": "PhD Dissertation",
+    "code": "SEC 790",
+    "crn": "11781",
+    "group": "0"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101",
+    "crn": "10977",
+    "group": "A"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101",
+    "crn": "10978",
+    "group": "B"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101",
+    "crn": "10979",
+    "group": "C"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "10980",
+    "group": "A1"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "10989",
+    "group": "A10"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "12758",
+    "group": "A11"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "10981",
+    "group": "A2"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "10982",
+    "group": "A3"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "10983",
+    "group": "A4"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "10984",
+    "group": "A5"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "10985",
+    "group": "A6"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "10986",
+    "group": "A7"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "10987",
+    "group": "A8"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "10988",
+    "group": "A9"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "10990",
+    "group": "B1"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "10999",
+    "group": "B10"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "13117",
+    "group": "B11"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "13294",
+    "group": "B12"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "13295",
+    "group": "B13"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "10991",
+    "group": "B2"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "10992",
+    "group": "B3"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "10993",
+    "group": "B4"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "10994",
+    "group": "B5"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "10995",
+    "group": "B6"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "10996",
+    "group": "B7"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "10997",
+    "group": "B8"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "10998",
+    "group": "B9"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "11000",
+    "group": "C1"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "13293",
+    "group": "C10"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "11001",
+    "group": "C2"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "11002",
+    "group": "C3"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "11003",
+    "group": "C4"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "11004",
+    "group": "C5"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "11419",
+    "group": "C6"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "11420",
+    "group": "C7"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "11421",
+    "group": "C8"
+  },
+  {
+    "name": "Humanity and Society I",
+    "code": "SPS 101D",
+    "crn": "12759",
+    "group": "C9"
+  },
+  {
+    "name": "Humanity and Society II",
+    "code": "SPS 102",
+    "crn": "11005",
+    "group": "A"
+  },
+  {
+    "name": "Humanity and Society II",
+    "code": "SPS 102",
+    "crn": "11006",
+    "group": "B"
+  },
+  {
+    "name": "Humanity and Society II",
+    "code": "SPS 102D",
+    "crn": "11007",
+    "group": "A1"
+  },
+  {
+    "name": "Humanity and Society II",
+    "code": "SPS 102D",
+    "crn": "11009",
+    "group": "A2"
+  },
+  {
+    "name": "Humanity and Society II",
+    "code": "SPS 102D",
+    "crn": "11011",
+    "group": "A3"
+  },
+  {
+    "name": "Humanity and Society II",
+    "code": "SPS 102D",
+    "crn": "11015",
+    "group": "A4"
+  },
+  {
+    "name": "Humanity and Society II",
+    "code": "SPS 102D",
+    "crn": "11016",
+    "group": "A5"
+  },
+  {
+    "name": "Humanity and Society II",
+    "code": "SPS 102D",
+    "crn": "11017",
+    "group": "A6"
+  },
+  {
+    "name": "Humanity and Society II",
+    "code": "SPS 102D",
+    "crn": "11020",
+    "group": "B1"
+  },
+  {
+    "name": "Humanity and Society II",
+    "code": "SPS 102D",
+    "crn": "11024",
+    "group": "B2"
+  },
+  {
+    "name": "Humanity and Society II",
+    "code": "SPS 102D",
+    "crn": "11022",
+    "group": "B3"
+  },
+  {
+    "name": "Humanity and Society II",
+    "code": "SPS 102D",
+    "crn": "11025",
+    "group": "B4"
+  },
+  {
+    "name": "Humanity and Society II",
+    "code": "SPS 102D",
+    "crn": "11026",
+    "group": "B5"
+  },
+  {
+    "name": "Law and Ethics",
+    "code": "SPS 303",
+    "crn": "11030",
+    "group": "A"
+  },
+  {
+    "name": "Law and Ethics",
+    "code": "SPS 303",
+    "crn": "11031",
+    "group": "B"
+  },
+  {
+    "name": "Law and Ethics",
+    "code": "SPS 303D",
+    "crn": "11032",
+    "group": "A1"
+  },
+  {
+    "name": "Law and Ethics",
+    "code": "SPS 303D",
+    "crn": "11033",
+    "group": "A2"
+  },
+  {
+    "name": "Law and Ethics",
+    "code": "SPS 303D",
+    "crn": "11034",
+    "group": "A3"
+  },
+  {
+    "name": "Law and Ethics",
+    "code": "SPS 303D",
+    "crn": "11038",
+    "group": "A4"
+  },
+  {
+    "name": "Law and Ethics",
+    "code": "SPS 303D",
+    "crn": "11039",
+    "group": "A5"
+  },
+  {
+    "name": "Law and Ethics",
+    "code": "SPS 303D",
+    "crn": "11040",
+    "group": "A6"
+  },
+  {
+    "name": "Law and Ethics",
+    "code": "SPS 303D",
+    "crn": "11044",
+    "group": "A7"
+  },
+  {
+    "name": "Law and Ethics",
+    "code": "SPS 303D",
+    "crn": "11045",
+    "group": "A8"
+  },
+  {
+    "name": "Law and Ethics",
+    "code": "SPS 303D",
+    "crn": "11046",
+    "group": "A9"
+  },
+  {
+    "name": "Law and Ethics",
+    "code": "SPS 303D",
+    "crn": "11035",
+    "group": "B1"
+  },
+  {
+    "name": "Law and Ethics",
+    "code": "SPS 303D",
+    "crn": "11036",
+    "group": "B2"
+  },
+  {
+    "name": "Law and Ethics",
+    "code": "SPS 303D",
+    "crn": "11037",
+    "group": "B3"
+  },
+  {
+    "name": "Law and Ethics",
+    "code": "SPS 303D",
+    "crn": "11041",
+    "group": "B4"
+  },
+  {
+    "name": "Law and Ethics",
+    "code": "SPS 303D",
+    "crn": "11042",
+    "group": "B5"
+  },
+  {
+    "name": "Law and Ethics",
+    "code": "SPS 303D",
+    "crn": "11043",
+    "group": "B6"
+  },
+  {
+    "name": "Law and Ethics",
+    "code": "SPS 303D",
+    "crn": "11177",
+    "group": "B7"
+  },
+  {
+    "name": "Law and Ethics",
+    "code": "SPS 303D",
+    "crn": "11048",
+    "group": "B8"
+  },
+  {
+    "name": "Global Environmental Challenges",
+    "code": "SPS 374",
+    "crn": "10071",
+    "group": "0"
+  },
+  {
+    "name": "Teaching Colloquium: Humanity and Society",
+    "code": "SPS 500",
+    "crn": "12127",
+    "group": "A"
+  },
+  {
+    "name": "Teaching Colloquium: Humanity and Society",
+    "code": "SPS 500",
+    "crn": "12128",
+    "group": "B"
+  },
+  {
+    "name": "Communication Skills in Turkish",
+    "code": "TLL 001",
+    "crn": "13124",
+    "group": "0"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11054",
+    "group": "A1Y"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11055",
+    "group": "A2"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11058",
+    "group": "B1Y"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11059",
+    "group": "B2"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11060",
+    "group": "B3"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11061",
+    "group": "B4"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "12763",
+    "group": "B5"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11062",
+    "group": "C1Y"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11063",
+    "group": "C2"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11064",
+    "group": "C3"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11066",
+    "group": "C4"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "13296",
+    "group": "C5"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11070",
+    "group": "D1"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11461",
+    "group": "D2"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11069",
+    "group": "D3"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11083",
+    "group": "D4"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11071",
+    "group": "E1"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11072",
+    "group": "E2"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11073",
+    "group": "E3"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11075",
+    "group": "F1"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11076",
+    "group": "F2"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11078",
+    "group": "F3"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11079",
+    "group": "G1Y"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11080",
+    "group": "G2"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "13297",
+    "group": "G3"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "13300",
+    "group": "H"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11087",
+    "group": "K1Y"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11088",
+    "group": "K2"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11089",
+    "group": "K3"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "13298",
+    "group": "K4"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11067",
+    "group": "L1Y"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "12216",
+    "group": "L2"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "11468",
+    "group": "L3"
+  },
+  {
+    "name": "Turkish Language and Literature I",
+    "code": "TLL 101",
+    "crn": "13299",
+    "group": "L4"
+  },
+  {
+    "name": "Turkish Language and Literature II",
+    "code": "TLL 102",
+    "crn": "11091",
+    "group": "A1"
+  },
+  {
+    "name": "Turkish Language and Literature II",
+    "code": "TLL 102",
+    "crn": "11092",
+    "group": "A2"
+  },
+  {
+    "name": "Turkish Language and Literature II",
+    "code": "TLL 102",
+    "crn": "11095",
+    "group": "B1Y"
+  },
+  {
+    "name": "Turkish Language and Literature II",
+    "code": "TLL 102",
+    "crn": "11096",
+    "group": "B2"
+  },
+  {
+    "name": "Turkish Language and Literature II",
+    "code": "TLL 102",
+    "crn": "11099",
+    "group": "C1"
+  },
+  {
+    "name": "Turkish Language and Literature II",
+    "code": "TLL 102",
+    "crn": "11100",
+    "group": "C2"
+  },
+  {
+    "name": "Turkish Language and Literature II",
+    "code": "TLL 102",
+    "crn": "11103",
+    "group": "D1"
+  },
+  {
+    "name": "Turkish Language and Literature II",
+    "code": "TLL 102",
+    "crn": "11104",
+    "group": "D2"
+  },
+  {
+    "name": "Turkish Language and Literature II",
+    "code": "TLL 102",
+    "crn": "12764",
+    "group": "D3"
+  },
+  {
+    "name": "Turkish Language and Literature II",
+    "code": "TLL 102",
+    "crn": "11106",
+    "group": "E1Y"
+  },
+  {
+    "name": "Turkish Language and Literature II",
+    "code": "TLL 102",
+    "crn": "11102",
+    "group": "E2"
+  },
+  {
+    "name": "Turkish Language and Literature II",
+    "code": "TLL 102",
+    "crn": "12765",
+    "group": "E3"
+  },
+  {
+    "name": "Turkish Language and Literature II",
+    "code": "TLL 102",
+    "crn": "11467",
+    "group": "G"
+  },
+  {
+    "name": "Turkish Language and Literature II",
+    "code": "TLL 102",
+    "crn": "12766",
+    "group": "H"
+  },
+  {
+    "name": "Ottoman Turkish I",
+    "code": "TLL 510",
+    "crn": "12021",
+    "group": "0"
+  },
+  {
+    "name": "Ottoman Turkish I Discussion",
+    "code": "TLL 510D",
+    "crn": "12022",
+    "group": "0"
+  },
+  {
+    "name": "Ottoman Paleography",
+    "code": "TLL 550",
+    "crn": "12019",
+    "group": "0"
+  },
+  {
+    "name": "Ottoman Paleography Discussion",
+    "code": "TLL 550D",
+    "crn": "12020",
+    "group": "0"
+  },
+  {
+    "name": "Turkish Studies and History: Debates and Topics",
+    "code": "TS 551",
+    "crn": "13332",
+    "group": "0"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "TS 599",
+    "crn": "12636",
+    "group": "A"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "TS 599",
+    "crn": "13092",
+    "group": "B"
+  },
+  {
+    "name": "Master Thesis",
+    "code": "TS 599",
+    "crn": "13449",
+    "group": "C"
+  },
+  {
+    "name": "Basic Turkish I",
+    "code": "TUR 101",
+    "crn": "11202",
+    "group": "A"
+  },
+  {
+    "name": "Basic Turkish I",
+    "code": "TUR 101",
+    "crn": "11203",
+    "group": "B"
+  },
+  {
+    "name": "Basic Turkish I",
+    "code": "TUR 101",
+    "crn": "11204",
+    "group": "C"
+  },
+  {
+    "name": "Basic Turkish I",
+    "code": "TUR 101",
+    "crn": "11205",
+    "group": "D"
+  },
+  {
+    "name": "Basic Turkish II",
+    "code": "TUR 102",
+    "crn": "11200",
+    "group": "0"
+  },
+  {
+    "name": "Basic Turkish I",
+    "code": "TUR 511",
+    "crn": "12512",
+    "group": "D"
+  },
+  {
+    "name": "Visual Language I",
+    "code": "VA 201",
+    "crn": "11113",
+    "group": "0"
+  },
+  {
+    "name": "Language of Drawing I",
+    "code": "VA 203",
+    "crn": "11115",
+    "group": "0"
+  },
+  {
+    "name": "Project and Internship",
+    "code": "VA 300",
+    "crn": "13391",
+    "group": "0"
+  },
+  {
+    "name": "Art Studio I",
+    "code": "VA 301",
+    "crn": "11116",
+    "group": "0"
+  },
+  {
+    "name": "Design Studio I",
+    "code": "VA 303",
+    "crn": "12014",
+    "group": "0"
+  },
+  {
+    "name": "Digital and Photographic Imaging",
+    "code": "VA 328",
+    "crn": "11120",
+    "group": "0"
+  },
+  {
+    "name": "Illustration as Communication",
+    "code": "VA 331",
+    "crn": "11121",
+    "group": "0"
+  },
+  {
+    "name": "Independent Study",
+    "code": "VA 399",
+    "crn": "13100",
+    "group": "B"
+  },
+  {
+    "name": "Independent Study",
+    "code": "VA 399",
+    "crn": "13101",
+    "group": "C"
+  },
+  {
+    "name": "Independent Study",
+    "code": "VA 399",
+    "crn": "13102",
+    "group": "D"
+  },
+  {
+    "name": "Independent Study",
+    "code": "VA 399",
+    "crn": "13104",
+    "group": "F"
+  },
+  {
+    "name": "Art Studio III",
+    "code": "VA 401",
+    "crn": "12514",
+    "group": "0"
+  },
+  {
+    "name": "Design Studio III",
+    "code": "VA 403",
+    "crn": "12016",
+    "group": "0"
+  },
+  {
+    "name": "Art Analysis: Theory and Criticism",
+    "code": "VA 430",
+    "crn": "11126",
+    "group": "0"
+  },
+  {
+    "name": "Videography and Narrative Making",
+    "code": "VA 431",
+    "crn": "13013",
+    "group": "0"
+  },
+  {
+    "name": "3D Modelling",
+    "code": "VA 433",
+    "crn": "13017",
+    "group": "0"
+  },
+  {
+    "name": "Artificial Intelligence & Creativity",
+    "code": "VA 465",
+    "crn": "13065",
+    "group": "0"
+  },
+  {
+    "name": "Introductory Module",
+    "code": "VA 501",
+    "crn": "12116",
+    "group": "B"
+  },
+  {
+    "name": "Introductory Module",
+    "code": "VA 501",
+    "crn": "12745",
+    "group": "C"
+  },
+  {
+    "name": "Advanced Module",
+    "code": "VA 503",
+    "crn": "12739",
+    "group": "C"
+  },
+  {
+    "name": "Advanced Module",
+    "code": "VA 503",
+    "crn": "12740",
+    "group": "D"
+  },
+  {
+    "name": "Advanced Module",
+    "code": "VA 503",
+    "crn": "12742",
+    "group": "F"
+  },
+  {
+    "name": "Advanced Module",
+    "code": "VA 503",
+    "crn": "13098",
+    "group": "G"
+  },
+  {
+    "name": "3D Modelling",
+    "code": "VA 529",
+    "crn": "13018",
+    "group": "0"
+  },
+  {
+    "name": "Art Analysis : Theory and Criticsm",
+    "code": "VA 530",
+    "crn": "11127",
+    "group": "0"
+  },
+  {
+    "name": "Videography and Narrative Making",
+    "code": "VA 538",
+    "crn": "13015",
+    "group": "0"
+  },
+  {
+    "name": "Artificial Intelligence & Creativity",
+    "code": "VA 565",
+    "crn": "13066",
+    "group": "0"
+  },
+  {
+    "name": "Project / Exhibition / Thesis Preparation Seminar",
+    "code": "VA 590",
+    "crn": "11426",
+    "group": "0"
+  },
+  {
+    "name": "Term Project",
+    "code": "VA 597",
+    "crn": "13320",
+    "group": "0"
+  },
+  {
+    "name": "Master Thesis / Studio Project",
+    "code": "VA 599",
+    "crn": "10007",
+    "group": "A"
+  },
+  {
+    "name": "Master Thesis / Studio Project",
+    "code": "VA 599",
+    "crn": "10008",
+    "group": "B"
+  },
+  {
+    "name": "Master Thesis / Studio Project",
+    "code": "VA 599",
+    "crn": "11425",
+    "group": "C"
+  },
+  {
+    "name": "Master Thesis / Studio Project",
+    "code": "VA 599",
+    "crn": "12736",
+    "group": "D"
+  }
+]

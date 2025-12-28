@@ -1,22 +1,27 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
-
-
 from webdriver_manager.chrome import ChromeDriverManager
 
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse, parse_qs
 import time
+import json
+import os
+
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException
 
 
 # ---------------------------
 # Selenium bootstrap
-# ---------------------------s
+# ---------------------------
 
 def build_driver():
     chrome_options = Options()
-    chrome_options.add_argument("--headless")
+    chrome_options.add_argument("--headless=new")
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
@@ -32,6 +37,7 @@ def build_driver():
         service=Service(ChromeDriverManager().install()),
         options=chrome_options
     )
+    driver.set_page_load_timeout(45)
     return driver
 
 
@@ -43,7 +49,7 @@ def term_text_to_key(term_text: str):
     """
     Convert 'Fall 2018-2019' / 'Spring 2025-2026' into a sortable numeric key.
 
-    Fall 2018-2019  -> 20180
+    Fall 2018-2019   -> 20180
     Spring 2018-2019 -> 20181
     Summer 2018-2019 -> 20182
     """
@@ -52,8 +58,8 @@ def term_text_to_key(term_text: str):
         if len(parts) < 2:
             return None
 
-        season = parts[0]   # Fall / Spring / Summer
-        years = parts[1]    # 2018-2019
+        season = parts[0]
+        years = parts[1]
         start_year = int(years.split('-')[0])
 
         season_order = {"Fall": 0, "Spring": 1, "Summer": 2}
@@ -64,13 +70,13 @@ def term_text_to_key(term_text: str):
         return None
 
 
-LOWER_BOUND_KEY = term_text_to_key("Fall 2025-2026")
+LOWER_BOUND_KEY = term_text_to_key("Fall 2020-2021")
 UPPER_BOUND_KEY = term_text_to_key("Spring 2025-2026")
 
 
 def term_in_range(term_text: str) -> bool:
     """
-    We only want Fall/Spring between Fall 2018-2019 and Spring 2025-2026.
+    We only want Fall/Spring between Fall 2020-2021 and Spring 2025-2026.
     """
     key = term_text_to_key(term_text)
     if key is None:
@@ -83,259 +89,171 @@ def term_in_range(term_text: str) -> bool:
 
 
 # ---------------------------
-# HTML parsing helpers
+# Robust wait utilities
 # ---------------------------
 
-def extract_inline_block_courses(soup, anchor_name):
+def wait_for_degree_detail_ready(driver, timeout=25):
     """
-    For sections like University Courses (UC_FENS) and Required Courses (BSCS_REQ),
-    starting from <a name="...">, find the first table that has the header
-    [Course, Name, ECTS Credits, SU Credits, Faculty] and extract rows.
+    Degree detail pages aren't always consistent.
+    Consider page "ready" if any of these appear:
+      - h3 'Admit Term'
+      - UC_FENS anchor
+      - SUMMARY header
     """
-    anchor = soup.find("a", attrs={"name": anchor_name})
-    if not anchor:
-        return []
+    def ready(d):
+        probes = [
+            "//h3[contains(., 'Admit Term')]",
+            "//a[@name='UC_FENS']",
+            "//h1[contains(., 'SUMMARY OF DEGREE REQUIREMENTS')]",
+        ]
+        return any(d.find_elements(By.XPATH, xp) for xp in probes)
 
-    current = anchor
-    target_table = None
-    expected_headers = {"Course", "Name", "ECTS Credits", "SU Credits", "Faculty"}
-
-    while True:
-        current = current.find_next("table")
-        if not current:
-            break
-
-        header_cells = [th.get_text(strip=True) for th in current.find_all("th")]
-        if expected_headers.issubset(set(header_cells)):
-            target_table = current
-            break
-
-    if not target_table:
-        return []
-
-    tbody = target_table.find("tbody")
-    if not tbody:
-        return []
-
-    data = []
-    for tr in tbody.find_all("tr"):
-        tds = tr.find_all("td")
-        if len(tds) < 6:
-            continue
-
-        course_code = tds[1].get_text(strip=True)
-        course_name = tds[2].get_text(strip=True)
-        ects = tds[3].get_text(strip=True)
-        su_credits = tds[4].get_text(strip=True)
-        faculty = tds[5].get_text(strip=True)
-
-        if not course_code:
-            continue
-
-        data.append({
-            "course_code": course_code,
-            "course_name": course_name,
-            "ects": ects,
-            "su_credits": su_credits,
-            "faculty": faculty,
-        })
-
-    return data
+    WebDriverWait(driver, timeout).until(ready)
 
 
-def find_elective_link(soup, anchor_name, area_code):
-    """
-    For Core / Area / Free Electives:
-    Starting from <a name="BSCS_CEL"> etc., locate the 'Click For ...' link
-    whose href contains p_list_courses and P_AREA=area_code.
-    """
-    anchor = soup.find("a", attrs={"name": anchor_name})
-    if not anchor:
-        return None
-
-    current = anchor
-    while True:
-        current = current.find_next("a")
-        if not current:
-            break
-        href = current.get("href", "")
-        if "p_list_courses" in href and f"P_AREA={area_code}" in href:
-            return href
-
-    return None
+def safe_text(driver, xpath: str) -> str:
+    elems = driver.find_elements(By.XPATH, xpath)
+    return elems[0].text.strip() if elems else ""
 
 
-def extract_p_list_courses(driver, full_url):
-    """
-    Given a p_list_courses URL, navigate there with Selenium, then
-    extract the course table (Course / Name / ECTS / SU Credits / Faculty).
-    """
-    driver.get(full_url)
-    time.sleep(1)
-
-    soup = BeautifulSoup(driver.page_source, "html.parser")
-    tables = soup.find_all("table")
-    if not tables:
-        return []
-
-    expected_headers = {"Course", "Name", "ECTS Credits", "SU Credits", "Faculty"}
-    target_table = None
-
-    for table in tables:
-        header_cells = [th.get_text(strip=True) for th in table.find_all("th")]
-        if expected_headers.issubset(set(header_cells)):
-            target_table = table
-            break
-
-    if not target_table:
-        return []
-
-    tbody = target_table.find("tbody")
-    if not tbody:
-        return []
-
-    data = []
-    for tr in tbody.find_all("tr"):
-        tds = tr.find_all("td")
-        if len(tds) < 6:
-            continue
-
-        course_code = tds[1].get_text(strip=True)
-        course_name = tds[2].get_text(strip=True)
-        ects = tds[3].get_text(strip=True)
-        su_credits = tds[4].get_text(strip=True)
-        faculty = tds[5].get_text(strip=True)
-
-        if not course_code:
-            continue
-
-        data.append({
-            "course_code": course_code,
-            "course_name": course_name,
-            "ects": ects,
-            "su_credits": su_credits,
-            "faculty": faculty,
-        })
-
-    return data
-from selenium.webdriver.common.by import By
+# ---------------------------
+# Selenium parsing helpers
+# ---------------------------
 
 def extract_course_table_after_anchor(driver, anchor_name):
     """
-    For anchors like UC_FENS, BSCS_REQ on the degree detail page:
-    - Finds the anchor <a name="...">
-    - Takes the SECOND following <table> (1st is description, 2nd is the course table)
-    - Parses rows into [{course_code, course_name, ects, su_credits, faculty}, ...]
+    For anchors like UC_FENS, BSCS_REQ:
+    Find the first following <table> that has headers:
+      Course / Name / ECTS Credits / SU Credits / Faculty
+    Then parse its tbody rows into normalized JSON objects.
     """
     try:
-        anchor = driver.find_element(By.XPATH, f"//a[@name='{anchor_name}']")
+        driver.find_element(By.XPATH, f"//a[@name='{anchor_name}']")
     except Exception:
         return []
 
-    # Following tables: [0] = description table, [1] = actual course table
-    tables = anchor.find_elements(By.XPATH, "ancestor::tr/following::table")
-    if len(tables) < 2:
-        return []
-
-    table = tables[1]
-    rows = table.find_elements(By.TAG_NAME, "tr")
-    if len(rows) < 2:
-        return []
-
-    courses = []
-    for row in rows[1:]:  # skip header
-        cells = row.find_elements(By.TAG_NAME, "td")
-        if len(cells) < 6:
-            continue
-
-        course_code = cells[1].text.strip()
-        if not course_code:
-            continue
-
-        courses.append({
-            "course_code": course_code,
-            "course_name": cells[2].text.strip(),
-            "ects": cells[3].text.strip(),
-            "su_credits": cells[4].text.strip(),
-            "faculty": cells[5].text.strip(),
-        })
-
-    return courses
-
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-
-def scrape_elective_pool_page(driver, url):
-    """
-    Generic parser for SU_DEGREE.p_list_courses pages:
-    Expects first table to have header:
-    (&nbsp;, Course, Name, ECTS Credits, SU Credits, Faculty)
-    """
-    if url is None:
-        return []
-
-    driver.get(url)
-    WebDriverWait(driver, 15).until(
-        EC.presence_of_element_located((By.TAG_NAME, "table"))
-    )
-
-    tables = driver.find_elements(By.TAG_NAME, "table")
+    # Find candidate tables after the anchor in DOM order
+    tables = driver.find_elements(By.XPATH, f"//a[@name='{anchor_name}']/following::table")
     if not tables:
         return []
 
-    table = tables[0]
-    rows = table.find_elements(By.TAG_NAME, "tr")
-    if len(rows) < 2:
+    expected = {"Course", "Name", "ECTS Credits", "SU Credits", "Faculty"}
+
+    def table_headers(tbl):
+        ths = tbl.find_elements(By.TAG_NAME, "th")
+        return {t.text.strip() for t in ths if t.text.strip()}
+
+    target = None
+    for tbl in tables:
+        if expected.issubset(table_headers(tbl)):
+            target = tbl
+            break
+
+    if not target:
         return []
 
-    electives = []
-    for row in rows[1:]:
-        cells = row.find_elements(By.TAG_NAME, "td")
-        if len(cells) < 6:
+    rows = target.find_elements(By.XPATH, ".//tbody/tr")
+    data = []
+
+    for tr in rows:
+        tds = tr.find_elements(By.TAG_NAME, "td")
+        if len(tds) < 6:
             continue
 
-        course_code = cells[1].text.strip()
+        course_code = tds[1].text.strip()
+        if not course_code:
+            continue
+
+        data.append({
+            "course_code": course_code,
+            "course_name": tds[2].text.strip(),
+            "ects": tds[3].text.strip(),
+            "su_credits": tds[4].text.strip(),
+            "faculty": tds[5].text.strip(),
+        })
+
+    return data
+
+
+def scrape_elective_pool_page(driver, url):
+    """
+    Parses SU_DEGREE.p_list_courses pages.
+    IMPORTANT: These pages often contain multiple tables; first table is not guaranteed
+    to be the course table. We select the table whose headers match the expected schema.
+    """
+    if not url:
+        return []
+
+    driver.get(url)
+
+    WebDriverWait(driver, 20).until(
+        EC.presence_of_element_located((By.TAG_NAME, "table"))
+    )
+
+    # Use DOM-based selection by headers (not index-based)
+    expected = {"Course", "Name", "ECTS Credits", "SU Credits", "Faculty"}
+    tables = driver.find_elements(By.TAG_NAME, "table")
+
+    def headers_of(tbl):
+        ths = tbl.find_elements(By.TAG_NAME, "th")
+        return {t.text.strip() for t in ths if t.text.strip()}
+
+    target = None
+    for tbl in tables:
+        if expected.issubset(headers_of(tbl)):
+            target = tbl
+            break
+
+    if not target:
+        return []
+
+    rows = target.find_elements(By.XPATH, ".//tbody/tr")
+    electives = []
+
+    for tr in rows:
+        tds = tr.find_elements(By.TAG_NAME, "td")
+        if len(tds) < 6:
+            continue
+
+        course_code = tds[1].text.strip()
         if not course_code:
             continue
 
         electives.append({
             "course_code": course_code,
-            "course_name": cells[2].text.strip(),
-            "ects": cells[3].text.strip(),
-            "su_credits": cells[4].text.strip(),
-            "faculty": cells[5].text.strip(),
+            "course_name": tds[2].text.strip(),
+            "ects": tds[3].text.strip(),
+            "su_credits": tds[4].text.strip(),
+            "faculty": tds[5].text.strip(),
         })
 
     return electives
 
-def scrape_current_degree_page(driver):
-    """
-    Scrapes a single SU_DEGREE.p_degree_detail page into the JSON structure you showed.
-    - University Courses
-    - Required Courses
-    - Core / Area / Free Electives (via p_list_courses pages)
-    """
-    # Admit term (e.g., "Admit Term: Spring 2025-2026")
-    admit_term_text = driver.find_element(
-        By.XPATH, "//h3[contains(., 'Admit Term')]"
-    ).text.strip()
-    admit_term = admit_term_text.replace("Admit Term:", "").strip()
 
-    # Program title
-    program = driver.find_element(
-        By.XPATH,
-        "//h1[contains(., 'COMPUTER SCIENCE') or contains(., 'COMPUTER SCIENCE AND ENGINEERING')]"
-    ).text.strip()
+# ---------------------------
+# Page scraper
+# ---------------------------
 
-    # On-page tables (University + Required)
+def scrape_current_degree_page(driver, fallback_term_text=None, fallback_term_value=None):
+    """
+    Scrapes a single SU_DEGREE.p_degree_detail page.
+    Adds fallbacks for admit_term and program title to avoid NoSuchElement failures.
+    """
+    wait_for_degree_detail_ready(driver, timeout=25)
+
+    admit_term_text = safe_text(driver, "//h3[contains(., 'Admit Term')]")
+    admit_term = admit_term_text.replace("Admit Term:", "").strip() if admit_term_text else (fallback_term_text or "")
+
+    program = safe_text(driver, "//h1[contains(., 'UNDERGRADUATE PROGRAM') or contains(., '(BSCS)')]")
+    if not program:
+        program = safe_text(driver, "(//h1)[1]")
+
     university_courses = extract_course_table_after_anchor(driver, "UC_FENS")
     required_courses = extract_course_table_after_anchor(driver, "BSCS_REQ")
 
-    # Base URL for resolving relative links
     base_url = driver.current_url
 
     def resolve_href(fragment: str):
-        """Find first <a> whose href contains fragment and return absolute URL."""
         try:
             link = driver.find_element(By.XPATH, f"//a[contains(@href, '{fragment}')]")
             href = link.get_attribute("href")
@@ -343,7 +261,6 @@ def scrape_current_degree_page(driver):
         except Exception:
             return None
 
-    # Core / Area / Free electives → follow p_list_courses links
     core_url = resolve_href("P_AREA=BSCS_CEL")
     area_url = resolve_href("P_AREA=BSCS_AEL")
     free_url = resolve_href("P_AREA=BSCS_FEL")
@@ -360,6 +277,8 @@ def scrape_current_degree_page(driver):
         "core_electives": core_electives,
         "area_electives": area_electives,
         "free_electives": free_electives,
+        "first_admit_term_display": fallback_term_text or admit_term,
+        "first_admit_term_value": fallback_term_value or "",
     }
 
 
@@ -380,13 +299,14 @@ def scrape_all_terms():
         select_elem = driver.find_element(By.NAME, "P_TERM")
         option_elems = select_elem.find_elements(By.TAG_NAME, "option")
 
+        # capture (txt,val) as plain strings to avoid stale references
         term_entries = []
         for opt in option_elems:
             val = opt.get_attribute("value")
             txt = opt.text.strip()
             if not val:
                 continue
-            if not term_in_range(txt):  # your filter: Fall 2018-2019 → Spring 2025-2026
+            if not term_in_range(txt):
                 continue
             term_entries.append((txt, val))
 
@@ -395,6 +315,7 @@ def scrape_all_terms():
         for term_text, term_value in term_entries:
             print(f"Processing FIRST ADMIT TERM: {term_text} ({term_value})")
 
+            # reload selection page for a clean session state
             driver.get(SELECT_URL)
             WebDriverWait(driver, 15).until(
                 EC.presence_of_element_located((By.NAME, "P_TERM"))
@@ -408,13 +329,29 @@ def scrape_all_terms():
 
             driver.find_element(By.NAME, "P_SUBMIT").click()
 
-            WebDriverWait(driver, 15).until(
-                EC.presence_of_element_located((By.TAG_NAME, "body"))
-            )
+            # wait for degree page readiness (not just body)
+            try:
+                wait_for_degree_detail_ready(driver, timeout=25)
+            except TimeoutException:
+                all_term_data.append({
+                    "admit_term": term_text,
+                    "program": "",
+                    "university_courses": [],
+                    "required_courses": [],
+                    "core_electives": [],
+                    "area_electives": [],
+                    "free_electives": [],
+                    "first_admit_term_display": term_text,
+                    "first_admit_term_value": term_value,
+                    "error": f"Degree detail did not load. URL={driver.current_url}"
+                })
+                continue
 
-            term_data = scrape_current_degree_page(driver)
-            term_data["first_admit_term_display"] = term_text
-            term_data["first_admit_term_value"] = term_value
+            term_data = scrape_current_degree_page(
+                driver,
+                fallback_term_text=term_text,
+                fallback_term_value=term_value
+            )
 
             all_term_data.append(term_data)
 
@@ -424,22 +361,18 @@ def scrape_all_terms():
         driver.quit()
 
 
-
-
+# ---------------------------
+# CLI entry
+# ---------------------------
 
 if __name__ == "__main__":
     data = scrape_all_terms()
-
-    # ---- Save JSON output ----
-    import json
-    import os
 
     output_dir = "./output"
     os.makedirs(output_dir, exist_ok=True)
 
     out_path = os.path.join(output_dir, "degree_requirements.json")
-
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
-    print(f"\n📁 JSON successfully exported to: {out_path}\n")
+    print(f"\nJSON successfully exported to: {out_path}\n")

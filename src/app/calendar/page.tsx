@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect, useRef, useCallback, useMemo } from 'react';
+import React, { useState, useEffect, useRef, useCallback, useMemo } from 'react';
 import Link from 'next/link';
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -14,11 +14,19 @@ import { toast } from "sonner";
 import { Search, ChevronLeft, X, Clock, Loader2, Plus, BookOpen, MapPin, User, ChevronDown, GraduationCap, Sparkles, AlertTriangle } from "lucide-react";
 import { cn } from "@/lib/utils";
 
+interface ScheduleSlot {
+    day: string;
+    time?: string;
+    start_time?: string;
+    end_time?: string;
+    location?: string;
+}
+
 interface Section {
     section: string;
     instructor: string;
-    location: string;
-    schedule: { day: string; time: string }[];
+    location?: string;
+    schedule: ScheduleSlot[];
 }
 
 interface Course {
@@ -44,6 +52,11 @@ const DAYS = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'];
 const SHORT_DAYS = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri'];
 const COURSES_PER_PAGE = 20;
 
+function toShortDay(day: string): string {
+    const idx = DAYS.findIndex(d => d.toLowerCase() === day.toLowerCase());
+    return idx >= 0 ? SHORT_DAYS[idx] : day.slice(0, 3);
+}
+
 const TIME_SLOTS = Array.from({ length: 12 }, (_, i) => {
     const startHour = 8 + i;
     const endHour = 9 + i;
@@ -56,13 +69,20 @@ const TIME_SLOTS = Array.from({ length: 12 }, (_, i) => {
 });
 
 function getMinutes(timeStr: string): number {
-    const [time, period] = timeStr.trim().split(' ');
-    const [hoursStr, minutesStr] = time.split(':');
-    let hours = Number(hoursStr);
-    const minutes = Number(minutesStr);
-    if (period === 'PM' && hours !== 12) hours += 12;
-    if (period === 'AM' && hours === 12) hours = 0;
-    return hours * 60 + minutes;
+    const trimmed = timeStr.trim();
+    // Check if it's AM/PM format
+    if (trimmed.includes('AM') || trimmed.includes('PM')) {
+        const [time, period] = trimmed.split(' ');
+        const [hoursStr, minutesStr] = time.split(':');
+        let hours = Number(hoursStr);
+        const minutes = Number(minutesStr);
+        if (period === 'PM' && hours !== 12) hours += 12;
+        if (period === 'AM' && hours === 12) hours = 0;
+        return hours * 60 + minutes;
+    }
+    // 24-hour format (e.g., "09:40" or "14:30")
+    const [hoursStr, minutesStr] = trimmed.split(':');
+    return Number(hoursStr) * 60 + Number(minutesStr);
 }
 
 function parseSections(sections: string | Section[] | undefined): Section[] {
@@ -73,7 +93,7 @@ function parseSections(sections: string | Section[] | undefined): Section[] {
     return Array.isArray(sections) ? sections : [];
 }
 
-function parseSchedule(schedule: string | object | undefined): { day: string; time: string }[] {
+function parseSchedule(schedule: string | object | undefined): ScheduleSlot[] {
     if (!schedule) return [];
     if (typeof schedule === 'string') {
         try { return JSON.parse(schedule); } catch { return []; }
@@ -92,6 +112,79 @@ function mapTimeToSlots(timeStr: string): { startIndex: number; span: number } |
         if (startIndex < 0 || startIndex >= 11 || span < 1) return null;
         return { startIndex, span };
     } catch { return null; }
+}
+
+interface ScraperCourse {
+    subject_code: string;
+    class_number: string;
+    sections: Section[];
+}
+
+function transformScraperData(scraperData: ScraperCourse[]): Course[] {
+    // Separate regular courses from recitations (R) and labs (L)
+    const regularCourses: Map<string, ScraperCourse> = new Map();
+    const recitations: Map<string, ScraperCourse> = new Map();
+    const labs: Map<string, ScraperCourse> = new Map();
+
+    for (const course of scraperData) {
+        const id = `${course.subject_code}${course.class_number}`;
+        // Check if it's a recitation (ends with R followed by optional digits, e.g., CS201R, MATH101R1)
+        const recitMatch = course.class_number.match(/^(\d+)R(\d*)$/);
+        // Check if it's a lab (ends with L followed by optional digits, e.g., CS201L, PHYS101L1)
+        const labMatch = course.class_number.match(/^(\d+)L(\d*)$/);
+        if (recitMatch) {
+            recitations.set(id, course);
+        } else if (labMatch) {
+            labs.set(id, course);
+        } else {
+            regularCourses.set(id, course);
+        }
+    }
+
+    // Merge recitations and labs into their parent courses
+    const mergedCourses: Course[] = [];
+
+    for (const [id, course] of regularCourses) {
+        // Find matching recitation (e.g., CS201 -> CS201R)
+        const recitId = `${course.subject_code}${course.class_number}R`;
+        const recitation = recitations.get(recitId);
+
+        // Find matching lab (e.g., CS201 -> CS201L)
+        const labId = `${course.subject_code}${course.class_number}L`;
+        const lab = labs.get(labId);
+
+        // Combine sections - mark recitation sections with R prefix and lab sections with L prefix
+        let allSections = [...(course.sections || [])];
+
+        if (recitation && recitation.sections) {
+            // Add recitation sections with R prefix to distinguish them
+            const recitSections = recitation.sections.map(s => ({
+                ...s,
+                section: `R${s.section}`, // Prefix with R to indicate recitation
+                instructor: s.instructor || 'TBA',
+            }));
+            allSections = [...allSections, ...recitSections];
+        }
+
+        if (lab && lab.sections) {
+            // Add lab sections with L prefix to distinguish them
+            const labSections = lab.sections.map(s => ({
+                ...s,
+                section: `L${s.section}`, // Prefix with L to indicate lab
+                instructor: s.instructor || 'TBA',
+            }));
+            allSections = [...allSections, ...labSections];
+        }
+
+        mergedCourses.push({
+            id,
+            title: `${course.subject_code} ${course.class_number}`,
+            sections: allSections,
+            credits: 3,
+        });
+    }
+
+    return mergedCourses;
 }
 
 const COLORS = [
@@ -123,19 +216,39 @@ export default function CalendarPage() {
                 const savedPastCourses = localStorage.getItem('search_pastCourseIds');
                 const pastCoursesStr = savedPastCourses ? JSON.parse(savedPastCourses).join(', ') : '';
 
-                const res = await fetch('/api/recommend', {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ bio: savedBio, career: savedCareer, pastCourses: pastCoursesStr, limit: 500, offset: 0 }),
-                });
+                let loadedFromApi = false;
+                try {
+                    const res = await fetch('/api/recommend', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ bio: savedBio, career: savedCareer, pastCourses: pastCoursesStr, limit: 500, offset: 0 }),
+                    });
 
-                if (res.ok) {
-                    const data = await res.json();
-                    const courses = data.courses || [];
-                    setAllCourses(courses.sort((a: Course, b: Course) => (b.score || 0) - (a.score || 0)));
+                    if (res.ok) {
+                        const data = await res.json();
+                        const courses = data.courses || [];
+                        if (courses.length > 0) {
+                            setAllCourses(courses.sort((a: Course, b: Course) => (b.score || 0) - (a.score || 0)));
+                            loadedFromApi = true;
+                        }
+                    }
+                } catch (apiErr) {
+                    console.error('API fetch failed:', apiErr);
                 }
-            } catch (err) {
-                console.error('Failed to fetch courses:', err);
+
+                // Fallback: load from local courses.json for testing
+                if (!loadedFromApi) {
+                    try {
+                        const localRes = await fetch('/courses.json');
+                        if (localRes.ok) {
+                            const scraperData = await localRes.json();
+                            const courses = transformScraperData(scraperData);
+                            setAllCourses(courses);
+                        }
+                    } catch (localErr) {
+                        console.error('Failed to load local courses:', localErr);
+                    }
+                }
             } finally {
                 setLoadingCourses(false);
             }
@@ -159,7 +272,7 @@ export default function CalendarPage() {
     const filteredCourses = useMemo(() => {
         return allCourses
             .filter(c => {
-                if (selectedCourses.some(sc => sc.id === c.id)) return false;
+                // Don't hide courses - allow adding multiple sections from the same course
                 if (!searchQuery) return true;
                 const query = searchQuery.toLowerCase().replace(/\s+/g, '');
                 const idNorm = c.id.toLowerCase().replace(/\s+/g, '');
@@ -167,13 +280,13 @@ export default function CalendarPage() {
                 return idNorm.includes(query) || titleLower.includes(searchQuery.toLowerCase());
             })
             .sort((a, b) => (b.score || 0) - (a.score || 0));
-    }, [allCourses, selectedCourses, searchQuery]);
+    }, [allCourses, searchQuery]);
 
     useEffect(() => {
         setDisplayedCourses(filteredCourses.slice(0, COURSES_PER_PAGE));
         setHasMore(filteredCourses.length > COURSES_PER_PAGE);
     // eslint-disable-next-line react-hooks/exhaustive-deps
-    }, [searchQuery, allCourses, selectedCourses]);
+    }, [searchQuery, allCourses]);
 
     const loadMoreCourses = useCallback(() => {
         const currentLength = displayedCourses.length;
@@ -216,17 +329,32 @@ export default function CalendarPage() {
         }
     }, [selectedCourses, isLoaded]);
 
-    const addCourse = (course: Course, sectionId?: string) => {
-        if (selectedCourses.some(c => c.id === course.id)) return;
-        setSelectedCourses(prev => [...prev, { ...course, color: '#f97316', selectedSection: sectionId }]);
-        setExpandedCourse(null);
-        if (window.innerWidth < 1024) setShowSidebar(false);
-        toast.success(`Added ${course.id}`, { description: course.title });
+    const getSectionLabel = (sectionId: string | undefined, forToast: boolean = false): string => {
+        if (!sectionId) return '';
+        if (sectionId.startsWith('R')) {
+            return forToast ? ` (Section ${sectionId.slice(1)} - Recitation)` : ` Section ${sectionId.slice(1)}`;
+        }
+        if (sectionId.startsWith('L')) {
+            return forToast ? ` (Section ${sectionId.slice(1)} - Lab)` : ` Section ${sectionId.slice(1)}`;
+        }
+        return forToast ? ` (Section ${sectionId})` : ` Section ${sectionId}`;
     };
 
-    const removeCourse = (courseId: string) => {
-        setSelectedCourses(prev => prev.filter(c => c.id !== courseId));
-        toast.info(`Removed ${courseId}`);
+    const addCourse = (course: Course, sectionId?: string) => {
+        // Check if this exact course+section combination already exists
+        if (selectedCourses.some(c => c.id === course.id && c.selectedSection === sectionId)) {
+            toast.info(`${course.id} Section ${sectionId} is already added`);
+            return;
+        }
+        setSelectedCourses(prev => [...prev, { ...course, color: '#f97316', selectedSection: sectionId }]);
+        // Don't close expanded view - keep it open so user can add more sections
+        if (window.innerWidth < 1024) setShowSidebar(false);
+        toast.success(`Added ${course.id}${getSectionLabel(sectionId, true)}`, { description: course.title });
+    };
+
+    const removeCourse = (courseId: string, sectionId?: string) => {
+        setSelectedCourses(prev => prev.filter(c => !(c.id === courseId && c.selectedSection === sectionId)));
+        toast.info(`Removed ${courseId}${getSectionLabel(sectionId)}`);
     };
 
     const changeSection = (courseId: string, sectionId: string) => {
@@ -235,18 +363,38 @@ export default function CalendarPage() {
         ));
     };
 
+    const formatSlotTime = (slot: ScheduleSlot): string => {
+        if (slot.start_time && slot.end_time) {
+            return `${slot.start_time} - ${slot.end_time}`;
+        }
+        return slot.time || '';
+    };
+
     const getScheduleForCourse = (course: SelectedCourse): { day: string; time: string; location?: string }[] => {
         const sections = parseSections(course.sections);
         if (sections.length > 0 && course.selectedSection) {
             const section = sections.find(s => s.section === course.selectedSection);
-            if (section) {
-                return section.schedule.map(s => ({ ...s, location: section.location }));
+            if (section && section.schedule) {
+                return section.schedule.filter(s => s != null && s.day).map(s => ({
+                    day: toShortDay(s.day),
+                    time: formatSlotTime(s),
+                    location: s.location || section.location
+                }));
             }
         }
-        if (sections.length > 0) {
-            return sections[0].schedule.map(s => ({ ...s, location: sections[0].location }));
+        if (sections.length > 0 && sections[0].schedule) {
+            return sections[0].schedule.filter(s => s != null && s.day).map(s => ({
+                day: toShortDay(s.day),
+                time: formatSlotTime(s),
+                location: s.location || sections[0].location
+            }));
         }
-        return parseSchedule(course.schedule);
+        const schedule = parseSchedule(course.schedule);
+        return schedule.filter(s => s != null && s.day).map(s => ({
+            day: toShortDay(s.day),
+            time: formatSlotTime(s),
+            location: s.location
+        }));
     };
 
     const courseBlocks = useMemo(() => {
@@ -274,7 +422,11 @@ export default function CalendarPage() {
 
     const getBlockPosition = useCallback((block: any, day: string) => {
         const overlapping = getOverlapInfo(day, block.slotInfo.startIndex);
-        const idx = overlapping.findIndex((b: any) => b.course.id === block.course.id && b.time === block.time);
+        const idx = overlapping.findIndex((b: any) =>
+            b.course.id === block.course.id &&
+            b.course.selectedSection === block.course.selectedSection &&
+            b.time === block.time
+        );
         return { idx, total: overlapping.length };
     }, [getOverlapInfo]);
 
@@ -379,9 +531,9 @@ export default function CalendarPage() {
                                             {displayedCourses.map((course) => {
                                                 const matchPercent = course.score ? Math.round(course.score * 100) : null;
                                                 const sections = parseSections(course.sections);
-                                                const scheduleItems = sections.length > 0 
-                                                    ? sections.flatMap(s => s.schedule)
-                                                    : parseSchedule(course.schedule);
+                                                const scheduleItems = sections.length > 0
+                                                    ? sections.flatMap(s => s.schedule || []).filter(s => s != null)
+                                                    : parseSchedule(course.schedule).filter(s => s != null);
                                                 const isExcellent = matchPercent && matchPercent >= 85;
                                                 const isGreat = matchPercent && matchPercent >= 70 && matchPercent < 85;
                                                 const isGood = matchPercent && matchPercent >= 55 && matchPercent < 70;
@@ -423,47 +575,93 @@ export default function CalendarPage() {
                                                             {scheduleItems.length > 0 && (
                                                                 <div className="flex items-center gap-1 mt-1.5 text-[10px] text-foreground/60 font-medium">
                                                                     <Clock className="w-3 h-3 text-primary/70" />
-                                                                    {[...new Set(scheduleItems.map(s => s.day.slice(0, 3)))].join(', ')}
+                                                                    {[...new Set(scheduleItems.filter(s => s?.day).map(s => s.day.slice(0, 3)))].join(', ')}
                                                                     {hasSections && <span className="ml-1">• {sections.length} sections</span>}
                                                                 </div>
                                                             )}
                                                         </div>
 
-                                                        {isExpanded && hasSections && (
-                                                            <div className="border-t bg-secondary/30 p-2 space-y-1.5">
-                                                                {sections.map((section) => (
+                                                        {isExpanded && hasSections && (() => {
+                                                            const regularSections = sections.filter(s => !s.section.startsWith('R') && !s.section.startsWith('L'));
+                                                            const recitationSections = sections.filter(s => s.section.startsWith('R'));
+                                                            const labSections = sections.filter(s => s.section.startsWith('L'));
+
+                                                            const renderSection = (section: any, displayName: string) => {
+                                                                const isAdded = selectedCourses.some(c => c.id === course.id && c.selectedSection === section.section);
+                                                                return (
                                                                     <div
                                                                         key={section.section}
-                                                                        onClick={() => addCourse(course, section.section)}
-                                                                        className="p-3 rounded-xl bg-card border hover:border-primary/40 hover:bg-primary/5 cursor-pointer transition-all group/section"
+                                                                        onClick={() => !isAdded && addCourse(course, section.section)}
+                                                                        className={cn(
+                                                                            "p-3 rounded-xl border transition-all group/section",
+                                                                            isAdded
+                                                                                ? "bg-primary/10 border-primary/30 cursor-default"
+                                                                                : "bg-card hover:border-primary/40 hover:bg-primary/5 cursor-pointer"
+                                                                        )}
                                                                     >
                                                                         <div className="flex items-center justify-between mb-1.5">
-                                                                            <Badge variant="outline" className="text-[10px] rounded-lg bg-secondary/50 text-foreground font-semibold">
-                                                                                Section {section.section}
+                                                                            <Badge variant="outline" className={cn(
+                                                                                "text-[10px] rounded-lg font-semibold",
+                                                                                isAdded ? "bg-primary/20 text-primary border-primary/30" : "bg-secondary/50 text-foreground"
+                                                                            )}>
+                                                                                Section {displayName}
                                                                             </Badge>
-                                                                            <Button size="sm" className="h-6 text-[10px] rounded-lg opacity-0 group-hover/section:opacity-100 transition-opacity">
-                                                                                <Plus className="w-3 h-3 mr-1" />
-                                                                                Add
-                                                                            </Button>
+                                                                            {isAdded ? (
+                                                                                <Badge variant="secondary" className="h-6 text-[10px] rounded-lg bg-primary/20 text-primary">
+                                                                                    Added
+                                                                                </Badge>
+                                                                            ) : (
+                                                                                <Button size="sm" className="h-6 text-[10px] rounded-lg opacity-0 group-hover/section:opacity-100 transition-opacity">
+                                                                                    <Plus className="w-3 h-3 mr-1" />
+                                                                                    Add
+                                                                                </Button>
+                                                                            )}
                                                                         </div>
                                                                         <div className="text-xs font-medium flex items-center gap-1.5 mb-1 text-foreground">
                                                                             <User className="w-3 h-3 text-primary" />
                                                                             {section.instructor}
                                                                         </div>
-                                                                        <div className="text-[10px] text-foreground/70 flex items-center gap-1">
-                                                                            <Clock className="w-3 h-3 text-primary/70" />
-                                                                            {section.schedule.map(s => `${s.day.slice(0, 3)} ${s.time}`).join(' • ')}
+                                                                        <div className="text-[10px] text-foreground/70 flex flex-col gap-0.5">
+                                                                            {section.schedule?.filter((s: any) => s != null).map((s: any, i: number) => (
+                                                                                <div key={i} className="flex items-center gap-1">
+                                                                                    <Clock className="w-3 h-3 text-primary/70" />
+                                                                                    <span>{s.day?.slice(0, 3)} {s.start_time && s.end_time ? `${s.start_time} - ${s.end_time}` : s.time}</span>
+                                                                                    {s.location && (
+                                                                                        <>
+                                                                                            <MapPin className="w-3 h-3 text-primary/70 ml-1" />
+                                                                                            <span>{s.location}</span>
+                                                                                        </>
+                                                                                    )}
+                                                                                </div>
+                                                                            ))}
                                                                         </div>
-                                                                        {section.location && (
-                                                                            <div className="text-[10px] text-foreground/70 mt-0.5 flex items-center gap-1">
-                                                                                <MapPin className="w-3 h-3 text-primary/70" />
-                                                                                {section.location}
-                                                                            </div>
-                                                                        )}
                                                                     </div>
-                                                                ))}
-                                                            </div>
-                                                        )}
+                                                                );
+                                                            };
+
+                                                            return (
+                                                                <div className="border-t bg-secondary/30 p-2 space-y-1.5">
+                                                                    {regularSections.length > 0 && (
+                                                                        <>
+                                                                            <div className="text-[10px] font-semibold text-foreground/70 px-1 pt-1">Sections</div>
+                                                                            {regularSections.map((section) => renderSection(section, section.section))}
+                                                                        </>
+                                                                    )}
+                                                                    {recitationSections.length > 0 && (
+                                                                        <>
+                                                                            <div className="text-[10px] font-semibold text-foreground/70 px-1 pt-2">Sections (R)</div>
+                                                                            {recitationSections.map((section) => renderSection(section, section.section.slice(1)))}
+                                                                        </>
+                                                                    )}
+                                                                    {labSections.length > 0 && (
+                                                                        <>
+                                                                            <div className="text-[10px] font-semibold text-foreground/70 px-1 pt-2">Sections (L)</div>
+                                                                            {labSections.map((section) => renderSection(section, section.section.slice(1)))}
+                                                                        </>
+                                                                    )}
+                                                                </div>
+                                                            );
+                                                        })()}
                                                     </Card>
                                                 );
                                             })}
@@ -500,8 +698,8 @@ export default function CalendarPage() {
 
                                             <div className="grid grid-cols-[70px_repeat(5,1fr)] auto-rows-[56px]">
                                                 {TIME_SLOTS.map((slot, slotIdx) => (
-                                                    <>
-                                                        <div key={`time-${slot.hour}`} className="border-r border-b px-1 py-1.5 text-[9px] font-medium text-muted-foreground flex flex-col items-center justify-center bg-secondary/20">
+                                                    <React.Fragment key={`row-${slot.hour}`}>
+                                                        <div className="border-r border-b px-1 py-1.5 text-[9px] font-medium text-muted-foreground flex flex-col items-center justify-center bg-secondary/20">
                                                             <span className="text-foreground font-semibold">{slot.startLabel}</span>
                                                             <span className="text-[8px]">to {slot.endLabel}</span>
                                                         </div>
@@ -523,7 +721,7 @@ export default function CalendarPage() {
                                                                             : sections[0];
 
                                                                         return (
-                                                                            <HoverCard key={`${block.course.id}-${block.time}`} openDelay={200} closeDelay={100}>
+                                                                            <HoverCard key={`${block.course.id}-${block.course.selectedSection}-${block.time}`} openDelay={200} closeDelay={100}>
                                                                                 <HoverCardTrigger asChild>
                                                                                     <Link
                                                                                         href={`/courses/${encodeURIComponent(block.course.id)}`}
@@ -540,14 +738,29 @@ export default function CalendarPage() {
                                                                                         }}
                                                                                     >
                                                                                         <div className="flex items-start justify-between gap-0.5">
-                                                                                            <span className={cn("font-bold leading-none truncate", isOverlapping ? "text-[8px]" : "text-[10px]")}>
-                                                                                                {block.course.id}
-                                                                                            </span>
+                                                                                            <div className="flex flex-col min-w-0">
+                                                                                                <span className={cn("font-bold leading-none truncate", isOverlapping ? "text-[8px]" : "text-[10px]")}>
+                                                                                                    {block.course.id}
+                                                                                                </span>
+                                                                                                {block.course.selectedSection && (
+                                                                                                    <span className={cn(
+                                                                                                        "font-medium opacity-80 truncate",
+                                                                                                        isOverlapping ? "text-[7px]" : "text-[8px]"
+                                                                                                    )}>
+                                                                                                        {block.course.selectedSection.startsWith('R')
+                                                                                                            ? `R-${block.course.selectedSection.slice(1)}`
+                                                                                                            : block.course.selectedSection.startsWith('L')
+                                                                                                                ? `L-${block.course.selectedSection.slice(1)}`
+                                                                                                                : `S-${block.course.selectedSection}`
+                                                                                                        }
+                                                                                                    </span>
+                                                                                                )}
+                                                                                            </div>
                                                                                             <button
                                                                                                 onClick={(e) => {
                                                                                                     e.preventDefault();
                                                                                                     e.stopPropagation();
-                                                                                                    removeCourse(block.course.id);
+                                                                                                    removeCourse(block.course.id, block.course.selectedSection);
                                                                                                 }}
                                                                                                 className={cn(
                                                                                                     "opacity-0 group-hover:opacity-100 rounded-full bg-white/90 hover:bg-destructive hover:text-white flex items-center justify-center transition-all shrink-0 shadow-sm",
@@ -557,12 +770,11 @@ export default function CalendarPage() {
                                                                                                 <X className={cn(isOverlapping ? "h-2 w-2" : "h-2.5 w-2.5")} />
                                                                                             </button>
                                                                                         </div>
-                                                                                        <div className={cn(
-                                                                                            "font-medium mt-0.5 truncate",
-                                                                                            isOverlapping ? "text-[8px]" : "text-[9px]"
-                                                                                        )}>
-                                                                                            {block.course.title}
-                                                                                        </div>
+                                                                                        {!isOverlapping && (
+                                                                                            <div className={cn("font-medium mt-0.5 truncate text-[9px]")}>
+                                                                                                {block.course.title}
+                                                                                            </div>
+                                                                                        )}
                                                                                         {isOverlapping && (
                                                                                             <div className="absolute bottom-1 right-1 w-2 h-2 rounded-full bg-destructive animate-pulse" />
                                                                                         )}
@@ -571,8 +783,28 @@ export default function CalendarPage() {
                                                                                 <HoverCardContent className="w-72 p-0 rounded-2xl overflow-hidden" side="right" align="start">
                                                                                     <div className={cn("h-1.5 bg-gradient-to-r", color.gradient)} />
                                                                                     <div className="p-4">
-                                                                                        <div className="flex items-center gap-2 mb-2">
+                                                                                        <div className="flex items-center gap-2 mb-2 flex-wrap">
                                                                                             <Badge variant="outline" className="font-mono text-xs rounded-lg">{block.course.id}</Badge>
+                                                                                            {block.course.selectedSection && (
+                                                                                                <Badge
+                                                                                                    variant="secondary"
+                                                                                                    className={cn(
+                                                                                                        "text-[10px] rounded-lg",
+                                                                                                        block.course.selectedSection.startsWith('R')
+                                                                                                            ? "bg-amber-100 text-amber-800"
+                                                                                                            : block.course.selectedSection.startsWith('L')
+                                                                                                                ? "bg-emerald-100 text-emerald-800"
+                                                                                                                : "bg-sky-100 text-sky-800"
+                                                                                                    )}
+                                                                                                >
+                                                                                                    {block.course.selectedSection.startsWith('R')
+                                                                                                        ? `Recitation ${block.course.selectedSection.slice(1)}`
+                                                                                                        : block.course.selectedSection.startsWith('L')
+                                                                                                            ? `Lab ${block.course.selectedSection.slice(1)}`
+                                                                                                            : `Section ${block.course.selectedSection}`
+                                                                                                    }
+                                                                                                </Badge>
+                                                                                            )}
                                                                                             <span className="text-xs text-muted-foreground">{block.course.su_credits || block.course.credits || 0} credits</span>
                                                                                         </div>
                                                                                         <h4 className="font-semibold text-sm mb-2">{block.course.title}</h4>
@@ -605,7 +837,7 @@ export default function CalendarPage() {
                                                                 </div>
                                                             );
                                                         })}
-                                                    </>
+                                                    </React.Fragment>
                                                 ))}
                                             </div>
                                         </div>
@@ -647,7 +879,7 @@ export default function CalendarPage() {
 
                                                         return (
                                                             <Card
-                                                                key={course.id}
+                                                                key={`${course.id}-${course.selectedSection}`}
                                                                 className={cn("overflow-hidden shadow-sm hover:shadow-md transition-all border-l-4", color.border)}
                                                             >
                                                                 <CardContent className="p-3">
@@ -675,7 +907,7 @@ export default function CalendarPage() {
                                                                             variant="ghost"
                                                                             size="icon"
                                                                             className="h-6 w-6 shrink-0 rounded hover:bg-destructive/10 hover:text-destructive"
-                                                                            onClick={() => removeCourse(course.id)}
+                                                                            onClick={() => removeCourse(course.id, course.selectedSection)}
                                                                         >
                                                                             <X className="h-3.5 w-3.5" />
                                                                         </Button>
@@ -715,7 +947,7 @@ export default function CalendarPage() {
                                                                                             <span>{s.instructor}</span>
                                                                                             <span className="mx-1">·</span>
                                                                                             <span className="text-muted-foreground">
-                                                                                                {s.schedule.map(slot => `${slot.day.slice(0, 3)} ${slot.time.split(' - ')[0]}`).join(', ')}
+                                                                                                {(s.schedule || []).filter(slot => slot != null && slot.day).map(slot => `${slot.day.slice(0, 3)} ${slot.start_time || (slot.time ? slot.time.split(' - ')[0] : '')}`).join(', ')}
                                                                                             </span>
                                                                                             {s.location && (
                                                                                                 <>

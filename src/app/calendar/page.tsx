@@ -383,7 +383,7 @@ export default function CalendarPage() {
         ));
     };
 
-<<<<<<< HEAD
+
     const formatSlotTime = (slot: ScheduleSlot): string => {
         if (slot.start_time && slot.end_time) {
             return `${slot.start_time} - ${slot.end_time}`;
@@ -757,7 +757,7 @@ export default function CalendarPage() {
 
                                             <div className="grid grid-cols-[70px_repeat(5,1fr)] auto-rows-[56px]">
                                                 {TIME_SLOTS.map((slot, slotIdx) => (
-<<<<<<< HEAD
+
                                                     <Fragment key={`row-${slot.hour}`}>        <div className="border-r border-b px-1 py-1.5 text-[9px] font-medium text-muted-foreground flex flex-col items-center justify-center bg-secondary/20">
                                                             <span className="text-foreground font-semibold">{slot.startLabel}</span>
                                                             <span className="text-[8px]">to {slot.endLabel}</span>
